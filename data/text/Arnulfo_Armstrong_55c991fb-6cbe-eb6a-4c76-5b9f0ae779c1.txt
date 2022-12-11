@@ -1,0 +1,58 @@
+Arnulfo Armstrong
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 27
+Birth Date:          1995-01-11
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1995-09-26 -            : Shellfish (substance)
+  1995-09-26 -            : Aspirin
+  1995-09-26 -            : Mold (organism)
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  1995-09-26[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  1995-09-26[CURRENT] : Loratadine 5 MG Chewable Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-09-29 - 2022-10-13 : Acute viral pharyngitis (disorder)
+  2020-03-18 -            : Victim of intimate partner abuse (finding)
+  2013-03-06 -            : Unemployed (finding)
+  2013-03-06 -            : Received certificate of high school equivalency (finding)
+  2004-03-21 -            : Chronic sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2006-01-25[CURRENT] : Weight management program
+                         Activity: Low calorie diet
+                         Activity: Increased physical activity
+  1995-09-12[CURRENT] : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-09-29 : Body temperature                         37.8 Cel
+--------------------------------------------------------------------------------
+PROCEDURES:
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-11-03 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-10-13 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-09-29 (Dr. Trinidad King) : Encounter at STEWARD NORWOOD HOSPITAL INC : Encounter for Acute viral pharyngitis (disorder)
+2021-11-03 (Dr. Trinidad King) : Encounter at STEWARD NORWOOD HOSPITAL INC
+2021-10-13 (Dr. Trinidad King) : Encounter at STEWARD NORWOOD HOSPITAL INC
+2020-03-18 (Dr. Lucilla Schultz) : Encounter at BOSTON HEALTH CARE INC
+2013-03-06 (Dr. Lucilla Schultz) : Encounter at BOSTON HEALTH CARE INC
+2006-01-25 (Dr. Lucilla Schultz) : Encounter at BOSTON HEALTH CARE INC
+2004-03-21 (Dr. Trinidad King) : Encounter at STEWARD NORWOOD HOSPITAL INC : Encounter for Acute bacterial sinusitis (disorder)
+1995-09-26 (Dr. Trinidad King) : Encounter at STEWARD NORWOOD HOSPITAL INC
+1995-09-12 (Dr. Trinidad King) : Encounter at STEWARD NORWOOD HOSPITAL INC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

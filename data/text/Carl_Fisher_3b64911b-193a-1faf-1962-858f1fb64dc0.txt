@@ -1,0 +1,90 @@
+Carl Fisher
+===========
+Race:                White
+Ethnicity:           Hispanic
+Gender:              M
+Age:                 16
+Birth Date:          2006-03-29
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2014-07-18 -            : Chronic sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-05-11 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 43.4 %
+           - MCV [Entitic volume] by Automated count  82.3 fL
+           - MCH [Entitic mass] by Automated count    32.2 pg
+           - MCHC [Mass/volume] by Automated count    34.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.8 fL
+           - Platelets [#/volume] in Blood by Automated count 312.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 339.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-05-11 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-05-11 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2022-05-11 : Platelet distribution width [Entitic volume] in Blood by Automated count 339.1 fL
+  2022-05-11 : Platelets [#/volume] in Blood by Automated count 312.1 10*3/uL
+  2022-05-11 : Erythrocyte distribution width [Entitic volume] by Automated count 39.8 fL
+  2022-05-11 : MCHC [Mass/volume] by Automated count    34.7 g/dL
+  2022-05-11 : MCH [Entitic mass] by Automated count    32.2 pg
+  2022-05-11 : MCV [Entitic volume] by Automated count  82.3 fL
+  2022-05-11 : Hematocrit [Volume Fraction] of Blood by Automated count 43.4 %
+  2022-05-11 : Hemoglobin [Mass/volume] in Blood        12.2 g/dL
+  2022-05-11 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2022-05-11 : Leukocytes [#/volume] in Blood by Automated count 9.9 10*3/uL
+  2022-05-11 : Respiratory rate                         15.0 /min
+  2022-05-11 : Heart rate                               85.0 /min
+  2022-05-11 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  2022-05-11 : Body mass index (BMI) [Percentile] Per age and gender 68.3 %
+  2022-05-11 : Body Mass Index                          22.1 kg/m2
+  2022-05-11 : Body Weight                              74.7 kg
+  2022-05-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2022-05-11 : Body Height                              184.0 cm
+  2021-05-05 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-05-05 : Respiratory rate                         15.0 /min
+  2021-05-05 : Heart rate                               96.0 /min
+  2021-05-05 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  2021-05-05 : Body mass index (BMI) [Percentile] Per age and gender 79.2 %
+  2021-05-05 : Body Mass Index                          22.6 kg/m2
+  2021-05-05 : Body Weight                              74.0 kg
+  2021-05-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2021-05-05 : Body Height                              181.1 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2021-05-05 : Anticipatory guidance (procedure)
+  2021-05-05 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2021-05-05 : Medication Reconciliation (procedure)
+  2021-05-05 : Assessment of substance use (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-05-11 : meningococcal MCV4P
+  2022-05-11 : Influenza, seasonal, injectable, preservative free
+  2021-07-14 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-06-23 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-05-05 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-05-11 (Dr. Tashina Towne) : Encounter at NEW ENGLAND FAMILY HEALTH LLC
+2021-07-14 (Dr. Nickolas Schumm) : Encounter at ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+2021-06-23 (Dr. Nickolas Schumm) : Encounter at ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+2021-05-05 (Dr. Tashina Towne) : Encounter at NEW ENGLAND FAMILY HEALTH LLC
+2014-07-18 (Dr. Nickolas Schumm) : Encounter at ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE : Encounter for Sinusitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

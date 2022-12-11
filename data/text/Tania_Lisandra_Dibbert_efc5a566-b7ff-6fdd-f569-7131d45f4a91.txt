@@ -1,0 +1,202 @@
+Tania Lisandra Dibbert
+======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 54
+Birth Date:          1968-04-16
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2022-12-04[CURRENT] : Naproxen sodium 220 MG Oral Tablet for Localized, primary osteoarthritis of the hand
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-12-04 -            : Localized, primary osteoarthritis of the hand
+  2022-05-10 -            : Not in labor force (finding)
+  2021-05-04 - 2022-05-10 : Victim of intimate partner abuse (finding)
+  2021-05-04 - 2022-05-10 : Full-time employment (finding)
+  2020-04-28 - 2022-05-10 : Stress (finding)
+  2020-04-28 - 2021-05-04 : Full-time employment (finding)
+  2018-04-17 -            : Prediabetes
+  2014-05-06 - 2022-05-10 : Social isolation (finding)
+  2012-05-01 -            : Limited social contact (finding)
+  2012-05-01 - 2014-05-06 : Not in labor force (finding)
+  2005-07-05 - 2007-07-10 : Not in labor force (finding)
+  1996-08-20 -            : Miscarriage in first trimester
+  1993-06-22 - 2022-05-10 : Unhealthy alcohol drinking behavior (finding)
+  1986-06-10 - 1987-06-16 : Not in labor force (finding)
+  1986-06-10 -            : Received higher education (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2022-12-04[CURRENT] : Musculoskeletal care
+                         Reason: Localized, primary osteoarthritis of the hand
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+  2018-04-17[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1998-04-29[STOPPED] : Musculoskeletal care
+                         Activity: Heat therapy
+                         Activity: Recommendation to rest
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-05-10 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+  2022-05-10 : PHQ-9 quick depression assessment panel [Reported.PHQ]
+           - Patient Health Questionnaire 9 item (PHQ-9) total score [Reported] 15.0 {score}
+  2022-05-10 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 5.0 {score}
+  2022-05-10 : Basic Metabolic Panel
+           - Glucose                                  75.1 mg/dL
+           - Urea Nitrogen                            19.7 mg/dL
+           - Creatinine                               0.7 mg/dL
+           - Calcium                                  9.9 mg/dL
+           - Sodium                                   139.9 mmol/L
+           - Potassium                                4.9 mmol/L
+           - Chloride                                 106.7 mmol/L
+           - Carbon Dioxide                           25.0 mmol/L
+  2021-05-04 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-05-04 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2021-05-04 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2021-05-04 : Basic Metabolic Panel
+           - Glucose                                  90.3 mg/dL
+           - Urea Nitrogen                            15.8 mg/dL
+           - Creatinine                               0.8 mg/dL
+           - Calcium                                  10.0 mg/dL
+           - Sodium                                   139.5 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 107.7 mmol/L
+           - Carbon Dioxide                           22.4 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-12-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2022-05-10 : Total score [AUDIT-C]                    1.0 {score}
+  2022-05-10 : Patient Health Questionnaire 9 item (PHQ-9) total score [Reported] 15.0 {score}
+  2022-05-10 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 5.0 {score}
+  2022-05-10 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 51927 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Otherwise unemployed but not seeking work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             329 Welch Trailer Apt 0 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 1.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2022-05-10 : Hemoglobin A1c/Hemoglobin.total in Blood 6.4 %
+  2022-05-10 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-05-10 : Carbon Dioxide                           25.0 mmol/L
+  2022-05-10 : Chloride                                 106.7 mmol/L
+  2022-05-10 : Potassium                                4.9 mmol/L
+  2022-05-10 : Sodium                                   139.9 mmol/L
+  2022-05-10 : Calcium                                  9.9 mg/dL
+  2022-05-10 : Creatinine                               0.7 mg/dL
+  2022-05-10 : Urea Nitrogen                            19.7 mg/dL
+  2022-05-10 : Glucose                                  75.1 mg/dL
+  2022-05-10 : Respiratory rate                         13.0 /min
+  2022-05-10 : Heart rate                               66.0 /min
+  2022-05-10 : Blood Pressure
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2022-05-10 : Body Mass Index                          28.0 kg/m2
+  2022-05-10 : Body Weight                              72.8 kg
+  2022-05-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2022-05-10 : Body Height                              161.4 cm
+  2021-05-04 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-05-04 : Total score [HARK]                       0.0 {score}
+  2021-05-04 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2021-05-04 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? Yes 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 51927 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             329 Welch Trailer Apt 0 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 1.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-05-04 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2021-05-04 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-05-04 : Carbon Dioxide                           22.4 mmol/L
+  2021-05-04 : Chloride                                 107.7 mmol/L
+  2021-05-04 : Potassium                                4.5 mmol/L
+  2021-05-04 : Sodium                                   139.5 mmol/L
+  2021-05-04 : Calcium                                  10.0 mg/dL
+  2021-05-04 : Creatinine                               0.8 mg/dL
+  2021-05-04 : Urea Nitrogen                            15.8 mg/dL
+  2021-05-04 : Glucose                                  90.3 mg/dL
+  2021-05-04 : Respiratory rate                         14.0 /min
+  2021-05-04 : Heart rate                               65.0 /min
+  2021-05-04 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2021-05-04 : Body Mass Index                          28.0 kg/m2
+  2021-05-04 : Body Weight                              72.8 kg
+  2021-05-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2021-05-04 : Body Height                              161.4 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-05-10 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2022-05-10 : Assessment of substance use (procedure)
+  2022-05-10 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2022-05-10 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2022-05-10 : Depression screening (procedure)
+  2022-05-10 : Medication Reconciliation (procedure)
+  2022-05-10 : Assessment of health and social care needs (procedure)
+  2021-05-04 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-05-04 : Depression screening (procedure)
+  2021-05-04 : Screening for domestic abuse (procedure)
+  2021-05-04 : Assessment of anxiety (procedure)
+  2021-05-04 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-05-10 : Influenza, seasonal, injectable, preservative free
+  2021-05-04 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-12-04 (Dr. Cristi Miller) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC : Encounter for Localized, primary osteoarthritis of the hand
+2022-05-10 (Dr. Elias Skiles) : Encounter at PLYMOUTH BAY INTERNAL MEDICINE
+2021-05-04 (Dr. Elias Skiles) : Encounter at PLYMOUTH BAY INTERNAL MEDICINE
+2020-04-28 (Dr. Elias Skiles) : Encounter at PLYMOUTH BAY INTERNAL MEDICINE
+2018-04-17 (Dr. Elias Skiles) : Encounter at PLYMOUTH BAY INTERNAL MEDICINE
+2014-05-06 (Dr. Elias Skiles) : Encounter at PLYMOUTH BAY INTERNAL MEDICINE
+2012-05-01 (Dr. Cristi Miller) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC : Encounter for Normal pregnancy
+2005-07-05 (Dr. Elias Skiles) : Encounter at PLYMOUTH BAY INTERNAL MEDICINE
+1998-04-29 (Dr. Ambrose Feeney) : Encounter at CAPE HERITAGE REHABILITATION & HEALTH CARE CENTER
+1996-08-20 (Dr. Cristi Miller) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC : Encounter for Normal pregnancy
+1993-06-22 (Dr. Elias Skiles) : Encounter at PLYMOUTH BAY INTERNAL MEDICINE
+1986-06-10 (Dr. Elias Skiles) : Encounter at PLYMOUTH BAY INTERNAL MEDICINE
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

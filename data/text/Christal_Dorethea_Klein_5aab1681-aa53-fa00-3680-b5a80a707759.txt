@@ -1,0 +1,64 @@
+Christal Dorethea Klein
+=======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 33
+Birth Date:          1989-04-10
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2021-10-07[STOPPED] : Yaz 28 Day Pack
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-06-21 - 2022-07-06 : Viral sinusitis (disorder)
+  2020-11-02 -            : Stress (finding)
+  2020-11-02 -            : Social isolation (finding)
+  2020-11-02 -            : Part-time employment (finding)
+  2020-11-02 -            : Anemia (disorder)
+  2020-06-22 -            : Severe anxiety (panic) (finding
+  2020-06-22 -            : Prediabetes
+  2014-06-16 - 2017-06-19 : Part-time employment (finding)
+  2007-06-04 - 2020-06-22 : Stress (finding)
+  2007-06-04 - 2020-06-22 : Social isolation (finding)
+  2007-06-04 -            : Received certificate of high school equivalency (finding)
+  2004-05-17 -            : Risk activity involvement (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2020-10-26[CURRENT] : Respiratory therapy
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2020-06-22[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+--------------------------------------------------------------------------------
+REPORTS:
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-11-07 : Replacement of contraceptive intrauterine device
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-05-10 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-04-19 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-11-07 (Dr. Jeromy Okuneva) : Encounter at BRIGHAM & WOMENS HOSPITAL INC
+2022-06-21 (Dr. Jeromy Okuneva) : Encounter at BRIGHAM & WOMENS HOSPITAL INC : Encounter for Viral sinusitis (disorder)
+2021-10-07 (Dr. Jeromy Okuneva) : Encounter at BRIGHAM & WOMENS HOSPITAL INC
+2021-05-10 (Dr. Jeromy Okuneva) : Encounter at BRIGHAM & WOMENS HOSPITAL INC
+2021-04-19 (Dr. Jeromy Okuneva) : Encounter at BRIGHAM & WOMENS HOSPITAL INC
+2020-11-02 (Dr. Jeromy Okuneva) : Encounter at BRIGHAM & WOMENS HOSPITAL INC : Encounter for Anemia (disorder)
+2020-10-26 (Dr. Jeromy Okuneva) : Encounter at BRIGHAM & WOMENS HOSPITAL INC : Encounter for Acute bronchitis (disorder)
+2020-06-22 (Dr. Yasmin Emard) : Encounter at TRANQUILITY HEALTH AND WELLNESS PROFESSIONALS LLC
+2014-06-16 (Dr. Yasmin Emard) : Encounter at TRANQUILITY HEALTH AND WELLNESS PROFESSIONALS LLC
+2007-06-04 (Dr. Yasmin Emard) : Encounter at TRANQUILITY HEALTH AND WELLNESS PROFESSIONALS LLC
+2004-05-17 (Dr. Yasmin Emard) : Encounter at TRANQUILITY HEALTH AND WELLNESS PROFESSIONALS LLC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

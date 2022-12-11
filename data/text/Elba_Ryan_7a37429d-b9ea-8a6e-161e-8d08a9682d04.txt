@@ -1,0 +1,93 @@
+Elba Ryan
+=========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 11
+Birth Date:          2011-05-18
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2021-05-15 - 2021-05-15 : Bacteremia (finding)
+  2021-05-15 - 2021-05-15 : Febrile neutropenia (disorder)
+  2021-05-15 - 2021-05-15 : Acute myeloid leukemia, disease (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-06-01 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.3 %
+           - MCV [Entitic volume] by Automated count  87.5 fL
+           - MCH [Entitic mass] by Automated count    30.1 pg
+           - MCHC [Mass/volume] by Automated count    34.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.1 fL
+           - Platelets [#/volume] in Blood by Automated count 413.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 259.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-06-01 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-06-01 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+  2022-06-01 : Platelet distribution width [Entitic volume] in Blood by Automated count 259.3 fL
+  2022-06-01 : Platelets [#/volume] in Blood by Automated count 413.1 10*3/uL
+  2022-06-01 : Erythrocyte distribution width [Entitic volume] by Automated count 44.1 fL
+  2022-06-01 : MCHC [Mass/volume] by Automated count    34.2 g/dL
+  2022-06-01 : MCH [Entitic mass] by Automated count    30.1 pg
+  2022-06-01 : MCV [Entitic volume] by Automated count  87.5 fL
+  2022-06-01 : Hematocrit [Volume Fraction] of Blood by Automated count 40.3 %
+  2022-06-01 : Hemoglobin [Mass/volume] in Blood        15.3 g/dL
+  2022-06-01 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2022-06-01 : Leukocytes [#/volume] in Blood by Automated count 6.4 10*3/uL
+  2022-06-01 : Respiratory rate                         15.0 /min
+  2022-06-01 : Heart rate                               96.0 /min
+  2022-06-01 : Blood Pressure
+           - Diastolic Blood Pressure                 88.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  2022-06-01 : Body mass index (BMI) [Percentile] Per age and gender 92.5 %
+  2022-06-01 : Body Mass Index                          22.9 kg/m2
+  2022-06-01 : Body Weight                              49.5 kg
+  2022-06-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2022-06-01 : Body Height                              147.1 cm
+  2021-05-26 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-05-26 : Respiratory rate                         14.0 /min
+  2021-05-26 : Heart rate                               71.0 /min
+  2021-05-26 : Blood Pressure
+           - Diastolic Blood Pressure                 88.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  2021-05-26 : Body mass index (BMI) [Percentile] Per age and gender 93.8 %
+  2021-05-26 : Body Mass Index                          22.4 kg/m2
+  2021-05-26 : Body Weight                              44.3 kg
+  2021-05-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2021-05-26 : Body Height                              140.8 cm
+  2021-05-15 : Body Temperature                         102.8 [degF]
+  2021-05-15 : Neutrophils [#/volume] in Blood by Automated count 296.0 10*3/uL
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2021-05-26 : Medication Reconciliation (procedure)
+  2021-05-15 : Transfer to stepdown for Acute myeloid leukemia, disease (disorder)
+  2021-05-15 : Admit to intensive care unit (ICU) for Febrile neutropenia (disorder)
+  2021-05-15 : Chemotherapy (procedure) for Acute myeloid leukemia, disease (disorder)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-06-01 : meningococcal MCV4P
+  2022-06-01 : HPV, quadrivalent
+  2022-06-01 : Influenza, seasonal, injectable, preservative free
+  2022-06-01 : Tdap
+  2021-05-26 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-06-01 (Dr. Katia Parisian) : Encounter at RENAISSANCE PRIMARY CARE LLC
+2021-05-26 (Dr. Katia Parisian) : Encounter at RENAISSANCE PRIMARY CARE LLC
+2021-05-15 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC : Encounter for Acute myeloid leukemia, disease (disorder)
+2020-05-20 (Dr. Katia Parisian) : Encounter at RENAISSANCE PRIMARY CARE LLC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

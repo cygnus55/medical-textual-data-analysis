@@ -1,0 +1,143 @@
+Cayla Johns
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 22
+Birth Date:          2000-08-14
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2022-08-26[STOPPED] : Phenazopyridine hydrochloride 100 MG Oral Tablet for Escherichia coli urinary tract infection
+  2022-08-26[STOPPED] : Nitrofurantoin 5 MG/ML Oral Suspension for Escherichia coli urinary tract infection
+  2022-07-03[CURRENT] : Yaz 28 Day Pack
+  2021-07-08[STOPPED] : 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+  2020-07-13[STOPPED] : Levora 0.15/30 28 Day Pack
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-10-17 -            : Social isolation (finding)
+  2022-10-17 -            : Full-time employment (finding)
+  2022-08-26 - 2022-09-02 : Escherichia coli urinary tract infection
+  2020-12-28 - 2021-01-19 : Normal pregnancy
+  2019-10-14 -            : Limited social contact (finding)
+  2019-10-14 - 2022-10-17 : Full-time employment (finding)
+  2018-10-08 -            : Stress (finding)
+  2018-10-08 - 2019-10-14 : Full-time employment (finding)
+  2018-10-08 -            : Received higher education (finding)
+  2018-05-28 -            : Risk activity involvement (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2022-08-26[STOPPED] : Urology care plan (record artifact)
+                         Reason: Escherichia coli urinary tract infection
+                         Activity: Discussion about hygiene
+                         Activity: Urine screening
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-10-17 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 43.7 %
+           - MCV [Entitic volume] by Automated count  82.3 fL
+           - MCH [Entitic mass] by Automated count    27.6 pg
+           - MCHC [Mass/volume] by Automated count    35.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.1 fL
+           - Platelets [#/volume] in Blood by Automated count 294.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 410.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-10-17 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Less than once a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 120744 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             922 Haag Flat 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 5.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2022-10-17 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-10-17 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2022-10-17 : Platelet distribution width [Entitic volume] in Blood by Automated count 410.6 fL
+  2022-10-17 : Platelets [#/volume] in Blood by Automated count 294.5 10*3/uL
+  2022-10-17 : Erythrocyte distribution width [Entitic volume] by Automated count 44.1 fL
+  2022-10-17 : MCHC [Mass/volume] by Automated count    35.1 g/dL
+  2022-10-17 : MCH [Entitic mass] by Automated count    27.6 pg
+  2022-10-17 : MCV [Entitic volume] by Automated count  82.3 fL
+  2022-10-17 : Hematocrit [Volume Fraction] of Blood by Automated count 43.7 %
+  2022-10-17 : Hemoglobin [Mass/volume] in Blood        12.7 g/dL
+  2022-10-17 : Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+  2022-10-17 : Leukocytes [#/volume] in Blood by Automated count 5.8 10*3/uL
+  2022-10-17 : Respiratory rate                         14.0 /min
+  2022-10-17 : Heart rate                               83.0 /min
+  2022-10-17 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  104.0 mm[Hg]
+  2022-10-17 : Body Mass Index                          25.1 kg/m2
+  2022-10-17 : Body Weight                              65.8 kg
+  2022-10-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2022-10-17 : Body Height                              162.0 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-10-17 : Medication Reconciliation (procedure)
+  2022-10-17 : Assessment of health and social care needs (procedure)
+  2022-10-17 : Intramuscular injection
+  2022-07-18 : Intramuscular injection
+  2022-04-18 : Intramuscular injection
+  2022-01-17 : Intramuscular injection
+  2021-10-18 : Intramuscular injection
+  2021-07-08 : Intramuscular injection
+  2021-01-19 : Depression screening for Normal pregnancy
+  2021-01-19 : Physical exam following abortion for Normal pregnancy
+  2021-01-19 : Pregnancy termination care for Normal pregnancy
+  2021-01-06 : Induced termination of pregnancy for Normal pregnancy
+  2021-01-06 : Counseling for termination of pregnancy for Normal pregnancy
+  2020-12-28 : Ultrasound scan for fetal viability for Normal pregnancy
+  2020-12-28 : Standard pregnancy test for Normal pregnancy
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-10-17 : meningococcal MCV4P
+  2022-10-17 : Hep B, adult
+  2022-10-17 : Td (adult) preservative free
+  2022-10-17 : Influenza, seasonal, injectable, preservative free
+  2021-02-01 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-01-11 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-10-17 (Dr. Vicente Armstrong) : Encounter at MASSACHUSETTS EYE AND EAR INFIRMARY -
+2022-10-17 (Dr. Kylie Hilpert) : Encounter at NAPPA FAMILY PRACTICE PC
+2022-08-26 (Dr. Vicente Armstrong) : Encounter at MASSACHUSETTS EYE AND EAR INFIRMARY - : Encounter for Escherichia coli urinary tract infection
+2022-07-18 (Dr. Vicente Armstrong) : Encounter at MASSACHUSETTS EYE AND EAR INFIRMARY -
+2022-07-03 (Dr. Vicente Armstrong) : Encounter at MASSACHUSETTS EYE AND EAR INFIRMARY -
+2022-04-18 (Dr. Vicente Armstrong) : Encounter at MASSACHUSETTS EYE AND EAR INFIRMARY -
+2022-01-17 (Dr. Vicente Armstrong) : Encounter at MASSACHUSETTS EYE AND EAR INFIRMARY -
+2021-10-18 (Dr. Vicente Armstrong) : Encounter at MASSACHUSETTS EYE AND EAR INFIRMARY -
+2021-07-08 (Dr. Vicente Armstrong) : Encounter at MASSACHUSETTS EYE AND EAR INFIRMARY -
+2021-02-01 (Dr. Vicente Armstrong) : Encounter at MASSACHUSETTS EYE AND EAR INFIRMARY -
+2021-01-19 (Dr. Vicente Armstrong) : Encounter at MASSACHUSETTS EYE AND EAR INFIRMARY - : Encounter for Normal pregnancy
+2021-01-11 (Dr. Vicente Armstrong) : Encounter at MASSACHUSETTS EYE AND EAR INFIRMARY -
+2021-01-06 (Dr. Vicente Armstrong) : Encounter at MASSACHUSETTS EYE AND EAR INFIRMARY - : Encounter for Normal pregnancy
+2020-12-28 (Dr. Vicente Armstrong) : Encounter at MASSACHUSETTS EYE AND EAR INFIRMARY - : Encounter for Normal pregnancy
+2020-07-13 (Dr. Vicente Armstrong) : Encounter at MASSACHUSETTS EYE AND EAR INFIRMARY -
+2019-10-14 (Dr. Kylie Hilpert) : Encounter at NAPPA FAMILY PRACTICE PC
+2018-10-08 (Dr. Kylie Hilpert) : Encounter at NAPPA FAMILY PRACTICE PC
+2018-05-28 (Dr. Vicente Armstrong) : Encounter at MASSACHUSETTS EYE AND EAR INFIRMARY -
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,1443 @@
+Ester Nu Wintheiser
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 DECEASED
+Birth Date:          1968-04-16
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1969-10-06 -            : Peanut (substance)
+  1969-10-06 -            : Fish (substance)
+  1969-10-06 -            : Wheat (substance)
+  1969-10-06 -            : Cow's milk (substance)
+  1969-10-06 -            : Aspirin
+  1969-10-06 -            : Tree pollen (substance)
+  1969-10-06 -            : Grass pollen (substance)
+  1969-10-06 -            : Animal dander (substance)
+  1969-10-06 -            : House dust mite (organism)
+  1969-10-06 -            : Mold (organism)
+  1969-10-06 -            : Latex (substance)
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2011-11-01[CURRENT] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2011-11-01[CURRENT] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2011-10-31[STOPPED] : remifentanil 2 MG Injection
+  2011-10-31[STOPPED] : Isoflurane 999 MG/ML Inhalant Solution
+  2011-10-31[STOPPED] : Rocuronium bromide 10 MG/ML Injectable Solution
+  2011-10-31[STOPPED] : 100 ML Propofol 10 MG/ML Injection
+  2011-10-31[STOPPED] : Midazolam 1 MG/ML Injectable Solution
+  2011-10-31[STOPPED] : 2 ML Ondansetron 2 MG/ML Injection
+  2011-10-31[STOPPED] : 25 ML protamine sulfate (USP) 10 MG/ML Injection
+  2011-10-31[STOPPED] : 1 ML heparin sodium, porcine 5000 UNT/ML Injection
+  2011-10-31[STOPPED] : cefazolin 2000 MG Injection
+  2011-10-28[STOPPED] : 2 ML morphine sulfate 1 MG/ML Injection
+  2011-10-28[STOPPED] : nitroglycerin 0.4 MG Sublingual Tablet
+  2011-11-01[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2011-11-01[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2011-10-03[CURRENT] : Acetaminophen 325 MG Oral Tablet
+  2011-08-11[CURRENT] : Seasonique 91 Day Pack
+  2010-11-27[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  2010-10-26[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2010-10-26[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2010-08-16[STOPPED] : Etonogestrel 68 MG Drug Implant
+  2009-10-20[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2009-10-20[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2009-08-21[STOPPED] : Estrostep Fe 28 Day Pack
+  2008-10-14[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2008-10-14[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2007-10-09[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2007-10-09[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2006-10-03[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2006-10-03[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2005-09-27[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2005-09-27[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2004-09-21[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2004-09-21[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2003-09-16[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2003-09-16[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2002-09-10[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2002-09-10[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2001-09-04[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2001-09-04[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2000-08-29[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2000-08-29[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1999-08-24[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1999-08-24[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1998-08-18[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1998-08-18[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1997-10-07[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1997-10-07[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1997-08-12[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1997-08-12[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1996-08-06[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1996-08-06[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1995-08-01[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1995-08-01[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1994-07-26[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1994-07-26[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1993-07-20[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1993-07-20[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1992-07-14[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1992-07-14[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1992-07-14[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1992-07-14[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1992-01-29[STOPPED] : Acetaminophen 325 MG Oral Tablet
+  1991-07-09[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1991-07-09[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1990-07-03[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1990-07-03[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1989-08-22[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1989-08-22[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1989-08-08[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1989-08-08[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1989-06-27[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1989-06-27[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1989-06-13[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1989-06-13[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1988-06-21[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1988-06-21[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1987-06-16[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1987-06-16[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1986-06-10[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1986-06-10[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1985-06-04[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1985-06-04[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1984-05-29[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1984-05-29[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1983-05-24[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1983-05-24[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1982-05-18[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1982-05-18[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1981-05-12[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1981-05-12[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1980-05-06[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1980-05-06[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1979-05-01[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1979-05-01[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1978-04-25[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1978-04-25[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1977-04-19[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1977-04-19[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1976-04-13[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1976-04-13[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1975-04-08[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1975-04-08[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1974-04-02[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1974-04-02[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1973-03-27[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1973-03-27[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1972-03-21[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1972-03-21[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1971-09-21[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1971-09-21[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1971-06-03[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1971-06-03[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1970-10-13[CURRENT] : diphenhydrAMINE Hydrochloride 25 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2011-11-05 -            : History of myocardial infarction (situation)
+  2011-11-01 -            : Reports of violence in the environment (finding)
+  2011-11-01 -            : Full-time employment (finding)
+  2011-10-31 -            : History of coronary artery bypass grafting (situation)
+  2011-10-30 -            : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  2011-10-28 -            : Acute non-ST segment elevation myocardial infarction (disorder)
+  2011-10-03 -            : Fracture subluxation of wrist
+  2010-11-27 - 2010-12-23 : Viral sinusitis (disorder)
+  2010-10-26 - 2011-11-01 : Not in labor force (finding)
+  2009-10-20 - 2010-10-26 : Victim of intimate partner abuse (finding)
+  2009-10-20 - 2010-10-26 : Part-time employment (finding)
+  2008-10-14 -            : Stress (finding)
+  2008-10-14 - 2009-10-20 : Full-time employment (finding)
+  2008-08-12 -            : Miscarriage in first trimester
+  2007-10-09 - 2008-10-14 : Reports of violence in the environment (finding)
+  2007-10-09 - 2008-10-14 : Full-time employment (finding)
+  2005-09-27 - 2011-11-01 : Social isolation (finding)
+  2005-09-27 - 2006-10-03 : Full-time employment (finding)
+  2004-09-21 - 2007-10-09 : Stress (finding)
+  2004-09-21 - 2005-09-27 : Full-time employment (finding)
+  2002-09-10 - 2003-09-16 : Full-time employment (finding)
+  2001-09-04 - 2003-09-16 : Stress (finding)
+  2000-08-29 - 2001-09-04 : Reports of violence in the environment (finding)
+  2000-08-29 - 2001-09-04 : Full-time employment (finding)
+  1999-08-24 - 2000-08-29 : Full-time employment (finding)
+  1998-08-18 - 1999-08-24 : Full-time employment (finding)
+  1997-10-07 - 1998-08-18 : Stress (finding)
+  1997-10-07 - 1998-08-18 : Full-time employment (finding)
+  1996-08-06 - 1997-08-12 : Stress (finding)
+  1996-08-06 - 1997-08-12 : Full-time employment (finding)
+  1995-08-01 - 1996-08-06 : Full-time employment (finding)
+  1994-07-26 - 1995-08-01 : Full-time employment (finding)
+  1993-07-20 - 1995-08-01 : Stress (finding)
+  1993-07-20 - 1994-07-26 : Full-time employment (finding)
+  1992-07-14 - 1993-07-20 : Full-time employment (finding)
+  1992-07-14 -            : Anemia (disorder)
+  1992-07-14 -            : Prediabetes
+  1991-07-09 - 1992-07-14 : Stress (finding)
+  1991-07-09 - 1992-07-14 : Full-time employment (finding)
+  1990-07-03 - 1991-07-09 : Full-time employment (finding)
+  1989-08-08 - 1989-08-22 : Full-time employment (finding)
+  1989-07-09 -            : Chronic sinusitis (disorder)
+  1989-06-27 - 1989-08-08 : Full-time employment (finding)
+  1989-06-13 - 1989-06-27 : Reports of violence in the environment (finding)
+  1989-06-13 - 1989-06-27 : Full-time employment (finding)
+  1986-06-10 - 1989-08-22 : Stress (finding)
+  1986-06-10 - 1987-06-16 : Full-time employment (finding)
+  1986-06-10 -            : Received higher education (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2011-10-03[CURRENT] : Fracture care
+                         Reason: Fracture subluxation of wrist
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+  1992-07-14[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1971-06-03[CURRENT] : Asthma self management
+                         Reason: Childhood asthma
+                         Activity: Inhaled steroid therapy
+                         Activity: Home nebulizer therapy
+                         Activity: Breathing control
+  1969-09-17[CURRENT] : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2011-11-04 : Lipid Panel
+           - Total Cholesterol                        182.1 mg/dL
+           - Triglycerides                            115.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      128.3 mg/dL
+           - High Density Lipoprotein Cholesterol     30.7 mg/dL
+  2011-11-04 : Gas panel - Arterial blood
+           - pH of Arterial blood                     6.8 [pH]
+           - Carbon dioxide [Partial pressure] in Arterial blood 36.8 mm[Hg]
+           - Oxygen [Partial pressure] in Arterial blood 82.9 mm[Hg]
+           - Bicarbonate [Moles/volume] in Arterial blood 24.9 mmol/L
+           - Oxygen saturation in Arterial blood      90.0 %
+  2011-11-04 : PT panel - Platelet poor plasma by Coagulation assay
+           - Prothrombin time (PT)                    10.1 s
+           - INR in Platelet poor plasma by Coagulation assay 1.0 {INR}
+  2011-11-04 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 68.0 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 18.4 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 3.0 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 10.0 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 142.6 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 3.7 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 107.3 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 20.7 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 12.1 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 8.0 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.3 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 11.2 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 88.9 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 15.5 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 37.9 U/L
+  2011-11-04 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 42.8 %
+           - MCV [Entitic volume] by Automated count  82.0 fL
+           - MCH [Entitic mass] by Automated count    26.8 pg
+           - MCHC [Mass/volume] by Automated count    33.9 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 13.6 %
+           - Platelets [#/volume] in Blood by Automated count 374.5 10*3/uL
+  2011-11-04 : Lipid Panel
+           - Total Cholesterol                        182.1 mg/dL
+           - Triglycerides                            115.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      128.3 mg/dL
+           - High Density Lipoprotein Cholesterol     30.7 mg/dL
+  2011-11-04 : Gas panel - Arterial blood
+           - pH of Arterial blood                     7.0 [pH]
+           - Carbon dioxide [Partial pressure] in Arterial blood 35.5 mm[Hg]
+           - Oxygen [Partial pressure] in Arterial blood 84.0 mm[Hg]
+           - Bicarbonate [Moles/volume] in Arterial blood 24.6 mmol/L
+           - Oxygen saturation in Arterial blood      90.0 %
+  2011-11-04 : PT panel - Platelet poor plasma by Coagulation assay
+           - Prothrombin time (PT)                    10.7 s
+           - INR in Platelet poor plasma by Coagulation assay 1.1 {INR}
+  2011-11-04 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 68.0 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 18.4 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.6 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 10.0 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 142.6 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 3.7 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 107.3 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 20.7 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 8.6 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 7.7 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.0 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 9.3 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 40.7 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.1 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.5 U/L
+  2011-11-04 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 3.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 47.8 %
+           - MCV [Entitic volume] by Automated count  87.2 fL
+           - MCH [Entitic mass] by Automated count    31.0 pg
+           - MCHC [Mass/volume] by Automated count    33.2 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 14.1 %
+           - Platelets [#/volume] in Blood by Automated count 172.5 10*3/uL
+  2011-11-03 : Lipid Panel
+           - Total Cholesterol                        182.1 mg/dL
+           - Triglycerides                            115.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      128.3 mg/dL
+           - High Density Lipoprotein Cholesterol     30.7 mg/dL
+  2011-11-03 : Gas panel - Arterial blood
+           - pH of Arterial blood                     7.0 [pH]
+           - Carbon dioxide [Partial pressure] in Arterial blood 40.9 mm[Hg]
+           - Oxygen [Partial pressure] in Arterial blood 97.7 mm[Hg]
+           - Bicarbonate [Moles/volume] in Arterial blood 26.7 mmol/L
+           - Oxygen saturation in Arterial blood      90.0 %
+  2011-11-03 : PT panel - Platelet poor plasma by Coagulation assay
+           - Prothrombin time (PT)                    10.5 s
+           - INR in Platelet poor plasma by Coagulation assay 1.1 {INR}
+  2011-11-03 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 68.0 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 18.4 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.5 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 10.0 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 142.6 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 3.7 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 107.3 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 20.7 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 13.3 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 7.2 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.5 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 7.0 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 111.1 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 21.2 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 21.8 U/L
+  2011-11-03 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.2 %
+           - MCV [Entitic volume] by Automated count  87.6 fL
+           - MCH [Entitic mass] by Automated count    30.1 pg
+           - MCHC [Mass/volume] by Automated count    33.5 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 15.1 %
+           - Platelets [#/volume] in Blood by Automated count 347.5 10*3/uL
+  2011-11-03 : Lipid Panel
+           - Total Cholesterol                        182.1 mg/dL
+           - Triglycerides                            115.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      128.3 mg/dL
+           - High Density Lipoprotein Cholesterol     30.7 mg/dL
+  2011-11-03 : Gas panel - Arterial blood
+           - pH of Arterial blood                     7.2 [pH]
+           - Carbon dioxide [Partial pressure] in Arterial blood 35.7 mm[Hg]
+           - Oxygen [Partial pressure] in Arterial blood 89.6 mm[Hg]
+           - Bicarbonate [Moles/volume] in Arterial blood 23.3 mmol/L
+           - Oxygen saturation in Arterial blood      90.0 %
+  2011-11-03 : PT panel - Platelet poor plasma by Coagulation assay
+           - Prothrombin time (PT)                    10.6 s
+           - INR in Platelet poor plasma by Coagulation assay 1.1 {INR}
+  2011-11-03 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 68.0 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 18.4 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.7 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 10.0 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 142.6 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 3.7 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 107.3 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 20.7 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 8.8 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 6.5 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.0 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 7.2 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 52.3 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 7.8 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 22.4 U/L
+  2011-11-03 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 42.0 %
+           - MCV [Entitic volume] by Automated count  92.8 fL
+           - MCH [Entitic mass] by Automated count    27.5 pg
+           - MCHC [Mass/volume] by Automated count    31.8 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 14.0 %
+           - Platelets [#/volume] in Blood by Automated count 197.9 10*3/uL
+  2011-11-02 : Lipid Panel
+           - Total Cholesterol                        182.1 mg/dL
+           - Triglycerides                            115.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      128.3 mg/dL
+           - High Density Lipoprotein Cholesterol     30.7 mg/dL
+  2011-11-02 : Gas panel - Arterial blood
+           - pH of Arterial blood                     7.1 [pH]
+           - Carbon dioxide [Partial pressure] in Arterial blood 42.6 mm[Hg]
+           - Oxygen [Partial pressure] in Arterial blood 80.4 mm[Hg]
+           - Bicarbonate [Moles/volume] in Arterial blood 23.2 mmol/L
+           - Oxygen saturation in Arterial blood      90.0 %
+  2011-11-02 : PT panel - Platelet poor plasma by Coagulation assay
+           - Prothrombin time (PT)                    9.1 s
+           - INR in Platelet poor plasma by Coagulation assay 0.9 {INR}
+  2011-11-02 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 68.0 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 18.4 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.8 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 10.0 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 142.6 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 3.7 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 107.3 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 20.7 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 8.6 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 7.9 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.2 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 12.1 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 93.6 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 7.6 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 37.5 U/L
+  2011-11-02 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.2 %
+           - MCV [Entitic volume] by Automated count  86.0 fL
+           - MCH [Entitic mass] by Automated count    31.3 pg
+           - MCHC [Mass/volume] by Automated count    32.5 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 12.7 %
+           - Platelets [#/volume] in Blood by Automated count 176.8 10*3/uL
+  2011-11-02 : Lipid Panel
+           - Total Cholesterol                        182.1 mg/dL
+           - Triglycerides                            115.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      128.3 mg/dL
+           - High Density Lipoprotein Cholesterol     30.7 mg/dL
+  2011-11-02 : Gas panel - Arterial blood
+           - pH of Arterial blood                     7.3 [pH]
+           - Carbon dioxide [Partial pressure] in Arterial blood 40.0 mm[Hg]
+           - Oxygen [Partial pressure] in Arterial blood 84.8 mm[Hg]
+           - Bicarbonate [Moles/volume] in Arterial blood 24.5 mmol/L
+           - Oxygen saturation in Arterial blood      90.0 %
+  2011-11-02 : PT panel - Platelet poor plasma by Coagulation assay
+           - Prothrombin time (PT)                    11.7 s
+           - INR in Platelet poor plasma by Coagulation assay 1.1 {INR}
+  2011-11-02 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 68.0 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 18.4 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.6 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 10.0 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 142.6 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 3.7 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 107.3 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 20.7 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 5.7 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 7.6 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.1 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 9.9 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 77.0 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 33.9 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 28.3 U/L
+  2011-11-02 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.9 %
+           - MCV [Entitic volume] by Automated count  79.5 fL
+           - MCH [Entitic mass] by Automated count    29.7 pg
+           - MCHC [Mass/volume] by Automated count    32.0 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 13.5 %
+           - Platelets [#/volume] in Blood by Automated count 256.3 10*3/uL
+  2011-11-01 : Lipid Panel
+           - Total Cholesterol                        182.1 mg/dL
+           - Triglycerides                            115.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      128.3 mg/dL
+           - High Density Lipoprotein Cholesterol     30.7 mg/dL
+  2011-11-01 : Gas panel - Arterial blood
+           - pH of Arterial blood                     7.1 [pH]
+           - Carbon dioxide [Partial pressure] in Arterial blood 41.6 mm[Hg]
+           - Oxygen [Partial pressure] in Arterial blood 88.5 mm[Hg]
+           - Bicarbonate [Moles/volume] in Arterial blood 25.1 mmol/L
+           - Oxygen saturation in Arterial blood      90.0 %
+  2011-11-01 : PT panel - Platelet poor plasma by Coagulation assay
+           - Prothrombin time (PT)                    11.9 s
+           - INR in Platelet poor plasma by Coagulation assay 3.0 {INR}
+  2011-11-01 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 68.0 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 18.4 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.9 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 10.0 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 142.6 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 3.7 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 107.3 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 20.7 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 7.1 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 6.4 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.9 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 6.9 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 45.1 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 4.1 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.9 U/L
+  2011-11-01 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.5 %
+           - MCV [Entitic volume] by Automated count  90.2 fL
+           - MCH [Entitic mass] by Automated count    32.7 pg
+           - MCHC [Mass/volume] by Automated count    32.9 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 13.8 %
+           - Platelets [#/volume] in Blood by Automated count 426.0 10*3/uL
+  2011-11-01 : Lipid Panel
+           - Total Cholesterol                        182.1 mg/dL
+           - Triglycerides                            115.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      128.3 mg/dL
+           - High Density Lipoprotein Cholesterol     30.7 mg/dL
+  2011-11-01 : Gas panel - Arterial blood
+           - pH of Arterial blood                     7.2 [pH]
+           - Carbon dioxide [Partial pressure] in Arterial blood 38.3 mm[Hg]
+           - Oxygen [Partial pressure] in Arterial blood 97.4 mm[Hg]
+           - Bicarbonate [Moles/volume] in Arterial blood 25.1 mmol/L
+           - Oxygen saturation in Arterial blood      90.0 %
+  2011-11-01 : PT panel - Platelet poor plasma by Coagulation assay
+           - Prothrombin time (PT)                    10.6 s
+           - INR in Platelet poor plasma by Coagulation assay 1.0 {INR}
+  2011-11-01 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 68.0 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 18.4 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.7 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 10.0 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 142.6 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 3.7 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 107.3 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 20.7 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 6.6 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 8.3 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.7 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 14.0 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 77.9 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 1.3 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 14.9 U/L
+  2011-11-01 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        11.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 47.5 %
+           - MCV [Entitic volume] by Automated count  90.7 fL
+           - MCH [Entitic mass] by Automated count    26.6 pg
+           - MCHC [Mass/volume] by Automated count    33.7 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 13.6 %
+           - Platelets [#/volume] in Blood by Automated count 297.6 10*3/uL
+  2011-11-01 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2011-11-01 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2011-11-01 : Morse Fall Scale panel
+           - Fall risk total [Morse Fall Scale]       14.0 {#}
+           - Fall risk level [Morse Fall Scale]       Low Risk (MFS Score 0 - 24) 
+  2011-11-01 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2011-10-31 : Lipid Panel
+           - Total Cholesterol                        199.0 mg/dL
+           - Triglycerides                            126.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      138.5 mg/dL
+           - High Density Lipoprotein Cholesterol     35.2 mg/dL
+  2011-10-31 : Gas panel - Arterial blood
+           - pH of Arterial blood                     7.1 [pH]
+           - Carbon dioxide [Partial pressure] in Arterial blood 42.0 mm[Hg]
+           - Oxygen [Partial pressure] in Arterial blood 82.1 mm[Hg]
+           - Bicarbonate [Moles/volume] in Arterial blood 24.8 mmol/L
+           - Oxygen saturation in Arterial blood      93.0 %
+  2011-10-31 : PT panel - Platelet poor plasma by Coagulation assay
+           - Prothrombin time (PT)                    10.0 s
+           - INR in Platelet poor plasma by Coagulation assay 1.1 {INR}
+  2011-10-31 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 81.6 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 9.2 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.6 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 9.3 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 142.4 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 5.2 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 109.9 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 21.9 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 5.5 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 7.7 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.2 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 6.9 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 40.7 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 13.2 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 16.4 U/L
+  2011-10-31 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.7 %
+           - MCV [Entitic volume] by Automated count  83.7 fL
+           - MCH [Entitic mass] by Automated count    27.7 pg
+           - MCHC [Mass/volume] by Automated count    35.5 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 12.5 %
+           - Platelets [#/volume] in Blood by Automated count 209.0 10*3/uL
+  2011-10-31 : Lipid Panel
+           - Total Cholesterol                        199.0 mg/dL
+           - Triglycerides                            126.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      138.5 mg/dL
+           - High Density Lipoprotein Cholesterol     35.2 mg/dL
+  2011-10-31 : Gas panel - Arterial blood
+           - pH of Arterial blood                     6.9 [pH]
+           - Carbon dioxide [Partial pressure] in Arterial blood 45.0 mm[Hg]
+           - Oxygen [Partial pressure] in Arterial blood 94.5 mm[Hg]
+           - Bicarbonate [Moles/volume] in Arterial blood 26.9 mmol/L
+           - Oxygen saturation in Arterial blood      93.0 %
+  2011-10-31 : PT panel - Platelet poor plasma by Coagulation assay
+           - Prothrombin time (PT)                    10.5 s
+           - INR in Platelet poor plasma by Coagulation assay 1.2 {INR}
+  2011-10-31 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 81.6 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 9.2 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.7 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 9.3 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 142.4 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 5.2 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 109.9 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 21.9 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 10.2 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 8.4 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.9 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 11.9 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 100.4 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 5.2 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 14.6 U/L
+  2011-10-31 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        11.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 48.4 %
+           - MCV [Entitic volume] by Automated count  96.3 fL
+           - MCH [Entitic mass] by Automated count    31.8 pg
+           - MCHC [Mass/volume] by Automated count    32.7 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 14.3 %
+           - Platelets [#/volume] in Blood by Automated count 428.9 10*3/uL
+  2011-10-31 : Gas panel - Venous blood
+           - pH of Venous blood                       7.4 [pH]
+           - Carbon dioxide [Partial pressure] in Venous blood 40.8 mm[Hg]
+           - Oxygen [Partial pressure] in Venous blood 38.8 mm[Hg]
+           - Bicarbonate [Moles/volume] in Venous blood 26.8 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Venous blood 1.8 mmol/L
+  2011-10-31 : Gas panel - Arterial blood
+           - pH of Arterial blood                     7.0 [pH]
+           - Carbon dioxide [Partial pressure] in Arterial blood 40.7 mm[Hg]
+           - Oxygen [Partial pressure] in Arterial blood 92.1 mm[Hg]
+           - Bicarbonate [Moles/volume] in Arterial blood 26.0 mmol/L
+           - Oxygen saturation in Arterial blood      93.0 %
+  2011-10-31 : Lipid Panel
+           - Total Cholesterol                        199.0 mg/dL
+           - Triglycerides                            126.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      138.5 mg/dL
+           - High Density Lipoprotein Cholesterol     35.2 mg/dL
+  2011-10-31 : Gas panel - Arterial blood
+           - pH of Arterial blood                     6.9 [pH]
+           - Carbon dioxide [Partial pressure] in Arterial blood 39.1 mm[Hg]
+           - Oxygen [Partial pressure] in Arterial blood 82.9 mm[Hg]
+           - Bicarbonate [Moles/volume] in Arterial blood 26.0 mmol/L
+           - Oxygen saturation in Arterial blood      93.0 %
+  2011-10-31 : PT panel - Platelet poor plasma by Coagulation assay
+           - Prothrombin time (PT)                    10.5 s
+           - INR in Platelet poor plasma by Coagulation assay 1.0 {INR}
+  2011-10-31 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 81.6 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 9.2 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.9 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 9.3 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 142.4 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 5.2 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 109.9 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 21.9 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 11.1 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 7.2 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.2 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 9.2 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 111.2 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 19.8 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 13.6 U/L
+  2011-10-31 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        11.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 34.9 %
+           - MCV [Entitic volume] by Automated count  94.7 fL
+           - MCH [Entitic mass] by Automated count    27.5 pg
+           - MCHC [Mass/volume] by Automated count    32.8 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 14.2 %
+           - Platelets [#/volume] in Blood by Automated count 399.2 10*3/uL
+  2011-10-28 : Lipid Panel
+           - Total Cholesterol                        277.6 mg/dL
+           - Triglycerides                            109.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      164.9 mg/dL
+           - High Density Lipoprotein Cholesterol     60.1 mg/dL
+  2011-10-28 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 81.6 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 9.2 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.6 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 9.3 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 142.4 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 5.2 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 109.9 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 21.9 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 10.6 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 7.1 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 5.0 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 9.3 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 92.7 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 28.3 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 18.4 U/L
+  2011-10-28 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.0 %
+           - MCV [Entitic volume] by Automated count  95.7 fL
+           - MCH [Entitic mass] by Automated count    30.5 pg
+           - MCHC [Mass/volume] by Automated count    35.6 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 12.6 %
+           - Platelets [#/volume] in Blood by Automated count 141.7 10*3/uL
+  2011-11-01 : Basic Metabolic Panel
+           - Glucose                                  81.6 mg/dL
+           - Urea Nitrogen                            9.2 mg/dL
+           - Creatinine                               1.3 mg/dL
+           - Calcium                                  9.3 mg/dL
+           - Sodium                                   142.4 mmol/L
+           - Potassium                                5.2 mmol/L
+           - Chloride                                 109.9 mmol/L
+           - Carbon Dioxide                           21.9 mmol/L
+  2010-10-26 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2010-10-26 : Lipid Panel
+           - Total Cholesterol                        123.5 mg/dL
+           - Triglycerides                            133.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      65.5 mg/dL
+           - High Density Lipoprotein Cholesterol     31.3 mg/dL
+  2010-10-26 : Basic Metabolic Panel
+           - Glucose                                  80.2 mg/dL
+           - Urea Nitrogen                            15.9 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  9.8 mg/dL
+           - Sodium                                   143.0 mmol/L
+           - Potassium                                4.4 mmol/L
+           - Chloride                                 108.3 mmol/L
+           - Carbon Dioxide                           23.8 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2011-11-04 : High Density Lipoprotein Cholesterol     30.7 mg/dL
+  2011-11-04 : Low Density Lipoprotein Cholesterol      128.3 mg/dL
+  2011-11-04 : Triglycerides                            115.1 mg/dL
+  2011-11-04 : Total Cholesterol                        182.1 mg/dL
+  2011-11-04 : Oxygen saturation in Arterial blood      90.0 %
+  2011-11-04 : Bicarbonate [Moles/volume] in Arterial blood 24.9 mmol/L
+  2011-11-04 : Oxygen [Partial pressure] in Arterial blood 82.9 mm[Hg]
+  2011-11-04 : Carbon dioxide [Partial pressure] in Arterial blood 36.8 mm[Hg]
+  2011-11-04 : pH of Arterial blood                     6.8 [pH]
+  2011-11-04 : aPTT in Blood by Coagulation assay       36.7 s
+  2011-11-04 : INR in Platelet poor plasma by Coagulation assay 1.0 {INR}
+  2011-11-04 : Prothrombin time (PT)                    10.1 s
+  2011-11-04 : Phosphate [Mass/volume] in Serum or Plasma 4.1 mg/dL
+  2011-11-04 : Magnesium [Mass/volume] in Serum or Plasma 1.7 mg/dL
+  2011-11-04 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 37.9 U/L
+  2011-11-04 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 15.5 U/L
+  2011-11-04 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 88.9 U/L
+  2011-11-04 : Bilirubin.total [Mass/volume] in Serum or Plasma 11.2 mg/dL
+  2011-11-04 : Albumin [Mass/volume] in Serum or Plasma 4.3 g/dL
+  2011-11-04 : Protein [Mass/volume] in Serum or Plasma 8.0 g/dL
+  2011-11-04 : Glomerular filtration rate/1.73 sq M.predicted 12.1 mL/min
+  2011-11-04 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 20.7 mmol/L
+  2011-11-04 : Chloride [Moles/volume] in Serum or Plasma 107.3 mmol/L
+  2011-11-04 : Potassium [Moles/volume] in Serum or Plasma 3.7 mmol/L
+  2011-11-04 : Sodium [Moles/volume] in Serum or Plasma 142.6 mmol/L
+  2011-11-04 : Calcium [Mass/volume] in Serum or Plasma 10.0 mg/dL
+  2011-11-04 : Creatinine [Mass/volume] in Serum or Plasma 3.0 mg/dL
+  2011-11-04 : Urea nitrogen [Mass/volume] in Serum or Plasma 18.4 mg/dL
+  2011-11-04 : Glucose [Mass/volume] in Serum or Plasma 68.0 mg/dL
+  2011-11-04 : Platelets [#/volume] in Blood by Automated count 374.5 10*3/uL
+  2011-11-04 : Erythrocyte distribution width [Ratio] by Automated count 13.6 %
+  2011-11-04 : MCHC [Mass/volume] by Automated count    33.9 g/dL
+  2011-11-04 : MCH [Entitic mass] by Automated count    26.8 pg
+  2011-11-04 : MCV [Entitic volume] by Automated count  82.0 fL
+  2011-11-04 : Hematocrit [Volume Fraction] of Blood by Automated count 42.8 %
+  2011-11-04 : Hemoglobin [Mass/volume] in Blood        12.1 g/dL
+  2011-11-04 : Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+  2011-11-04 : Leukocytes [#/volume] in Blood by Automated count 5.3 10*3/uL
+  2011-11-04 : High Density Lipoprotein Cholesterol     30.7 mg/dL
+  2011-11-04 : Low Density Lipoprotein Cholesterol      128.3 mg/dL
+  2011-11-04 : Triglycerides                            115.1 mg/dL
+  2011-11-04 : Total Cholesterol                        182.1 mg/dL
+  2011-11-04 : Oxygen saturation in Arterial blood      90.0 %
+  2011-11-04 : Bicarbonate [Moles/volume] in Arterial blood 24.6 mmol/L
+  2011-11-04 : Oxygen [Partial pressure] in Arterial blood 84.0 mm[Hg]
+  2011-11-04 : Carbon dioxide [Partial pressure] in Arterial blood 35.5 mm[Hg]
+  2011-11-04 : pH of Arterial blood                     7.0 [pH]
+  2011-11-04 : aPTT in Blood by Coagulation assay       36.8 s
+  2011-11-04 : INR in Platelet poor plasma by Coagulation assay 1.1 {INR}
+  2011-11-04 : Prothrombin time (PT)                    10.7 s
+  2011-11-04 : Phosphate [Mass/volume] in Serum or Plasma 3.1 mg/dL
+  2011-11-04 : Magnesium [Mass/volume] in Serum or Plasma 1.7 mg/dL
+  2011-11-04 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.5 U/L
+  2011-11-04 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.1 U/L
+  2011-11-04 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 40.7 U/L
+  2011-11-04 : Bilirubin.total [Mass/volume] in Serum or Plasma 9.3 mg/dL
+  2011-11-04 : Albumin [Mass/volume] in Serum or Plasma 4.0 g/dL
+  2011-11-04 : Protein [Mass/volume] in Serum or Plasma 7.7 g/dL
+  2011-11-04 : Glomerular filtration rate/1.73 sq M.predicted 8.6 mL/min
+  2011-11-04 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 20.7 mmol/L
+  2011-11-04 : Chloride [Moles/volume] in Serum or Plasma 107.3 mmol/L
+  2011-11-04 : Potassium [Moles/volume] in Serum or Plasma 3.7 mmol/L
+  2011-11-04 : Sodium [Moles/volume] in Serum or Plasma 142.6 mmol/L
+  2011-11-04 : Calcium [Mass/volume] in Serum or Plasma 10.0 mg/dL
+  2011-11-04 : Creatinine [Mass/volume] in Serum or Plasma 2.6 mg/dL
+  2011-11-04 : Urea nitrogen [Mass/volume] in Serum or Plasma 18.4 mg/dL
+  2011-11-04 : Glucose [Mass/volume] in Serum or Plasma 68.0 mg/dL
+  2011-11-04 : Platelets [#/volume] in Blood by Automated count 172.5 10*3/uL
+  2011-11-04 : Erythrocyte distribution width [Ratio] by Automated count 14.1 %
+  2011-11-04 : MCHC [Mass/volume] by Automated count    33.2 g/dL
+  2011-11-04 : MCH [Entitic mass] by Automated count    31.0 pg
+  2011-11-04 : MCV [Entitic volume] by Automated count  87.2 fL
+  2011-11-04 : Hematocrit [Volume Fraction] of Blood by Automated count 47.8 %
+  2011-11-04 : Hemoglobin [Mass/volume] in Blood        12.6 g/dL
+  2011-11-04 : Erythrocytes [#/volume] in Blood by Automated count 3.8 10*6/uL
+  2011-11-04 : Leukocytes [#/volume] in Blood by Automated count 5.1 10*3/uL
+  2011-11-03 : High Density Lipoprotein Cholesterol     30.7 mg/dL
+  2011-11-03 : Low Density Lipoprotein Cholesterol      128.3 mg/dL
+  2011-11-03 : Triglycerides                            115.1 mg/dL
+  2011-11-03 : Total Cholesterol                        182.1 mg/dL
+  2011-11-03 : Oxygen saturation in Arterial blood      90.0 %
+  2011-11-03 : Bicarbonate [Moles/volume] in Arterial blood 26.7 mmol/L
+  2011-11-03 : Oxygen [Partial pressure] in Arterial blood 97.7 mm[Hg]
+  2011-11-03 : Carbon dioxide [Partial pressure] in Arterial blood 40.9 mm[Hg]
+  2011-11-03 : pH of Arterial blood                     7.0 [pH]
+  2011-11-03 : aPTT in Blood by Coagulation assay       32.3 s
+  2011-11-03 : INR in Platelet poor plasma by Coagulation assay 1.1 {INR}
+  2011-11-03 : Prothrombin time (PT)                    10.5 s
+  2011-11-03 : Phosphate [Mass/volume] in Serum or Plasma 3.4 mg/dL
+  2011-11-03 : Magnesium [Mass/volume] in Serum or Plasma 1.7 mg/dL
+  2011-11-03 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 21.8 U/L
+  2011-11-03 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 21.2 U/L
+  2011-11-03 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 111.1 U/L
+  2011-11-03 : Bilirubin.total [Mass/volume] in Serum or Plasma 7.0 mg/dL
+  2011-11-03 : Albumin [Mass/volume] in Serum or Plasma 4.5 g/dL
+  2011-11-03 : Protein [Mass/volume] in Serum or Plasma 7.2 g/dL
+  2011-11-03 : Glomerular filtration rate/1.73 sq M.predicted 13.3 mL/min
+  2011-11-03 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 20.7 mmol/L
+  2011-11-03 : Chloride [Moles/volume] in Serum or Plasma 107.3 mmol/L
+  2011-11-03 : Potassium [Moles/volume] in Serum or Plasma 3.7 mmol/L
+  2011-11-03 : Sodium [Moles/volume] in Serum or Plasma 142.6 mmol/L
+  2011-11-03 : Calcium [Mass/volume] in Serum or Plasma 10.0 mg/dL
+  2011-11-03 : Creatinine [Mass/volume] in Serum or Plasma 2.5 mg/dL
+  2011-11-03 : Urea nitrogen [Mass/volume] in Serum or Plasma 18.4 mg/dL
+  2011-11-03 : Glucose [Mass/volume] in Serum or Plasma 68.0 mg/dL
+  2011-11-03 : Platelets [#/volume] in Blood by Automated count 347.5 10*3/uL
+  2011-11-03 : Erythrocyte distribution width [Ratio] by Automated count 15.1 %
+  2011-11-03 : MCHC [Mass/volume] by Automated count    33.5 g/dL
+  2011-11-03 : MCH [Entitic mass] by Automated count    30.1 pg
+  2011-11-03 : MCV [Entitic volume] by Automated count  87.6 fL
+  2011-11-03 : Hematocrit [Volume Fraction] of Blood by Automated count 37.2 %
+  2011-11-03 : Hemoglobin [Mass/volume] in Blood        13.5 g/dL
+  2011-11-03 : Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+  2011-11-03 : Leukocytes [#/volume] in Blood by Automated count 5.2 10*3/uL
+  2011-11-03 : High Density Lipoprotein Cholesterol     30.7 mg/dL
+  2011-11-03 : Low Density Lipoprotein Cholesterol      128.3 mg/dL
+  2011-11-03 : Triglycerides                            115.1 mg/dL
+  2011-11-03 : Total Cholesterol                        182.1 mg/dL
+  2011-11-03 : Oxygen saturation in Arterial blood      90.0 %
+  2011-11-03 : Bicarbonate [Moles/volume] in Arterial blood 23.3 mmol/L
+  2011-11-03 : Oxygen [Partial pressure] in Arterial blood 89.6 mm[Hg]
+  2011-11-03 : Carbon dioxide [Partial pressure] in Arterial blood 35.7 mm[Hg]
+  2011-11-03 : pH of Arterial blood                     7.2 [pH]
+  2011-11-03 : aPTT in Blood by Coagulation assay       32.3 s
+  2011-11-03 : INR in Platelet poor plasma by Coagulation assay 1.1 {INR}
+  2011-11-03 : Prothrombin time (PT)                    10.6 s
+  2011-11-03 : Phosphate [Mass/volume] in Serum or Plasma 3.5 mg/dL
+  2011-11-03 : Magnesium [Mass/volume] in Serum or Plasma 2.2 mg/dL
+  2011-11-03 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 22.4 U/L
+  2011-11-03 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 7.8 U/L
+  2011-11-03 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 52.3 U/L
+  2011-11-03 : Bilirubin.total [Mass/volume] in Serum or Plasma 7.2 mg/dL
+  2011-11-03 : Albumin [Mass/volume] in Serum or Plasma 4.0 g/dL
+  2011-11-03 : Protein [Mass/volume] in Serum or Plasma 6.5 g/dL
+  2011-11-03 : Glomerular filtration rate/1.73 sq M.predicted 8.8 mL/min
+  2011-11-03 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 20.7 mmol/L
+  2011-11-03 : Chloride [Moles/volume] in Serum or Plasma 107.3 mmol/L
+  2011-11-03 : Potassium [Moles/volume] in Serum or Plasma 3.7 mmol/L
+  2011-11-03 : Sodium [Moles/volume] in Serum or Plasma 142.6 mmol/L
+  2011-11-03 : Calcium [Mass/volume] in Serum or Plasma 10.0 mg/dL
+  2011-11-03 : Creatinine [Mass/volume] in Serum or Plasma 2.7 mg/dL
+  2011-11-03 : Urea nitrogen [Mass/volume] in Serum or Plasma 18.4 mg/dL
+  2011-11-03 : Glucose [Mass/volume] in Serum or Plasma 68.0 mg/dL
+  2011-11-03 : Platelets [#/volume] in Blood by Automated count 197.9 10*3/uL
+  2011-11-03 : Erythrocyte distribution width [Ratio] by Automated count 14.0 %
+  2011-11-03 : MCHC [Mass/volume] by Automated count    31.8 g/dL
+  2011-11-03 : MCH [Entitic mass] by Automated count    27.5 pg
+  2011-11-03 : MCV [Entitic volume] by Automated count  92.8 fL
+  2011-11-03 : Hematocrit [Volume Fraction] of Blood by Automated count 42.0 %
+  2011-11-03 : Hemoglobin [Mass/volume] in Blood        16.3 g/dL
+  2011-11-03 : Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+  2011-11-03 : Leukocytes [#/volume] in Blood by Automated count 5.1 10*3/uL
+  2011-11-02 : High Density Lipoprotein Cholesterol     30.7 mg/dL
+  2011-11-02 : Low Density Lipoprotein Cholesterol      128.3 mg/dL
+  2011-11-02 : Triglycerides                            115.1 mg/dL
+  2011-11-02 : Total Cholesterol                        182.1 mg/dL
+  2011-11-02 : Oxygen saturation in Arterial blood      90.0 %
+  2011-11-02 : Bicarbonate [Moles/volume] in Arterial blood 23.2 mmol/L
+  2011-11-02 : Oxygen [Partial pressure] in Arterial blood 80.4 mm[Hg]
+  2011-11-02 : Carbon dioxide [Partial pressure] in Arterial blood 42.6 mm[Hg]
+  2011-11-02 : pH of Arterial blood                     7.1 [pH]
+  2011-11-02 : aPTT in Blood by Coagulation assay       36.4 s
+  2011-11-02 : INR in Platelet poor plasma by Coagulation assay 0.9 {INR}
+  2011-11-02 : Prothrombin time (PT)                    9.1 s
+  2011-11-02 : Phosphate [Mass/volume] in Serum or Plasma 2.9 mg/dL
+  2011-11-02 : Magnesium [Mass/volume] in Serum or Plasma 2.2 mg/dL
+  2011-11-02 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 37.5 U/L
+  2011-11-02 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 7.6 U/L
+  2011-11-02 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 93.6 U/L
+  2011-11-02 : Bilirubin.total [Mass/volume] in Serum or Plasma 12.1 mg/dL
+  2011-11-02 : Albumin [Mass/volume] in Serum or Plasma 4.2 g/dL
+  2011-11-02 : Protein [Mass/volume] in Serum or Plasma 7.9 g/dL
+  2011-11-02 : Glomerular filtration rate/1.73 sq M.predicted 8.6 mL/min
+  2011-11-02 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 20.7 mmol/L
+  2011-11-02 : Chloride [Moles/volume] in Serum or Plasma 107.3 mmol/L
+  2011-11-02 : Potassium [Moles/volume] in Serum or Plasma 3.7 mmol/L
+  2011-11-02 : Sodium [Moles/volume] in Serum or Plasma 142.6 mmol/L
+  2011-11-02 : Calcium [Mass/volume] in Serum or Plasma 10.0 mg/dL
+  2011-11-02 : Creatinine [Mass/volume] in Serum or Plasma 2.8 mg/dL
+  2011-11-02 : Urea nitrogen [Mass/volume] in Serum or Plasma 18.4 mg/dL
+  2011-11-02 : Glucose [Mass/volume] in Serum or Plasma 68.0 mg/dL
+  2011-11-02 : Platelets [#/volume] in Blood by Automated count 176.8 10*3/uL
+  2011-11-02 : Erythrocyte distribution width [Ratio] by Automated count 12.7 %
+  2011-11-02 : MCHC [Mass/volume] by Automated count    32.5 g/dL
+  2011-11-02 : MCH [Entitic mass] by Automated count    31.3 pg
+  2011-11-02 : MCV [Entitic volume] by Automated count  86.0 fL
+  2011-11-02 : Hematocrit [Volume Fraction] of Blood by Automated count 35.2 %
+  2011-11-02 : Hemoglobin [Mass/volume] in Blood        13.4 g/dL
+  2011-11-02 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  2011-11-02 : Leukocytes [#/volume] in Blood by Automated count 3.7 10*3/uL
+  2011-11-02 : High Density Lipoprotein Cholesterol     30.7 mg/dL
+  2011-11-02 : Low Density Lipoprotein Cholesterol      128.3 mg/dL
+  2011-11-02 : Triglycerides                            115.1 mg/dL
+  2011-11-02 : Total Cholesterol                        182.1 mg/dL
+  2011-11-02 : Oxygen saturation in Arterial blood      90.0 %
+  2011-11-02 : Bicarbonate [Moles/volume] in Arterial blood 24.5 mmol/L
+  2011-11-02 : Oxygen [Partial pressure] in Arterial blood 84.8 mm[Hg]
+  2011-11-02 : Carbon dioxide [Partial pressure] in Arterial blood 40.0 mm[Hg]
+  2011-11-02 : pH of Arterial blood                     7.3 [pH]
+  2011-11-02 : aPTT in Blood by Coagulation assay       38.1 s
+  2011-11-02 : INR in Platelet poor plasma by Coagulation assay 1.1 {INR}
+  2011-11-02 : Prothrombin time (PT)                    11.7 s
+  2011-11-02 : Phosphate [Mass/volume] in Serum or Plasma 3.5 mg/dL
+  2011-11-02 : Magnesium [Mass/volume] in Serum or Plasma 1.9 mg/dL
+  2011-11-02 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 28.3 U/L
+  2011-11-02 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 33.9 U/L
+  2011-11-02 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 77.0 U/L
+  2011-11-02 : Bilirubin.total [Mass/volume] in Serum or Plasma 9.9 mg/dL
+  2011-11-02 : Albumin [Mass/volume] in Serum or Plasma 4.1 g/dL
+  2011-11-02 : Protein [Mass/volume] in Serum or Plasma 7.6 g/dL
+  2011-11-02 : Glomerular filtration rate/1.73 sq M.predicted 5.7 mL/min
+  2011-11-02 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 20.7 mmol/L
+  2011-11-02 : Chloride [Moles/volume] in Serum or Plasma 107.3 mmol/L
+  2011-11-02 : Potassium [Moles/volume] in Serum or Plasma 3.7 mmol/L
+  2011-11-02 : Sodium [Moles/volume] in Serum or Plasma 142.6 mmol/L
+  2011-11-02 : Calcium [Mass/volume] in Serum or Plasma 10.0 mg/dL
+  2011-11-02 : Creatinine [Mass/volume] in Serum or Plasma 2.6 mg/dL
+  2011-11-02 : Urea nitrogen [Mass/volume] in Serum or Plasma 18.4 mg/dL
+  2011-11-02 : Glucose [Mass/volume] in Serum or Plasma 68.0 mg/dL
+  2011-11-02 : Platelets [#/volume] in Blood by Automated count 256.3 10*3/uL
+  2011-11-02 : Erythrocyte distribution width [Ratio] by Automated count 13.5 %
+  2011-11-02 : MCHC [Mass/volume] by Automated count    32.0 g/dL
+  2011-11-02 : MCH [Entitic mass] by Automated count    29.7 pg
+  2011-11-02 : MCV [Entitic volume] by Automated count  79.5 fL
+  2011-11-02 : Hematocrit [Volume Fraction] of Blood by Automated count 45.9 %
+  2011-11-02 : Hemoglobin [Mass/volume] in Blood        15.0 g/dL
+  2011-11-02 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2011-11-02 : Leukocytes [#/volume] in Blood by Automated count 8.3 10*3/uL
+  2011-11-01 : High Density Lipoprotein Cholesterol     30.7 mg/dL
+  2011-11-01 : Low Density Lipoprotein Cholesterol      128.3 mg/dL
+  2011-11-01 : Triglycerides                            115.1 mg/dL
+  2011-11-01 : Total Cholesterol                        182.1 mg/dL
+  2011-11-01 : Oxygen saturation in Arterial blood      90.0 %
+  2011-11-01 : Bicarbonate [Moles/volume] in Arterial blood 25.1 mmol/L
+  2011-11-01 : Oxygen [Partial pressure] in Arterial blood 88.5 mm[Hg]
+  2011-11-01 : Carbon dioxide [Partial pressure] in Arterial blood 41.6 mm[Hg]
+  2011-11-01 : pH of Arterial blood                     7.1 [pH]
+  2011-11-01 : aPTT in Blood by Coagulation assay       37.5 s
+  2011-11-01 : INR in Platelet poor plasma by Coagulation assay 3.0 {INR}
+  2011-11-01 : Prothrombin time (PT)                    11.9 s
+  2011-11-01 : Phosphate [Mass/volume] in Serum or Plasma 4.2 mg/dL
+  2011-11-01 : Magnesium [Mass/volume] in Serum or Plasma 1.7 mg/dL
+  2011-11-01 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.9 U/L
+  2011-11-01 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 4.1 U/L
+  2011-11-01 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 45.1 U/L
+  2011-11-01 : Bilirubin.total [Mass/volume] in Serum or Plasma 6.9 mg/dL
+  2011-11-01 : Albumin [Mass/volume] in Serum or Plasma 4.9 g/dL
+  2011-11-01 : Protein [Mass/volume] in Serum or Plasma 6.4 g/dL
+  2011-11-01 : Glomerular filtration rate/1.73 sq M.predicted 7.1 mL/min
+  2011-11-01 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 20.7 mmol/L
+  2011-11-01 : Chloride [Moles/volume] in Serum or Plasma 107.3 mmol/L
+  2011-11-01 : Potassium [Moles/volume] in Serum or Plasma 3.7 mmol/L
+  2011-11-01 : Sodium [Moles/volume] in Serum or Plasma 142.6 mmol/L
+  2011-11-01 : Calcium [Mass/volume] in Serum or Plasma 10.0 mg/dL
+  2011-11-01 : Creatinine [Mass/volume] in Serum or Plasma 2.9 mg/dL
+  2011-11-01 : Urea nitrogen [Mass/volume] in Serum or Plasma 18.4 mg/dL
+  2011-11-01 : Glucose [Mass/volume] in Serum or Plasma 68.0 mg/dL
+  2011-11-01 : Platelets [#/volume] in Blood by Automated count 426.0 10*3/uL
+  2011-11-01 : Erythrocyte distribution width [Ratio] by Automated count 13.8 %
+  2011-11-01 : MCHC [Mass/volume] by Automated count    32.9 g/dL
+  2011-11-01 : MCH [Entitic mass] by Automated count    32.7 pg
+  2011-11-01 : MCV [Entitic volume] by Automated count  90.2 fL
+  2011-11-01 : Hematocrit [Volume Fraction] of Blood by Automated count 35.5 %
+  2011-11-01 : Hemoglobin [Mass/volume] in Blood        15.9 g/dL
+  2011-11-01 : Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+  2011-11-01 : Leukocytes [#/volume] in Blood by Automated count 6.2 10*3/uL
+  2011-11-01 : High Density Lipoprotein Cholesterol     30.7 mg/dL
+  2011-11-01 : Low Density Lipoprotein Cholesterol      128.3 mg/dL
+  2011-11-01 : Triglycerides                            115.1 mg/dL
+  2011-11-01 : Total Cholesterol                        182.1 mg/dL
+  2011-11-01 : Oxygen saturation in Arterial blood      90.0 %
+  2011-11-01 : Bicarbonate [Moles/volume] in Arterial blood 25.1 mmol/L
+  2011-11-01 : Oxygen [Partial pressure] in Arterial blood 97.4 mm[Hg]
+  2011-11-01 : Carbon dioxide [Partial pressure] in Arterial blood 38.3 mm[Hg]
+  2011-11-01 : pH of Arterial blood                     7.2 [pH]
+  2011-11-01 : aPTT in Blood by Coagulation assay       30.1 s
+  2011-11-01 : INR in Platelet poor plasma by Coagulation assay 1.0 {INR}
+  2011-11-01 : Prothrombin time (PT)                    10.6 s
+  2011-11-01 : Phosphate [Mass/volume] in Serum or Plasma 3.4 mg/dL
+  2011-11-01 : Magnesium [Mass/volume] in Serum or Plasma 1.8 mg/dL
+  2011-11-01 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 14.9 U/L
+  2011-11-01 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 1.3 U/L
+  2011-11-01 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 77.9 U/L
+  2011-11-01 : Bilirubin.total [Mass/volume] in Serum or Plasma 14.0 mg/dL
+  2011-11-01 : Albumin [Mass/volume] in Serum or Plasma 4.7 g/dL
+  2011-11-01 : Protein [Mass/volume] in Serum or Plasma 8.3 g/dL
+  2011-11-01 : Glomerular filtration rate/1.73 sq M.predicted 6.6 mL/min
+  2011-11-01 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 20.7 mmol/L
+  2011-11-01 : Chloride [Moles/volume] in Serum or Plasma 107.3 mmol/L
+  2011-11-01 : Potassium [Moles/volume] in Serum or Plasma 3.7 mmol/L
+  2011-11-01 : Sodium [Moles/volume] in Serum or Plasma 142.6 mmol/L
+  2011-11-01 : Calcium [Mass/volume] in Serum or Plasma 10.0 mg/dL
+  2011-11-01 : Creatinine [Mass/volume] in Serum or Plasma 2.7 mg/dL
+  2011-11-01 : Urea nitrogen [Mass/volume] in Serum or Plasma 18.4 mg/dL
+  2011-11-01 : Glucose [Mass/volume] in Serum or Plasma 68.0 mg/dL
+  2011-11-01 : Platelets [#/volume] in Blood by Automated count 297.6 10*3/uL
+  2011-11-01 : Erythrocyte distribution width [Ratio] by Automated count 13.6 %
+  2011-11-01 : MCHC [Mass/volume] by Automated count    33.7 g/dL
+  2011-11-01 : MCH [Entitic mass] by Automated count    26.6 pg
+  2011-11-01 : MCV [Entitic volume] by Automated count  90.7 fL
+  2011-11-01 : Hematocrit [Volume Fraction] of Blood by Automated count 47.5 %
+  2011-11-01 : Hemoglobin [Mass/volume] in Blood        11.6 g/dL
+  2011-11-01 : Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+  2011-11-01 : Leukocytes [#/volume] in Blood by Automated count 5.4 10*3/uL
+  2011-11-01 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2011-11-01 : Total score [HARK]                       0.0 {score}
+  2011-11-01 : Fall risk level [Morse Fall Scale]       Low Risk (MFS Score 0 - 24) 
+  2011-11-01 : Fall risk total [Morse Fall Scale]       14.0 {#}
+  2011-11-01 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2011-11-01 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? No 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Quite a bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 51927 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             173 Murazik Highlands 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2011-10-31 : High Density Lipoprotein Cholesterol     35.2 mg/dL
+  2011-10-31 : Low Density Lipoprotein Cholesterol      138.5 mg/dL
+  2011-10-31 : Triglycerides                            126.5 mg/dL
+  2011-10-31 : Total Cholesterol                        199.0 mg/dL
+  2011-10-31 : Oxygen saturation in Arterial blood      93.0 %
+  2011-10-31 : Bicarbonate [Moles/volume] in Arterial blood 24.8 mmol/L
+  2011-10-31 : Oxygen [Partial pressure] in Arterial blood 82.1 mm[Hg]
+  2011-10-31 : Carbon dioxide [Partial pressure] in Arterial blood 42.0 mm[Hg]
+  2011-10-31 : pH of Arterial blood                     7.1 [pH]
+  2011-10-31 : aPTT in Blood by Coagulation assay       34.9 s
+  2011-10-31 : INR in Platelet poor plasma by Coagulation assay 1.1 {INR}
+  2011-10-31 : Prothrombin time (PT)                    10.0 s
+  2011-10-31 : Phosphate [Mass/volume] in Serum or Plasma 4.5 mg/dL
+  2011-10-31 : Magnesium [Mass/volume] in Serum or Plasma 1.7 mg/dL
+  2011-10-31 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 16.4 U/L
+  2011-10-31 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 13.2 U/L
+  2011-10-31 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 40.7 U/L
+  2011-10-31 : Bilirubin.total [Mass/volume] in Serum or Plasma 6.9 mg/dL
+  2011-10-31 : Albumin [Mass/volume] in Serum or Plasma 4.2 g/dL
+  2011-10-31 : Protein [Mass/volume] in Serum or Plasma 7.7 g/dL
+  2011-10-31 : Glomerular filtration rate/1.73 sq M.predicted 5.5 mL/min
+  2011-10-31 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 21.9 mmol/L
+  2011-10-31 : Chloride [Moles/volume] in Serum or Plasma 109.9 mmol/L
+  2011-10-31 : Potassium [Moles/volume] in Serum or Plasma 5.2 mmol/L
+  2011-10-31 : Sodium [Moles/volume] in Serum or Plasma 142.4 mmol/L
+  2011-10-31 : Calcium [Mass/volume] in Serum or Plasma 9.3 mg/dL
+  2011-10-31 : Creatinine [Mass/volume] in Serum or Plasma 2.6 mg/dL
+  2011-10-31 : Urea nitrogen [Mass/volume] in Serum or Plasma 9.2 mg/dL
+  2011-10-31 : Glucose [Mass/volume] in Serum or Plasma 81.6 mg/dL
+  2011-10-31 : Platelets [#/volume] in Blood by Automated count 209.0 10*3/uL
+  2011-10-31 : Erythrocyte distribution width [Ratio] by Automated count 12.5 %
+  2011-10-31 : MCHC [Mass/volume] by Automated count    35.5 g/dL
+  2011-10-31 : MCH [Entitic mass] by Automated count    27.7 pg
+  2011-10-31 : MCV [Entitic volume] by Automated count  83.7 fL
+  2011-10-31 : Hematocrit [Volume Fraction] of Blood by Automated count 41.7 %
+  2011-10-31 : Hemoglobin [Mass/volume] in Blood        16.8 g/dL
+  2011-10-31 : Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+  2011-10-31 : Leukocytes [#/volume] in Blood by Automated count 4.4 10*3/uL
+  2011-10-31 : High Density Lipoprotein Cholesterol     35.2 mg/dL
+  2011-10-31 : Low Density Lipoprotein Cholesterol      138.5 mg/dL
+  2011-10-31 : Triglycerides                            126.5 mg/dL
+  2011-10-31 : Total Cholesterol                        199.0 mg/dL
+  2011-10-31 : Oxygen saturation in Arterial blood      93.0 %
+  2011-10-31 : Bicarbonate [Moles/volume] in Arterial blood 26.9 mmol/L
+  2011-10-31 : Oxygen [Partial pressure] in Arterial blood 94.5 mm[Hg]
+  2011-10-31 : Carbon dioxide [Partial pressure] in Arterial blood 45.0 mm[Hg]
+  2011-10-31 : pH of Arterial blood                     6.9 [pH]
+  2011-10-31 : aPTT in Blood by Coagulation assay       28.7 s
+  2011-10-31 : INR in Platelet poor plasma by Coagulation assay 1.2 {INR}
+  2011-10-31 : Prothrombin time (PT)                    10.5 s
+  2011-10-31 : Phosphate [Mass/volume] in Serum or Plasma 4.2 mg/dL
+  2011-10-31 : Magnesium [Mass/volume] in Serum or Plasma 1.9 mg/dL
+  2011-10-31 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 14.6 U/L
+  2011-10-31 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 5.2 U/L
+  2011-10-31 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 100.4 U/L
+  2011-10-31 : Bilirubin.total [Mass/volume] in Serum or Plasma 11.9 mg/dL
+  2011-10-31 : Albumin [Mass/volume] in Serum or Plasma 4.9 g/dL
+  2011-10-31 : Protein [Mass/volume] in Serum or Plasma 8.4 g/dL
+  2011-10-31 : Glomerular filtration rate/1.73 sq M.predicted 10.2 mL/min
+  2011-10-31 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 21.9 mmol/L
+  2011-10-31 : Chloride [Moles/volume] in Serum or Plasma 109.9 mmol/L
+  2011-10-31 : Potassium [Moles/volume] in Serum or Plasma 5.2 mmol/L
+  2011-10-31 : Sodium [Moles/volume] in Serum or Plasma 142.4 mmol/L
+  2011-10-31 : Calcium [Mass/volume] in Serum or Plasma 9.3 mg/dL
+  2011-10-31 : Creatinine [Mass/volume] in Serum or Plasma 2.7 mg/dL
+  2011-10-31 : Urea nitrogen [Mass/volume] in Serum or Plasma 9.2 mg/dL
+  2011-10-31 : Glucose [Mass/volume] in Serum or Plasma 81.6 mg/dL
+  2011-10-31 : Platelets [#/volume] in Blood by Automated count 428.9 10*3/uL
+  2011-10-31 : Erythrocyte distribution width [Ratio] by Automated count 14.3 %
+  2011-10-31 : MCHC [Mass/volume] by Automated count    32.7 g/dL
+  2011-10-31 : MCH [Entitic mass] by Automated count    31.8 pg
+  2011-10-31 : MCV [Entitic volume] by Automated count  96.3 fL
+  2011-10-31 : Hematocrit [Volume Fraction] of Blood by Automated count 48.4 %
+  2011-10-31 : Hemoglobin [Mass/volume] in Blood        11.1 g/dL
+  2011-10-31 : Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+  2011-10-31 : Leukocytes [#/volume] in Blood by Automated count 3.5 10*3/uL
+  2011-10-31 : Procedure Narrative                      CABG Arterial Conduits: 1 {#}
+  2011-10-31 : Procedure Narrative                      CABG Grafts: 3 {#}
+  2011-10-31 : Magnesium [Mass/volume] in Serum or Plasma 2.0 mg/dL
+  2011-10-31 : Carbon dioxide, total [Moles/volume] in Venous blood 1.8 mmol/L
+  2011-10-31 : Bicarbonate [Moles/volume] in Venous blood 26.8 mmol/L
+  2011-10-31 : Oxygen [Partial pressure] in Venous blood 38.8 mm[Hg]
+  2011-10-31 : Carbon dioxide [Partial pressure] in Venous blood 40.8 mm[Hg]
+  2011-10-31 : pH of Venous blood                       7.4 [pH]
+  2011-10-31 : Oxygen saturation in Arterial blood      93.0 %
+  2011-10-31 : Bicarbonate [Moles/volume] in Arterial blood 26.0 mmol/L
+  2011-10-31 : Oxygen [Partial pressure] in Arterial blood 92.1 mm[Hg]
+  2011-10-31 : Carbon dioxide [Partial pressure] in Arterial blood 40.7 mm[Hg]
+  2011-10-31 : pH of Arterial blood                     7.0 [pH]
+  2011-10-31 : Activated clotting time (ACT) of Blood by Coagulation assay 114.9 s
+  2011-10-31 : High Density Lipoprotein Cholesterol     35.2 mg/dL
+  2011-10-31 : Low Density Lipoprotein Cholesterol      138.5 mg/dL
+  2011-10-31 : Triglycerides                            126.5 mg/dL
+  2011-10-31 : Total Cholesterol                        199.0 mg/dL
+  2011-10-31 : Oxygen saturation in Arterial blood      93.0 %
+  2011-10-31 : Bicarbonate [Moles/volume] in Arterial blood 26.0 mmol/L
+  2011-10-31 : Oxygen [Partial pressure] in Arterial blood 82.9 mm[Hg]
+  2011-10-31 : Carbon dioxide [Partial pressure] in Arterial blood 39.1 mm[Hg]
+  2011-10-31 : pH of Arterial blood                     6.9 [pH]
+  2011-10-31 : aPTT in Blood by Coagulation assay       37.8 s
+  2011-10-31 : INR in Platelet poor plasma by Coagulation assay 1.0 {INR}
+  2011-10-31 : Prothrombin time (PT)                    10.5 s
+  2011-10-31 : Phosphate [Mass/volume] in Serum or Plasma 4.0 mg/dL
+  2011-10-31 : Magnesium [Mass/volume] in Serum or Plasma 2.0 mg/dL
+  2011-10-31 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 13.6 U/L
+  2011-10-31 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 19.8 U/L
+  2011-10-31 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 111.2 U/L
+  2011-10-31 : Bilirubin.total [Mass/volume] in Serum or Plasma 9.2 mg/dL
+  2011-10-31 : Albumin [Mass/volume] in Serum or Plasma 4.2 g/dL
+  2011-10-31 : Protein [Mass/volume] in Serum or Plasma 7.2 g/dL
+  2011-10-31 : Glomerular filtration rate/1.73 sq M.predicted 11.1 mL/min
+  2011-10-31 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 21.9 mmol/L
+  2011-10-31 : Chloride [Moles/volume] in Serum or Plasma 109.9 mmol/L
+  2011-10-31 : Potassium [Moles/volume] in Serum or Plasma 5.2 mmol/L
+  2011-10-31 : Sodium [Moles/volume] in Serum or Plasma 142.4 mmol/L
+  2011-10-31 : Calcium [Mass/volume] in Serum or Plasma 9.3 mg/dL
+  2011-10-31 : Creatinine [Mass/volume] in Serum or Plasma 2.9 mg/dL
+  2011-10-31 : Urea nitrogen [Mass/volume] in Serum or Plasma 9.2 mg/dL
+  2011-10-31 : Glucose [Mass/volume] in Serum or Plasma 81.6 mg/dL
+  2011-10-31 : Platelets [#/volume] in Blood by Automated count 399.2 10*3/uL
+  2011-10-31 : Erythrocyte distribution width [Ratio] by Automated count 14.2 %
+  2011-10-31 : MCHC [Mass/volume] by Automated count    32.8 g/dL
+  2011-10-31 : MCH [Entitic mass] by Automated count    27.5 pg
+  2011-10-31 : MCV [Entitic volume] by Automated count  94.7 fL
+  2011-10-31 : Hematocrit [Volume Fraction] of Blood by Automated count 34.9 %
+  2011-10-31 : Hemoglobin [Mass/volume] in Blood        11.9 g/dL
+  2011-10-31 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  2011-10-31 : Leukocytes [#/volume] in Blood by Automated count 7.7 10*3/uL
+  2011-10-28 : Operative Status
+           - Priority Level                           1 {score}
+           - Operative Status Value                   emergent {score}
+  2011-10-28 : Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 33.4 ng/L
+  2011-10-28 : Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 72.3 ng/L
+  2011-10-28 : Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Blood by Immunoassay 1.1 pg/mL
+  2011-10-28 : aPTT in Blood by Coagulation assay       30.5 s
+  2011-10-28 : INR in Platelet poor plasma by Coagulation assay 1.1 {INR}
+  2011-10-28 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2011-10-28 : High Density Lipoprotein Cholesterol     60.1 mg/dL
+  2011-10-28 : Low Density Lipoprotein Cholesterol      164.9 mg/dL
+  2011-10-28 : Triglycerides                            109.5 mg/dL
+  2011-10-28 : Total Cholesterol                        277.6 mg/dL
+  2011-10-28 : Magnesium [Mass/volume] in Blood         2.2 mg/dL
+  2011-10-28 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 18.4 U/L
+  2011-10-28 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 28.3 U/L
+  2011-10-28 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 92.7 U/L
+  2011-10-28 : Bilirubin.total [Mass/volume] in Serum or Plasma 9.3 mg/dL
+  2011-10-28 : Albumin [Mass/volume] in Serum or Plasma 5.0 g/dL
+  2011-10-28 : Protein [Mass/volume] in Serum or Plasma 7.1 g/dL
+  2011-10-28 : Glomerular filtration rate/1.73 sq M.predicted 10.6 mL/min
+  2011-10-28 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 21.9 mmol/L
+  2011-10-28 : Chloride [Moles/volume] in Serum or Plasma 109.9 mmol/L
+  2011-10-28 : Potassium [Moles/volume] in Serum or Plasma 5.2 mmol/L
+  2011-10-28 : Sodium [Moles/volume] in Serum or Plasma 142.4 mmol/L
+  2011-10-28 : Calcium [Mass/volume] in Serum or Plasma 9.3 mg/dL
+  2011-10-28 : Creatinine [Mass/volume] in Serum or Plasma 2.6 mg/dL
+  2011-10-28 : Urea nitrogen [Mass/volume] in Serum or Plasma 9.2 mg/dL
+  2011-10-28 : Glucose [Mass/volume] in Serum or Plasma 81.6 mg/dL
+  2011-10-28 : Platelets [#/volume] in Blood by Automated count 141.7 10*3/uL
+  2011-10-28 : Erythrocyte distribution width [Ratio] by Automated count 12.6 %
+  2011-10-28 : MCHC [Mass/volume] by Automated count    35.6 g/dL
+  2011-10-28 : MCH [Entitic mass] by Automated count    30.5 pg
+  2011-10-28 : MCV [Entitic volume] by Automated count  95.7 fL
+  2011-10-28 : Hematocrit [Volume Fraction] of Blood by Automated count 41.0 %
+  2011-10-28 : Hemoglobin [Mass/volume] in Blood        13.3 g/dL
+  2011-10-28 : Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+  2011-10-28 : Leukocytes [#/volume] in Blood by Automated count 4.0 10*3/uL
+  2011-11-01 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2011-11-01 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2011-11-01 : Carbon Dioxide                           21.9 mmol/L
+  2011-11-01 : Chloride                                 109.9 mmol/L
+  2011-11-01 : Potassium                                5.2 mmol/L
+  2011-11-01 : Sodium                                   142.4 mmol/L
+  2011-11-01 : Calcium                                  9.3 mg/dL
+  2011-11-01 : Creatinine                               1.3 mg/dL
+  2011-11-01 : Urea Nitrogen                            9.2 mg/dL
+  2011-11-01 : Glucose                                  81.6 mg/dL
+  2011-11-01 : Respiratory rate                         13.0 /min
+  2011-11-01 : Heart rate                               64.0 /min
+  2011-11-01 : Blood Pressure
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  99.0 mm[Hg]
+  2011-11-01 : Body Mass Index                          28.0 kg/m2
+  2011-11-01 : Body Weight                              72.5 kg
+  2011-11-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2011-11-01 : Body Height                              160.8 cm
+  2010-10-26 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2010-10-26 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 51927 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Otherwise unemployed but not seeking work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             173 Murazik Highlands 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2010-10-26 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2010-10-26 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2010-10-26 : High Density Lipoprotein Cholesterol     31.3 mg/dL
+  2010-10-26 : Low Density Lipoprotein Cholesterol      65.5 mg/dL
+  2010-10-26 : Triglycerides                            133.8 mg/dL
+  2010-10-26 : Total Cholesterol                        123.5 mg/dL
+  2010-10-26 : Carbon Dioxide                           23.8 mmol/L
+  2010-10-26 : Chloride                                 108.3 mmol/L
+  2010-10-26 : Potassium                                4.4 mmol/L
+  2010-10-26 : Sodium                                   143.0 mmol/L
+  2010-10-26 : Calcium                                  9.8 mg/dL
+  2010-10-26 : Creatinine                               0.9 mg/dL
+  2010-10-26 : Urea Nitrogen                            15.9 mg/dL
+  2010-10-26 : Glucose                                  80.2 mg/dL
+  2010-10-26 : Respiratory rate                         14.0 /min
+  2010-10-26 : Heart rate                               79.0 /min
+  2010-10-26 : Blood Pressure
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  105.0 mm[Hg]
+  2010-10-26 : Body Mass Index                          28.0 kg/m2
+  2010-10-26 : Body Weight                              72.5 kg
+  2010-10-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2010-10-26 : Body Height                              160.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2011-11-05 : Discharge from hospital (procedure) for History of coronary artery bypass grafting (situation)
+  2011-11-05 : Stair-climbing test (procedure) for History of coronary artery bypass grafting (situation)
+  2011-11-05 : Walking exercise test (procedure) for History of coronary artery bypass grafting (situation)
+  2011-11-05 : Postoperative procedure education (procedure) for History of coronary artery bypass grafting (situation)
+  2011-11-05 : Discharge to ward (procedure)
+  2011-11-04 : Transfusion of packed red blood cells (procedure)
+  2011-11-04 : Plain chest X-ray (procedure)
+  2011-11-04 : Electrocardiographic procedure (procedure)
+  2011-11-03 : Transfusion of packed red blood cells (procedure)
+  2011-11-03 : Plain chest X-ray (procedure)
+  2011-11-03 : Electrocardiographic procedure (procedure)
+  2011-11-02 : Transfusion of packed red blood cells (procedure)
+  2011-11-02 : Plain chest X-ray (procedure)
+  2011-11-02 : Electrocardiographic procedure (procedure)
+  2011-11-01 : Transfusion of packed red blood cells (procedure)
+  2011-11-01 : Plain chest X-ray (procedure)
+  2011-11-01 : Electrocardiographic procedure (procedure)
+  2011-11-01 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2011-11-01 : Depression screening (procedure)
+  2011-11-01 : Screening for domestic abuse (procedure)
+  2011-11-01 : Assessment using Morse Fall Scale (procedure)
+  2011-11-01 : Assessment of anxiety (procedure)
+  2011-10-31 : Transfusion of packed red blood cells (procedure)
+  2011-10-31 : Plain chest X-ray (procedure)
+  2011-10-31 : Electrocardiographic procedure (procedure)
+  2011-10-31 : Removal of endotracheal tube (procedure)
+  2011-10-31 : Documentation procedure (procedure)
+  2011-10-31 : Vascular cannula removal (procedure)
+  2011-10-31 : Removal of aortic cross clamp (procedure)
+  2011-10-31 : Coronary artery bypass grafting (procedure) for Acute non-ST segment elevation myocardial infarction (disorder)
+  2011-10-31 : Median sternotomy (procedure)
+  2011-10-31 : Induced cardioplegia (procedure)
+  2011-10-31 : Placement of aortic cross clamp (procedure)
+  2011-10-31 : Cardiopulmonary bypass operation (procedure)
+  2011-10-31 : Cannulation (procedure)
+  2011-10-31 : Preparation of patient for procedure (regime/therapy)
+  2011-10-31 : Pulmonary catheterization with Swan-Ganz catheter (procedure)
+  2011-10-31 : Intubation
+  2011-10-31 : Administration of anesthesia for procedure (procedure)
+  2011-10-31 : Insertion of catheter into artery (procedure)
+  2011-10-31 : Scheduling (procedure) for Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  2011-10-31 : Notification of treatment plan (procedure)
+  2011-10-31 : Blood group typing (procedure)
+  2011-10-31 : Pre-surgery testing (procedure)
+  2011-10-30 : Referral to cardiac surgery service (procedure) for Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  2011-10-30 : Post anesthesia care management (procedure) for Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  2011-10-30 : Coronary angiography (procedure) for Acute non-ST segment elevation myocardial infarction (disorder)
+  2011-10-30 : Consultation for treatment (procedure) for Acute non-ST segment elevation myocardial infarction (disorder)
+  2011-10-28 : Referral to cardiology service (procedure) for Acute non-ST segment elevation myocardial infarction (disorder)
+  2011-10-28 : Risk assessment (procedure) for Acute non-ST segment elevation myocardial infarction (disorder)
+  2011-10-28 : Electrocardiographic procedure (procedure)
+  2011-10-28 : Diagnostic assessment (procedure)
+  2011-10-28 : Plain chest X-ray (procedure)
+  2011-10-28 : Laboratory test (procedure)
+  2011-10-28 : Oxygen administration by mask (procedure)
+  2011-10-28 : Electrocardiographic procedure (procedure)
+  2011-10-28 : Assessment of cardiac status using monitoring device (procedure)
+  2011-11-01 : Assessment of health and social care needs (procedure)
+  2011-10-03 : Bone immobilization for Fracture subluxation of wrist
+  2011-10-03 : X-ray or wrist
+  2010-10-26 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2010-10-26 : Depression screening (procedure)
+  2010-10-26 : Medication Reconciliation (procedure)
+  2010-10-26 : Assessment of health and social care needs (procedure)
+  2010-08-16 : Insertion of subcutaneous contraceptive
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2011-11-01 : Influenza, seasonal, injectable, preservative free
+  2010-10-26 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2011-11-05 (Dr. Gabriel Reilly) : Encounter at Fitchburg Outpatient Clinic : Encounter for History of coronary artery bypass grafting (situation)
+2011-10-31 (Dr. Gabriel Reilly) : Encounter at Fitchburg Outpatient Clinic : Encounter for History of coronary artery bypass grafting (situation)
+2011-10-31 (Dr. Gabriel Reilly) : Encounter at Fitchburg Outpatient Clinic : Encounter for Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+2011-10-30 (Dr. Gabriel Reilly) : Encounter at Fitchburg Outpatient Clinic : Encounter for Acute non-ST segment elevation myocardial infarction (disorder)
+2011-10-28 (Dr. Gabriel Reilly) : Encounter at Fitchburg Outpatient Clinic : Encounter for Acute non-ST segment elevation myocardial infarction (disorder)
+2011-10-28 (Dr. Gabriel Reilly) : Encounter at Fitchburg Outpatient Clinic : Encounter for Acute non-ST segment elevation myocardial infarction (disorder)
+2011-10-28 (Dr. Gabriel Reilly) : Encounter at Fitchburg Outpatient Clinic
+2011-11-01 (Dr. Lilliam Lindgren) : Encounter at COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+2011-10-03 (Dr. Shayla White) : Encounter at KINDRED AT HOME
+2011-08-11 (Dr. Cristi Miller) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC
+2010-11-27 (Dr. Cristi Miller) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC : Encounter for Viral sinusitis (disorder)
+2010-10-26 (Dr. Lilliam Lindgren) : Encounter at COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+2010-08-29 (Dr. Cristi Miller) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC : Encounter for Asthma
+2010-08-27 (Dr. Shayla White) : Encounter at KINDRED AT HOME : Encounter for Asthma
+2010-08-16 (Dr. Cristi Miller) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC
+2010-02-28 (Dr. Cristi Miller) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC : Encounter for Asthma
+2009-10-20 (Dr. Lilliam Lindgren) : Encounter at COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+2009-08-21 (Dr. Cristi Miller) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC
+2008-10-14 (Dr. Lilliam Lindgren) : Encounter at COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+2008-08-12 (Dr. Cristi Miller) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC : Encounter for Normal pregnancy
+2007-10-16 (Dr. Cristi Miller) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC
+2007-10-09 (Dr. Lilliam Lindgren) : Encounter at COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+2006-10-03 (Dr. Lilliam Lindgren) : Encounter at COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+2005-09-22 (Dr. Cristi Miller) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC : Encounter for Asthma
+2004-09-21 (Dr. Lilliam Lindgren) : Encounter at COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+2003-09-16 (Dr. Lilliam Lindgren) : Encounter at COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+2002-09-10 (Dr. Lilliam Lindgren) : Encounter at COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+2001-09-04 (Dr. Lilliam Lindgren) : Encounter at COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+2000-08-29 (Dr. Lilliam Lindgren) : Encounter at COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+1999-08-24 (Dr. Lilliam Lindgren) : Encounter at COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+1998-08-18 (Dr. Lilliam Lindgren) : Encounter at COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+1997-10-07 (Dr. Cristi Miller) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC
+1997-08-12 (Dr. Lilliam Lindgren) : Encounter at COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+1996-08-06 (Dr. Lilliam Lindgren) : Encounter at COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+1995-08-01 (Dr. Lilliam Lindgren) : Encounter at COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+1994-07-26 (Dr. Lilliam Lindgren) : Encounter at COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+1993-07-25 (Dr. Cristi Miller) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC
+1993-07-20 (Dr. Lilliam Lindgren) : Encounter at COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+1992-07-18 (Dr. Cristi Miller) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC
+1992-07-14 (Dr. Cristi Miller) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC : Encounter for Anemia (disorder)
+1992-07-14 (Dr. Lilliam Lindgren) : Encounter at COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+1992-01-29 (Dr. Shayla White) : Encounter at KINDRED AT HOME
+1991-07-04 (Dr. Cristi Miller) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC
+1990-07-03 (Dr. Lilliam Lindgren) : Encounter at COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+1989-08-22 (Dr. Cristi Miller) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC
+1989-08-06 (Dr. Cristi Miller) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC : Encounter for Acute bacterial sinusitis (disorder)
+1989-07-09 (Dr. Cristi Miller) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC : Encounter for Acute bacterial sinusitis (disorder)
+1989-06-27 (Dr. Lilliam Lindgren) : Encounter at COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+1989-06-16 (Dr. Cristi Miller) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC : Encounter for Asthma
+1989-06-09 (Dr. Cristi Miller) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC : Encounter for Acute bacterial sinusitis (disorder)
+1988-06-21 (Dr. Lilliam Lindgren) : Encounter at COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+1987-06-16 (Dr. Lilliam Lindgren) : Encounter at COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+1986-06-10 (Dr. Lilliam Lindgren) : Encounter at COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+1985-06-04 (Dr. Lilliam Lindgren) : Encounter at COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+1984-05-29 (Dr. Lilliam Lindgren) : Encounter at COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+1983-05-24 (Dr. Lilliam Lindgren) : Encounter at COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+1982-05-18 (Dr. Lilliam Lindgren) : Encounter at COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+1981-05-12 (Dr. Lilliam Lindgren) : Encounter at COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+1980-05-06 (Dr. Lilliam Lindgren) : Encounter at COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+1979-05-01 (Dr. Lilliam Lindgren) : Encounter at COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+1978-04-25 (Dr. Lilliam Lindgren) : Encounter at COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+1977-04-19 (Dr. Lilliam Lindgren) : Encounter at COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+1976-04-13 (Dr. Lilliam Lindgren) : Encounter at COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+1975-04-08 (Dr. Lilliam Lindgren) : Encounter at COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+1974-04-02 (Dr. Lilliam Lindgren) : Encounter at COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+1973-03-27 (Dr. Lilliam Lindgren) : Encounter at COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+1972-03-21 (Dr. Lilliam Lindgren) : Encounter at COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+1971-09-21 (Dr. Lilliam Lindgren) : Encounter at COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+1971-06-03 (Dr. Cristi Miller) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC : Encounter for Childhood asthma
+1970-10-13 (Dr. Cristi Miller) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC : Encounter for Perennial allergic rhinitis
+1969-10-06 (Dr. Cristi Miller) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC
+1969-09-17 (Dr. Cristi Miller) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2011-11-04 : Computed Radiography, Thoracic structure (body structure)
+  2011-11-03 : Computed Radiography, Thoracic structure (body structure)
+  2011-11-02 : Computed Radiography, Thoracic structure (body structure)
+  2011-11-01 : Computed Radiography, Thoracic structure (body structure)
+  2011-10-31 : Computed Radiography, Thoracic structure (body structure)
+  2011-10-03 : Digital Radiography, Wrist
+--------------------------------------------------------------------------------

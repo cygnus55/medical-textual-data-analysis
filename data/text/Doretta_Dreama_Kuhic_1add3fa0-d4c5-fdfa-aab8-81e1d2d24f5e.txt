@@ -1,0 +1,102 @@
+Doretta Dreama Kuhic
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 32
+Birth Date:          1990-10-20
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1991-10-24 -            : Peanut (substance)
+  1991-10-24 -            : Tree pollen (substance)
+  1991-10-24 -            : Grass pollen (substance)
+  1991-10-24 -            : Animal dander (substance)
+  1991-10-24 -            : House dust mite (organism)
+  1991-10-24 -            : Mold (organism)
+  1991-10-24 -            : Bee venom (substance)
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2022-10-23[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2022-09-09[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2022-06-27[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2022-04-30[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2022-01-25[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2021-11-19[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2021-09-29[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2021-06-17[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2021-03-30[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2021-01-01[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  1991-10-24[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  1991-10-24[CURRENT] : Terfenadine 60 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-03-09 - 2022-03-16 : Acute viral pharyngitis (disorder)
+  2020-01-04 -            : Full-time employment (finding)
+  2016-12-31 - 2020-01-04 : Full-time employment (finding)
+  2013-12-28 -            : Stress (finding)
+  2013-12-28 - 2016-12-31 : Full-time employment (finding)
+  2008-12-13 - 2009-12-19 : Stress (finding)
+  2008-12-13 - 2009-12-19 : Full-time employment (finding)
+  2008-12-13 -            : Received certificate of high school equivalency (finding)
+  2005-03-18 -            : Impacted molars
+  2005-01-26 -            : Chronic pain
+  2004-11-22 -            : Chronic intractable migraine without aura
+--------------------------------------------------------------------------------
+CARE PLANS:
+  1991-10-09[CURRENT] : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-10-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2022-09-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2022-06-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.0 {score}
+  2022-04-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+  2022-03-09 : Body temperature                         37.5 Cel
+  2022-01-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2021-11-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.0 {score}
+  2021-09-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+  2021-06-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2021-03-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2021-01-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.0 {score}
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-10-23 : Extraction of wisdom tooth
+  2022-06-27 : Extraction of wisdom tooth
+  2022-01-25 : Extraction of wisdom tooth
+  2021-01-01 : Extraction of wisdom tooth
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-07-10 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+  2021-06-12 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-10-23 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC : Encounter for Impacted molars
+2022-09-09 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC : Encounter for Chronic pain
+2022-06-27 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC : Encounter for Impacted molars
+2022-04-30 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC : Encounter for Chronic pain
+2022-03-09 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC : Encounter for Acute viral pharyngitis (disorder)
+2022-01-25 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC : Encounter for Impacted molars
+2021-11-19 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC : Encounter for Chronic intractable migraine without aura
+2021-09-29 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC : Encounter for Chronic intractable migraine without aura
+2021-07-10 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC
+2021-06-17 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC : Encounter for Chronic intractable migraine without aura
+2021-06-12 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC
+2021-03-30 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC : Encounter for Chronic intractable migraine without aura
+2021-01-01 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC : Encounter for Impacted molars
+2020-01-04 (Dr. Estella O'Hara) : Encounter at NORTON HEALTH CARE PC
+2016-12-31 (Dr. Estella O'Hara) : Encounter at NORTON HEALTH CARE PC
+2014-01-03 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC : Encounter for Viral sinusitis (disorder)
+2008-12-13 (Dr. Estella O'Hara) : Encounter at NORTON HEALTH CARE PC
+2005-03-18 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC : Encounter for Impacted molars
+2005-01-26 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC : Encounter for Chronic pain
+2004-11-22 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC : Encounter for Chronic intractable migraine without aura
+1991-10-24 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC
+1991-10-09 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,73 @@
+Audrie Green
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 30
+Birth Date:          1992-01-01
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2022-10-09[CURRENT] : Kyleena 19.5 MG Intrauterine System
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2021-04-14 - 2021-05-18 : Normal pregnancy
+  2020-03-11 -            : Not in labor force (finding)
+  2017-03-08 -            : Stress (finding)
+  2014-01-31 -            : Chronic low back pain (finding)
+  2011-03-02 -            : Transport problems (finding)
+  2010-02-24 - 2014-05-21 : Stress (finding)
+  2010-02-24 -            : Lack of access to transportation (finding)
+  2010-02-24 -            : Received higher education (finding)
+  2008-07-05 -            : History of appendectomy
+  2008-07-05 -            : Appendicitis
+  1994-11-01 -            : History of single seizure (situation)
+  1994-11-01 -            : Seizure disorder
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-10-13 : Insertion of intrauterine contraceptive device
+  2021-10-14 : Insertion of intrauterine contraceptive device
+  2021-05-18 : Depression screening for Normal pregnancy
+  2021-05-18 : Physical exam following abortion for Normal pregnancy
+  2021-05-18 : Pregnancy termination care for Normal pregnancy
+  2021-05-03 : Induced termination of pregnancy for Normal pregnancy
+  2021-05-03 : Counseling for termination of pregnancy for Normal pregnancy
+  2021-04-14 : Ultrasound scan for fetal viability for Normal pregnancy
+  2021-04-14 : Standard pregnancy test for Normal pregnancy
+  2021-02-17 : Removal of intrauterine device
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-11-03 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-10-13 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-10-13 (Dr. Hermelinda Hyatt) : Encounter at SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB
+2022-10-09 (Dr. Hermelinda Hyatt) : Encounter at SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB
+2021-11-03 (Dr. Hermelinda Hyatt) : Encounter at SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB
+2021-10-14 (Dr. Hermelinda Hyatt) : Encounter at SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB
+2021-10-12 (Dr. Hermelinda Hyatt) : Encounter at SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB
+2021-10-13 (Dr. Hermelinda Hyatt) : Encounter at SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB
+2021-05-18 (Dr. Hermelinda Hyatt) : Encounter at SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB : Encounter for Normal pregnancy
+2021-05-03 (Dr. Hermelinda Hyatt) : Encounter at SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB : Encounter for Normal pregnancy
+2021-04-14 (Dr. Hermelinda Hyatt) : Encounter at SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB : Encounter for Normal pregnancy
+2021-02-17 (Dr. Hermelinda Hyatt) : Encounter at SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB
+2020-03-11 (Dr. Fredrick Wintheiser) : Encounter at FENWAY COMMUNITY HEALTH CENTER, INC
+2017-03-08 (Dr. Fredrick Wintheiser) : Encounter at FENWAY COMMUNITY HEALTH CENTER, INC
+2014-01-31 (Dr. Hermelinda Hyatt) : Encounter at SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB
+2011-03-02 (Dr. Fredrick Wintheiser) : Encounter at FENWAY COMMUNITY HEALTH CENTER, INC
+2010-02-24 (Dr. Fredrick Wintheiser) : Encounter at FENWAY COMMUNITY HEALTH CENTER, INC
+2008-07-05 (Dr. Hermelinda Hyatt) : Encounter at SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB : Encounter for Appendicitis
+2008-07-05 (Dr. Judy Gleason) : Encounter at CAMBRIDGE REHABILITATION & NURSING CENTER : Encounter for Appendicitis
+1994-11-01 (Dr. Judy Gleason) : Encounter at CAMBRIDGE REHABILITATION & NURSING CENTER : Encounter for Seizure disorder
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

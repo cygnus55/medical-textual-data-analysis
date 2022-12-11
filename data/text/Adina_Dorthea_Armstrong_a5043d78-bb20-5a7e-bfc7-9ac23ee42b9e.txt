@@ -1,0 +1,513 @@
+Adina Dorthea Armstrong
+=======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 50
+Birth Date:          1972-02-22
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1973-01-20 -            : Tree nut (substance)
+  1973-01-20 -            : Tree pollen (substance)
+  1973-01-20 -            : Grass pollen (substance)
+  1973-01-20 -            : Animal dander (substance)
+  1973-01-20 -            : House dust mite (organism)
+  1973-01-20 -            : Mold (organism)
+  1973-01-20 -            : Latex (substance)
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2022-09-15[CURRENT] : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2022-09-06[CURRENT] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2021-09-15[STOPPED] : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2021-08-31[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2020-12-29[STOPPED] : Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet
+  2020-12-21[STOPPED] : Acetaminophen 325 MG Oral Tablet
+  2020-09-15[STOPPED] : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2020-08-25[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2019-08-20[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2018-08-14[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2017-08-08[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2016-08-02[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2015-07-28[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2014-07-22[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2013-07-16[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2012-07-10[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2011-07-05[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2010-06-29[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2009-06-23[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2008-06-17[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2007-06-12[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2006-06-06[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2005-05-31[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2004-05-25[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2004-02-17[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2003-05-20[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2002-05-14[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2001-05-08[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2000-05-02[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2000-05-02[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2000-05-02[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1976-10-13[CURRENT] : Chlorpheniramine Maleate 2 MG/ML Oral Solution
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-09-06 -            : Severe anxiety (panic) (finding
+  2022-09-06 -            : Part-time employment (finding)
+  2021-08-31 -            : Stress (finding)
+  2021-08-31 - 2022-09-06 : Part-time employment (finding)
+  2020-12-21 - 2021-05-01 : Injury of anterior cruciate ligament
+  2020-08-25 - 2022-09-06 : Social isolation (finding)
+  2020-08-25 - 2021-08-31 : Full-time employment (finding)
+  2020-08-25 -            : Hyperlipidemia
+  2015-07-28 - 2020-08-25 : Stress (finding)
+  2013-07-16 - 2014-07-22 : Stress (finding)
+  2013-07-16 - 2014-07-22 : Part-time employment (finding)
+  2011-07-05 - 2012-07-10 : Stress (finding)
+  2009-06-23 -            : Body mass index 30+ - obesity (finding)
+  2008-06-17 - 2010-06-29 : Stress (finding)
+  2006-06-06 - 2007-06-12 : Stress (finding)
+  2004-05-25 - 2005-05-31 : Stress (finding)
+  2004-02-17 - 2004-05-25 : Part-time employment (finding)
+  2000-05-02 - 2002-05-14 : Stress (finding)
+  2000-05-02 -            : Anemia (disorder)
+  2000-05-02 -            : Hypertension
+  1994-04-26 -            : Prediabetes
+  1991-04-23 - 1994-04-26 : Stress (finding)
+  1991-04-23 -            : Lack of access to transportation (finding)
+  1990-04-17 -            : Transport problems (finding)
+  1990-04-17 -            : Received higher education (finding)
+  1980-11-01 -            : Chronic sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2020-12-21[STOPPED] : Physiotherapy care plan (record artifact)
+                         Reason: Injury of anterior cruciate ligament
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  2020-09-15[CURRENT] : Hyperlipidemia clinical management plan
+                         Reason: Hyperlipidemia
+                         Activity: low salt diet education
+                         Activity: physical exercise
+  2000-05-02[CURRENT] : Lifestyle education regarding hypertension
+                         Reason: Hypertension
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  1994-04-26[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1973-01-07[CURRENT] : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-09-15 : Lipid Panel
+           - Total Cholesterol                        167.4 mg/dL
+           - Triglycerides                            167.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      146.0 mg/dL
+           - High Density Lipoprotein Cholesterol     70.7 mg/dL
+  2022-09-15 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  92.0 mg/dL
+           - Urea Nitrogen                            12.9 mg/dL
+           - Creatinine                               3.5 mg/dL
+           - Calcium                                  8.8 mg/dL
+           - Sodium                                   139.5 mmol/L
+           - Potassium                                4.6 mmol/L
+           - Chloride                                 105.1 mmol/L
+           - Carbon Dioxide                           22.1 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 84.3 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 7.3 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.2 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.8 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.1 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 27.0 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 42.4 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 17.3 U/L
+  2022-09-07 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    0.0 {score}
+  2022-09-07 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2022-09-06 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 20.0 {score}
+  2022-09-06 : Basic Metabolic Panel
+           - Glucose                                  73.5 mg/dL
+           - Urea Nitrogen                            8.2 mg/dL
+           - Creatinine                               0.8 mg/dL
+           - Calcium                                  9.7 mg/dL
+           - Sodium                                   136.2 mmol/L
+           - Potassium                                4.6 mmol/L
+           - Chloride                                 105.5 mmol/L
+           - Carbon Dioxide                           25.9 mmol/L
+  2021-09-15 : Lipid Panel
+           - Total Cholesterol                        182.2 mg/dL
+           - Triglycerides                            169.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      110.3 mg/dL
+           - High Density Lipoprotein Cholesterol     41.5 mg/dL
+  2021-09-15 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  80.2 mg/dL
+           - Urea Nitrogen                            12.6 mg/dL
+           - Creatinine                               2.7 mg/dL
+           - Calcium                                  9.9 mg/dL
+           - Sodium                                   140.1 mmol/L
+           - Potassium                                4.8 mmol/L
+           - Chloride                                 109.8 mmol/L
+           - Carbon Dioxide                           22.4 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 77.1 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 6.4 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 5.1 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.3 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.1 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 124.3 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 58.8 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11.8 U/L
+  2021-09-01 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    2.0 {score}
+  2021-09-01 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-08-31 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2021-08-31 : Basic Metabolic Panel
+           - Glucose                                  71.7 mg/dL
+           - Urea Nitrogen                            14.7 mg/dL
+           - Creatinine                               0.8 mg/dL
+           - Calcium                                  9.1 mg/dL
+           - Sodium                                   141.1 mmol/L
+           - Potassium                                3.9 mmol/L
+           - Chloride                                 106.3 mmol/L
+           - Carbon Dioxide                           22.3 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-09-15 : High Density Lipoprotein Cholesterol     70.7 mg/dL
+  2022-09-15 : Low Density Lipoprotein Cholesterol      146.0 mg/dL
+  2022-09-15 : Triglycerides                            167.2 mg/dL
+  2022-09-15 : Total Cholesterol                        167.4 mg/dL
+  2022-09-15 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 17.3 U/L
+  2022-09-15 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 42.4 U/L
+  2022-09-15 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 27.0 U/L
+  2022-09-15 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.1 mg/dL
+  2022-09-15 : Globulin [Mass/volume] in Serum by calculation 2.8 g/L
+  2022-09-15 : Albumin [Mass/volume] in Serum or Plasma 4.2 g/dL
+  2022-09-15 : Protein [Mass/volume] in Serum or Plasma 7.3 g/dL
+  2022-09-15 : Glomerular filtration rate/1.73 sq M.predicted 84.3 mL/min
+  2022-09-15 : Carbon Dioxide                           22.1 mmol/L
+  2022-09-15 : Chloride                                 105.1 mmol/L
+  2022-09-15 : Potassium                                4.6 mmol/L
+  2022-09-15 : Sodium                                   139.5 mmol/L
+  2022-09-15 : Calcium                                  8.8 mg/dL
+  2022-09-15 : Creatinine                               3.5 mg/dL
+  2022-09-15 : Urea Nitrogen                            12.9 mg/dL
+  2022-09-15 : Glucose                                  92.0 mg/dL
+  2022-09-07 : Total score [AUDIT-C]                    0.0 {score}
+  2022-09-07 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2022-09-06 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 20.0 {score}
+  2022-09-06 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? Yes, it has kept me from non-medical meetings, appointments, work, or from getting things that I need 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 9872 /a
+           - What is your main insurance?             Medicaid 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             799 Steuber Drive Apt 56 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 7.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2022-09-06 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2022-09-06 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-09-06 : Carbon Dioxide                           25.9 mmol/L
+  2022-09-06 : Chloride                                 105.5 mmol/L
+  2022-09-06 : Potassium                                4.6 mmol/L
+  2022-09-06 : Sodium                                   136.2 mmol/L
+  2022-09-06 : Calcium                                  9.7 mg/dL
+  2022-09-06 : Creatinine                               0.8 mg/dL
+  2022-09-06 : Urea Nitrogen                            8.2 mg/dL
+  2022-09-06 : Glucose                                  73.5 mg/dL
+  2022-09-06 : Respiratory rate                         13.0 /min
+  2022-09-06 : Heart rate                               99.0 /min
+  2022-09-06 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  2022-09-06 : Body Mass Index                          30.2 kg/m2
+  2022-09-06 : Body Weight                              76.8 kg
+  2022-09-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2022-09-06 : Body Height                              159.4 cm
+  2021-09-15 : High Density Lipoprotein Cholesterol     41.5 mg/dL
+  2021-09-15 : Low Density Lipoprotein Cholesterol      110.3 mg/dL
+  2021-09-15 : Triglycerides                            169.5 mg/dL
+  2021-09-15 : Total Cholesterol                        182.2 mg/dL
+  2021-09-15 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11.8 U/L
+  2021-09-15 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 58.8 U/L
+  2021-09-15 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 124.3 U/L
+  2021-09-15 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.1 mg/dL
+  2021-09-15 : Globulin [Mass/volume] in Serum by calculation 2.3 g/L
+  2021-09-15 : Albumin [Mass/volume] in Serum or Plasma 5.1 g/dL
+  2021-09-15 : Protein [Mass/volume] in Serum or Plasma 6.4 g/dL
+  2021-09-15 : Glomerular filtration rate/1.73 sq M.predicted 77.1 mL/min
+  2021-09-15 : Carbon Dioxide                           22.4 mmol/L
+  2021-09-15 : Chloride                                 109.8 mmol/L
+  2021-09-15 : Potassium                                4.8 mmol/L
+  2021-09-15 : Sodium                                   140.1 mmol/L
+  2021-09-15 : Calcium                                  9.9 mg/dL
+  2021-09-15 : Creatinine                               2.7 mg/dL
+  2021-09-15 : Urea Nitrogen                            12.6 mg/dL
+  2021-09-15 : Glucose                                  80.2 mg/dL
+  2021-09-01 : Total score [DAST-10]                    2.0 {score}
+  2021-09-01 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-08-31 : Total score [HARK]                       0.0 {score}
+  2021-08-31 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? Yes, it has kept me from non-medical meetings, appointments, work, or from getting things that I need 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 9872 /a
+           - What is your main insurance?             Medicaid 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             799 Steuber Drive Apt 56 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 7.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-08-31 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+  2021-08-31 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-08-31 : Carbon Dioxide                           22.3 mmol/L
+  2021-08-31 : Chloride                                 106.3 mmol/L
+  2021-08-31 : Potassium                                3.9 mmol/L
+  2021-08-31 : Sodium                                   141.1 mmol/L
+  2021-08-31 : Calcium                                  9.1 mg/dL
+  2021-08-31 : Creatinine                               0.8 mg/dL
+  2021-08-31 : Urea Nitrogen                            14.7 mg/dL
+  2021-08-31 : Glucose                                  71.7 mg/dL
+  2021-08-31 : Respiratory rate                         13.0 /min
+  2021-08-31 : Heart rate                               96.0 /min
+  2021-08-31 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2021-08-31 : Body Mass Index                          30.2 kg/m2
+  2021-08-31 : Body Weight                              76.8 kg
+  2021-08-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2021-08-31 : Body Height                              159.4 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-09-07 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2022-09-07 : Assessment of substance use (procedure)
+  2022-09-06 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2022-09-06 : Depression screening (procedure)
+  2022-09-06 : Assessment of anxiety (procedure)
+  2022-09-06 : Assessment of health and social care needs (procedure)
+  2022-02-22 : Colonoscopy
+  2021-09-01 : Screening for drug abuse (procedure)
+  2021-09-01 : Assessment of substance use (procedure)
+  2021-08-31 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-08-31 : Depression screening (procedure)
+  2021-08-31 : Screening for domestic abuse (procedure)
+  2021-08-31 : Assessment of health and social care needs (procedure)
+  2021-03-30 : Discharge from skilled nursing facility (procedure)
+  2021-03-30 : Pre-discharge assessment (procedure)
+  2021-03-29 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-03-28 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-03-27 : Professional / ancillary services care (regime/therapy)
+  2021-03-27 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-03-26 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-03-25 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-03-24 : Professional / ancillary services care (regime/therapy)
+  2021-03-24 : Occupational therapy (regime/therapy)
+  2021-03-24 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-03-23 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-03-22 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-03-21 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-03-20 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-03-19 : Professional / ancillary services care (regime/therapy)
+  2021-03-19 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-03-18 : Professional / ancillary services care (regime/therapy)
+  2021-03-18 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-03-17 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-03-16 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-03-15 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-03-14 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-03-13 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-03-12 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-03-11 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-03-10 : Occupational therapy (regime/therapy)
+  2021-03-10 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-03-09 : Speech and language therapy regime (regime/therapy
+  2021-03-09 : Physical therapy procedure (regime/therapy)
+  2021-03-09 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-03-08 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-03-07 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-03-06 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-03-05 : Professional / ancillary services care (regime/therapy)
+  2021-03-05 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-03-04 : Physical therapy procedure (regime/therapy)
+  2021-03-04 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-03-03 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-03-02 : Occupational therapy (regime/therapy)
+  2021-03-02 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-03-01 : Professional / ancillary services care (regime/therapy)
+  2021-03-01 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-02-28 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-02-27 : Professional / ancillary services care (regime/therapy)
+  2021-02-27 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-02-26 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-02-25 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-02-24 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-02-23 : Professional / ancillary services care (regime/therapy)
+  2021-02-23 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-02-22 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-02-21 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-02-20 : Occupational therapy (regime/therapy)
+  2021-02-20 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-02-19 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-02-18 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-02-17 : Professional / ancillary services care (regime/therapy)
+  2021-02-17 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-02-16 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-02-15 : Speech and language therapy regime (regime/therapy
+  2021-02-15 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-02-14 : Professional / ancillary services care (regime/therapy)
+  2021-02-14 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-02-13 : Professional / ancillary services care (regime/therapy)
+  2021-02-13 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-02-12 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-02-11 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-02-10 : Professional / ancillary services care (regime/therapy)
+  2021-02-10 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-02-09 : Professional / ancillary services care (regime/therapy)
+  2021-02-09 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-02-08 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-02-07 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-02-06 : Physical therapy procedure (regime/therapy)
+  2021-02-06 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-02-05 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-02-04 : Speech and language therapy regime (regime/therapy
+  2021-02-04 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-02-03 : Professional / ancillary services care (regime/therapy)
+  2021-02-03 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-02-02 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-02-01 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-01-31 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-01-30 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-01-29 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-01-28 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-01-27 : Professional / ancillary services care (regime/therapy)
+  2021-01-27 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-01-26 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-01-25 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-01-24 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-01-23 : Occupational therapy (regime/therapy)
+  2021-01-23 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-01-22 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-01-21 : Occupational therapy (regime/therapy)
+  2021-01-21 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-01-20 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-01-19 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-01-18 : Speech and language therapy regime (regime/therapy
+  2021-01-18 : Occupational therapy (regime/therapy)
+  2021-01-18 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-01-17 : Professional / ancillary services care (regime/therapy)
+  2021-01-17 : Physical therapy procedure (regime/therapy)
+  2021-01-17 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-01-16 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-01-15 : Professional / ancillary services care (regime/therapy)
+  2021-01-15 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-01-14 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-01-13 : Professional / ancillary services care (regime/therapy)
+  2021-01-13 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-01-12 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-01-11 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-01-10 : Professional / ancillary services care (regime/therapy)
+  2021-01-10 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-01-09 : Professional / ancillary services care (regime/therapy)
+  2021-01-09 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-01-08 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-01-07 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-01-06 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-01-05 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-01-04 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-01-03 : Professional / ancillary services care (regime/therapy)
+  2021-01-03 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-01-02 : Nursing care/supplementary surveillance (regime/therapy)
+  2021-01-01 : Nursing care/supplementary surveillance (regime/therapy)
+  2020-12-31 : Nursing care/supplementary surveillance (regime/therapy)
+  2020-12-30 : Speech and language therapy regime (regime/therapy
+  2020-12-30 : Nursing care/supplementary surveillance (regime/therapy)
+  2020-12-29 : Nursing care/supplementary surveillance (regime/therapy)
+  2020-12-29 : Development of individualized plan of care (procedure)
+  2020-12-29 : Initial patient assessment (procedure)
+  2020-12-29 : History AND physical examination (procedure)
+  2020-12-28 : Surgical manipulation of joint of knee for Injury of anterior cruciate ligament
+  2020-12-21 : Knee X-ray
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-09-06 : Influenza, seasonal, injectable, preservative free
+  2022-09-06 : zoster
+  2021-08-31 : Influenza, seasonal, injectable, preservative free
+  2021-05-11 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+  2021-04-13 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-09-15 (Dr. Jesus Roob) : Encounter at STEWARD ST. ANNES HOSPITAL CORPORATION : Encounter for Hyperlipidemia
+2022-09-06 (Dr. Micheal Larkin) : Encounter at VMD PRIMARY PROVIDERS OF RHODE ISLAND PC
+2022-02-22 (Dr. Jesus Roob) : Encounter at STEWARD ST. ANNES HOSPITAL CORPORATION
+2021-09-15 (Dr. Jesus Roob) : Encounter at STEWARD ST. ANNES HOSPITAL CORPORATION : Encounter for Hyperlipidemia
+2021-08-31 (Dr. Micheal Larkin) : Encounter at VMD PRIMARY PROVIDERS OF RHODE ISLAND PC
+2021-05-11 (Dr. Jesus Roob) : Encounter at STEWARD ST. ANNES HOSPITAL CORPORATION
+2021-04-13 (Dr. Jesus Roob) : Encounter at STEWARD ST. ANNES HOSPITAL CORPORATION
+2020-12-29 (Dr. Jane Schmeler) : Encounter at CLIFTON REHABILITATION NURSING CENTER
+2020-12-28 (Dr. Jesus Roob) : Encounter at STEWARD ST. ANNES HOSPITAL CORPORATION : Encounter for Injury of anterior cruciate ligament
+2020-12-21 (Dr. Jane Schmeler) : Encounter at CLIFTON REHABILITATION NURSING CENTER
+2020-09-15 (Dr. Jesus Roob) : Encounter at STEWARD ST. ANNES HOSPITAL CORPORATION : Encounter for Hyperlipidemia
+2020-08-25 (Dr. Micheal Larkin) : Encounter at VMD PRIMARY PROVIDERS OF RHODE ISLAND PC
+2019-08-20 (Dr. Micheal Larkin) : Encounter at VMD PRIMARY PROVIDERS OF RHODE ISLAND PC
+2018-08-14 (Dr. Micheal Larkin) : Encounter at VMD PRIMARY PROVIDERS OF RHODE ISLAND PC
+2017-08-08 (Dr. Micheal Larkin) : Encounter at VMD PRIMARY PROVIDERS OF RHODE ISLAND PC
+2016-08-02 (Dr. Micheal Larkin) : Encounter at VMD PRIMARY PROVIDERS OF RHODE ISLAND PC
+2015-07-28 (Dr. Micheal Larkin) : Encounter at VMD PRIMARY PROVIDERS OF RHODE ISLAND PC
+2014-07-22 (Dr. Micheal Larkin) : Encounter at VMD PRIMARY PROVIDERS OF RHODE ISLAND PC
+2013-07-16 (Dr. Micheal Larkin) : Encounter at VMD PRIMARY PROVIDERS OF RHODE ISLAND PC
+2012-07-10 (Dr. Micheal Larkin) : Encounter at VMD PRIMARY PROVIDERS OF RHODE ISLAND PC
+2011-07-05 (Dr. Micheal Larkin) : Encounter at VMD PRIMARY PROVIDERS OF RHODE ISLAND PC
+2010-06-29 (Dr. Micheal Larkin) : Encounter at VMD PRIMARY PROVIDERS OF RHODE ISLAND PC
+2009-06-23 (Dr. Micheal Larkin) : Encounter at VMD PRIMARY PROVIDERS OF RHODE ISLAND PC
+2008-06-17 (Dr. Micheal Larkin) : Encounter at VMD PRIMARY PROVIDERS OF RHODE ISLAND PC
+2007-06-12 (Dr. Micheal Larkin) : Encounter at VMD PRIMARY PROVIDERS OF RHODE ISLAND PC
+2006-06-06 (Dr. Micheal Larkin) : Encounter at VMD PRIMARY PROVIDERS OF RHODE ISLAND PC
+2005-05-31 (Dr. Micheal Larkin) : Encounter at VMD PRIMARY PROVIDERS OF RHODE ISLAND PC
+2004-05-25 (Dr. Micheal Larkin) : Encounter at VMD PRIMARY PROVIDERS OF RHODE ISLAND PC
+2004-02-17 (Dr. Jesus Roob) : Encounter at STEWARD ST. ANNES HOSPITAL CORPORATION
+2003-05-20 (Dr. Micheal Larkin) : Encounter at VMD PRIMARY PROVIDERS OF RHODE ISLAND PC
+2002-05-14 (Dr. Micheal Larkin) : Encounter at VMD PRIMARY PROVIDERS OF RHODE ISLAND PC
+2001-05-08 (Dr. Micheal Larkin) : Encounter at VMD PRIMARY PROVIDERS OF RHODE ISLAND PC
+2000-05-02 (Dr. Jesus Roob) : Encounter at STEWARD ST. ANNES HOSPITAL CORPORATION : Encounter for Anemia (disorder)
+2000-05-02 (Dr. Micheal Larkin) : Encounter at VMD PRIMARY PROVIDERS OF RHODE ISLAND PC
+1994-04-26 (Dr. Micheal Larkin) : Encounter at VMD PRIMARY PROVIDERS OF RHODE ISLAND PC
+1991-04-23 (Dr. Micheal Larkin) : Encounter at VMD PRIMARY PROVIDERS OF RHODE ISLAND PC
+1990-04-14 (Dr. Jesus Roob) : Encounter at STEWARD ST. ANNES HOSPITAL CORPORATION
+1980-11-01 (Dr. Jesus Roob) : Encounter at STEWARD ST. ANNES HOSPITAL CORPORATION : Encounter for Acute bacterial sinusitis (disorder)
+1976-10-13 (Dr. Jesus Roob) : Encounter at STEWARD ST. ANNES HOSPITAL CORPORATION : Encounter for Perennial allergic rhinitis
+1973-01-20 (Dr. Jesus Roob) : Encounter at STEWARD ST. ANNES HOSPITAL CORPORATION
+1973-01-07 (Dr. Jesus Roob) : Encounter at STEWARD ST. ANNES HOSPITAL CORPORATION
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2020-12-21 : Digital Radiography, Knee
+--------------------------------------------------------------------------------

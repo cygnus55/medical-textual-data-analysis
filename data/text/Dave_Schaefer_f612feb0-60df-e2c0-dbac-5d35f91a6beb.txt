@@ -1,0 +1,111 @@
+Dave Schaefer
+=============
+Race:                Other
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 16
+Birth Date:          2006-10-31
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2021-12-10[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2021-12-09 - 2022-02-27 : Fracture of forearm
+  2018-04-18 -            : Child attention deficit disorder
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2021-12-10[STOPPED] : Fracture care
+                         Reason: Fracture of forearm
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+  2018-04-18[CURRENT] : Overactivity/inattention behavior management
+                         Activity: Counseling
+                         Activity: Psychological assessment
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-12-08 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 0.0 {score}
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-12-08 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 0.0 {score}
+  2021-12-07 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-12-07 : Respiratory rate                         14.0 /min
+  2021-12-07 : Heart rate                               65.0 /min
+  2021-12-07 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  122.0 mm[Hg]
+  2021-12-07 : Body mass index (BMI) [Percentile] Per age and gender 63.1 %
+  2021-12-07 : Body Mass Index                          20.9 kg/m2
+  2021-12-07 : Body Weight                              66.7 kg
+  2021-12-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2021-12-07 : Body Height                              178.7 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-11-17 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2022-10-10 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2022-09-05 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2022-07-30 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2022-06-23 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2022-05-15 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2022-04-16 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2022-03-18 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2022-02-11 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2022-01-14 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2021-12-09 : Bone immobilization for Fracture of forearm
+  2021-12-09 : Upper arm X-ray
+  2021-12-08 : Anticipatory guidance (procedure)
+  2021-12-08 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2021-12-08 : Assessment of substance use (procedure)
+  2021-12-07 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2021-12-04 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2021-12-07 : Depression screening (procedure)
+  2021-10-28 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2021-09-18 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2021-08-10 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2021-06-30 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2021-06-01 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2021-04-29 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2021-03-19 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2021-02-15 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2021-01-05 : Cognitive and behavioral therapy for Child attention deficit disorder
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-12-07 : Influenza, seasonal, injectable, preservative free
+  2021-07-20 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+  2021-06-22 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-11-17 (Dr. Jarvis Ankunding) : Encounter at SOUTHCOAST HOSPITALS GROUP INC : Encounter for Child attention deficit disorder
+2022-10-10 (Dr. Jarvis Ankunding) : Encounter at SOUTHCOAST HOSPITALS GROUP INC : Encounter for Child attention deficit disorder
+2022-09-05 (Dr. Jarvis Ankunding) : Encounter at SOUTHCOAST HOSPITALS GROUP INC : Encounter for Child attention deficit disorder
+2022-07-30 (Dr. Jarvis Ankunding) : Encounter at SOUTHCOAST HOSPITALS GROUP INC : Encounter for Child attention deficit disorder
+2022-06-23 (Dr. Jarvis Ankunding) : Encounter at SOUTHCOAST HOSPITALS GROUP INC : Encounter for Child attention deficit disorder
+2022-05-15 (Dr. Jarvis Ankunding) : Encounter at SOUTHCOAST HOSPITALS GROUP INC : Encounter for Child attention deficit disorder
+2022-04-16 (Dr. Jarvis Ankunding) : Encounter at SOUTHCOAST HOSPITALS GROUP INC : Encounter for Child attention deficit disorder
+2022-03-18 (Dr. Jarvis Ankunding) : Encounter at SOUTHCOAST HOSPITALS GROUP INC : Encounter for Child attention deficit disorder
+2022-02-27 (Dr. Jarvis Ankunding) : Encounter at SOUTHCOAST HOSPITALS GROUP INC : Encounter for Fracture of forearm
+2022-02-11 (Dr. Jarvis Ankunding) : Encounter at SOUTHCOAST HOSPITALS GROUP INC : Encounter for Child attention deficit disorder
+2022-01-14 (Dr. Jarvis Ankunding) : Encounter at SOUTHCOAST HOSPITALS GROUP INC : Encounter for Child attention deficit disorder
+2021-12-09 (Dr. Tynisha Howe) : Encounter at FALL RIVER JEWISH HOME, INC
+2021-12-04 (Dr. Jarvis Ankunding) : Encounter at SOUTHCOAST HOSPITALS GROUP INC : Encounter for Child attention deficit disorder
+2021-12-07 (Dr. Dorotha Kassulke) : Encounter at STANLEY STREET TREATMENT AND RESOURCES INC
+2021-10-28 (Dr. Parker Bailey) : Encounter at SOUTHCOAST HOSPITALS GROUP INC : Encounter for Child attention deficit disorder
+2021-09-18 (Dr. Jarvis Ankunding) : Encounter at SOUTHCOAST HOSPITALS GROUP INC : Encounter for Child attention deficit disorder
+2021-08-10 (Dr. Jarvis Ankunding) : Encounter at SOUTHCOAST HOSPITALS GROUP INC : Encounter for Child attention deficit disorder
+2021-07-20 (Dr. Jarvis Ankunding) : Encounter at SOUTHCOAST HOSPITALS GROUP INC
+2021-06-30 (Dr. Jarvis Ankunding) : Encounter at SOUTHCOAST HOSPITALS GROUP INC : Encounter for Child attention deficit disorder
+2021-06-22 (Dr. Jarvis Ankunding) : Encounter at SOUTHCOAST HOSPITALS GROUP INC
+2021-06-01 (Dr. Jarvis Ankunding) : Encounter at SOUTHCOAST HOSPITALS GROUP INC : Encounter for Child attention deficit disorder
+2021-04-29 (Dr. Jarvis Ankunding) : Encounter at SOUTHCOAST HOSPITALS GROUP INC : Encounter for Child attention deficit disorder
+2021-03-19 (Dr. Jarvis Ankunding) : Encounter at SOUTHCOAST HOSPITALS GROUP INC : Encounter for Child attention deficit disorder
+2021-02-15 (Dr. Jarvis Ankunding) : Encounter at SOUTHCOAST HOSPITALS GROUP INC : Encounter for Child attention deficit disorder
+2021-01-05 (Dr. Jarvis Ankunding) : Encounter at SOUTHCOAST HOSPITALS GROUP INC : Encounter for Child attention deficit disorder
+2018-04-18 (Dr. Jarvis Ankunding) : Encounter at SOUTHCOAST HOSPITALS GROUP INC : Encounter for Child attention deficit disorder
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2021-12-09 : Digital Radiography, Arm
+--------------------------------------------------------------------------------

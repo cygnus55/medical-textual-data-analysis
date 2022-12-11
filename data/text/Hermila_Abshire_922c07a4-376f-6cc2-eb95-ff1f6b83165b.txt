@@ -1,0 +1,58 @@
+Hermila Abshire
+===============
+Race:                Other
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 39
+Birth Date:          1983-04-27
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2020-07-15 -            : Full-time employment (finding)
+  2017-10-02 -            : Recurrent urinary tract infection
+  2017-07-12 -            : Victim of intimate partner abuse (finding)
+  2017-07-12 - 2020-07-15 : Full-time employment (finding)
+  2013-12-25 -            : Stress (finding)
+  2013-12-25 - 2014-07-09 : Full-time employment (finding)
+  2011-07-06 - 2013-12-25 : Full-time employment (finding)
+  2008-07-02 - 2011-07-06 : Full-time employment (finding)
+  2005-06-29 - 2008-07-02 : Full-time employment (finding)
+  2001-09-19 -            : Lack of access to transportation (finding)
+  2001-09-19 - 2002-06-26 : Full-time employment (finding)
+  2001-06-20 - 2005-06-29 : Stress (finding)
+  2001-06-20 -            : Transport problems (finding)
+  2001-06-20 - 2001-09-19 : Full-time employment (finding)
+  2001-06-20 -            : Received higher education (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+--------------------------------------------------------------------------------
+PROCEDURES:
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-03-03 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-02-10 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-03-03 (Dr. Saundra Kuphal) : Encounter at COOLEY DICKINSON HOSPITAL INC
+2021-02-10 (Dr. Saundra Kuphal) : Encounter at COOLEY DICKINSON HOSPITAL INC
+2020-07-15 (Dr. Natividad Davis) : Encounter at HILLTOWN COMMUNITY HEALTH CENTERS INC
+2017-10-02 (Dr. Saundra Kuphal) : Encounter at COOLEY DICKINSON HOSPITAL INC : Encounter for Escherichia coli urinary tract infection
+2017-07-12 (Dr. Natividad Davis) : Encounter at HILLTOWN COMMUNITY HEALTH CENTERS INC
+2013-12-25 (Dr. Saundra Kuphal) : Encounter at COOLEY DICKINSON HOSPITAL INC
+2011-07-06 (Dr. Natividad Davis) : Encounter at HILLTOWN COMMUNITY HEALTH CENTERS INC
+2008-07-02 (Dr. Natividad Davis) : Encounter at HILLTOWN COMMUNITY HEALTH CENTERS INC
+2005-06-29 (Dr. Natividad Davis) : Encounter at HILLTOWN COMMUNITY HEALTH CENTERS INC
+2001-09-19 (Dr. Saundra Kuphal) : Encounter at COOLEY DICKINSON HOSPITAL INC
+2001-06-20 (Dr. Natividad Davis) : Encounter at HILLTOWN COMMUNITY HEALTH CENTERS INC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

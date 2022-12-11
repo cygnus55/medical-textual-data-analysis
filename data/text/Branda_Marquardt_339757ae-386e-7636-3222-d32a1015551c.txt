@@ -1,0 +1,241 @@
+Branda Marquardt
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 25
+Birth Date:          1997-08-28
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2022-12-01[CURRENT] : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+  2022-12-01[CURRENT] : 72 HR Fentanyl 0.025 MG/HR Transdermal System
+  2021-11-25[STOPPED] : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+  2021-11-25[STOPPED] : 72 HR Fentanyl 0.025 MG/HR Transdermal System
+  2021-04-01[CURRENT] : Vitamin B 12 5 MG/ML Injectable Solution
+  2020-11-19[STOPPED] : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+  2020-11-19[STOPPED] : 72 HR Fentanyl 0.025 MG/HR Transdermal System
+  2019-11-14[STOPPED] : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+  2019-11-14[STOPPED] : 72 HR Fentanyl 0.025 MG/HR Transdermal System
+  2018-11-08[STOPPED] : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+  2018-11-08[STOPPED] : 72 HR Fentanyl 0.025 MG/HR Transdermal System
+  2017-11-02[STOPPED] : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+  2017-11-02[STOPPED] : 72 HR Fentanyl 0.025 MG/HR Transdermal System
+  2016-10-27[STOPPED] : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+  2016-10-27[STOPPED] : 72 HR Fentanyl 0.025 MG/HR Transdermal System
+  2015-11-30[STOPPED] : 72 HR Fentanyl 0.025 MG/HR Transdermal System
+  2015-10-22[STOPPED] : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+  2015-10-03[STOPPED] : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-12-01 -            : Part-time employment (finding)
+  2022-02-17 - 2022-02-24 : Viral sinusitis (disorder)
+  2021-11-25 - 2022-12-01 : Full-time employment (finding)
+  2021-04-01 - 2021-10-28 : Anemia (disorder)
+  2021-04-01 - 2021-10-28 : Normal pregnancy
+  2020-11-19 - 2021-11-25 : Full-time employment (finding)
+  2019-11-14 -            : Stress (finding)
+  2017-11-02 - 2018-11-08 : Stress (finding)
+  2017-11-02 - 2022-12-01 : Social isolation (finding)
+  2017-11-02 - 2018-11-08 : Part-time employment (finding)
+  2017-11-02 -            : Body mass index 30+ - obesity (finding)
+  2015-10-22 -            : Has a criminal record (finding)
+  2015-10-22 -            : Received certificate of high school equivalency (finding)
+  2015-10-03 -            : Chronic neck pain (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2021-04-01[STOPPED] : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2015-11-30[CURRENT] : Therapy (regime/therapy)
+                         Activity: Physical therapy procedure (regime/therapy)
+                         Activity: Cognitive and behavioral therapy (regime/therapy)
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-12-01 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 9.0 {score}
+  2021-04-01 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Hemoglobin [Mass/volume] in Blood        11.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood    34.0 %
+           - WBC Auto (Bld) [#/Vol]                   4.5 10*3/uL
+           - RBC Auto (Bld) [#/Vol]                   4.6 10*6/uL
+           - MCV [Entitic volume] by Automated count  94.8 fL
+           - MCH [Entitic mass] by Automated count    27.6 pg
+           - MCHC [Mass/volume] by Automated count    33.1 g/dL
+           - RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol] 42.7 fL
+           - Platelets [#/volume] in Blood by Automated count 348.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 240.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.1 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-12-01 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 9.0 {score}
+  2022-12-01 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Quite a bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 122177 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             881 Treutel Mill 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2022-12-01 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-12-01 : Respiratory rate                         14.0 /min
+  2022-12-01 : Heart rate                               80.0 /min
+  2022-12-01 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  124.0 mm[Hg]
+  2022-12-01 : Body Mass Index                          37.4 kg/m2
+  2022-12-01 : Body Weight                              103.7 kg
+  2022-12-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2022-12-01 : Body Height                              166.5 cm
+  2021-11-25 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 122177 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             881 Treutel Mill 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-11-25 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-11-25 : Respiratory rate                         15.0 /min
+  2021-11-25 : Heart rate                               87.0 /min
+  2021-11-25 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  119.0 mm[Hg]
+  2021-11-25 : Body Mass Index                          36.7 kg/m2
+  2021-11-25 : Body Weight                              101.8 kg
+  2021-11-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2021-11-25 : Body Height                              166.5 cm
+  2021-04-01 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.1 fL
+  2021-04-01 : Platelet distribution width [Entitic volume] in Blood by Automated count 240.7 fL
+  2021-04-01 : Platelets [#/volume] in Blood by Automated count 348.9 10*3/uL
+  2021-04-01 : RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol] 42.7 fL
+  2021-04-01 : MCHC [Mass/volume] by Automated count    33.1 g/dL
+  2021-04-01 : MCH [Entitic mass] by Automated count    27.6 pg
+  2021-04-01 : MCV [Entitic volume] by Automated count  94.8 fL
+  2021-04-01 : RBC Auto (Bld) [#/Vol]                   4.6 10*6/uL
+  2021-04-01 : WBC Auto (Bld) [#/Vol]                   4.5 10*3/uL
+  2021-04-01 : Hematocrit [Volume Fraction] of Blood    34.0 %
+  2021-04-01 : Hemoglobin [Mass/volume] in Blood        11.1 g/dL
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-12-01 : Assessment of anxiety (procedure)
+  2022-12-01 : Medication Reconciliation (procedure)
+  2022-12-01 : Assessment of health and social care needs (procedure)
+  2021-12-09 : Depression screening
+  2021-12-09 : Physical examination following birth
+  2021-11-25 : Medication Reconciliation (procedure)
+  2021-11-25 : Assessment of health and social care needs (procedure)
+  2021-10-28 : Childbirth for Normal pregnancy
+  2021-10-28 : Epidural anesthesia for Normal pregnancy
+  2021-10-14 : Auscultation of the fetal heart for Normal pregnancy
+  2021-10-14 : Evaluation of uterine fundal height for Normal pregnancy
+  2021-10-14 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2021-09-16 : Auscultation of the fetal heart for Normal pregnancy
+  2021-09-16 : Evaluation of uterine fundal height for Normal pregnancy
+  2021-08-19 : Auscultation of the fetal heart for Normal pregnancy
+  2021-08-19 : Evaluation of uterine fundal height for Normal pregnancy
+  2021-08-19 : Urine screening for glucose for Normal pregnancy
+  2021-08-19 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2021-08-19 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2021-07-22 : Auscultation of the fetal heart for Normal pregnancy
+  2021-07-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2021-06-24 : Auscultation of the fetal heart for Normal pregnancy
+  2021-06-24 : Evaluation of uterine fundal height for Normal pregnancy
+  2021-05-27 : Auscultation of the fetal heart for Normal pregnancy
+  2021-05-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2021-05-27 : Alpha-fetoprotein test for Normal pregnancy
+  2021-05-27 : Fetal anatomy study for Normal pregnancy
+  2021-04-29 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2021-04-29 : Auscultation of the fetal heart for Normal pregnancy
+  2021-04-29 : Evaluation of uterine fundal height for Normal pregnancy
+  2021-04-01 : Brief general examination (procedure)
+  2021-04-01 : Medication Reconciliation (procedure)
+  2021-04-01 : Review of systems (procedure)
+  2021-04-01 : Peripheral blood smear interpretation
+  2021-04-01 : Physical examination of mother for Normal pregnancy
+  2021-04-01 : Urine protein test for Normal pregnancy
+  2021-04-01 : Skin test for tuberculosis for Normal pregnancy
+  2021-04-01 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2021-04-01 : Rubella screening for Normal pregnancy
+  2021-04-01 : Hepatitis C antibody test for Normal pregnancy
+  2021-04-01 : Urine screening test for diabetes for Normal pregnancy
+  2021-04-01 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2021-04-01 : Urine culture for Normal pregnancy
+  2021-04-01 : Syphilis infection test for Normal pregnancy
+  2021-04-01 : Gonorrhea infection test for Normal pregnancy
+  2021-04-01 : Chlamydia antigen test for Normal pregnancy
+  2021-04-01 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2021-04-01 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2021-04-01 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2021-04-01 : Blood typing, RH typing for Normal pregnancy
+  2021-04-01 : Auscultation of the fetal heart for Normal pregnancy
+  2021-04-01 : Evaluation of uterine fundal height for Normal pregnancy
+  2021-04-01 : Ultrasound scan for fetal viability for Normal pregnancy
+  2021-04-01 : Standard pregnancy test for Normal pregnancy
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-12-01 : Influenza, seasonal, injectable, preservative free
+  2021-11-25 : Influenza, seasonal, injectable, preservative free
+  2021-04-22 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+  2021-03-25 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-12-01 (Dr. Hank Schneider) : Encounter at LOWELL FAMILY MEDICAL CARE PC
+2022-02-17 (Dr. Marcus Schamberger) : Encounter at THE LOWELL GENERAL HOSPITAL : Encounter for Viral sinusitis (disorder)
+2021-12-09 (Dr. Marcus Schamberger) : Encounter at THE LOWELL GENERAL HOSPITAL
+2021-11-25 (Dr. Hank Schneider) : Encounter at LOWELL FAMILY MEDICAL CARE PC
+2021-10-28 (Dr. Karri Reinger) : Encounter at D'YOUVILLE SENIOR CARE : Encounter for Normal pregnancy
+2021-10-14 (Dr. Marcus Schamberger) : Encounter at THE LOWELL GENERAL HOSPITAL : Encounter for Normal pregnancy
+2021-09-16 (Dr. Marcus Schamberger) : Encounter at THE LOWELL GENERAL HOSPITAL : Encounter for Normal pregnancy
+2021-08-19 (Dr. Marcus Schamberger) : Encounter at THE LOWELL GENERAL HOSPITAL : Encounter for Normal pregnancy
+2021-07-22 (Dr. Marcus Schamberger) : Encounter at THE LOWELL GENERAL HOSPITAL : Encounter for Normal pregnancy
+2021-06-24 (Dr. Marcus Schamberger) : Encounter at THE LOWELL GENERAL HOSPITAL : Encounter for Normal pregnancy
+2021-05-27 (Dr. Marcus Schamberger) : Encounter at THE LOWELL GENERAL HOSPITAL : Encounter for Normal pregnancy
+2021-04-29 (Dr. Marcus Schamberger) : Encounter at THE LOWELL GENERAL HOSPITAL : Encounter for Normal pregnancy
+2021-04-22 (Dr. Marcus Schamberger) : Encounter at THE LOWELL GENERAL HOSPITAL
+2021-04-01 (Dr. Marcus Schamberger) : Encounter at THE LOWELL GENERAL HOSPITAL : Encounter for Anemia (disorder)
+2021-04-01 (Dr. Marcus Schamberger) : Encounter at THE LOWELL GENERAL HOSPITAL : Encounter for Normal pregnancy
+2021-03-25 (Dr. Marcus Schamberger) : Encounter at THE LOWELL GENERAL HOSPITAL
+2020-11-19 (Dr. Hank Schneider) : Encounter at LOWELL FAMILY MEDICAL CARE PC
+2019-11-14 (Dr. Hank Schneider) : Encounter at LOWELL FAMILY MEDICAL CARE PC
+2018-11-08 (Dr. Hank Schneider) : Encounter at LOWELL FAMILY MEDICAL CARE PC
+2017-11-02 (Dr. Hank Schneider) : Encounter at LOWELL FAMILY MEDICAL CARE PC
+2016-10-27 (Dr. Hank Schneider) : Encounter at LOWELL FAMILY MEDICAL CARE PC
+2015-11-30 (Dr. Marcus Schamberger) : Encounter at THE LOWELL GENERAL HOSPITAL
+2015-10-22 (Dr. Hank Schneider) : Encounter at LOWELL FAMILY MEDICAL CARE PC
+2015-10-03 (Dr. Marcus Schamberger) : Encounter at THE LOWELL GENERAL HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

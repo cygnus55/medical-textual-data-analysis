@@ -1,0 +1,70 @@
+Stanford Sauer
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 10
+Birth Date:          2012-05-13
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2022-11-30[CURRENT] : atomoxetine 100 MG Oral Capsule for Child attention deficit disorder
+  2021-11-02[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-11-30 -            : Child attention deficit disorder
+  2021-11-02 - 2021-11-11 : Acute bronchitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2022-11-30[CURRENT] : Overactivity/inattention behavior management
+                         Activity: Counseling
+                         Activity: Psychological assessment
+  2021-11-02[STOPPED] : Respiratory therapy
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+--------------------------------------------------------------------------------
+REPORTS:
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-05-22 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-05-22 : Respiratory rate                         13.0 /min
+  2022-05-22 : Heart rate                               80.0 /min
+  2022-05-22 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  133.0 mm[Hg]
+  2022-05-22 : Body mass index (BMI) [Percentile] Per age and gender 80.2 %
+  2022-05-22 : Body Mass Index                          18.8 kg/m2
+  2022-05-22 : Body Weight                              36.6 kg
+  2022-05-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2022-05-22 : Body Height                              139.7 cm
+  2021-05-16 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-05-16 : Respiratory rate                         14.0 /min
+  2021-05-16 : Heart rate                               86.0 /min
+  2021-05-16 : Blood Pressure
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  131.0 mm[Hg]
+  2021-05-16 : Body mass index (BMI) [Percentile] Per age and gender 75.5 %
+  2021-05-16 : Body Mass Index                          17.6 kg/m2
+  2021-05-16 : Body Weight                              31.9 kg
+  2021-05-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2021-05-16 : Body Height                              134.5 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-05-22 : Medication Reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-11-14 : Influenza, seasonal, injectable, preservative free
+  2021-05-16 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-11-30 (Dr. Veronika Rogahn) : Encounter at T MASSACHUSETTS, LLC : Encounter for Child attention deficit disorder
+2022-05-22 (Dr. Terrence Wintheiser) : Encounter at RUTLAND FAMILY HEALTH CENTER
+2021-11-14 (Dr. Bud Parisian) : Encounter at CAREWELL URGENT CARE CENTERS OF MA, PC
+2021-11-02 (Dr. Veronika Rogahn) : Encounter at T MASSACHUSETTS, LLC : Encounter for Acute bronchitis (disorder)
+2021-05-16 (Dr. Terrence Wintheiser) : Encounter at RUTLAND FAMILY HEALTH CENTER
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

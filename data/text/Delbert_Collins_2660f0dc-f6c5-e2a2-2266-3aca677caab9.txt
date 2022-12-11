@@ -1,0 +1,228 @@
+Delbert Collins
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 56
+Birth Date:          1965-12-23
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2022-10-12[CURRENT] : sacubitril 97 MG / valsartan 103 MG Oral Tablet for Chronic congestive heart failure (disorder)
+  2022-10-12[CURRENT] : carvedilol 25 MG Oral Tablet for Chronic congestive heart failure (disorder)
+  2022-10-12[CURRENT] : Furosemide 40 MG Oral Tablet for Chronic congestive heart failure (disorder)
+  2015-12-31[CURRENT] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2015-12-31[CURRENT] : 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+  2015-12-31[CURRENT] : Simvastatin 20 MG Oral Tablet
+  2015-12-31[CURRENT] : Clopidogrel 75 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-09-23 -            : Chronic congestive heart failure (disorder)
+  2021-03-08 - 2021-04-01 : COVID-19
+  2021-03-08 - 2021-03-08 : Suspected COVID-19
+  2021-03-08 - 2021-04-01 : Loss of taste (finding)
+  2021-03-08 - 2021-04-01 : Fever (finding)
+  2021-03-08 - 2021-04-01 : Wheezing (finding)
+  2021-03-08 - 2021-04-01 : Dyspnea (finding)
+  2021-03-08 - 2021-04-01 : Fatigue (finding)
+  2021-03-08 - 2021-04-01 : Cough (finding)
+  2016-01-04 -            : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  2015-12-24 -            : Reports of violence in the environment (finding)
+  2015-12-24 -            : Part-time employment (finding)
+  2015-12-24 -            : Ischemic heart disease (disorder)
+  2014-01-16 -            : Victim of intimate partner abuse (finding)
+  2010-01-07 -            : Stress (finding)
+  2006-06-08 - 2008-01-03 : Stress (finding)
+  2006-06-08 - 2008-01-03 : Part-time employment (finding)
+  2005-12-29 - 2006-06-08 : Part-time employment (finding)
+  2000-03-09 - 2005-12-29 : Stress (finding)
+  1991-02-28 -            : Anemia (disorder)
+  1991-02-28 -            : Prediabetes
+  1988-02-25 - 1994-03-03 : Stress (finding)
+  1988-02-25 -            : Limited social contact (finding)
+  1988-02-25 -            : Body mass index 30+ - obesity (finding)
+  1984-02-16 - 1985-02-21 : Limited social contact (finding)
+  1984-02-16 -            : Received higher education (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2022-10-12[CURRENT] : Heart failure self management plan
+                         Reason: Chronic congestive heart failure (disorder)
+                         Activity: low salt diet education
+                         Activity: physical exercise
+  2021-03-08[STOPPED] : Infectious disease care plan (record artifact)
+                         Activity: Airborne precautions (procedure)
+                         Activity: Isolation of infected patient (procedure)
+  2021-03-08[STOPPED] : Infectious disease care plan (record artifact)
+                         Activity: Airborne precautions (procedure)
+                         Activity: Personal protective equipment (physical object)
+  1991-02-28[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-10-12 : Basic Metabolic Panel
+           - Glucose                                  65.0 mg/dL
+           - Urea Nitrogen                            13.9 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  9.3 mg/dL
+           - Sodium                                   142.9 mmol/L
+           - Potassium                                3.7 mmol/L
+           - Chloride                                 101.2 mmol/L
+           - Carbon Dioxide                           28.2 mmol/L
+  2022-10-12 : Heartfailure Tracking Panel
+           - Left ventricular Ejection fraction       27.4 %
+  2022-09-23 : New York Heart Association Functional Classification panel
+           - Functional capacity NYHA                 Class II 
+           - Objective assessment of cardiovascular disease NYHA Objective evidence of severe cardiovascular disease 
+  2022-09-23 : Iron and Iron binding capacity panel - Serum or Plasma
+           - Iron [Mass/volume] in Serum or Plasma    93.1 ug/dL
+           - Iron binding capacity [Mass/volume] in Serum or Plasma 400.9 ug/dL
+           - Iron saturation [Mass Fraction] in Serum or Plasma 19.9 %
+  2022-09-23 : Iron panel - Serum or Plasma
+           - Ferritin [Mass/volume] in Serum or Plasma 68.4 ug/L
+  2022-09-23 : Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+           - Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 0.0 pg/mL
+  2022-09-23 : Lipid Panel
+           - Total Cholesterol                        157.7 mg/dL
+           - Triglycerides                            114.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      80.9 mg/dL
+           - High Density Lipoprotein Cholesterol     53.9 mg/dL
+  2022-09-23 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 90.1 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 11.9 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 1.0 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 9.7 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 138.2 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.1 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 106.1 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 24.9 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 102.6 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 6.3 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.3 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 1.1 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 39.8 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 25.0 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 29.2 U/L
+  2022-09-23 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.0 %
+           - MCV [Entitic volume] by Automated count  87.9 fL
+           - MCH [Entitic mass] by Automated count    31.2 pg
+           - MCHC [Mass/volume] by Automated count    32.3 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 13.1 %
+           - Platelets [#/volume] in Blood by Automated count 393.6 10*3/uL
+  2021-03-08 : SARS-CoV-2 RNA Pnl Resp NAA+probe
+           - SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+  2021-03-08 : Influenza virus A and B Ag panel - Nasopharynx by Rapid immunoassay
+           - Influenza virus A Ag [Presence] in Nasopharynx by Rapid immunoassay Not detected (qualifier value) 
+           - Influenza virus B Ag [Presence] in Nasopharynx by Rapid immunoassay Not detected (qualifier value) 
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-10-12 : Carbon Dioxide                           28.2 mmol/L
+  2022-10-12 : Chloride                                 101.2 mmol/L
+  2022-10-12 : Potassium                                3.7 mmol/L
+  2022-10-12 : Sodium                                   142.9 mmol/L
+  2022-10-12 : Calcium                                  9.3 mg/dL
+  2022-10-12 : Creatinine                               1.0 mg/dL
+  2022-10-12 : Urea Nitrogen                            13.9 mg/dL
+  2022-10-12 : Glucose                                  65.0 mg/dL
+  2022-10-12 : Left ventricular Ejection fraction       27.4 %
+  2022-09-23 : Objective assessment of cardiovascular disease NYHA Objective evidence of severe cardiovascular disease 
+  2022-09-23 : Functional capacity NYHA                 Class II 
+  2022-09-23 : Iron saturation [Mass Fraction] in Serum or Plasma 19.9 %
+  2022-09-23 : Iron binding capacity [Mass/volume] in Serum or Plasma 400.9 ug/dL
+  2022-09-23 : Iron [Mass/volume] in Serum or Plasma    93.1 ug/dL
+  2022-09-23 : Ferritin [Mass/volume] in Serum or Plasma 68.4 ug/L
+  2022-09-23 : Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 0.0 pg/mL
+  2022-09-23 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2022-09-23 : High Density Lipoprotein Cholesterol     53.9 mg/dL
+  2022-09-23 : Low Density Lipoprotein Cholesterol      80.9 mg/dL
+  2022-09-23 : Triglycerides                            114.3 mg/dL
+  2022-09-23 : Total Cholesterol                        157.7 mg/dL
+  2022-09-23 : Magnesium [Mass/volume] in Serum or Plasma 2.0 mg/dL
+  2022-09-23 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 29.2 U/L
+  2022-09-23 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 25.0 U/L
+  2022-09-23 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 39.8 U/L
+  2022-09-23 : Bilirubin.total [Mass/volume] in Serum or Plasma 1.1 mg/dL
+  2022-09-23 : Albumin [Mass/volume] in Serum or Plasma 4.3 g/dL
+  2022-09-23 : Protein [Mass/volume] in Serum or Plasma 6.3 g/dL
+  2022-09-23 : Glomerular filtration rate/1.73 sq M.predicted 102.6 mL/min
+  2022-09-23 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 24.9 mmol/L
+  2022-09-23 : Chloride [Moles/volume] in Serum or Plasma 106.1 mmol/L
+  2022-09-23 : Potassium [Moles/volume] in Serum or Plasma 4.1 mmol/L
+  2022-09-23 : Sodium [Moles/volume] in Serum or Plasma 138.2 mmol/L
+  2022-09-23 : Calcium [Mass/volume] in Serum or Plasma 9.7 mg/dL
+  2022-09-23 : Creatinine [Mass/volume] in Serum or Plasma 1.0 mg/dL
+  2022-09-23 : Urea nitrogen [Mass/volume] in Serum or Plasma 11.9 mg/dL
+  2022-09-23 : Glucose [Mass/volume] in Serum or Plasma 90.1 mg/dL
+  2022-09-23 : Platelets [#/volume] in Blood by Automated count 393.6 10*3/uL
+  2022-09-23 : Erythrocyte distribution width [Ratio] by Automated count 13.1 %
+  2022-09-23 : MCHC [Mass/volume] by Automated count    32.3 g/dL
+  2022-09-23 : MCH [Entitic mass] by Automated count    31.2 pg
+  2022-09-23 : MCV [Entitic volume] by Automated count  87.9 fL
+  2022-09-23 : Hematocrit [Volume Fraction] of Blood by Automated count 40.0 %
+  2022-09-23 : Hemoglobin [Mass/volume] in Blood        15.2 g/dL
+  2022-09-23 : Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+  2022-09-23 : Leukocytes [#/volume] in Blood by Automated count 6.4 10*3/uL
+  2022-09-23 : NT-proBNP                                1984.0 pg/mL
+  2022-09-23 : Body Weight                              83.6 kg
+  2022-09-23 : Symptom                                  Rales (finding) 
+  2022-09-23 : Symptom                                  Edema (finding) 
+  2022-09-23 : Symptom                                  Orthopnea (finding) 
+  2022-09-23 : Symptom                                  Paroxysmal dyspnea (finding) 
+  2022-09-23 : Symptom                                  Dyspnea (finding) 
+  2022-09-23 : Symptom                                  Dyspnea on exertion (finding) 
+  2021-03-08 : SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+  2021-03-08 : Influenza virus B Ag [Presence] in Nasopharynx by Rapid immunoassay Not detected (qualifier value) 
+  2021-03-08 : Influenza virus A Ag [Presence] in Nasopharynx by Rapid immunoassay Not detected (qualifier value) 
+  2021-03-08 : Body Weight                              91.0 kg
+  2021-03-08 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  76.0 mm[Hg]
+  2021-03-08 : Oxygen saturation in Arterial blood      86.4 %
+  2021-03-08 : Heart rate                               160.2 /min
+  2021-03-08 : Respiratory rate                         21.0 /min
+  2021-03-08 : Body temperature                         40.5 Cel
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-10-12 : Medication Reconciliation (procedure)
+  2022-10-12 : Echocardiography (procedure)
+  2022-09-23 : Assessment using New York Heart Association Classification (procedure) for Chronic congestive heart failure (disorder)
+  2022-09-23 : Plain chest X-ray (procedure)
+  2022-09-23 : Electrocardiographic procedure for Chronic congestive heart failure (disorder)
+  2021-03-08 : Face mask (physical object) for Suspected COVID-19
+  2020-12-23 : Colonoscopy
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-04-29 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+  2021-04-01 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-10-12 (Dr. Gabriel Reilly) : Encounter at Fitchburg Outpatient Clinic : Encounter for Chronic congestive heart failure (disorder)
+2022-09-23 (Dr. Gabriel Reilly) : Encounter at Fitchburg Outpatient Clinic : Encounter for Chronic congestive heart failure (disorder)
+2021-04-29 (Dr. Rocio Montaño) : Encounter at CAMBRIDGE PUBLIC HEALTH COMMISSION
+2021-04-01 (Dr. Rocio Montaño) : Encounter at CAMBRIDGE PUBLIC HEALTH COMMISSION
+2021-03-08 (Dr. Rocio Montaño) : Encounter at CAMBRIDGE PUBLIC HEALTH COMMISSION
+2020-12-23 (Dr. Rocio Montaño) : Encounter at CAMBRIDGE PUBLIC HEALTH COMMISSION
+2016-01-04 (Dr. Gabriel Reilly) : Encounter at Fitchburg Outpatient Clinic : Encounter for Ischemic heart disease (disorder)
+2015-12-26 (Dr. Rocio Montaño) : Encounter at CAMBRIDGE PUBLIC HEALTH COMMISSION : Encounter for Viral sinusitis (disorder)
+2015-12-24 (Dr. Rocio Montaño) : Encounter at CAMBRIDGE PUBLIC HEALTH COMMISSION
+2014-01-16 (Dr. Enriqueta Barton) : Encounter at DAVIS SQUARE FAMILY PRACTICE
+2010-01-07 (Dr. Enriqueta Barton) : Encounter at DAVIS SQUARE FAMILY PRACTICE
+2006-06-08 (Dr. Rocio Montaño) : Encounter at CAMBRIDGE PUBLIC HEALTH COMMISSION
+2005-12-29 (Dr. Enriqueta Barton) : Encounter at DAVIS SQUARE FAMILY PRACTICE
+2000-03-09 (Dr. Enriqueta Barton) : Encounter at DAVIS SQUARE FAMILY PRACTICE
+1991-02-28 (Dr. Enriqueta Barton) : Encounter at DAVIS SQUARE FAMILY PRACTICE
+1988-02-25 (Dr. Enriqueta Barton) : Encounter at DAVIS SQUARE FAMILY PRACTICE
+1984-02-16 (Dr. Enriqueta Barton) : Encounter at DAVIS SQUARE FAMILY PRACTICE
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2022-10-12 : Ultrasound, Heart structure (body structure)
+  2022-09-23 : Computed Radiography, Thoracic structure (body structure)
+--------------------------------------------------------------------------------

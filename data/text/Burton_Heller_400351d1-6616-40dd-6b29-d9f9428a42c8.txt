@@ -1,0 +1,109 @@
+Burton Heller
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 17
+Birth Date:          2005-09-14
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-11-02 -            : Risk activity involvement (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-11-02 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2022-11-02 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2021-10-27 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2021-10-27 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2021-10-27 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 43.7 %
+           - MCV [Entitic volume] by Automated count  93.0 fL
+           - MCH [Entitic mass] by Automated count    31.1 pg
+           - MCHC [Mass/volume] by Automated count    34.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.9 fL
+           - Platelets [#/volume] in Blood by Automated count 366.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 196.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.1 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-11-02 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2022-11-02 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2022-11-02 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-11-02 : Respiratory rate                         14.0 /min
+  2022-11-02 : Heart rate                               86.0 /min
+  2022-11-02 : Blood Pressure
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  139.0 mm[Hg]
+  2022-11-02 : Body mass index (BMI) [Percentile] Per age and gender 51.7 %
+  2022-11-02 : Body Mass Index                          21.4 kg/m2
+  2022-11-02 : Body Weight                              65.0 kg
+  2022-11-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2022-11-02 : Body Height                              174.2 cm
+  2021-10-27 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2021-10-27 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2021-10-27 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-10-27 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.1 fL
+  2021-10-27 : Platelet distribution width [Entitic volume] in Blood by Automated count 196.5 fL
+  2021-10-27 : Platelets [#/volume] in Blood by Automated count 366.5 10*3/uL
+  2021-10-27 : Erythrocyte distribution width [Entitic volume] by Automated count 44.9 fL
+  2021-10-27 : MCHC [Mass/volume] by Automated count    34.1 g/dL
+  2021-10-27 : MCH [Entitic mass] by Automated count    31.1 pg
+  2021-10-27 : MCV [Entitic volume] by Automated count  93.0 fL
+  2021-10-27 : Hematocrit [Volume Fraction] of Blood by Automated count 43.7 %
+  2021-10-27 : Hemoglobin [Mass/volume] in Blood        13.1 g/dL
+  2021-10-27 : Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+  2021-10-27 : Leukocytes [#/volume] in Blood by Automated count 5.1 10*3/uL
+  2021-10-27 : Respiratory rate                         15.0 /min
+  2021-10-27 : Heart rate                               74.0 /min
+  2021-10-27 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  137.0 mm[Hg]
+  2021-10-27 : Body mass index (BMI) [Percentile] Per age and gender 65.2 %
+  2021-10-27 : Body Mass Index                          21.8 kg/m2
+  2021-10-27 : Body Weight                              64.8 kg
+  2021-10-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2021-10-27 : Body Height                              172.5 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-11-02 : Health risks education (procedure) for Risk activity involvement (finding)
+  2022-11-02 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2022-11-02 : Assessment of substance use (procedure)
+  2022-11-02 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2022-11-02 : Depression screening (procedure)
+  2022-11-02 : Assessment of anxiety (procedure)
+  2021-10-27 : Anticipatory guidance (procedure)
+  2021-10-27 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2021-10-27 : Assessment of substance use (procedure)
+  2021-10-27 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2021-10-27 : Depression screening (procedure)
+  2021-10-27 : Assessment of anxiety (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-11-02 : Influenza, seasonal, injectable, preservative free
+  2021-10-27 : meningococcal MCV4P
+  2021-10-27 : Influenza, seasonal, injectable, preservative free
+  2021-09-29 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-09-08 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-11-02 (Dr. Larisa Kris) : Encounter at HARBORLIGHT FAMILY MEDICINE, PC
+2021-10-27 (Dr. Larisa Kris) : Encounter at HARBORLIGHT FAMILY MEDICINE, PC
+2021-09-29 (Dr. Joanna Abbott) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+2021-09-08 (Dr. Joanna Abbott) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

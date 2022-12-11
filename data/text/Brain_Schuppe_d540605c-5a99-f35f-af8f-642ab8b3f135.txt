@@ -1,0 +1,92 @@
+Brain Schuppe
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 17
+Birth Date:          2005-09-25
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-11-13 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2021-11-07 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 38.3 %
+           - MCV [Entitic volume] by Automated count  90.7 fL
+           - MCH [Entitic mass] by Automated count    27.9 pg
+           - MCHC [Mass/volume] by Automated count    34.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.8 fL
+           - Platelets [#/volume] in Blood by Automated count 301.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 406.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-11-13 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2022-11-13 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-11-13 : Respiratory rate                         13.0 /min
+  2022-11-13 : Heart rate                               67.0 /min
+  2022-11-13 : Blood Pressure
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2022-11-13 : Body mass index (BMI) [Percentile] Per age and gender 36.5 %
+  2022-11-13 : Body Mass Index                          20.4 kg/m2
+  2022-11-13 : Body Weight                              66.9 kg
+  2022-11-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2022-11-13 : Body Height                              181.2 cm
+  2021-11-07 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-11-07 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+  2021-11-07 : Platelet distribution width [Entitic volume] in Blood by Automated count 406.0 fL
+  2021-11-07 : Platelets [#/volume] in Blood by Automated count 301.5 10*3/uL
+  2021-11-07 : Erythrocyte distribution width [Entitic volume] by Automated count 39.8 fL
+  2021-11-07 : MCHC [Mass/volume] by Automated count    34.7 g/dL
+  2021-11-07 : MCH [Entitic mass] by Automated count    27.9 pg
+  2021-11-07 : MCV [Entitic volume] by Automated count  90.7 fL
+  2021-11-07 : Hematocrit [Volume Fraction] of Blood by Automated count 38.3 %
+  2021-11-07 : Hemoglobin [Mass/volume] in Blood        16.8 g/dL
+  2021-11-07 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  2021-11-07 : Leukocytes [#/volume] in Blood by Automated count 9.7 10*3/uL
+  2021-11-07 : Respiratory rate                         14.0 /min
+  2021-11-07 : Heart rate                               86.0 /min
+  2021-11-07 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2021-11-07 : Body mass index (BMI) [Percentile] Per age and gender 51.8 %
+  2021-11-07 : Body Mass Index                          20.7 kg/m2
+  2021-11-07 : Body Weight                              67.0 kg
+  2021-11-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2021-11-07 : Body Height                              179.7 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-11-13 : Anticipatory guidance (procedure)
+  2022-11-13 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2022-11-13 : Assessment of substance use (procedure)
+  2022-11-13 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2022-11-13 : Depression screening (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-11-13 : Influenza, seasonal, injectable, preservative free
+  2021-11-07 : meningococcal MCV4P
+  2021-11-07 : Influenza, seasonal, injectable, preservative free
+  2021-08-29 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+  2021-08-01 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-11-13 (Dr. Erica Goyette) : Encounter at SPECTRUM HEALTHCARE PARTNERS PA
+2021-11-07 (Dr. Erica Goyette) : Encounter at SPECTRUM HEALTHCARE PARTNERS PA
+2021-08-29 (Dr. Cira Hane) : Encounter at DANA FARBER CANCER INSTITUTE
+2021-08-01 (Dr. Cira Hane) : Encounter at DANA FARBER CANCER INSTITUTE
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

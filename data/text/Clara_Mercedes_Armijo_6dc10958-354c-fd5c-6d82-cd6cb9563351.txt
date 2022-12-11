@@ -1,0 +1,224 @@
+Clara Mercedes Armijo
+=====================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 45
+Birth Date:          1977-09-19
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2022-10-04[CURRENT] : NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+  2021-08-01[STOPPED] : Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution for Acute bronchitis (disorder)
+  2020-10-09[STOPPED] : Levora 0.15/30 28 Day Pack
+  2014-11-07[STOPPED] : NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2021-10-04 -            : Full-time employment (finding)
+  2021-08-16 - 2021-10-04 : Stress (finding)
+  2021-08-16 - 2021-10-04 : Full-time employment (finding)
+  2021-08-01 - 2021-08-10 : Acute bronchitis (disorder)
+  2019-09-30 - 2021-08-16 : Unhealthy alcohol drinking behavior (finding)
+  2019-09-30 - 2021-08-16 : Full-time employment (finding)
+  2017-09-25 - 2019-09-30 : Full-time employment (finding)
+  2014-12-29 -            : Refugee (person)
+  2014-12-29 - 2017-09-25 : Full-time employment (finding)
+  2014-01-06 -            : Victim of intimate partner abuse (finding)
+  2008-12-22 - 2011-12-26 : Full-time employment (finding)
+  2005-12-19 - 2008-12-22 : Full-time employment (finding)
+  2002-12-16 - 2005-12-19 : Full-time employment (finding)
+  2002-12-16 -            : Anemia (disorder)
+  2002-12-16 -            : Prediabetes
+  1999-12-13 - 2002-12-16 : Full-time employment (finding)
+  1996-12-09 - 1999-12-13 : Victim of intimate partner abuse (finding)
+  1995-12-04 -            : Received certificate of high school equivalency (finding)
+  1994-11-28 -            : Risk activity involvement (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2021-08-01[STOPPED] : Respiratory therapy
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2002-12-16[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-10-04 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    2.0 {score}
+  2021-10-04 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2021-10-04 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2021-10-04 : Basic Metabolic Panel
+           - Glucose                                  83.3 mg/dL
+           - Urea Nitrogen                            12.2 mg/dL
+           - Creatinine                               1.5 mg/dL
+           - Calcium                                  9.0 mg/dL
+           - Sodium                                   142.3 mmol/L
+           - Potassium                                4.4 mmol/L
+           - Chloride                                 108.4 mmol/L
+           - Carbon Dioxide                           25.7 mmol/L
+  2021-08-16 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    0.0 {score}
+  2021-08-16 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2021-08-16 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2021-08-16 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 5.0 {score}
+  2021-08-16 : Basic Metabolic Panel
+           - Glucose                                  72.8 mg/dL
+           - Urea Nitrogen                            17.4 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  10.0 mg/dL
+           - Sodium                                   139.8 mmol/L
+           - Potassium                                5.2 mmol/L
+           - Chloride                                 110.8 mmol/L
+           - Carbon Dioxide                           23.7 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-10-04 : Total score [DAST-10]                    2.0 {score}
+  2021-10-04 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2021-10-04 : Total score [HARK]                       0.0 {score}
+  2021-10-04 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Unsure 
+           - Are you a refugee?                       Yes 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 128905 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             978 Lind Highlands 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 8.0 {#}
+           - What language are you most comfortable speaking? Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-10-04 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2021-10-04 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-10-04 : Carbon Dioxide                           25.7 mmol/L
+  2021-10-04 : Chloride                                 108.4 mmol/L
+  2021-10-04 : Potassium                                4.4 mmol/L
+  2021-10-04 : Sodium                                   142.3 mmol/L
+  2021-10-04 : Calcium                                  9.0 mg/dL
+  2021-10-04 : Creatinine                               1.5 mg/dL
+  2021-10-04 : Urea Nitrogen                            12.2 mg/dL
+  2021-10-04 : Glucose                                  83.3 mg/dL
+  2021-10-04 : Respiratory rate                         15.0 /min
+  2021-10-04 : Heart rate                               74.0 /min
+  2021-10-04 : Blood Pressure
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  2021-10-04 : Body Mass Index                          28.7 kg/m2
+  2021-10-04 : Body Weight                              76.4 kg
+  2021-10-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2021-10-04 : Body Height                              163.2 cm
+  2021-08-16 : Total score [AUDIT-C]                    0.0 {score}
+  2021-08-16 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2021-08-16 : Total score [HARK]                       0.0 {score}
+  2021-08-16 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 5.0 {score}
+  2021-08-16 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       Yes 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 128905 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             978 Lind Highlands 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 8.0 {#}
+           - What language are you most comfortable speaking? Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-08-16 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2021-08-16 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-08-16 : Carbon Dioxide                           23.7 mmol/L
+  2021-08-16 : Chloride                                 110.8 mmol/L
+  2021-08-16 : Potassium                                5.2 mmol/L
+  2021-08-16 : Sodium                                   139.8 mmol/L
+  2021-08-16 : Calcium                                  10.0 mg/dL
+  2021-08-16 : Creatinine                               0.9 mg/dL
+  2021-08-16 : Urea Nitrogen                            17.4 mg/dL
+  2021-08-16 : Glucose                                  72.8 mg/dL
+  2021-08-16 : Respiratory rate                         14.0 /min
+  2021-08-16 : Heart rate                               95.0 /min
+  2021-08-16 : Blood Pressure
+           - Diastolic Blood Pressure                 94.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  2021-08-16 : Body Mass Index                          28.6 kg/m2
+  2021-08-16 : Body Weight                              76.1 kg
+  2021-08-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2021-08-16 : Body Height                              163.2 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2021-10-09 : Insertion of intrauterine contraceptive device
+  2021-10-04 : Screening for drug abuse (procedure)
+  2021-10-04 : Assessment of substance use (procedure)
+  2021-10-04 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-10-04 : Depression screening (procedure)
+  2021-10-04 : Screening for domestic abuse (procedure)
+  2021-10-04 : Assessment of health and social care needs (procedure)
+  2021-08-16 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2021-08-16 : Assessment of substance use (procedure)
+  2021-08-16 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-08-16 : Depression screening (procedure)
+  2021-08-16 : Screening for domestic abuse (procedure)
+  2021-08-16 : Assessment of anxiety (procedure)
+  2021-08-16 : Assessment of health and social care needs (procedure)
+  2021-08-01 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-10-04 : Influenza, seasonal, injectable, preservative free
+  2021-08-16 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+  2021-08-16 : Influenza, seasonal, injectable, preservative free
+  2021-08-09 : Influenza, seasonal, injectable, preservative free
+  2021-07-19 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-10-04 (Dr. Azucena Crona) : Encounter at HOLY FAMILY HOSPITAL
+2021-10-09 (Dr. Azucena Crona) : Encounter at HOLY FAMILY HOSPITAL
+2021-10-04 (Dr. Azucena Crona) : Encounter at HOLY FAMILY HOSPITAL
+2021-10-04 (Dr. Fabian Larkin) : Encounter at BLUESKIES WELLNESS INC
+2021-08-16 (Dr. Azucena Crona) : Encounter at HOLY FAMILY HOSPITAL
+2021-08-16 (Dr. Azucena Crona) : Encounter at HOLY FAMILY HOSPITAL
+2021-08-09 (Dr. Terrie Ratke) : Encounter at MIDDLETON FAMILY MEDICINE URGENT CARE, LLC
+2021-08-01 (Dr. Azucena Crona) : Encounter at HOLY FAMILY HOSPITAL : Encounter for Acute bronchitis (disorder)
+2021-07-19 (Dr. Azucena Crona) : Encounter at HOLY FAMILY HOSPITAL
+2020-10-09 (Dr. Azucena Crona) : Encounter at HOLY FAMILY HOSPITAL
+2019-09-30 (Dr. Fabian Larkin) : Encounter at BLUESKIES WELLNESS INC
+2017-09-25 (Dr. Fabian Larkin) : Encounter at BLUESKIES WELLNESS INC
+2014-12-29 (Dr. Fabian Larkin) : Encounter at BLUESKIES WELLNESS INC
+2014-11-07 (Dr. Azucena Crona) : Encounter at HOLY FAMILY HOSPITAL
+2014-01-03 (Dr. Azucena Crona) : Encounter at HOLY FAMILY HOSPITAL : Encounter for Viral sinusitis (disorder)
+2008-12-22 (Dr. Fabian Larkin) : Encounter at BLUESKIES WELLNESS INC
+2005-12-19 (Dr. Fabian Larkin) : Encounter at BLUESKIES WELLNESS INC
+2002-12-19 (Dr. Azucena Crona) : Encounter at HOLY FAMILY HOSPITAL : Encounter for Viral sinusitis (disorder)
+2002-12-16 (Dr. Fabian Larkin) : Encounter at BLUESKIES WELLNESS INC
+1999-12-13 (Dr. Fabian Larkin) : Encounter at BLUESKIES WELLNESS INC
+1996-12-09 (Dr. Fabian Larkin) : Encounter at BLUESKIES WELLNESS INC
+1995-12-04 (Dr. Fabian Larkin) : Encounter at BLUESKIES WELLNESS INC
+1994-11-28 (Dr. Fabian Larkin) : Encounter at BLUESKIES WELLNESS INC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

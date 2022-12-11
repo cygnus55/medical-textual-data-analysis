@@ -1,0 +1,276 @@
+Cassi Elda Schoen
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 DECEASED
+Birth Date:          1968-04-16
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2014-08-31[STOPPED] : 4 ML norepinephrine 1 MG/ML Injection
+  2014-08-26[STOPPED] : 150 ML vancomycin 5 MG/ML Injection for Sepsis (disorder)
+  2014-08-26[STOPPED] : piperacillin 2000 MG / tazobactam 250 MG Injection for Sepsis (disorder)
+  2014-06-03[CURRENT] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2013-05-28[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2012-05-22[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2011-05-17[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2010-05-04[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2009-04-28[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2008-04-22[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2008-04-22[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2008-04-22[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2014-08-31 -            : Acute respiratory distress syndrome (disorder)
+  2014-08-26 -            : Sepsis (disorder)
+  2014-06-03 -            : Stress (finding)
+  2014-06-03 -            : Part-time employment (finding)
+  2013-05-28 - 2014-06-03 : Full-time employment (finding)
+  2012-05-22 - 2013-05-28 : Stress (finding)
+  2012-05-22 - 2013-05-28 : Full-time employment (finding)
+  2009-04-28 - 2010-05-04 : Part-time employment (finding)
+  2008-04-22 -            : Anemia (disorder)
+  2008-04-22 -            : Hypertension
+  2005-07-05 - 2011-05-17 : Stress (finding)
+  2002-07-02 - 2005-07-05 : Part-time employment (finding)
+  2002-07-02 -            : Prediabetes
+  1993-06-22 - 1994-03-01 : Stress (finding)
+  1990-06-19 - 2014-06-03 : Limited social contact (finding)
+  1989-06-13 -            : Miscarriage in first trimester
+  1987-06-16 - 1991-11-19 : Stress (finding)
+  1987-06-16 -            : Social isolation (finding)
+  1986-06-10 -            : Received higher education (finding)
+  1986-06-10 -            : Housing unsatisfactory (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2008-04-22[CURRENT] : Lifestyle education regarding hypertension
+                         Reason: Hypertension
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  2002-07-02[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2014-08-26 : Blood Culture, Routine
+           - Gram positive blood culture panel by Probe in Positive blood culture Positive (qualifier value) 
+  2014-06-03 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+  2014-06-03 : PHQ-9 quick depression assessment panel [Reported.PHQ]
+           - Patient Health Questionnaire 9 item (PHQ-9) total score [Reported] 13.0 {score}
+  2014-06-03 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 4.0 {score}
+  2014-06-03 : Basic Metabolic Panel
+           - Glucose                                  73.5 mg/dL
+           - Urea Nitrogen                            10.5 mg/dL
+           - Creatinine                               1.4 mg/dL
+           - Calcium                                  9.7 mg/dL
+           - Sodium                                   143.5 mmol/L
+           - Potassium                                4.9 mmol/L
+           - Chloride                                 110.3 mmol/L
+           - Carbon Dioxide                           21.8 mmol/L
+  2013-05-28 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    2.0 {score}
+  2013-05-28 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2013-05-28 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2013-05-28 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.9 %
+           - MCV [Entitic volume] by Automated count  81.8 fL
+           - MCH [Entitic mass] by Automated count    33.0 pg
+           - MCHC [Mass/volume] by Automated count    33.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.1 fL
+           - Platelets [#/volume] in Blood by Automated count 407.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 452.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.8 fL
+  2013-05-28 : Basic Metabolic Panel
+           - Glucose                                  89.5 mg/dL
+           - Urea Nitrogen                            10.1 mg/dL
+           - Creatinine                               0.8 mg/dL
+           - Calcium                                  10.0 mg/dL
+           - Sodium                                   141.2 mmol/L
+           - Potassium                                5.0 mmol/L
+           - Chloride                                 101.2 mmol/L
+           - Carbon Dioxide                           28.7 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2014-08-31 : Blood Pressure
+           - Diastolic Blood Pressure                 63.9 mm[Hg]
+           - Systolic Blood Pressure                  101.7 mm[Hg]
+  2014-08-31 : Lactate [Moles/volume] in Blood          1.8 mmol/L
+  2014-08-26 : Mean blood pressure                      90.4 mm[Hg]
+  2014-08-26 : Lactate [Moles/volume] in Blood          3.5 mmol/L
+  2014-08-26 : Oxygen Saturation                        92.0 %
+  2014-08-26 : Capillary refill [Time] of Nail bed      Increased capillary filling time (finding) 
+  2014-08-26 : Gram positive blood culture panel by Probe in Positive blood culture Positive (qualifier value) 
+  2014-06-03 : Total score [AUDIT-C]                    1.0 {score}
+  2014-06-03 : Patient Health Questionnaire 9 item (PHQ-9) total score [Reported] 13.0 {score}
+  2014-06-03 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 4.0 {score}
+  2014-06-03 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 51927 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             447 Senger Parade Suite 3 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 5.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2014-06-03 : Hemoglobin A1c/Hemoglobin.total in Blood 5.8 %
+  2014-06-03 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2014-06-03 : Carbon Dioxide                           21.8 mmol/L
+  2014-06-03 : Chloride                                 110.3 mmol/L
+  2014-06-03 : Potassium                                4.9 mmol/L
+  2014-06-03 : Sodium                                   143.5 mmol/L
+  2014-06-03 : Calcium                                  9.7 mg/dL
+  2014-06-03 : Creatinine                               1.4 mg/dL
+  2014-06-03 : Urea Nitrogen                            10.5 mg/dL
+  2014-06-03 : Glucose                                  73.5 mg/dL
+  2014-06-03 : Respiratory rate                         14.0 /min
+  2014-06-03 : Heart rate                               90.0 /min
+  2014-06-03 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  140.0 mm[Hg]
+  2014-06-03 : Body Mass Index                          27.9 kg/m2
+  2014-06-03 : Body Weight                              75.3 kg
+  2014-06-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2014-06-03 : Body Height                              164.2 cm
+  2013-05-28 : Total score [AUDIT-C]                    2.0 {score}
+  2013-05-28 : Total score [HARK]                       0.0 {score}
+  2013-05-28 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2013-05-28 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 51927 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             447 Senger Parade Suite 3 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 5.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2013-05-28 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2013-05-28 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2013-05-28 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.8 fL
+  2013-05-28 : Platelet distribution width [Entitic volume] in Blood by Automated count 452.8 fL
+  2013-05-28 : Platelets [#/volume] in Blood by Automated count 407.5 10*3/uL
+  2013-05-28 : Erythrocyte distribution width [Entitic volume] by Automated count 44.1 fL
+  2013-05-28 : MCHC [Mass/volume] by Automated count    33.0 g/dL
+  2013-05-28 : MCH [Entitic mass] by Automated count    33.0 pg
+  2013-05-28 : MCV [Entitic volume] by Automated count  81.8 fL
+  2013-05-28 : Hematocrit [Volume Fraction] of Blood by Automated count 40.9 %
+  2013-05-28 : Hemoglobin [Mass/volume] in Blood        17.4 g/dL
+  2013-05-28 : Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+  2013-05-28 : Leukocytes [#/volume] in Blood by Automated count 8.6 10*3/uL
+  2013-05-28 : Carbon Dioxide                           28.7 mmol/L
+  2013-05-28 : Chloride                                 101.2 mmol/L
+  2013-05-28 : Potassium                                5.0 mmol/L
+  2013-05-28 : Sodium                                   141.2 mmol/L
+  2013-05-28 : Calcium                                  10.0 mg/dL
+  2013-05-28 : Creatinine                               0.8 mg/dL
+  2013-05-28 : Urea Nitrogen                            10.1 mg/dL
+  2013-05-28 : Glucose                                  89.5 mg/dL
+  2013-05-28 : Respiratory rate                         14.0 /min
+  2013-05-28 : Heart rate                               65.0 /min
+  2013-05-28 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  140.0 mm[Hg]
+  2013-05-28 : Body Mass Index                          27.9 kg/m2
+  2013-05-28 : Body Weight                              75.3 kg
+  2013-05-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2013-05-28 : Body Height                              164.2 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2014-08-31 : Weaning from mechanically assisted ventilation (procedure) for Acute respiratory distress syndrome (disorder)
+  2014-08-31 : Artificial respiration (procedure) for Acute respiratory distress syndrome (disorder)
+  2014-08-31 : Resuscitation using intravenous fluid (procedure)
+  2014-08-31 : Admit to ICU (procedure)
+  2014-08-26 : Transfer to stepdown unit (procedure) for Sepsis (disorder)
+  2014-08-26 : Resuscitation using intravenous fluid (procedure) for Sepsis (disorder)
+  2014-07-29 : Intramuscular injection
+  2014-06-03 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2014-06-03 : Assessment of substance use (procedure)
+  2014-06-03 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2014-06-03 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2014-06-03 : Depression screening (procedure)
+  2014-06-03 : Assessment of health and social care needs (procedure)
+  2014-04-29 : Intramuscular injection
+  2014-01-28 : Intramuscular injection
+  2013-10-29 : Intramuscular injection
+  2013-07-30 : Intramuscular injection
+  2013-05-28 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2013-05-28 : Assessment of substance use (procedure)
+  2013-05-28 : Screening for domestic abuse (procedure)
+  2013-05-28 : Assessment of anxiety (procedure)
+  2013-05-28 : Assessment of health and social care needs (procedure)
+  2013-04-30 : Intramuscular injection
+  2013-01-29 : Intramuscular injection
+  2012-10-30 : Intramuscular injection
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2014-06-03 : Influenza, seasonal, injectable, preservative free
+  2013-05-28 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2014-08-26 (Dr. Shayla White) : Encounter at KINDRED AT HOME : Encounter for Sepsis (disorder)
+2014-07-29 (Dr. Cristi Miller) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC
+2014-06-03 (Dr. Paris Schmeler) : Encounter at HYANNIS FAMILY MEDICAL CARE PC
+2014-04-29 (Dr. Cristi Miller) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC
+2014-01-28 (Dr. Cristi Miller) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC
+2013-10-29 (Dr. Cristi Miller) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC
+2013-07-30 (Dr. Cristi Miller) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC
+2013-05-28 (Dr. Paris Schmeler) : Encounter at HYANNIS FAMILY MEDICAL CARE PC
+2013-04-30 (Dr. Cristi Miller) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC
+2013-01-29 (Dr. Cristi Miller) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC
+2012-10-30 (Dr. Cristi Miller) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC
+2012-05-22 (Dr. Paris Schmeler) : Encounter at HYANNIS FAMILY MEDICAL CARE PC
+2011-05-17 (Dr. Paris Schmeler) : Encounter at HYANNIS FAMILY MEDICAL CARE PC
+2010-05-04 (Dr. Cristi Miller) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC
+2009-05-05 (Dr. Cristi Miller) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC
+2009-04-28 (Dr. Paris Schmeler) : Encounter at HYANNIS FAMILY MEDICAL CARE PC
+2008-04-22 (Dr. Cristi Miller) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC : Encounter for Anemia (disorder)
+2008-04-22 (Dr. Paris Schmeler) : Encounter at HYANNIS FAMILY MEDICAL CARE PC
+2005-07-05 (Dr. Paris Schmeler) : Encounter at HYANNIS FAMILY MEDICAL CARE PC
+2002-07-02 (Dr. Paris Schmeler) : Encounter at HYANNIS FAMILY MEDICAL CARE PC
+1993-06-22 (Dr. Paris Schmeler) : Encounter at HYANNIS FAMILY MEDICAL CARE PC
+1990-06-19 (Dr. Paris Schmeler) : Encounter at HYANNIS FAMILY MEDICAL CARE PC
+1989-06-13 (Dr. Cristi Miller) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC : Encounter for Normal pregnancy
+1987-06-16 (Dr. Paris Schmeler) : Encounter at HYANNIS FAMILY MEDICAL CARE PC
+1986-06-09 (Dr. Cristi Miller) : Encounter at FALMOUTH HOSPITAL ASSOCIATION INC : Encounter for Concussion with no loss of consciousness
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

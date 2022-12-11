@@ -1,0 +1,42 @@
+Lyndon Wolff
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 36
+Birth Date:          1986-05-10
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2020-07-25 -            : Not in labor force (finding)
+  2020-07-25 -            : Body mass index 30+ - obesity (finding)
+  2017-07-22 - 2020-07-25 : Not in labor force (finding)
+  2004-07-03 -            : Limited social contact (finding)
+  2004-07-03 -            : Only received primary school education (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+--------------------------------------------------------------------------------
+PROCEDURES:
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-11-06 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-10-16 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-11-06 (Dr. Cletus Paucek) : Encounter at ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+2021-10-16 (Dr. Cletus Paucek) : Encounter at ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+2020-07-25 (Dr. Quentin Fritsch) : Encounter at RIVER'S EDGE PRIMARY CARE LLC
+2017-07-22 (Dr. Quentin Fritsch) : Encounter at RIVER'S EDGE PRIMARY CARE LLC
+2004-07-03 (Dr. Quentin Fritsch) : Encounter at RIVER'S EDGE PRIMARY CARE LLC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

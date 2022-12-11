@@ -1,0 +1,37 @@
+Trenton Walsh
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 21
+Birth Date:          2001-07-21
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2020-09-19 -            : Full-time employment (finding)
+  2019-09-14 - 2020-09-19 : Full-time employment (finding)
+  2019-09-14 -            : Received higher education (finding)
+  2016-02-07 -            : Chronic sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+--------------------------------------------------------------------------------
+PROCEDURES:
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2020-09-19 (Dr. Julienne Buckridge) : Encounter at READING FAMILY MEDICINE PC
+2019-09-14 (Dr. Julienne Buckridge) : Encounter at READING FAMILY MEDICINE PC
+2016-02-07 (Dr. Chanelle Schuster) : Encounter at TUFTS MEDICAL CENTER : Encounter for Sinusitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

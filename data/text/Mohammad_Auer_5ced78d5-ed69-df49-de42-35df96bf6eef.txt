@@ -1,0 +1,104 @@
+Mohammad Auer
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 20
+Birth Date:          2002-07-10
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-07-07 - 2022-07-21 : Acute viral pharyngitis (disorder)
+  2021-09-08 -            : Transport problems (finding)
+  2021-09-08 -            : Full-time employment (finding)
+  2021-07-05 - 2021-07-05 : Febrile neutropenia (disorder)
+  2021-07-05 - 2021-07-05 : Acute myeloid leukemia, disease (disorder)
+  2020-09-02 - 2021-09-08 : Stress (finding)
+  2020-09-02 - 2021-09-08 : Social isolation (finding)
+  2020-09-02 -            : Lack of access to transportation (finding)
+  2020-09-02 - 2021-09-08 : Not in labor force (finding)
+  2020-09-02 -            : Received higher education (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-09-08 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    2.0 {score}
+  2021-09-08 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2021-09-08 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-07-07 : Body temperature                         37.3 Cel
+  2021-09-08 : Total score [AUDIT-C]                    2.0 {score}
+  2021-09-08 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2021-09-08 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2021-09-08 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? Yes, it has kept me from non-medical meetings, appointments, work, or from getting things that I need 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 122170 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             194 Gusikowski Road 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 2.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-09-08 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-09-08 : Respiratory rate                         12.0 /min
+  2021-09-08 : Heart rate                               86.0 /min
+  2021-09-08 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  100.0 mm[Hg]
+  2021-09-08 : Body mass index (BMI) [Percentile] Per age and gender 88.7 %
+  2021-09-08 : Body Mass Index                          27.3 kg/m2
+  2021-09-08 : Body Weight                              92.6 kg
+  2021-09-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2021-09-08 : Body Height                              184.3 cm
+  2021-07-05 : Body Temperature                         101.2 [degF]
+  2021-07-05 : Neutrophils [#/volume] in Blood by Automated count 396.4 10*3/uL
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-07-07 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2021-09-08 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2021-09-08 : Assessment of substance use (procedure)
+  2021-09-08 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-09-08 : Depression screening (procedure)
+  2021-09-08 : Assessment of anxiety (procedure)
+  2021-09-08 : Medication Reconciliation (procedure)
+  2021-09-08 : Assessment of health and social care needs (procedure)
+  2021-07-05 : Transfer to stepdown for Acute myeloid leukemia, disease (disorder)
+  2021-07-05 : Chemotherapy (procedure) for Acute myeloid leukemia, disease (disorder)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-09-08 : Influenza, seasonal, injectable, preservative free
+  2021-06-09 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+  2021-05-12 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-07-07 (Dr. Guillermo Fay) : Encounter at NORWOOD HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2021-09-08 (Dr. Sallie Barrows) : Encounter at IDEAL HEALTHCARE SOLUTIONS LLC
+2021-07-05 (Dr. Abdul White) : Encounter at STEWARD NORWOOD HOSPITAL INC : Encounter for Acute myeloid leukemia, disease (disorder)
+2021-06-09 (Dr. Trinidad King) : Encounter at STEWARD NORWOOD HOSPITAL INC
+2021-05-12 (Dr. Trinidad King) : Encounter at STEWARD NORWOOD HOSPITAL INC
+2020-09-02 (Dr. Sallie Barrows) : Encounter at IDEAL HEALTHCARE SOLUTIONS LLC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,112 @@
+Marcell Reichel
+===============
+Race:                Asian
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 25
+Birth Date:          1997-06-16
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2022-07-26[CURRENT] : Levora 0.15/30 28 Day Pack
+  2021-07-31[STOPPED] : Natazia 28 Day Pack
+  2020-08-05[STOPPED] : Trinessa 28 Day Pack
+  2019-08-11[STOPPED] : Levora 0.15/30 28 Day Pack
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-08-22 -            : Victim of intimate partner abuse (finding)
+  2022-08-22 -            : Full-time employment (finding)
+  2019-08-19 - 2022-08-22 : Not in labor force (finding)
+  2016-08-15 - 2022-08-22 : Social isolation (finding)
+  2016-08-15 - 2019-08-19 : Full-time employment (finding)
+  2015-08-10 -            : Stress (finding)
+  2015-08-10 - 2016-08-15 : Full-time employment (finding)
+  2015-08-10 -            : Received higher education (finding)
+  2015-08-10 -            : Housing unsatisfactory (finding)
+  2002-10-04 -            : History of appendectomy
+  2002-10-04 -            : Appendicitis
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-08-22 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    0.0 {score}
+  2022-08-22 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2022-08-22 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       1.0 {score}
+  2022-08-22 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-08-22 : Total score [AUDIT-C]                    0.0 {score}
+  2022-08-22 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2022-08-22 : Total score [HARK]                       1.0 {score}
+  2022-08-22 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2022-08-22 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 37901 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             118 Cronin Rue Unit 75 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Asian 
+           - Are you Hispanic or Latino?              No 
+  2022-08-22 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-08-22 : Respiratory rate                         14.0 /min
+  2022-08-22 : Heart rate                               100.0 /min
+  2022-08-22 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  122.0 mm[Hg]
+  2022-08-22 : Body Mass Index                          24.5 kg/m2
+  2022-08-22 : Body Weight                              60.0 kg
+  2022-08-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2022-08-22 : Body Height                              156.6 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-08-22 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2022-08-22 : Assessment of substance use (procedure)
+  2022-08-22 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2022-08-22 : Depression screening (procedure)
+  2022-08-22 : Screening for domestic abuse (procedure)
+  2022-08-22 : Assessment of anxiety (procedure)
+  2022-08-22 : Medication Reconciliation (procedure)
+  2022-08-22 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-08-22 : Influenza, seasonal, injectable, preservative free
+  2021-03-01 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-02-08 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-08-22 (Dr. Norah Jenkins) : Encounter at CHARLES RIVER COMMUNITY HEALTH, INC
+2022-07-26 (Dr. Cristi Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION
+2021-07-31 (Dr. Cristi Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION
+2021-03-01 (Dr. Cristi Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION
+2021-02-08 (Dr. Cristi Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION
+2020-08-05 (Dr. Cristi Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION
+2019-08-19 (Dr. Norah Jenkins) : Encounter at CHARLES RIVER COMMUNITY HEALTH, INC
+2019-08-11 (Dr. Cristi Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION
+2016-08-15 (Dr. Norah Jenkins) : Encounter at CHARLES RIVER COMMUNITY HEALTH, INC
+2015-08-10 (Dr. Norah Jenkins) : Encounter at CHARLES RIVER COMMUNITY HEALTH, INC
+2002-10-04 (Dr. Haywood Strosin) : Encounter at ASSOCIATED PHYSICIANS OF HARVARD MEDICAL FACULTY PHYSICIANS AT BETH IS : Encounter for Appendicitis
+2002-10-04 (Dr. Neville Schoen) : Encounter at MARISTHILL NURSING & REHABILITATION CENTER : Encounter for Appendicitis
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

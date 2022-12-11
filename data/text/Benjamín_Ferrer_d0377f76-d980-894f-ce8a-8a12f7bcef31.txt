@@ -1,0 +1,69 @@
+Benjamín Ferrer
+===============
+Race:                Asian
+Ethnicity:           Hispanic
+Gender:              M
+Age:                 59
+Birth Date:          1963-02-08
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2013-03-22[CURRENT] : Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of hip
+  2007-03-02[CURRENT] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2007-03-02[CURRENT] : 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+  2007-03-02[CURRENT] : Simvastatin 20 MG Oral Tablet
+  2007-03-02[CURRENT] : Clopidogrel 75 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2013-03-22 -            : Osteoarthritis of hip
+  2007-03-04 -            : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  2007-02-23 -            : Not in labor force (finding)
+  2007-02-23 -            : Anemia (disorder)
+  2007-02-23 -            : Ischemic heart disease (disorder)
+  2005-02-18 -            : Prediabetes
+  2003-02-14 -            : Unhealthy alcohol drinking behavior (finding)
+  1994-04-22 -            : Stress (finding)
+  1988-04-15 - 1991-04-19 : Stress (finding)
+  1982-04-09 -            : Transport problems (finding)
+  1982-04-09 - 1985-04-12 : Not in labor force (finding)
+  1981-04-03 - 1982-04-09 : Stress (finding)
+  1981-04-03 -            : Lack of access to transportation (finding)
+  1981-04-03 -            : Received higher education (finding)
+  1981-04-03 -            : Housing unsatisfactory (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2013-03-22[CURRENT] : Musculoskeletal care
+                         Reason: Osteoarthritis of hip
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+  2005-02-18[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+--------------------------------------------------------------------------------
+REPORTS:
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+--------------------------------------------------------------------------------
+PROCEDURES:
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2013-03-22 (Dr. Latoyia Lindgren) : Encounter at DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER : Encounter for Osteoarthritis of hip
+2007-03-04 (Dr. Gabriel Reilly) : Encounter at Fitchburg Outpatient Clinic : Encounter for Ischemic heart disease (disorder)
+2007-03-02 (Dr. Gabriel Reilly) : Encounter at Fitchburg Outpatient Clinic : Encounter for Ischemic heart disease (disorder)
+2007-02-23 (Dr. Latoyia Lindgren) : Encounter at DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER : Encounter for Anemia (disorder)
+2007-02-23 (Dr. Lai Nicolas) : Encounter at UPHAMS CORNER HEALTH COMMITTEE INC
+2005-02-18 (Dr. Lai Nicolas) : Encounter at UPHAMS CORNER HEALTH COMMITTEE INC
+2003-02-14 (Dr. Lai Nicolas) : Encounter at UPHAMS CORNER HEALTH COMMITTEE INC
+1994-04-22 (Dr. Lai Nicolas) : Encounter at UPHAMS CORNER HEALTH COMMITTEE INC
+1988-04-15 (Dr. Lai Nicolas) : Encounter at UPHAMS CORNER HEALTH COMMITTEE INC
+1982-04-09 (Dr. Lai Nicolas) : Encounter at UPHAMS CORNER HEALTH COMMITTEE INC
+1981-04-03 (Dr. Lai Nicolas) : Encounter at UPHAMS CORNER HEALTH COMMITTEE INC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

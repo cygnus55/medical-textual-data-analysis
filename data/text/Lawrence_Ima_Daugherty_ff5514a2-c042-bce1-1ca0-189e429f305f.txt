@@ -1,0 +1,152 @@
+Lawrence Ima Daugherty
+======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 41
+Birth Date:          1981-02-03
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2021-02-09 -            : Full-time employment (finding)
+  2018-04-24 - 2021-02-09 : Full-time employment (finding)
+  2015-04-21 - 2018-04-24 : Full-time employment (finding)
+  2012-04-17 -            : Victim of intimate partner abuse (finding)
+  2012-04-17 - 2021-02-09 : Limited social contact (finding)
+  2009-04-14 - 2021-02-09 : Stress (finding)
+  2009-04-14 - 2012-04-17 : Full-time employment (finding)
+  2009-04-14 -            : Anemia (disorder)
+  2009-04-14 -            : Prediabetes
+  2007-07-24 -            : Miscarriage in first trimester
+  2003-04-08 - 2006-04-11 : Full-time employment (finding)
+  2000-04-04 - 2003-04-08 : Full-time employment (finding)
+  1999-03-30 -            : Received certificate of high school equivalency (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2009-04-14[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-02-09 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    2.0 {score}
+  2021-02-09 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-02-09 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2021-02-09 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.0 %
+           - MCV [Entitic volume] by Automated count  92.8 fL
+           - MCH [Entitic mass] by Automated count    27.1 pg
+           - MCHC [Mass/volume] by Automated count    33.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.4 fL
+           - Platelets [#/volume] in Blood by Automated count 406.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 420.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.1 fL
+  2021-02-09 : Basic Metabolic Panel
+           - Glucose                                  92.6 mg/dL
+           - Urea Nitrogen                            7.5 mg/dL
+           - Creatinine                               1.1 mg/dL
+           - Calcium                                  9.7 mg/dL
+           - Sodium                                   140.8 mmol/L
+           - Potassium                                4.9 mmol/L
+           - Chloride                                 110.1 mmol/L
+           - Carbon Dioxide                           23.5 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-02-09 : Total score [AUDIT-C]                    2.0 {score}
+  2021-02-09 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-02-09 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2021-02-09 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 21452 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             983 Stoltenberg Byway Unit 6 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 7.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-02-09 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2021-02-09 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-02-09 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.1 fL
+  2021-02-09 : Platelet distribution width [Entitic volume] in Blood by Automated count 420.7 fL
+  2021-02-09 : Platelets [#/volume] in Blood by Automated count 406.0 10*3/uL
+  2021-02-09 : Erythrocyte distribution width [Entitic volume] by Automated count 39.4 fL
+  2021-02-09 : MCHC [Mass/volume] by Automated count    33.0 g/dL
+  2021-02-09 : MCH [Entitic mass] by Automated count    27.1 pg
+  2021-02-09 : MCV [Entitic volume] by Automated count  92.8 fL
+  2021-02-09 : Hematocrit [Volume Fraction] of Blood by Automated count 46.0 %
+  2021-02-09 : Hemoglobin [Mass/volume] in Blood        16.2 g/dL
+  2021-02-09 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2021-02-09 : Leukocytes [#/volume] in Blood by Automated count 8.9 10*3/uL
+  2021-02-09 : Carbon Dioxide                           23.5 mmol/L
+  2021-02-09 : Chloride                                 110.1 mmol/L
+  2021-02-09 : Potassium                                4.9 mmol/L
+  2021-02-09 : Sodium                                   140.8 mmol/L
+  2021-02-09 : Calcium                                  9.7 mg/dL
+  2021-02-09 : Creatinine                               1.1 mg/dL
+  2021-02-09 : Urea Nitrogen                            7.5 mg/dL
+  2021-02-09 : Glucose                                  92.6 mg/dL
+  2021-02-09 : Respiratory rate                         15.0 /min
+  2021-02-09 : Heart rate                               65.0 /min
+  2021-02-09 : Blood Pressure
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  97.0 mm[Hg]
+  2021-02-09 : Body Mass Index                          29.5 kg/m2
+  2021-02-09 : Body Weight                              89.2 kg
+  2021-02-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2021-02-09 : Body Height                              173.9 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2021-02-09 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2021-02-09 : Assessment of substance use (procedure)
+  2021-02-09 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-02-09 : Depression screening (procedure)
+  2021-02-09 : Assessment of anxiety (procedure)
+  2021-02-09 : Medication Reconciliation (procedure)
+  2021-02-09 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-05-18 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-04-27 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-02-09 : Hep A, adult
+  2021-02-09 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-05-18 (Dr. Abdul White) : Encounter at STEWARD NORWOOD HOSPITAL INC
+2021-04-27 (Dr. Abdul White) : Encounter at STEWARD NORWOOD HOSPITAL INC
+2021-02-09 (Dr. Ethyl Rau) : Encounter at WALPOLE MEDICAL CENTER, PC
+2018-04-24 (Dr. Ethyl Rau) : Encounter at WALPOLE MEDICAL CENTER, PC
+2015-04-21 (Dr. Guillermo Fay) : Encounter at NORWOOD HOSPITAL : Encounter for Normal pregnancy
+2012-04-17 (Dr. Ethyl Rau) : Encounter at WALPOLE MEDICAL CENTER, PC
+2009-04-14 (Dr. Guillermo Fay) : Encounter at NORWOOD HOSPITAL : Encounter for Anemia (disorder)
+2009-04-14 (Dr. Ethyl Rau) : Encounter at WALPOLE MEDICAL CENTER, PC
+2007-07-24 (Dr. Guillermo Fay) : Encounter at NORWOOD HOSPITAL : Encounter for Normal pregnancy
+2003-04-08 (Dr. Ethyl Rau) : Encounter at WALPOLE MEDICAL CENTER, PC
+2000-04-04 (Dr. Ethyl Rau) : Encounter at WALPOLE MEDICAL CENTER, PC
+1999-03-30 (Dr. Ethyl Rau) : Encounter at WALPOLE MEDICAL CENTER, PC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

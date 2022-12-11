@@ -1,0 +1,605 @@
+Bernadine Monahan
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 56
+Birth Date:          1966-08-27
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1967-06-25 -            : Wheat (substance)
+  1967-06-25 -            : Soya bean (substance)
+  1967-06-25 -            : Aspirin
+  1967-06-25 -            : Tree pollen (substance)
+  1967-06-25 -            : Grass pollen (substance)
+  1967-06-25 -            : Animal dander (substance)
+  1967-06-25 -            : House dust mite (organism)
+  1967-06-25 -            : Mold (organism)
+  1967-06-25 -            : Latex (substance)
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2022-11-15[CURRENT] : Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet
+  2022-11-08[CURRENT] : Naproxen sodium 220 MG Oral Tablet
+  2022-08-13[CURRENT] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2022-08-13[CURRENT] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  2022-06-04[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2022-06-04[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  2021-06-12[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2021-06-12[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  2021-05-29[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2021-05-29[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  2020-05-23[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2020-05-23[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  2019-05-18[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2019-05-18[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  2019-03-02[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2019-03-02[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  2018-05-12[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2018-05-12[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  2017-05-06[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2017-05-06[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  2016-04-30[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2016-04-30[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  2015-04-25[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2015-04-25[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  2014-04-19[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2014-04-19[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  2013-04-13[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2013-04-13[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  2012-04-07[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2012-04-07[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  2011-12-24[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2011-12-24[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  2011-04-02[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2011-04-02[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  2010-03-27[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2010-03-27[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  2009-03-21[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2009-03-21[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  2008-03-15[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2008-03-15[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  2007-03-10[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2007-03-10[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  2006-03-04[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2006-03-04[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  2005-02-26[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2005-02-26[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  2005-02-12[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2005-02-12[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  2004-02-14[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2004-02-14[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  2003-02-08[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2003-02-08[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  2002-05-04[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2002-05-04[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  2002-02-02[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2002-02-02[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  2001-11-26[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+  2001-01-27[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2001-01-27[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  2000-01-22[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2000-01-22[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  1999-01-16[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1999-01-16[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  1998-01-10[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1998-01-10[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  1997-01-04[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1997-01-04[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  1995-12-30[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1995-12-30[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  1995-07-01[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1995-07-01[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  1995-07-01[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1995-07-01[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  1994-12-24[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1994-12-24[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  1993-12-18[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1993-12-18[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  1992-12-12[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1992-12-12[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  1991-12-07[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1991-12-07[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  1990-12-01[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1990-12-01[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  1989-11-25[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1989-11-25[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  1988-11-19[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1988-11-19[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  1987-11-14[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1987-11-14[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  1986-11-08[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1986-11-08[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  1985-11-02[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1985-11-02[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  1984-10-27[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1984-10-27[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  1984-10-13[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1984-10-13[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  1984-04-21[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1984-04-21[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  1983-10-15[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1983-10-15[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  1982-10-09[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1982-10-09[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  1981-10-03[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1981-10-03[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  1980-09-27[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1980-09-27[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  1979-09-22[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1979-09-22[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  1978-09-16[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1978-09-16[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  1977-09-10[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1977-09-10[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  1976-10-16[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1976-10-16[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  1976-09-04[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1976-09-04[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  1975-08-30[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1975-08-30[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  1974-08-24[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1974-08-24[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  1973-08-18[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1973-08-18[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  1973-06-30[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1973-06-30[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  1972-08-12[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1972-08-12[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  1972-06-08[CURRENT] : diphenhydrAMINE Hydrochloride 25 MG Oral Tablet
+  1971-11-13[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1971-11-13[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  1971-08-07[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1971-08-07[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  1970-08-01[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1970-08-01[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  1970-01-31[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1970-01-31[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  1969-08-02[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1969-08-02[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+  1969-05-03[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1969-05-03[STOPPED] : budesonide 0.25 MG/ML Inhalation Suspension for Childhood asthma
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-11-08 -            : Rupture of patellar tendon
+  2022-08-13 -            : Has a criminal record (finding)
+  2022-08-02 - 2022-08-14 : Acute viral pharyngitis (disorder)
+  2021-06-12 - 2021-06-24 : Viral sinusitis (disorder)
+  2021-05-29 - 2021-06-12 : Stress (finding)
+  2017-05-06 -            : Prediabetes
+  2012-04-07 - 2022-08-13 : Social isolation (finding)
+  2000-01-22 -            : Body mass index 30+ - obesity (finding)
+  1990-10-06 -            : Miscarriage in first trimester
+  1984-10-13 -            : Unemployed (finding)
+  1984-10-13 -            : Received higher education (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2022-11-08[CURRENT] : Physiotherapy care plan (record artifact)
+                         Reason: Rupture of patellar tendon
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  2017-05-06[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  2001-11-26[STOPPED] : Physiotherapy care plan (record artifact)
+                         Reason: Sprain of wrist
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  1969-05-03[CURRENT] : Asthma self management
+                         Reason: Childhood asthma
+                         Activity: Inhaled steroid therapy
+                         Activity: Home nebulizer therapy
+                         Activity: Breathing control
+  1967-06-14[CURRENT] : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-08-13 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-08-13 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 6.0 {score}
+  2022-08-13 : Basic Metabolic Panel
+           - Glucose                                  77.4 mg/dL
+           - Urea Nitrogen                            9.4 mg/dL
+           - Creatinine                               0.8 mg/dL
+           - Calcium                                  9.8 mg/dL
+           - Sodium                                   138.0 mmol/L
+           - Potassium                                4.7 mmol/L
+           - Chloride                                 110.8 mmol/L
+           - Carbon Dioxide                           26.9 mmol/L
+  2022-06-04 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+  2022-06-04 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2022-06-04 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2022-06-04 : Basic Metabolic Panel
+           - Glucose                                  75.7 mg/dL
+           - Urea Nitrogen                            16.2 mg/dL
+           - Creatinine                               0.8 mg/dL
+           - Calcium                                  8.8 mg/dL
+           - Sodium                                   142.0 mmol/L
+           - Potassium                                4.1 mmol/L
+           - Chloride                                 102.0 mmol/L
+           - Carbon Dioxide                           27.1 mmol/L
+  2021-06-12 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    0.0 {score}
+  2021-06-12 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2021-06-12 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2021-06-12 : Basic Metabolic Panel
+           - Glucose                                  85.0 mg/dL
+           - Urea Nitrogen                            19.4 mg/dL
+           - Creatinine                               0.8 mg/dL
+           - Calcium                                  8.5 mg/dL
+           - Sodium                                   142.6 mmol/L
+           - Potassium                                4.2 mmol/L
+           - Chloride                                 106.8 mmol/L
+           - Carbon Dioxide                           23.4 mmol/L
+  2021-05-29 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2021-05-29 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2021-05-29 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2021-05-29 : Lipid Panel
+           - Total Cholesterol                        150.8 mg/dL
+           - Triglycerides                            105.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      96.2 mg/dL
+           - High Density Lipoprotein Cholesterol     33.5 mg/dL
+  2021-05-29 : Basic Metabolic Panel
+           - Glucose                                  88.7 mg/dL
+           - Urea Nitrogen                            7.9 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  9.4 mg/dL
+           - Sodium                                   143.7 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 107.0 mmol/L
+           - Carbon Dioxide                           22.2 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-08-13 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-08-13 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 6.0 {score}
+  2022-08-13 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Other, Please write 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 1248 /a
+           - What is your main insurance?             Medicaid 
+           - What is your current work situation?     Unemployed (finding) 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             585 Swaniawski Rue 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2022-08-13 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2022-08-13 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-08-13 : Carbon Dioxide                           26.9 mmol/L
+  2022-08-13 : Chloride                                 110.8 mmol/L
+  2022-08-13 : Potassium                                4.7 mmol/L
+  2022-08-13 : Sodium                                   138.0 mmol/L
+  2022-08-13 : Calcium                                  9.8 mg/dL
+  2022-08-13 : Creatinine                               0.8 mg/dL
+  2022-08-13 : Urea Nitrogen                            9.4 mg/dL
+  2022-08-13 : Glucose                                  77.4 mg/dL
+  2022-08-13 : Respiratory rate                         14.0 /min
+  2022-08-13 : Heart rate                               86.0 /min
+  2022-08-13 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  114.0 mm[Hg]
+  2022-08-13 : Body Mass Index                          30.7 kg/m2
+  2022-08-13 : Body Weight                              79.3 kg
+  2022-08-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2022-08-13 : Body Height                              160.7 cm
+  2022-08-02 : Body temperature                         37.9 Cel
+  2022-06-04 : Total score [AUDIT-C]                    1.0 {score}
+  2022-06-04 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2022-06-04 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2022-06-04 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? I choose not to answer this question 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 1248 /a
+           - What is your main insurance?             Medicaid 
+           - What is your current work situation?     Unemployed (finding) 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             585 Swaniawski Rue 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2022-06-04 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2022-06-04 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-06-04 : Carbon Dioxide                           27.1 mmol/L
+  2022-06-04 : Chloride                                 102.0 mmol/L
+  2022-06-04 : Potassium                                4.1 mmol/L
+  2022-06-04 : Sodium                                   142.0 mmol/L
+  2022-06-04 : Calcium                                  8.8 mg/dL
+  2022-06-04 : Creatinine                               0.8 mg/dL
+  2022-06-04 : Urea Nitrogen                            16.2 mg/dL
+  2022-06-04 : Glucose                                  75.7 mg/dL
+  2022-06-04 : Respiratory rate                         13.0 /min
+  2022-06-04 : Heart rate                               70.0 /min
+  2022-06-04 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  119.0 mm[Hg]
+  2022-06-04 : Body Mass Index                          30.7 kg/m2
+  2022-06-04 : Body Weight                              79.3 kg
+  2022-06-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2022-06-04 : Body Height                              160.7 cm
+  2021-06-12 : Total score [AUDIT-C]                    0.0 {score}
+  2021-06-12 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2021-06-12 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2021-06-12 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 1248 /a
+           - What is your main insurance?             Medicaid 
+           - What is your current work situation?     Unemployed (finding) 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             585 Swaniawski Rue 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-06-12 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2021-06-12 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-06-12 : Carbon Dioxide                           23.4 mmol/L
+  2021-06-12 : Chloride                                 106.8 mmol/L
+  2021-06-12 : Potassium                                4.2 mmol/L
+  2021-06-12 : Sodium                                   142.6 mmol/L
+  2021-06-12 : Calcium                                  8.5 mg/dL
+  2021-06-12 : Creatinine                               0.8 mg/dL
+  2021-06-12 : Urea Nitrogen                            19.4 mg/dL
+  2021-06-12 : Glucose                                  85.0 mg/dL
+  2021-06-12 : Respiratory rate                         15.0 /min
+  2021-06-12 : Heart rate                               93.0 /min
+  2021-06-12 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2021-06-12 : Body Mass Index                          30.7 kg/m2
+  2021-06-12 : Body Weight                              79.3 kg
+  2021-06-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2021-06-12 : Body Height                              160.7 cm
+  2021-05-29 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2021-05-29 : Total score [HARK]                       0.0 {score}
+  2021-05-29 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2021-05-29 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 1248 /a
+           - What is your main insurance?             Medicaid 
+           - What is your current work situation?     Unemployed (finding) 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             585 Swaniawski Rue 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-05-29 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2021-05-29 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-05-29 : High Density Lipoprotein Cholesterol     33.5 mg/dL
+  2021-05-29 : Low Density Lipoprotein Cholesterol      96.2 mg/dL
+  2021-05-29 : Triglycerides                            105.5 mg/dL
+  2021-05-29 : Total Cholesterol                        150.8 mg/dL
+  2021-05-29 : Carbon Dioxide                           22.2 mmol/L
+  2021-05-29 : Chloride                                 107.0 mmol/L
+  2021-05-29 : Potassium                                4.5 mmol/L
+  2021-05-29 : Sodium                                   143.7 mmol/L
+  2021-05-29 : Calcium                                  9.4 mg/dL
+  2021-05-29 : Creatinine                               0.9 mg/dL
+  2021-05-29 : Urea Nitrogen                            7.9 mg/dL
+  2021-05-29 : Glucose                                  88.7 mg/dL
+  2021-05-29 : Respiratory rate                         14.0 /min
+  2021-05-29 : Heart rate                               84.0 /min
+  2021-05-29 : Blood Pressure
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  2021-05-29 : Body Mass Index                          30.7 kg/m2
+  2021-05-29 : Body Weight                              79.3 kg
+  2021-05-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2021-05-29 : Body Height                              160.7 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-12-09 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-12-08 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-12-07 : Professional / ancillary services care (regime/therapy)
+  2022-12-07 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-12-06 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-12-05 : Physical therapy procedure (regime/therapy)
+  2022-12-05 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-12-04 : Professional / ancillary services care (regime/therapy)
+  2022-12-04 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-12-03 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-12-02 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-12-01 : Professional / ancillary services care (regime/therapy)
+  2022-12-01 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-11-30 : Occupational therapy (regime/therapy)
+  2022-11-30 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-11-29 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-11-28 : Professional / ancillary services care (regime/therapy)
+  2022-11-28 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-11-27 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-11-26 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-11-25 : Professional / ancillary services care (regime/therapy)
+  2022-11-25 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-11-24 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-11-23 : Professional / ancillary services care (regime/therapy)
+  2022-11-23 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-11-22 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-11-21 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-11-20 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-11-19 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-11-18 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-11-17 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-11-16 : Professional / ancillary services care (regime/therapy)
+  2022-11-16 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-11-15 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-11-15 : Development of individualized plan of care (procedure)
+  2022-11-15 : Initial patient assessment (procedure)
+  2022-11-15 : History AND physical examination (procedure)
+  2022-11-15 : Surgical manipulation of joint of knee for Rupture of patellar tendon
+  2022-11-08 : Knee X-ray
+  2022-08-13 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2022-08-13 : Depression screening (procedure)
+  2022-08-13 : Assessment of anxiety (procedure)
+  2022-08-13 : Medication Reconciliation (procedure)
+  2022-08-13 : Assessment of health and social care needs (procedure)
+  2022-06-04 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2022-06-04 : Assessment of substance use (procedure)
+  2022-06-04 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2022-06-04 : Depression screening (procedure)
+  2022-06-04 : Assessment of anxiety (procedure)
+  2022-06-04 : Assessment of health and social care needs (procedure)
+  2021-08-27 : Colonoscopy
+  2021-06-12 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2021-06-12 : Assessment of substance use (procedure)
+  2021-06-12 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-06-12 : Depression screening (procedure)
+  2021-06-12 : Assessment of anxiety (procedure)
+  2021-06-12 : Assessment of health and social care needs (procedure)
+  2021-05-29 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-05-29 : Depression screening (procedure)
+  2021-05-29 : Screening for domestic abuse (procedure)
+  2021-05-29 : Assessment of anxiety (procedure)
+  2021-05-29 : Medication Reconciliation (procedure)
+  2021-05-29 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-06-04 : Influenza, seasonal, injectable, preservative free
+  2021-05-29 : Influenza, seasonal, injectable, preservative free
+  2021-04-10 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-03-20 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-11-15 (Dr. Wilbert Nolan) : Encounter at CRYSTAL REHAB & NURSING LLC
+2022-11-15 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC : Encounter for Rupture of patellar tendon
+2022-11-08 (Dr. Elsa Schultz) : Encounter at LIFE CARE CENTER OF AUBURN
+2022-11-05 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC : Encounter for Asthma
+2022-08-13 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+2022-08-02 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC : Encounter for Acute viral pharyngitis (disorder)
+2022-08-06 (Dr. Bradly Lang) : Encounter at LE & CHANG FAMILY URGENT CARE PC
+2022-06-04 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+2022-05-09 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC : Encounter for Asthma
+2021-08-27 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+2021-06-12 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC : Encounter for Viral sinusitis (disorder)
+2021-06-12 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+2021-05-29 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+2021-04-10 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+2021-03-20 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+2020-05-19 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC : Encounter for Asthma
+2019-05-18 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+2019-03-02 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+2018-05-12 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+2017-05-06 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+2016-04-30 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+2015-04-25 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+2014-04-19 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+2013-04-13 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+2012-04-07 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+2011-12-24 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+2011-04-02 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+2010-03-27 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+2009-03-21 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+2008-03-15 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+2007-03-10 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+2006-03-04 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+2005-02-26 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+2005-02-07 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC : Encounter for Asthma
+2004-02-14 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+2003-02-08 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+2002-05-01 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC : Encounter for Streptococcal sore throat (disorder)
+2002-02-02 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+2001-11-26 (Dr. Elsa Schultz) : Encounter at LIFE CARE CENTER OF AUBURN
+2001-01-27 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+2000-01-22 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+1999-01-16 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+1998-01-10 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+1997-01-04 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+1995-12-30 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+1995-07-01 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+1995-07-01 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+1994-12-24 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+1993-12-18 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+1992-12-12 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+1991-12-07 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+1990-12-01 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+1990-10-06 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC : Encounter for Normal pregnancy
+1989-11-25 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+1988-11-19 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+1987-11-14 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+1986-11-08 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+1985-11-02 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+1984-10-27 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+1984-10-13 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+1984-04-21 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+1983-10-15 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+1982-10-09 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+1981-10-03 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+1980-09-27 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+1979-09-22 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+1978-09-16 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+1977-09-10 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+1976-10-16 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+1976-09-04 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+1975-08-30 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+1974-08-24 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+1973-08-18 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+1973-06-30 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+1972-08-12 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+1972-06-08 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC : Encounter for Perennial allergic rhinitis
+1971-11-13 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+1971-08-07 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+1970-08-01 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+1970-01-31 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+1969-08-02 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+1969-05-03 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC : Encounter for Childhood asthma
+1967-06-25 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+1967-06-14 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2022-11-08 : Digital Radiography, Knee
+--------------------------------------------------------------------------------

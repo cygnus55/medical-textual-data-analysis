@@ -1,0 +1,165 @@
+Denna Gleason
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 23
+Birth Date:          1999-02-20
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2020-01-14[STOPPED] : Natazia 28 Day Pack
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-10-15 -            : Normal pregnancy
+  2021-05-08 -            : Stress (finding)
+  2021-05-08 -            : Transport problems (finding)
+  2021-05-08 -            : Full-time employment (finding)
+  2021-05-08 -            : Homeless (finding)
+  2018-05-05 - 2021-05-08 : Social isolation (finding)
+  2018-05-05 - 2021-05-08 : Full-time employment (finding)
+  2017-04-29 -            : Lack of access to transportation (finding)
+  2017-04-29 - 2018-05-05 : Full-time employment (finding)
+  2017-04-29 -            : Received higher education (finding)
+  2017-04-29 -            : Housing unsatisfactory (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2022-10-15[CURRENT] : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-05-08 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    0.0 {score}
+  2021-05-08 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2021-05-08 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2021-05-08 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 36.1 %
+           - MCV [Entitic volume] by Automated count  86.0 fL
+           - MCH [Entitic mass] by Automated count    27.0 pg
+           - MCHC [Mass/volume] by Automated count    34.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.1 fL
+           - Platelets [#/volume] in Blood by Automated count 251.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 502.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-05-08 : Total score [AUDIT-C]                    0.0 {score}
+  2021-05-08 : Total score [HARK]                       0.0 {score}
+  2021-05-08 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2021-05-08 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Quite a bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? Yes, it has kept me from non-medical meetings, appointments, work, or from getting things that I need 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 191419 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             1066 Mitchell Course Unit 82 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I do not have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-05-08 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-05-08 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2021-05-08 : Platelet distribution width [Entitic volume] in Blood by Automated count 502.0 fL
+  2021-05-08 : Platelets [#/volume] in Blood by Automated count 251.5 10*3/uL
+  2021-05-08 : Erythrocyte distribution width [Entitic volume] by Automated count 45.1 fL
+  2021-05-08 : MCHC [Mass/volume] by Automated count    34.2 g/dL
+  2021-05-08 : MCH [Entitic mass] by Automated count    27.0 pg
+  2021-05-08 : MCV [Entitic volume] by Automated count  86.0 fL
+  2021-05-08 : Hematocrit [Volume Fraction] of Blood by Automated count 36.1 %
+  2021-05-08 : Hemoglobin [Mass/volume] in Blood        12.5 g/dL
+  2021-05-08 : Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+  2021-05-08 : Leukocytes [#/volume] in Blood by Automated count 8.1 10*3/uL
+  2021-05-08 : Respiratory rate                         12.0 /min
+  2021-05-08 : Heart rate                               96.0 /min
+  2021-05-08 : Blood Pressure
+           - Diastolic Blood Pressure                 91.0 mm[Hg]
+           - Systolic Blood Pressure                  112.0 mm[Hg]
+  2021-05-08 : Body Mass Index                          21.3 kg/m2
+  2021-05-08 : Body Weight                              59.2 kg
+  2021-05-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2021-05-08 : Body Height                              166.7 cm
+  2021-04-15 : History of Hospitalizations+Outpatient visits 6.3 {count}
+  2021-04-15 : Are you covered by health insurance or some other kind of health care plan [PhenX] No {nominal}
+  2021-04-15 : Housing status                           Patient is homeless {nominal}
+  2021-04-15 : Abuse Status [OMAHA]                     No signs/symptoms {nominal}
+  2021-04-15 : HIV status                               not HIV positive {nominal}
+  2021-04-15 : Sexual orientation                       heterosexual {nominal}
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-12-10 : Auscultation of the fetal heart for Normal pregnancy
+  2022-12-10 : Evaluation of uterine fundal height for Normal pregnancy
+  2022-12-10 : Alpha-fetoprotein test for Normal pregnancy
+  2022-12-10 : Fetal anatomy study for Normal pregnancy
+  2022-11-12 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2022-11-12 : Auscultation of the fetal heart for Normal pregnancy
+  2022-11-12 : Evaluation of uterine fundal height for Normal pregnancy
+  2022-10-15 : Physical examination of mother for Normal pregnancy
+  2022-10-15 : Urine protein test for Normal pregnancy
+  2022-10-15 : Skin test for tuberculosis for Normal pregnancy
+  2022-10-15 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2022-10-15 : Rubella screening for Normal pregnancy
+  2022-10-15 : Hepatitis C antibody test for Normal pregnancy
+  2022-10-15 : Urine screening test for diabetes for Normal pregnancy
+  2022-10-15 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2022-10-15 : Urine culture for Normal pregnancy
+  2022-10-15 : Syphilis infection test for Normal pregnancy
+  2022-10-15 : Gonorrhea infection test for Normal pregnancy
+  2022-10-15 : Chlamydia antigen test for Normal pregnancy
+  2022-10-15 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2022-10-15 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2022-10-15 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2022-10-15 : Blood typing, RH typing for Normal pregnancy
+  2022-10-15 : Auscultation of the fetal heart for Normal pregnancy
+  2022-10-15 : Evaluation of uterine fundal height for Normal pregnancy
+  2022-10-15 : Ultrasound scan for fetal viability for Normal pregnancy
+  2022-10-15 : Standard pregnancy test for Normal pregnancy
+  2021-05-08 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2021-05-08 : Assessment of substance use (procedure)
+  2021-05-08 : Screening for domestic abuse (procedure)
+  2021-05-08 : Assessment of anxiety (procedure)
+  2021-05-08 : Assessment of health and social care needs (procedure)
+  2021-04-15 : Information gathering (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-05-15 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+  2021-05-08 : meningococcal MCV4P
+  2021-05-08 : Hep B, adult
+  2021-05-08 : Td (adult) preservative free
+  2021-05-08 : Influenza, seasonal, injectable, preservative free
+  2021-04-17 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-12-10 (Dr. Hermelinda Hyatt) : Encounter at SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB : Encounter for Normal pregnancy
+2022-11-12 (Dr. Hermelinda Hyatt) : Encounter at SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB : Encounter for Normal pregnancy
+2022-10-15 (Dr. Hermelinda Hyatt) : Encounter at SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB : Encounter for Normal pregnancy
+2021-05-15 (Dr. Hermelinda Hyatt) : Encounter at SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB
+2021-05-08 (Dr. Carmelita Tromp) : Encounter at ENGRACE HEALTHCARE PRACTICE LLC
+2021-04-15 (Dr. Hermelinda Hyatt) : Encounter at SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB
+2021-04-17 (Dr. Hermelinda Hyatt) : Encounter at SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB
+2020-01-14 (Dr. Hermelinda Hyatt) : Encounter at SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB
+2018-05-05 (Dr. Carmelita Tromp) : Encounter at ENGRACE HEALTHCARE PRACTICE LLC
+2017-04-29 (Dr. Carmelita Tromp) : Encounter at ENGRACE HEALTHCARE PRACTICE LLC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

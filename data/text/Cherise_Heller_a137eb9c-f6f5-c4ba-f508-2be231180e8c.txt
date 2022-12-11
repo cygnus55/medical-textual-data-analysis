@@ -1,0 +1,127 @@
+Cherise Heller
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 25
+Birth Date:          1997-08-12
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2021-08-03[STOPPED] : Seasonique 91 Day Pack
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-10-18 -            : Full-time employment (finding)
+  2021-07-20 - 2021-07-31 : Blighted ovum
+  2021-07-20 - 2021-07-31 : Normal pregnancy
+  2021-02-02 -            : Tubal pregnancy
+  2021-02-02 - 2021-02-20 : Normal pregnancy
+  2020-07-07 -            : Miscarriage in first trimester
+  2019-10-15 -            : Stress (finding)
+  2019-10-15 -            : Limited social contact (finding)
+  2019-10-15 - 2022-10-18 : Full-time employment (finding)
+  2018-11-27 - 2019-10-15 : Full-time employment (finding)
+  2016-10-11 - 2018-11-27 : Limited social contact (finding)
+  2016-10-11 - 2018-11-27 : Full-time employment (finding)
+  2015-08-18 -            : Unhealthy alcohol drinking behavior (finding)
+  2015-08-18 - 2016-10-11 : Stress (finding)
+  2015-08-18 - 2015-10-06 : Full-time employment (finding)
+  2015-08-18 -            : Received higher education (finding)
+  2000-10-10 -            : History of appendectomy
+  2000-10-10 -            : Appendicitis
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-10-18 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+  2022-10-18 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-10-18 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-10-18 : Total score [DAST-10]                    1.0 {score}
+  2022-10-18 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-10-18 : Total score [HARK]                       0.0 {score}
+  2022-10-18 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 1 or 2 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Other, Please write 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 23679 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             1078 Labadie Road 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2022-10-18 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-10-18 : Respiratory rate                         16.0 /min
+  2022-10-18 : Heart rate                               75.0 /min
+  2022-10-18 : Blood Pressure
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  83.0 mm[Hg]
+  2022-10-18 : Body Mass Index                          24.4 kg/m2
+  2022-10-18 : Body Weight                              68.2 kg
+  2022-10-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2022-10-18 : Body Height                              167.3 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-10-18 : Screening for drug abuse (procedure)
+  2022-10-18 : Assessment of substance use (procedure)
+  2022-10-18 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2022-10-18 : Depression screening (procedure)
+  2022-10-18 : Screening for domestic abuse (procedure)
+  2022-10-18 : Medication Reconciliation (procedure)
+  2022-10-18 : Assessment of health and social care needs (procedure)
+  2021-07-31 : Depression screening for Normal pregnancy
+  2021-07-31 : Physical examination for Normal pregnancy
+  2021-07-20 : Ultrasound scan for fetal viability for Normal pregnancy
+  2021-07-20 : Standard pregnancy test for Normal pregnancy
+  2021-02-20 : Depression screening for Normal pregnancy
+  2021-02-20 : Physical exam following abortion for Normal pregnancy
+  2021-02-20 : Pregnancy termination care for Normal pregnancy
+  2021-02-13 : Induced termination of pregnancy for Normal pregnancy
+  2021-02-13 : Counseling for termination of pregnancy for Normal pregnancy
+  2021-02-02 : Ultrasound scan for fetal viability for Normal pregnancy
+  2021-02-02 : Standard pregnancy test for Normal pregnancy
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-10-18 : Influenza, seasonal, injectable, preservative free
+  2021-05-18 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-04-27 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-10-18 (Dr. Alex Satterfield) : Encounter at BEDFORD-LEXINGTON INTERNAL MEDICINE, PC
+2021-08-03 (Dr. Cira Jakubowski) : Encounter at ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN
+2021-07-31 (Dr. Cira Jakubowski) : Encounter at ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN : Encounter for Blighted ovum
+2021-07-20 (Dr. Cira Jakubowski) : Encounter at ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN : Encounter for Normal pregnancy
+2021-05-18 (Dr. Cira Jakubowski) : Encounter at ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN
+2021-04-27 (Dr. Cira Jakubowski) : Encounter at ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN
+2021-02-20 (Dr. Cira Jakubowski) : Encounter at ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN : Encounter for Normal pregnancy
+2021-02-13 (Dr. Cira Jakubowski) : Encounter at ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN : Encounter for Normal pregnancy
+2021-02-02 (Dr. Cira Jakubowski) : Encounter at ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN : Encounter for Normal pregnancy
+2020-07-07 (Dr. Cira Jakubowski) : Encounter at ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN : Encounter for Normal pregnancy
+2019-10-15 (Dr. Alex Satterfield) : Encounter at BEDFORD-LEXINGTON INTERNAL MEDICINE, PC
+2018-11-21 (Dr. Cira Jakubowski) : Encounter at ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN : Encounter for Acute bronchitis (disorder)
+2016-10-11 (Dr. Alex Satterfield) : Encounter at BEDFORD-LEXINGTON INTERNAL MEDICINE, PC
+2015-08-18 (Dr. Cira Jakubowski) : Encounter at ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN
+2000-10-10 (Dr. Cira Jakubowski) : Encounter at ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN : Encounter for Appendicitis
+2000-10-10 (Dr. Dinah Kub) : Encounter at BAYADA HOME HEALTH CARE, INC : Encounter for Appendicitis
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

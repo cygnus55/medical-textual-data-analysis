@@ -1,0 +1,75 @@
+Reginald Hackett
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 24
+Birth Date:          1998-08-07
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1999-08-28 -            : Tree nut (substance)
+  1999-08-28 -            : Shellfish (substance)
+  1999-08-28 -            : Wheat (substance)
+  1999-08-28 -            : Tree pollen (substance)
+  1999-08-28 -            : Grass pollen (substance)
+  1999-08-28 -            : Animal dander (substance)
+  1999-08-28 -            : House dust mite (organism)
+  1999-08-28 -            : Mold (organism)
+  1999-08-28 -            : Bee venom (substance)
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2011-09-02[CURRENT] : Carbamazepine[Tegretol] for Seizure disorder
+  2010-12-31[STOPPED] : Carbamazepine[Tegretol] for Seizure disorder
+  2010-08-27[CURRENT] : clonazePAM 0.25 MG Oral Tablet for Seizure disorder
+  2009-03-08[STOPPED] : clonazePAM 0.25 MG Oral Tablet for Seizure disorder
+  1999-08-28[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  1999-08-28[CURRENT] : Fexofenadine hydrochloride 30 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2020-10-09 -            : Victim of intimate partner abuse (finding)
+  2020-10-09 -            : Full-time employment (finding)
+  2018-03-09 -            : Chronic sinusitis (disorder)
+  2017-10-06 -            : Stress (finding)
+  2017-10-06 - 2020-10-09 : Full-time employment (finding)
+  2016-09-30 - 2016-11-18 : Full-time employment (finding)
+  2016-09-30 -            : Received higher education (finding)
+  2016-09-30 -            : Anemia (disorder)
+  2016-09-30 -            : Prediabetes
+  2009-03-08 -            : Epilepsy
+  2009-03-08 -            : History of single seizure (situation)
+  2009-03-08 -            : Seizure disorder
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2016-09-30[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1999-08-18[CURRENT] : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+--------------------------------------------------------------------------------
+PROCEDURES:
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2020-10-09 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+2018-03-09 (Dr. Marcy Hamill) : Encounter at ST VINCENT HOSPITAL : Encounter for Sinusitis (disorder)
+2017-10-06 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+2016-09-30 (Dr. Marcy Hamill) : Encounter at ST VINCENT HOSPITAL : Encounter for Anemia (disorder)
+2016-09-30 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+2011-09-02 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+2010-12-31 (Dr. Lavern Bogisich) : Encounter at ST FRANCIS REHABILITATION & NURSING CENTER : Encounter for Seizure disorder
+2010-08-27 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+2009-03-08 (Dr. Lavern Bogisich) : Encounter at ST FRANCIS REHABILITATION & NURSING CENTER : Encounter for Seizure disorder
+1999-08-28 (Dr. Marcy Hamill) : Encounter at ST VINCENT HOSPITAL
+1999-08-18 (Dr. Marcy Hamill) : Encounter at ST VINCENT HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

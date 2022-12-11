@@ -1,0 +1,140 @@
+Candelaria Schaefer
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 37
+Birth Date:          1985-03-18
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2022-10-03[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  2021-04-05[STOPPED] : Kyleena 19.5 MG Intrauterine System
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-10-03 - 2022-10-30 : Viral sinusitis (disorder)
+  2022-06-06 -            : Full-time employment (finding)
+  2020-07-20 - 2021-02-22 : Normal pregnancy
+  2019-06-03 - 2022-06-06 : Victim of intimate partner abuse (finding)
+  2019-06-03 - 2022-06-06 : Stress (finding)
+  2019-06-03 - 2022-06-06 : Full-time employment (finding)
+  2016-05-30 - 2019-06-03 : Full-time employment (finding)
+  2013-11-18 -            : Tubal pregnancy
+  2013-05-27 - 2022-06-06 : Social isolation (finding)
+  2010-05-24 - 2013-05-27 : Full-time employment (finding)
+  2010-05-24 -            : Body mass index 30+ - obesity (finding)
+  2007-12-17 - 2010-05-24 : Full-time employment (finding)
+  2007-05-21 - 2007-12-17 : Full-time employment (finding)
+  2006-12-18 -            : Miscarriage in first trimester
+  2003-05-12 - 2004-05-17 : Full-time employment (finding)
+  2003-05-12 -            : Only received primary school education (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2020-07-20[STOPPED] : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-06-06 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+  2022-06-06 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2022-06-06 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2022-06-06 : Lipid Panel
+           - Total Cholesterol                        192.9 mg/dL
+           - Triglycerides                            106.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      123.4 mg/dL
+           - High Density Lipoprotein Cholesterol     48.1 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-06-06 : Total score [DAST-10]                    1.0 {score}
+  2022-06-06 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2022-06-06 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2022-06-06 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 60841 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             782 Wintheiser Meadow 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 7.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2022-06-06 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-06-06 : High Density Lipoprotein Cholesterol     48.1 mg/dL
+  2022-06-06 : Low Density Lipoprotein Cholesterol      123.4 mg/dL
+  2022-06-06 : Triglycerides                            106.8 mg/dL
+  2022-06-06 : Total Cholesterol                        192.9 mg/dL
+  2022-06-06 : Respiratory rate                         14.0 /min
+  2022-06-06 : Heart rate                               61.0 /min
+  2022-06-06 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  107.0 mm[Hg]
+  2022-06-06 : Body Mass Index                          30.1 kg/m2
+  2022-06-06 : Body Weight                              67.7 kg
+  2022-06-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2022-06-06 : Body Height                              150.0 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-06-06 : Screening for drug abuse (procedure)
+  2022-06-06 : Assessment of substance use (procedure)
+  2022-06-06 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2022-06-06 : Depression screening (procedure)
+  2022-06-06 : Assessment of anxiety (procedure)
+  2022-06-06 : Medication Reconciliation (procedure)
+  2022-06-06 : Assessment of health and social care needs (procedure)
+  2021-04-09 : Insertion of intrauterine contraceptive device
+  2021-04-05 : Depression screening
+  2021-04-05 : Physical examination following birth
+  2021-02-22 : Childbirth for Normal pregnancy
+  2021-02-15 : Auscultation of the fetal heart for Normal pregnancy
+  2021-02-15 : Evaluation of uterine fundal height for Normal pregnancy
+  2021-02-01 : Auscultation of the fetal heart for Normal pregnancy
+  2021-02-01 : Evaluation of uterine fundal height for Normal pregnancy
+  2021-02-01 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2021-01-04 : Auscultation of the fetal heart for Normal pregnancy
+  2021-01-04 : Evaluation of uterine fundal height for Normal pregnancy
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-06-06 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-10-03 (Dr. Hyman Schmeler) : Encounter at BROCKTON HOSPITAL, INC. : Encounter for Viral sinusitis (disorder)
+2022-06-06 (Dr. Verda Bahringer) : Encounter at HORIZONS HEALTH & WELLNESS LLC
+2021-04-09 (Dr. Hyman Schmeler) : Encounter at BROCKTON HOSPITAL, INC.
+2021-04-05 (Dr. Hyman Schmeler) : Encounter at BROCKTON HOSPITAL, INC.
+2021-04-05 (Dr. Hyman Schmeler) : Encounter at BROCKTON HOSPITAL, INC.
+2021-02-22 (Dr. Dusty Lynch) : Encounter at LIFE CARE CENTER OF RAYNHAM : Encounter for Normal pregnancy
+2021-02-15 (Dr. Hyman Schmeler) : Encounter at BROCKTON HOSPITAL, INC. : Encounter for Normal pregnancy
+2021-02-01 (Dr. Hyman Schmeler) : Encounter at BROCKTON HOSPITAL, INC. : Encounter for Normal pregnancy
+2021-01-04 (Dr. Hyman Schmeler) : Encounter at BROCKTON HOSPITAL, INC. : Encounter for Normal pregnancy
+2020-07-20 (Dr. Hyman Schmeler) : Encounter at BROCKTON HOSPITAL, INC. : Encounter for Normal pregnancy
+2019-06-03 (Dr. Verda Bahringer) : Encounter at HORIZONS HEALTH & WELLNESS LLC
+2016-05-30 (Dr. Hyman Schmeler) : Encounter at BROCKTON HOSPITAL, INC. : Encounter for Normal pregnancy
+2013-11-18 (Dr. Hyman Schmeler) : Encounter at BROCKTON HOSPITAL, INC. : Encounter for Normal pregnancy
+2013-05-27 (Dr. Verda Bahringer) : Encounter at HORIZONS HEALTH & WELLNESS LLC
+2010-05-24 (Dr. Verda Bahringer) : Encounter at HORIZONS HEALTH & WELLNESS LLC
+2007-12-11 (Dr. Hyman Schmeler) : Encounter at BROCKTON HOSPITAL, INC. : Encounter for Viral sinusitis (disorder)
+2007-05-21 (Dr. Verda Bahringer) : Encounter at HORIZONS HEALTH & WELLNESS LLC
+2006-12-18 (Dr. Hyman Schmeler) : Encounter at BROCKTON HOSPITAL, INC. : Encounter for Normal pregnancy
+2003-05-12 (Dr. Verda Bahringer) : Encounter at HORIZONS HEALTH & WELLNESS LLC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

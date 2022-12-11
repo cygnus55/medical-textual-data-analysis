@@ -1,0 +1,64 @@
+Liza Dare
+=========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 21
+Birth Date:          2001-01-31
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2021-12-25[CURRENT] : Etonogestrel 68 MG Drug Implant
+  2020-01-05[STOPPED] : Natazia 28 Day Pack
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2020-04-01 -            : Full-time employment (finding)
+  2019-03-27 - 2020-04-01 : Full-time employment (finding)
+  2019-03-27 -            : Received higher education (finding)
+  2018-03-21 -            : Risk activity involvement (finding)
+  2013-02-20 - 2015-03-04 : Risk activity involvement (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-10-19 : Intramuscular injection
+  2022-07-20 : Intramuscular injection
+  2022-04-20 : Intramuscular injection
+  2022-01-19 : Intramuscular injection
+  2021-12-25 : Insertion of subcutaneous contraceptive
+  2021-10-20 : Intramuscular injection
+  2021-07-21 : Intramuscular injection
+  2021-04-21 : Intramuscular injection
+  2021-01-20 : Intramuscular injection
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-09-29 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-09-08 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-10-19 (Dr. George Haley) : Encounter at ARBOUR HOSPITAL, THE
+2022-07-20 (Dr. George Haley) : Encounter at ARBOUR HOSPITAL, THE
+2022-04-20 (Dr. George Haley) : Encounter at ARBOUR HOSPITAL, THE
+2022-01-19 (Dr. George Haley) : Encounter at ARBOUR HOSPITAL, THE
+2021-12-25 (Dr. George Haley) : Encounter at ARBOUR HOSPITAL, THE
+2021-10-20 (Dr. George Haley) : Encounter at ARBOUR HOSPITAL, THE
+2021-09-29 (Dr. George Haley) : Encounter at ARBOUR HOSPITAL, THE
+2021-09-08 (Dr. George Haley) : Encounter at ARBOUR HOSPITAL, THE
+2021-07-21 (Dr. George Haley) : Encounter at ARBOUR HOSPITAL, THE
+2021-04-21 (Dr. George Haley) : Encounter at ARBOUR HOSPITAL, THE
+2021-01-20 (Dr. George Haley) : Encounter at ARBOUR HOSPITAL, THE
+2020-04-01 (Dr. Hong Schneider) : Encounter at MANET COMMUNITY HEALTH CENTER, INC.
+2020-01-05 (Dr. George Haley) : Encounter at ARBOUR HOSPITAL, THE
+2019-03-27 (Dr. Hong Schneider) : Encounter at MANET COMMUNITY HEALTH CENTER, INC.
+2018-03-21 (Dr. Hong Schneider) : Encounter at MANET COMMUNITY HEALTH CENTER, INC.
+2013-02-20 (Dr. Hong Schneider) : Encounter at MANET COMMUNITY HEALTH CENTER, INC.
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

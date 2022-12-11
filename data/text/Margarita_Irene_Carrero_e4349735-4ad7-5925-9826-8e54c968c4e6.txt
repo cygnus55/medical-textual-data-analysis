@@ -1,0 +1,273 @@
+Margarita Irene Carrero
+=======================
+Race:                Asian
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 44
+Birth Date:          1977-12-19
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2022-11-28[CURRENT] : Camila 28 Day Pack
+  2022-05-30[CURRENT] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2021-06-07[STOPPED] : Penicillin V Potassium 500 MG Oral Tablet for Streptococcal sore throat (disorder)
+  2021-05-24[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2020-12-08[STOPPED] : Seasonique 91 Day Pack
+  2020-05-18[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2019-05-13[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2018-05-07[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2017-05-01[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2016-04-25[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2015-04-20[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2014-04-14[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2013-04-08[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2012-04-02[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2011-03-28[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2010-03-22[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2009-03-16[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2008-03-10[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2007-03-05[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2006-12-25[CURRENT] : Vitamin B 12 5 MG/ML Injectable Solution
+  2006-12-25[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2006-12-25[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2006-12-25[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2006-12-22[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2002-01-06[STOPPED] : Camila 28 Day Pack
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-05-30 -            : Full-time employment (finding)
+  2021-06-07 - 2021-06-19 : Streptococcal sore throat (disorder)
+  2021-05-24 - 2022-05-30 : Full-time employment (finding)
+  2020-05-18 -            : Stress (finding)
+  2020-05-18 - 2021-05-24 : Not in labor force (finding)
+  2017-05-01 - 2019-05-13 : Stress (finding)
+  2017-05-01 - 2018-05-07 : Full-time employment (finding)
+  2016-04-25 - 2017-05-01 : Full-time employment (finding)
+  2015-04-20 - 2016-04-25 : Full-time employment (finding)
+  2014-04-14 - 2015-04-20 : Full-time employment (finding)
+  2013-04-08 -            : Refugee (person)
+  2013-04-08 - 2022-05-30 : Limited social contact (finding)
+  2013-04-08 - 2014-04-14 : Full-time employment (finding)
+  2012-04-02 - 2013-04-08 : Full-time employment (finding)
+  2011-03-28 - 2012-04-02 : Full-time employment (finding)
+  2011-03-07 -            : Miscarriage in first trimester
+  2010-03-22 - 2015-04-20 : Stress (finding)
+  2008-03-10 - 2009-03-16 : Full-time employment (finding)
+  2008-03-10 -            : Metabolic syndrome X (disorder)
+  2007-03-05 - 2009-03-16 : Stress (finding)
+  2006-12-25 - 2007-03-05 : Full-time employment (finding)
+  2006-12-25 -            : Anemia (disorder)
+  2006-12-22 -            : Hypertension
+  2006-02-27 -            : Prediabetes
+  2003-06-16 -            : Chronic sinusitis (disorder)
+  2003-02-24 - 2006-02-27 : Full-time employment (finding)
+  2000-02-21 -            : Body mass index 30+ - obesity (finding)
+  1997-02-17 - 2000-02-21 : Full-time employment (finding)
+  1996-12-22 -            : Recurrent urinary tract infection
+  1996-02-12 - 2006-02-27 : Stress (finding)
+  1996-02-12 -            : Received higher education (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2006-12-22[CURRENT] : Lifestyle education regarding hypertension
+                         Reason: Hypertension
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  2006-02-27[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-05-30 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    2.0 {score}
+  2022-05-30 : Basic Metabolic Panel
+           - Glucose                                  78.1 mg/dL
+           - Urea Nitrogen                            15.6 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  9.3 mg/dL
+           - Sodium                                   141.5 mmol/L
+           - Potassium                                4.2 mmol/L
+           - Chloride                                 107.2 mmol/L
+           - Carbon Dioxide                           24.0 mmol/L
+  2021-05-24 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    0.0 {score}
+  2021-05-24 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.1 %
+           - MCV [Entitic volume] by Automated count  90.9 fL
+           - MCH [Entitic mass] by Automated count    29.3 pg
+           - MCHC [Mass/volume] by Automated count    35.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.0 fL
+           - Platelets [#/volume] in Blood by Automated count 196.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 169.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.7 fL
+  2021-05-24 : Basic Metabolic Panel
+           - Glucose                                  77.5 mg/dL
+           - Urea Nitrogen                            16.8 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  9.1 mg/dL
+           - Sodium                                   140.4 mmol/L
+           - Potassium                                4.4 mmol/L
+           - Chloride                                 108.1 mmol/L
+           - Carbon Dioxide                           23.1 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-05-30 : Total score [AUDIT-C]                    2.0 {score}
+  2022-05-30 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       Yes 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 82964 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             639 Bruen Drive 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 5.0 {#}
+           - What language are you most comfortable speaking? Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Asian 
+           - Are you Hispanic or Latino?              No 
+  2022-05-30 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2022-05-30 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-05-30 : Carbon Dioxide                           24.0 mmol/L
+  2022-05-30 : Chloride                                 107.2 mmol/L
+  2022-05-30 : Potassium                                4.2 mmol/L
+  2022-05-30 : Sodium                                   141.5 mmol/L
+  2022-05-30 : Calcium                                  9.3 mg/dL
+  2022-05-30 : Creatinine                               1.0 mg/dL
+  2022-05-30 : Urea Nitrogen                            15.6 mg/dL
+  2022-05-30 : Glucose                                  78.1 mg/dL
+  2022-05-30 : Respiratory rate                         13.0 /min
+  2022-05-30 : Heart rate                               98.0 /min
+  2022-05-30 : Blood Pressure
+           - Diastolic Blood Pressure                 100.0 mm[Hg]
+           - Systolic Blood Pressure                  157.0 mm[Hg]
+  2022-05-30 : Body Mass Index                          29.0 kg/m2
+  2022-05-30 : Body Weight                              85.5 kg
+  2022-05-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2022-05-30 : Body Height                              171.6 cm
+  2021-06-07 : Body temperature                         39.4 Cel
+  2021-05-24 : Total score [AUDIT-C]                    0.0 {score}
+  2021-05-24 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       Yes 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 82964 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             639 Bruen Drive 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 5.0 {#}
+           - What language are you most comfortable speaking? Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Asian 
+           - Are you Hispanic or Latino?              No 
+  2021-05-24 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2021-05-24 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-05-24 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.7 fL
+  2021-05-24 : Platelet distribution width [Entitic volume] in Blood by Automated count 169.2 fL
+  2021-05-24 : Platelets [#/volume] in Blood by Automated count 196.9 10*3/uL
+  2021-05-24 : Erythrocyte distribution width [Entitic volume] by Automated count 41.0 fL
+  2021-05-24 : MCHC [Mass/volume] by Automated count    35.4 g/dL
+  2021-05-24 : MCH [Entitic mass] by Automated count    29.3 pg
+  2021-05-24 : MCV [Entitic volume] by Automated count  90.9 fL
+  2021-05-24 : Hematocrit [Volume Fraction] of Blood by Automated count 37.1 %
+  2021-05-24 : Hemoglobin [Mass/volume] in Blood        12.3 g/dL
+  2021-05-24 : Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+  2021-05-24 : Leukocytes [#/volume] in Blood by Automated count 10.2 10*3/uL
+  2021-05-24 : Carbon Dioxide                           23.1 mmol/L
+  2021-05-24 : Chloride                                 108.1 mmol/L
+  2021-05-24 : Potassium                                4.4 mmol/L
+  2021-05-24 : Sodium                                   140.4 mmol/L
+  2021-05-24 : Calcium                                  9.1 mg/dL
+  2021-05-24 : Creatinine                               1.0 mg/dL
+  2021-05-24 : Urea Nitrogen                            16.8 mg/dL
+  2021-05-24 : Glucose                                  77.5 mg/dL
+  2021-05-24 : Respiratory rate                         12.0 /min
+  2021-05-24 : Heart rate                               97.0 /min
+  2021-05-24 : Blood Pressure
+           - Diastolic Blood Pressure                 97.0 mm[Hg]
+           - Systolic Blood Pressure                  143.0 mm[Hg]
+  2021-05-24 : Body Mass Index                          28.4 kg/m2
+  2021-05-24 : Body Weight                              83.5 kg
+  2021-05-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2021-05-24 : Body Height                              171.6 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-05-30 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2022-05-30 : Assessment of substance use (procedure)
+  2022-05-30 : Assessment of health and social care needs (procedure)
+  2021-06-07 : Throat culture (procedure) for Streptococcal sore throat (disorder)
+  2021-05-24 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2021-05-24 : Assessment of substance use (procedure)
+  2021-05-24 : Medication Reconciliation (procedure)
+  2021-05-24 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-05-30 : Influenza, seasonal, injectable, preservative free
+  2021-05-24 : Influenza, seasonal, injectable, preservative free
+  2021-03-29 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-03-08 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-11-28 (Dr. Sharron Batz) : Encounter at BOSTON MEDICAL CENTER CORPORATION-
+2022-05-30 (Dr. Maricruz Considine) : Encounter at NORTH END COMMUNITY HEALTH COMMITTEE INC
+2021-06-07 (Dr. Sharron Batz) : Encounter at BOSTON MEDICAL CENTER CORPORATION- : Encounter for Streptococcal sore throat (disorder)
+2021-05-24 (Dr. Maricruz Considine) : Encounter at NORTH END COMMUNITY HEALTH COMMITTEE INC
+2021-03-29 (Dr. Sharron Batz) : Encounter at BOSTON MEDICAL CENTER CORPORATION-
+2021-03-08 (Dr. Sharron Batz) : Encounter at BOSTON MEDICAL CENTER CORPORATION-
+2020-12-08 (Dr. Sharron Batz) : Encounter at BOSTON MEDICAL CENTER CORPORATION-
+2020-05-18 (Dr. Maricruz Considine) : Encounter at NORTH END COMMUNITY HEALTH COMMITTEE INC
+2019-05-13 (Dr. Maricruz Considine) : Encounter at NORTH END COMMUNITY HEALTH COMMITTEE INC
+2018-05-07 (Dr. Maricruz Considine) : Encounter at NORTH END COMMUNITY HEALTH COMMITTEE INC
+2017-05-01 (Dr. Maricruz Considine) : Encounter at NORTH END COMMUNITY HEALTH COMMITTEE INC
+2016-04-25 (Dr. Maricruz Considine) : Encounter at NORTH END COMMUNITY HEALTH COMMITTEE INC
+2015-04-20 (Dr. Maricruz Considine) : Encounter at NORTH END COMMUNITY HEALTH COMMITTEE INC
+2014-04-21 (Dr. Sharron Batz) : Encounter at BOSTON MEDICAL CENTER CORPORATION- : Encounter for Normal pregnancy
+2014-04-14 (Dr. Maricruz Considine) : Encounter at NORTH END COMMUNITY HEALTH COMMITTEE INC
+2013-04-08 (Dr. Maricruz Considine) : Encounter at NORTH END COMMUNITY HEALTH COMMITTEE INC
+2012-04-02 (Dr. Maricruz Considine) : Encounter at NORTH END COMMUNITY HEALTH COMMITTEE INC
+2011-03-28 (Dr. Maricruz Considine) : Encounter at NORTH END COMMUNITY HEALTH COMMITTEE INC
+2011-03-07 (Dr. Sharron Batz) : Encounter at BOSTON MEDICAL CENTER CORPORATION- : Encounter for Normal pregnancy
+2010-03-22 (Dr. Maricruz Considine) : Encounter at NORTH END COMMUNITY HEALTH COMMITTEE INC
+2009-03-16 (Dr. Maricruz Considine) : Encounter at NORTH END COMMUNITY HEALTH COMMITTEE INC
+2008-03-17 (Dr. Sharron Batz) : Encounter at BOSTON MEDICAL CENTER CORPORATION-
+2008-03-10 (Dr. Maricruz Considine) : Encounter at NORTH END COMMUNITY HEALTH COMMITTEE INC
+2007-03-05 (Dr. Maricruz Considine) : Encounter at NORTH END COMMUNITY HEALTH COMMITTEE INC
+2006-12-25 (Dr. Sharron Batz) : Encounter at BOSTON MEDICAL CENTER CORPORATION- : Encounter for Anemia (disorder)
+2006-12-19 (Dr. Sharron Batz) : Encounter at BOSTON MEDICAL CENTER CORPORATION- : Encounter for Acute bronchitis (disorder)
+2006-12-25 (Dr. Sharron Batz) : Encounter at BOSTON MEDICAL CENTER CORPORATION-
+2006-02-27 (Dr. Maricruz Considine) : Encounter at NORTH END COMMUNITY HEALTH COMMITTEE INC
+2003-06-16 (Dr. Sharron Batz) : Encounter at BOSTON MEDICAL CENTER CORPORATION- : Encounter for Acute bacterial sinusitis (disorder)
+2003-02-24 (Dr. Maricruz Considine) : Encounter at NORTH END COMMUNITY HEALTH COMMITTEE INC
+2002-01-06 (Dr. Sharron Batz) : Encounter at BOSTON MEDICAL CENTER CORPORATION-
+2000-02-21 (Dr. Maricruz Considine) : Encounter at NORTH END COMMUNITY HEALTH COMMITTEE INC
+1997-02-17 (Dr. Maricruz Considine) : Encounter at NORTH END COMMUNITY HEALTH COMMITTEE INC
+1996-12-22 (Dr. Sharron Batz) : Encounter at BOSTON MEDICAL CENTER CORPORATION- : Encounter for Escherichia coli urinary tract infection
+1996-02-12 (Dr. Maricruz Considine) : Encounter at NORTH END COMMUNITY HEALTH COMMITTEE INC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

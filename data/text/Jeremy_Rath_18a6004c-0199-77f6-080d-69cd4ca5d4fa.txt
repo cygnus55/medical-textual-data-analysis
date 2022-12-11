@@ -1,0 +1,123 @@
+Jeremy Rath
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 30
+Birth Date:          1992-11-05
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2022-03-06[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-03-06 - 2022-03-25 : Viral sinusitis (disorder)
+  2021-08-17 - 2021-08-27 : Acute viral pharyngitis (disorder)
+  2021-01-14 -            : Full-time employment (finding)
+  2018-01-11 - 2021-01-14 : Not in labor force (finding)
+  2012-01-05 -            : Misuses drugs (finding)
+  2012-01-05 - 2015-01-08 : Full-time employment (finding)
+  2010-12-30 - 2012-01-05 : Full-time employment (finding)
+  2010-12-30 -            : Received higher education (finding)
+  2009-12-24 -            : Risk activity involvement (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-01-14 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+  2021-01-14 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2021-01-14 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2021-01-14 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.2 %
+           - MCV [Entitic volume] by Automated count  94.0 fL
+           - MCH [Entitic mass] by Automated count    27.2 pg
+           - MCHC [Mass/volume] by Automated count    33.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.0 fL
+           - Platelets [#/volume] in Blood by Automated count 179.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 409.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.5 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-08-17 : Body temperature                         37.7 Cel
+  2021-01-14 : Total score [AUDIT-C]                    1.0 {score}
+  2021-01-14 : Total score [HARK]                       0.0 {score}
+  2021-01-14 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2021-01-14 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 132387 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             1089 Lesch Hollow 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 7.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-01-14 : Tobacco smoking status                   Ex-smoker (finding) 
+  2021-01-14 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.5 fL
+  2021-01-14 : Platelet distribution width [Entitic volume] in Blood by Automated count 409.6 fL
+  2021-01-14 : Platelets [#/volume] in Blood by Automated count 179.6 10*3/uL
+  2021-01-14 : Erythrocyte distribution width [Entitic volume] by Automated count 42.0 fL
+  2021-01-14 : MCHC [Mass/volume] by Automated count    33.2 g/dL
+  2021-01-14 : MCH [Entitic mass] by Automated count    27.2 pg
+  2021-01-14 : MCV [Entitic volume] by Automated count  94.0 fL
+  2021-01-14 : Hematocrit [Volume Fraction] of Blood by Automated count 45.2 %
+  2021-01-14 : Hemoglobin [Mass/volume] in Blood        16.6 g/dL
+  2021-01-14 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2021-01-14 : Leukocytes [#/volume] in Blood by Automated count 6.4 10*3/uL
+  2021-01-14 : Respiratory rate                         16.0 /min
+  2021-01-14 : Heart rate                               99.0 /min
+  2021-01-14 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2021-01-14 : Body Mass Index                          28.7 kg/m2
+  2021-01-14 : Body Weight                              96.0 kg
+  2021-01-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2021-01-14 : Body Height                              182.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2021-08-17 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2021-01-14 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2021-01-14 : Assessment of substance use (procedure)
+  2021-01-14 : Screening for domestic abuse (procedure)
+  2021-01-14 : Assessment of anxiety (procedure)
+  2021-01-14 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-05-20 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+  2021-04-22 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+  2021-01-14 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-03-06 (Dr. Cletus Paucek) : Encounter at ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS : Encounter for Viral sinusitis (disorder)
+2021-08-17 (Dr. Cletus Paucek) : Encounter at ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS : Encounter for Acute viral pharyngitis (disorder)
+2021-05-20 (Dr. Cletus Paucek) : Encounter at ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+2021-04-22 (Dr. Cletus Paucek) : Encounter at ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+2021-01-14 (Dr. Quentin Fritsch) : Encounter at RIVER'S EDGE PRIMARY CARE LLC
+2018-01-11 (Dr. Quentin Fritsch) : Encounter at RIVER'S EDGE PRIMARY CARE LLC
+2012-01-05 (Dr. Quentin Fritsch) : Encounter at RIVER'S EDGE PRIMARY CARE LLC
+2010-12-30 (Dr. Quentin Fritsch) : Encounter at RIVER'S EDGE PRIMARY CARE LLC
+2009-12-24 (Dr. Quentin Fritsch) : Encounter at RIVER'S EDGE PRIMARY CARE LLC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

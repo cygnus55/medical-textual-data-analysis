@@ -1,0 +1,61 @@
+Clara Esperanza Garica
+======================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 33
+Birth Date:          1989-07-06
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2022-09-16[CURRENT] : Liletta 52 MG Intrauterine System
+  2021-09-21[STOPPED] : 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-04-12 - 2022-05-03 : Viral sinusitis (disorder)
+  2020-09-17 -            : Full-time employment (finding)
+  2014-09-11 -            : Stress (finding)
+  2014-09-11 - 2017-09-14 : Full-time employment (finding)
+  2011-09-08 -            : Misuses drugs (finding)
+  2011-09-08 -            : Has a criminal record (finding)
+  2011-09-08 - 2014-09-11 : Full-time employment (finding)
+  2008-09-04 -            : Social isolation (finding)
+  2008-09-04 - 2011-09-08 : Full-time employment (finding)
+  2007-08-30 - 2008-09-04 : Full-time employment (finding)
+  2007-08-30 -            : Received higher education (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-09-21 : Insertion of intrauterine contraceptive device
+  2021-10-21 : Insertion of subcutaneous contraceptive
+  2021-10-21 : Removal of subcutaneous contraceptive
+  2021-09-21 : Intramuscular injection
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-02-04 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-01-14 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-09-21 (Dr. Hellen Roberts) : Encounter at NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+2022-09-16 (Dr. Hellen Roberts) : Encounter at NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+2022-04-12 (Dr. Hellen Roberts) : Encounter at NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC : Encounter for Viral sinusitis (disorder)
+2021-10-21 (Dr. Hellen Roberts) : Encounter at NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+2021-09-21 (Dr. Hellen Roberts) : Encounter at NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+2021-02-04 (Dr. Hellen Roberts) : Encounter at NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+2021-01-14 (Dr. Hellen Roberts) : Encounter at NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+2020-09-17 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+2014-09-11 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+2011-09-08 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+2008-09-04 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+2007-08-30 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

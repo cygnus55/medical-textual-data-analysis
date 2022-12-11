@@ -1,0 +1,360 @@
+Chanel Christin Runte
+=====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 34
+Birth Date:          1988-10-14
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1992-07-16 -            : Tree pollen (substance)
+  1992-07-16 -            : Grass pollen (substance)
+  1992-07-16 -            : Animal dander (substance)
+  1992-07-16 -            : House dust mite (organism)
+  1992-07-16 -            : Mold (organism)
+  1992-07-16 -            : Bee venom (substance)
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2022-03-07[CURRENT] : Trinessa 28 Day Pack
+  2022-03-04[CURRENT] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2022-03-04[CURRENT] : budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] for Childhood asthma
+  2022-02-11[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2022-02-11[STOPPED] : budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] for Childhood asthma
+  2022-01-29[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2021-02-26[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2021-02-26[STOPPED] : budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] for Childhood asthma
+  2020-05-01[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2020-05-01[STOPPED] : budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] for Childhood asthma
+  2020-02-21[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2020-02-21[STOPPED] : budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] for Childhood asthma
+  2019-02-15[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2019-02-15[STOPPED] : budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] for Childhood asthma
+  2018-02-09[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2018-02-09[STOPPED] : budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] for Childhood asthma
+  2017-02-03[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2017-02-03[STOPPED] : budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] for Childhood asthma
+  2016-01-29[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2016-01-29[STOPPED] : budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] for Childhood asthma
+  2015-01-23[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2015-01-23[STOPPED] : budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] for Childhood asthma
+  2014-11-07[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2014-11-07[STOPPED] : budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] for Childhood asthma
+  2014-01-17[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2014-01-17[STOPPED] : budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] for Childhood asthma
+  2013-01-11[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2013-01-11[STOPPED] : budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] for Childhood asthma
+  2012-01-06[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2012-01-06[STOPPED] : budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] for Childhood asthma
+  2011-12-23[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2011-12-23[STOPPED] : budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] for Childhood asthma
+  2010-12-31[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2010-12-31[STOPPED] : budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] for Childhood asthma
+  2009-12-25[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2009-12-25[STOPPED] : budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] for Childhood asthma
+  2008-12-19[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2008-12-19[STOPPED] : budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] for Childhood asthma
+  2007-12-14[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2007-12-14[STOPPED] : budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] for Childhood asthma
+  2006-12-08[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2006-12-08[STOPPED] : budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] for Childhood asthma
+  2005-12-02[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2005-12-02[STOPPED] : budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] for Childhood asthma
+  2004-11-26[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2004-11-26[STOPPED] : budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] for Childhood asthma
+  2004-10-03[STOPPED] : Trinessa 28 Day Pack
+  2003-11-21[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2003-11-21[STOPPED] : budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] for Childhood asthma
+  2003-11-03[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2003-11-03[STOPPED] : budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] for Childhood asthma
+  2002-11-15[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2002-11-15[STOPPED] : budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] for Childhood asthma
+  2001-11-09[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2001-11-09[STOPPED] : budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] for Childhood asthma
+  2000-11-03[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2000-11-03[STOPPED] : budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] for Childhood asthma
+  1999-10-29[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1999-10-29[STOPPED] : budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] for Childhood asthma
+  1998-10-23[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1998-10-23[STOPPED] : budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] for Childhood asthma
+  1997-10-17[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1997-10-17[STOPPED] : budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] for Childhood asthma
+  1996-10-11[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1996-10-11[STOPPED] : budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] for Childhood asthma
+  1995-10-06[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1995-10-06[STOPPED] : budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] for Childhood asthma
+  1994-09-30[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1994-09-30[STOPPED] : budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] for Childhood asthma
+  1993-09-24[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1993-09-24[STOPPED] : budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] for Childhood asthma
+  1993-08-04[STOPPED] : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1993-08-04[STOPPED] : budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] for Childhood asthma
+  1992-07-16[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  1992-06-27[CURRENT] : Loratadine 5 MG Chewable Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-03-04 -            : Full-time employment (finding)
+  2022-02-11 - 2022-03-04 : Part-time employment (finding)
+  2022-01-29 - 2022-02-10 : Acute bronchitis (disorder)
+  2021-02-26 - 2022-02-11 : Part-time employment (finding)
+  2020-06-26 - 2021-01-29 : Normal pregnancy
+  2020-05-01 - 2021-02-26 : Not in labor force (finding)
+  2020-02-21 -            : Stress (finding)
+  2017-02-03 -            : Has a criminal record (finding)
+  2017-02-03 - 2022-03-04 : Limited social contact (finding)
+  2017-02-03 - 2018-02-09 : Full-time employment (finding)
+  2016-01-29 - 2017-02-03 : Full-time employment (finding)
+  2015-01-23 - 2016-01-29 : Full-time employment (finding)
+  2014-11-07 - 2019-02-15 : Stress (finding)
+  2014-11-07 - 2015-01-23 : Full-time employment (finding)
+  2013-01-11 - 2014-01-17 : Stress (finding)
+  2013-01-11 - 2014-01-17 : Full-time employment (finding)
+  2012-01-06 - 2013-01-11 : Full-time employment (finding)
+  2011-12-23 - 2012-01-06 : Stress (finding)
+  2010-12-31 - 2011-12-23 : Full-time employment (finding)
+  2009-12-25 - 2010-12-31 : Full-time employment (finding)
+  2008-12-19 - 2009-12-25 : Full-time employment (finding)
+  2008-12-19 -            : Body mass index 30+ - obesity (finding)
+  2007-12-14 - 2008-12-19 : Full-time employment (finding)
+  2006-12-08 - 2007-12-14 : Full-time employment (finding)
+  2006-12-08 -            : Received certificate of high school equivalency (finding)
+  2006-12-08 -            : Housing unsatisfactory (finding)
+  2002-06-18 -            : History of single seizure (situation)
+  2002-06-18 -            : Seizure disorder
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2022-01-29[STOPPED] : Respiratory therapy
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2020-06-26[STOPPED] : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  1993-08-04[CURRENT] : Asthma self management
+                         Reason: Childhood asthma
+                         Activity: Inhaled steroid therapy
+                         Activity: Home nebulizer therapy
+                         Activity: Breathing control
+  1992-07-16[CURRENT] : Self-care interventions (procedure)
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-03-04 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+  2022-03-04 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-03-04 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2022-03-04 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2022-03-04 : Lipid Panel
+           - Total Cholesterol                        133.5 mg/dL
+           - Triglycerides                            105.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      58.3 mg/dL
+           - High Density Lipoprotein Cholesterol     54.2 mg/dL
+  2022-02-11 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+  2022-02-11 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-02-11 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2021-02-26 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-03-04 : Total score [AUDIT-C]                    1.0 {score}
+  2022-03-04 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-03-04 : Total score [HARK]                       0.0 {score}
+  2022-03-04 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2022-03-04 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Quite a bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 56935 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             597 Cummings Track 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 4.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2022-03-04 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-03-04 : High Density Lipoprotein Cholesterol     54.2 mg/dL
+  2022-03-04 : Low Density Lipoprotein Cholesterol      58.3 mg/dL
+  2022-03-04 : Triglycerides                            105.2 mg/dL
+  2022-03-04 : Total Cholesterol                        133.5 mg/dL
+  2022-03-04 : Respiratory rate                         13.0 /min
+  2022-03-04 : Heart rate                               83.0 /min
+  2022-03-04 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  117.0 mm[Hg]
+  2022-03-04 : Body Mass Index                          28.9 kg/m2
+  2022-03-04 : Body Weight                              74.1 kg
+  2022-03-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2022-03-04 : Body Height                              160.1 cm
+  2022-02-11 : Total score [AUDIT-C]                    1.0 {score}
+  2022-02-11 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-02-11 : Total score [HARK]                       0.0 {score}
+  2022-02-11 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 56935 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             597 Cummings Track 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 4.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2022-02-11 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-02-11 : Respiratory rate                         14.0 /min
+  2022-02-11 : Heart rate                               76.0 /min
+  2022-02-11 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2022-02-11 : Body Mass Index                          28.9 kg/m2
+  2022-02-11 : Body Weight                              74.0 kg
+  2022-02-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2022-02-11 : Body Height                              160.1 cm
+  2021-02-26 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2021-02-26 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 56935 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             597 Cummings Track 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 4.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-02-26 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-02-26 : Respiratory rate                         14.0 /min
+  2021-02-26 : Heart rate                               86.0 /min
+  2021-02-26 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  119.0 mm[Hg]
+  2021-02-26 : Body Mass Index                          28.2 kg/m2
+  2021-02-26 : Body Weight                              72.4 kg
+  2021-02-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2021-02-26 : Body Height                              160.1 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-03-04 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2022-03-04 : Assessment of substance use (procedure)
+  2022-03-04 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2022-03-04 : Depression screening (procedure)
+  2022-03-04 : Screening for domestic abuse (procedure)
+  2022-03-04 : Assessment of anxiety (procedure)
+  2022-03-04 : Assessment of health and social care needs (procedure)
+  2022-02-11 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2022-02-11 : Assessment of substance use (procedure)
+  2022-02-11 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2022-02-11 : Depression screening (procedure)
+  2022-02-11 : Screening for domestic abuse (procedure)
+  2022-02-11 : Assessment of health and social care needs (procedure)
+  2022-01-29 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2021-03-12 : Depression screening
+  2021-03-12 : Physical examination following birth
+  2021-02-26 : Assessment of anxiety (procedure)
+  2021-02-26 : Assessment of health and social care needs (procedure)
+  2021-01-29 : Childbirth for Normal pregnancy
+  2021-01-29 : Medical induction of labor for Normal pregnancy
+  2021-01-22 : Auscultation of the fetal heart for Normal pregnancy
+  2021-01-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2021-01-08 : Auscultation of the fetal heart for Normal pregnancy
+  2021-01-08 : Evaluation of uterine fundal height for Normal pregnancy
+  2021-01-08 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-02-04 : Influenza, seasonal, injectable, preservative free
+  2021-03-12 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+  2021-02-12 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-09-26 (Dr. Randy Bergstrom) : Encounter at CAPE COD HOSPITAL INC : Encounter for Asthma
+2022-03-07 (Dr. Randy Bergstrom) : Encounter at CAPE COD HOSPITAL INC
+2022-03-04 (Dr. Will Bernhard) : Encounter at CAPE COD HEALTHCARE PHYSICIANS
+2022-02-11 (Dr. Randy Bergstrom) : Encounter at CAPE COD HOSPITAL INC
+2022-01-29 (Dr. Randy Bergstrom) : Encounter at CAPE COD HOSPITAL INC : Encounter for Acute bronchitis (disorder)
+2022-02-04 (Dr. Anderson Lemke) : Encounter at SOUTH SHORE PRIMARY AND URGENT CARE LLC
+2021-03-12 (Dr. Randy Bergstrom) : Encounter at CAPE COD HOSPITAL INC
+2021-03-12 (Dr. Randy Bergstrom) : Encounter at CAPE COD HOSPITAL INC
+2021-02-26 (Dr. Will Bernhard) : Encounter at CAPE COD HEALTHCARE PHYSICIANS
+2021-02-12 (Dr. Randy Bergstrom) : Encounter at CAPE COD HOSPITAL INC
+2021-01-29 (Dr. Shayne Gutmann) : Encounter at WINDSOR NURSING & RETIREMENT HOME : Encounter for Normal pregnancy
+2021-01-22 (Dr. Randy Bergstrom) : Encounter at CAPE COD HOSPITAL INC : Encounter for Normal pregnancy
+2021-01-08 (Dr. Randy Bergstrom) : Encounter at CAPE COD HOSPITAL INC : Encounter for Normal pregnancy
+2020-06-26 (Dr. Randy Bergstrom) : Encounter at CAPE COD HOSPITAL INC : Encounter for Normal pregnancy
+2020-04-27 (Dr. Randy Bergstrom) : Encounter at CAPE COD HOSPITAL INC : Encounter for Streptococcal sore throat (disorder)
+2020-02-21 (Dr. Will Bernhard) : Encounter at CAPE COD HEALTHCARE PHYSICIANS
+2019-02-15 (Dr. Will Bernhard) : Encounter at CAPE COD HEALTHCARE PHYSICIANS
+2018-02-09 (Dr. Will Bernhard) : Encounter at CAPE COD HEALTHCARE PHYSICIANS
+2017-02-03 (Dr. Will Bernhard) : Encounter at CAPE COD HEALTHCARE PHYSICIANS
+2016-01-29 (Dr. Will Bernhard) : Encounter at CAPE COD HEALTHCARE PHYSICIANS
+2015-01-23 (Dr. Will Bernhard) : Encounter at CAPE COD HEALTHCARE PHYSICIANS
+2014-11-14 (Dr. Randy Bergstrom) : Encounter at CAPE COD HOSPITAL INC : Encounter for Normal pregnancy
+2014-11-05 (Dr. Randy Bergstrom) : Encounter at CAPE COD HOSPITAL INC : Encounter for Viral sinusitis (disorder)
+2014-01-17 (Dr. Will Bernhard) : Encounter at CAPE COD HEALTHCARE PHYSICIANS
+2013-01-11 (Dr. Will Bernhard) : Encounter at CAPE COD HEALTHCARE PHYSICIANS
+2012-01-06 (Dr. Will Bernhard) : Encounter at CAPE COD HEALTHCARE PHYSICIANS
+2011-12-19 (Dr. Randy Bergstrom) : Encounter at CAPE COD HOSPITAL INC : Encounter for Viral sinusitis (disorder)
+2010-12-31 (Dr. Will Bernhard) : Encounter at CAPE COD HEALTHCARE PHYSICIANS
+2009-12-25 (Dr. Will Bernhard) : Encounter at CAPE COD HEALTHCARE PHYSICIANS
+2008-12-19 (Dr. Will Bernhard) : Encounter at CAPE COD HEALTHCARE PHYSICIANS
+2007-12-14 (Dr. Will Bernhard) : Encounter at CAPE COD HEALTHCARE PHYSICIANS
+2006-12-08 (Dr. Will Bernhard) : Encounter at CAPE COD HEALTHCARE PHYSICIANS
+2005-12-01 (Dr. Randy Bergstrom) : Encounter at CAPE COD HOSPITAL INC : Encounter for Childhood asthma
+2004-11-26 (Dr. Will Bernhard) : Encounter at CAPE COD HEALTHCARE PHYSICIANS
+2004-10-03 (Dr. Randy Bergstrom) : Encounter at CAPE COD HOSPITAL INC
+2003-11-21 (Dr. Will Bernhard) : Encounter at CAPE COD HEALTHCARE PHYSICIANS
+2003-11-07 (Dr. Randy Bergstrom) : Encounter at CAPE COD HOSPITAL INC
+2002-11-15 (Dr. Will Bernhard) : Encounter at CAPE COD HEALTHCARE PHYSICIANS
+2002-06-18 (Dr. Shayne Gutmann) : Encounter at WINDSOR NURSING & RETIREMENT HOME : Encounter for Seizure disorder
+2001-11-09 (Dr. Will Bernhard) : Encounter at CAPE COD HEALTHCARE PHYSICIANS
+2000-11-03 (Dr. Will Bernhard) : Encounter at CAPE COD HEALTHCARE PHYSICIANS
+1999-10-29 (Dr. Will Bernhard) : Encounter at CAPE COD HEALTHCARE PHYSICIANS
+1998-10-23 (Dr. Will Bernhard) : Encounter at CAPE COD HEALTHCARE PHYSICIANS
+1997-10-17 (Dr. Will Bernhard) : Encounter at CAPE COD HEALTHCARE PHYSICIANS
+1996-10-11 (Dr. Will Bernhard) : Encounter at CAPE COD HEALTHCARE PHYSICIANS
+1995-10-06 (Dr. Will Bernhard) : Encounter at CAPE COD HEALTHCARE PHYSICIANS
+1994-09-30 (Dr. Will Bernhard) : Encounter at CAPE COD HEALTHCARE PHYSICIANS
+1993-09-24 (Dr. Will Bernhard) : Encounter at CAPE COD HEALTHCARE PHYSICIANS
+1993-08-04 (Dr. Randy Bergstrom) : Encounter at CAPE COD HOSPITAL INC : Encounter for Childhood asthma
+1992-07-16 (Dr. Randy Bergstrom) : Encounter at CAPE COD HOSPITAL INC
+1992-06-27 (Dr. Randy Bergstrom) : Encounter at CAPE COD HOSPITAL INC : Encounter for Perennial allergic rhinitis with seasonal variation
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

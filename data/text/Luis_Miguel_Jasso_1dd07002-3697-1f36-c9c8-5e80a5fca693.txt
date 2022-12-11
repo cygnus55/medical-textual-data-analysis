@@ -1,0 +1,395 @@
+Luis Miguel Jasso
+=================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              M
+Age:                 32
+Birth Date:          1990-02-10
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1991-07-05 -            : Peanut (substance)
+  1991-07-05 -            : Lisinopril
+  1991-07-05 -            : Grass pollen (substance)
+  1991-07-05 -            : Animal dander (substance)
+  1991-07-05 -            : House dust mite (organism)
+  1991-07-05 -            : Mold (organism)
+  1991-07-05 -            : Latex (substance)
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2022-06-25[CURRENT] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2022-06-25[CURRENT] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  2022-06-25[CURRENT] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2022-06-25[CURRENT] : losartan potassium 25 MG Oral Tablet for Hypertension
+  2021-09-25[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2021-09-25[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  2021-09-25[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2021-09-25[STOPPED] : losartan potassium 25 MG Oral Tablet for Hypertension
+  2021-06-19[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2021-06-19[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  2021-06-19[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2021-06-19[STOPPED] : losartan potassium 25 MG Oral Tablet for Hypertension
+  2020-06-13[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2020-06-13[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  2020-06-13[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2020-06-13[STOPPED] : losartan potassium 25 MG Oral Tablet for Hypertension
+  2019-06-08[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2019-06-08[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  2019-06-08[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2019-06-08[STOPPED] : losartan potassium 25 MG Oral Tablet for Hypertension
+  2018-07-28[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2018-07-28[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  2018-07-28[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2018-07-28[STOPPED] : losartan potassium 25 MG Oral Tablet for Hypertension
+  2018-06-02[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2018-06-02[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  2018-06-02[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2018-06-02[STOPPED] : losartan potassium 25 MG Oral Tablet for Hypertension
+  2017-05-27[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2017-05-27[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  2017-05-27[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2017-05-27[STOPPED] : losartan potassium 25 MG Oral Tablet for Hypertension
+  2016-05-21[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2016-05-21[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  2016-05-21[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2016-05-21[STOPPED] : losartan potassium 25 MG Oral Tablet for Hypertension
+  2015-05-16[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2015-05-16[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  2015-05-16[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2015-05-16[STOPPED] : losartan potassium 25 MG Oral Tablet for Hypertension
+  2014-05-10[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2014-05-10[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  2014-05-10[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2014-05-10[STOPPED] : losartan potassium 25 MG Oral Tablet for Hypertension
+  2013-05-04[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2013-05-04[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  2013-05-04[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2013-05-04[STOPPED] : losartan potassium 25 MG Oral Tablet for Hypertension
+  2012-04-28[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2012-04-28[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  2012-04-28[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2012-04-28[STOPPED] : losartan potassium 25 MG Oral Tablet for Hypertension
+  2011-04-23[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2011-04-23[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  2011-04-23[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2011-04-23[STOPPED] : losartan potassium 25 MG Oral Tablet for Hypertension
+  2010-06-26[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2010-06-26[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  2010-06-26[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2010-06-26[STOPPED] : losartan potassium 25 MG Oral Tablet for Hypertension
+  2010-04-17[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2010-04-17[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  2010-04-17[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2010-04-17[STOPPED] : losartan potassium 25 MG Oral Tablet for Hypertension
+  2009-04-11[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2009-04-11[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  2009-04-11[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2009-04-11[STOPPED] : losartan potassium 25 MG Oral Tablet for Hypertension
+  2008-04-05[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2008-04-05[STOPPED] : losartan potassium 25 MG Oral Tablet for Hypertension
+  2008-04-05[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  2008-04-05[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2007-03-31[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  2007-03-31[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2006-03-25[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  2006-03-25[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2005-03-19[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  2005-03-19[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2004-12-11[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  2004-12-11[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2004-03-13[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  2004-03-13[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2003-03-08[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  2003-03-08[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2002-03-02[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  2002-03-02[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2001-02-24[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  2001-02-24[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2000-02-19[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  2000-02-19[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1999-02-13[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  1999-02-13[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1998-02-07[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  1998-02-07[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1997-11-22[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  1997-11-22[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1997-02-01[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  1997-02-01[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1996-01-27[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  1996-01-27[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1995-01-21[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  1995-01-21[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1994-01-15[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  1994-01-15[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1993-07-17[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  1993-07-17[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1993-02-13[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  1993-02-13[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  1991-07-05[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  1991-07-05[CURRENT] : Terfenadine 60 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-06-25 -            : Full-time employment (finding)
+  2021-09-25 - 2022-06-25 : Full-time employment (finding)
+  2021-09-25 -            : Body mass index 30+ - obesity (finding)
+  2021-09-25 - 2021-10-02 : Viral sinusitis (disorder)
+  2021-06-19 - 2021-09-25 : Full-time employment (finding)
+  2020-06-13 - 2021-06-19 : Stress (finding)
+  2020-06-13 - 2021-06-19 : Full-time employment (finding)
+  2019-06-08 - 2020-06-13 : Full-time employment (finding)
+  2018-07-28 - 2019-06-08 : Full-time employment (finding)
+  2018-06-02 - 2022-06-25 : Social isolation (finding)
+  2018-06-02 - 2018-07-28 : Full-time employment (finding)
+  2015-05-16 - 2016-05-21 : Full-time employment (finding)
+  2014-05-10 - 2015-05-16 : Full-time employment (finding)
+  2013-05-04 - 2014-05-10 : Full-time employment (finding)
+  2012-04-28 - 2013-05-04 : Full-time employment (finding)
+  2011-04-23 - 2012-04-28 : Full-time employment (finding)
+  2010-06-26 - 2011-04-23 : Full-time employment (finding)
+  2010-04-17 - 2010-06-26 : Full-time employment (finding)
+  2009-04-11 - 2010-04-17 : Full-time employment (finding)
+  2008-04-05 - 2009-04-11 : Full-time employment (finding)
+  2008-04-05 -            : Received certificate of high school equivalency (finding)
+  2008-04-05 -            : Hypertension
+  1994-12-15 -            : History of appendectomy
+  1994-12-15 -            : Appendicitis
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2008-04-05[CURRENT] : Lifestyle education regarding hypertension
+                         Reason: Hypertension
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  1993-02-13[CURRENT] : Asthma self management
+                         Reason: Childhood asthma
+                         Activity: Inhaled steroid therapy
+                         Activity: Home nebulizer therapy
+                         Activity: Breathing control
+  1991-06-16[CURRENT] : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-06-25 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    2.0 {score}
+  2022-06-25 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-06-25 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2021-09-25 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    0.0 {score}
+  2021-09-25 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-09-25 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2021-06-19 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+  2021-06-19 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2021-06-19 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.6 %
+           - MCV [Entitic volume] by Automated count  89.5 fL
+           - MCH [Entitic mass] by Automated count    28.4 pg
+           - MCHC [Mass/volume] by Automated count    34.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.8 fL
+           - Platelets [#/volume] in Blood by Automated count 326.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 357.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-06-25 : Total score [DAST-10]                    2.0 {score}
+  2022-06-25 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-06-25 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2022-06-25 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 133293 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             765 Stracke Trafficway 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 4.0 {#}
+           - What language are you most comfortable speaking? Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2022-06-25 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-06-25 : Respiratory rate                         16.0 /min
+  2022-06-25 : Heart rate                               80.0 /min
+  2022-06-25 : Blood Pressure
+           - Diastolic Blood Pressure                 105.0 mm[Hg]
+           - Systolic Blood Pressure                  154.0 mm[Hg]
+  2022-06-25 : Body Mass Index                          29.5 kg/m2
+  2022-06-25 : Body Weight                              87.5 kg
+  2022-06-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2022-06-25 : Body Height                              172.2 cm
+  2021-09-25 : Total score [DAST-10]                    0.0 {score}
+  2021-09-25 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-09-25 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2021-09-25 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 133293 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             765 Stracke Trafficway 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 4.0 {#}
+           - What language are you most comfortable speaking? Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-09-25 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-09-25 : Respiratory rate                         13.0 /min
+  2021-09-25 : Heart rate                               96.0 /min
+  2021-09-25 : Blood Pressure
+           - Diastolic Blood Pressure                 102.0 mm[Hg]
+           - Systolic Blood Pressure                  155.0 mm[Hg]
+  2021-09-25 : Body Mass Index                          30.0 kg/m2
+  2021-09-25 : Body Weight                              89.0 kg
+  2021-09-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2021-09-25 : Body Height                              172.2 cm
+  2021-06-19 : Total score [DAST-10]                    1.0 {score}
+  2021-06-19 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2021-06-19 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 133293 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             765 Stracke Trafficway 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 4.0 {#}
+           - What language are you most comfortable speaking? Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-06-19 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-06-19 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2021-06-19 : Platelet distribution width [Entitic volume] in Blood by Automated count 357.9 fL
+  2021-06-19 : Platelets [#/volume] in Blood by Automated count 326.9 10*3/uL
+  2021-06-19 : Erythrocyte distribution width [Entitic volume] by Automated count 44.8 fL
+  2021-06-19 : MCHC [Mass/volume] by Automated count    34.6 g/dL
+  2021-06-19 : MCH [Entitic mass] by Automated count    28.4 pg
+  2021-06-19 : MCV [Entitic volume] by Automated count  89.5 fL
+  2021-06-19 : Hematocrit [Volume Fraction] of Blood by Automated count 41.6 %
+  2021-06-19 : Hemoglobin [Mass/volume] in Blood        16.0 g/dL
+  2021-06-19 : Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+  2021-06-19 : Leukocytes [#/volume] in Blood by Automated count 3.7 10*3/uL
+  2021-06-19 : Respiratory rate                         13.0 /min
+  2021-06-19 : Heart rate                               79.0 /min
+  2021-06-19 : Blood Pressure
+           - Diastolic Blood Pressure                 103.0 mm[Hg]
+           - Systolic Blood Pressure                  144.0 mm[Hg]
+  2021-06-19 : Body Mass Index                          29.9 kg/m2
+  2021-06-19 : Body Weight                              88.6 kg
+  2021-06-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2021-06-19 : Body Height                              172.2 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-06-25 : Screening for drug abuse (procedure)
+  2022-06-25 : Assessment of substance use (procedure)
+  2022-06-25 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2022-06-25 : Depression screening (procedure)
+  2022-06-25 : Assessment of anxiety (procedure)
+  2022-06-25 : Assessment of health and social care needs (procedure)
+  2021-09-25 : Screening for drug abuse (procedure)
+  2021-09-25 : Assessment of substance use (procedure)
+  2021-09-25 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-09-25 : Depression screening (procedure)
+  2021-09-25 : Assessment of anxiety (procedure)
+  2021-09-25 : Assessment of health and social care needs (procedure)
+  2021-06-19 : Screening for drug abuse (procedure)
+  2021-06-19 : Assessment of substance use (procedure)
+  2021-06-19 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-06-19 : Depression screening (procedure)
+  2021-06-19 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-09-25 : Influenza, seasonal, injectable, preservative free
+  2021-06-19 : Td (adult) preservative free
+  2021-06-19 : Influenza, seasonal, injectable, preservative free
+  2021-05-29 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-05-08 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-06-25 (Dr. Zackary Mohr) : Encounter at CEDAR STREET FAMILY CLINIC INC
+2021-09-25 (Dr. Ronald Emard) : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC : Encounter for Viral sinusitis (disorder)
+2021-09-25 (Dr. Ronald Emard) : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+2021-06-19 (Dr. Zackary Mohr) : Encounter at CEDAR STREET FAMILY CLINIC INC
+2021-05-29 (Dr. Ronald Emard) : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+2021-05-08 (Dr. Ronald Emard) : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+2021-02-20 (Dr. Ronald Emard) : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC : Encounter for Asthma
+2021-02-18 (Dr. Shon Swift) : Encounter at HEALTH ALLIANCE HOME HEALTH AND HOSPICE : Encounter for Asthma
+2020-06-13 (Dr. Zackary Mohr) : Encounter at CEDAR STREET FAMILY CLINIC INC
+2019-06-08 (Dr. Zackary Mohr) : Encounter at CEDAR STREET FAMILY CLINIC INC
+2018-07-26 (Dr. Ronald Emard) : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC : Encounter for Viral sinusitis (disorder)
+2018-06-02 (Dr. Zackary Mohr) : Encounter at CEDAR STREET FAMILY CLINIC INC
+2017-05-27 (Dr. Zackary Mohr) : Encounter at CEDAR STREET FAMILY CLINIC INC
+2016-05-21 (Dr. Zackary Mohr) : Encounter at CEDAR STREET FAMILY CLINIC INC
+2015-05-16 (Dr. Zackary Mohr) : Encounter at CEDAR STREET FAMILY CLINIC INC
+2014-05-10 (Dr. Zackary Mohr) : Encounter at CEDAR STREET FAMILY CLINIC INC
+2013-05-04 (Dr. Zackary Mohr) : Encounter at CEDAR STREET FAMILY CLINIC INC
+2012-04-28 (Dr. Zackary Mohr) : Encounter at CEDAR STREET FAMILY CLINIC INC
+2011-04-23 (Dr. Zackary Mohr) : Encounter at CEDAR STREET FAMILY CLINIC INC
+2010-06-21 (Dr. Ronald Emard) : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC : Encounter for Viral sinusitis (disorder)
+2010-04-17 (Dr. Zackary Mohr) : Encounter at CEDAR STREET FAMILY CLINIC INC
+2009-04-11 (Dr. Zackary Mohr) : Encounter at CEDAR STREET FAMILY CLINIC INC
+2008-04-05 (Dr. Zackary Mohr) : Encounter at CEDAR STREET FAMILY CLINIC INC
+2007-03-31 (Dr. Zackary Mohr) : Encounter at CEDAR STREET FAMILY CLINIC INC
+2006-03-25 (Dr. Zackary Mohr) : Encounter at CEDAR STREET FAMILY CLINIC INC
+2005-03-19 (Dr. Zackary Mohr) : Encounter at CEDAR STREET FAMILY CLINIC INC
+2004-12-11 (Dr. Ronald Emard) : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+2004-03-10 (Dr. Ronald Emard) : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+2003-03-08 (Dr. Zackary Mohr) : Encounter at CEDAR STREET FAMILY CLINIC INC
+2002-03-02 (Dr. Zackary Mohr) : Encounter at CEDAR STREET FAMILY CLINIC INC
+2001-02-24 (Dr. Zackary Mohr) : Encounter at CEDAR STREET FAMILY CLINIC INC
+2000-02-19 (Dr. Zackary Mohr) : Encounter at CEDAR STREET FAMILY CLINIC INC
+1999-02-13 (Dr. Zackary Mohr) : Encounter at CEDAR STREET FAMILY CLINIC INC
+1998-02-07 (Dr. Zackary Mohr) : Encounter at CEDAR STREET FAMILY CLINIC INC
+1997-11-22 (Dr. Ronald Emard) : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+1997-02-01 (Dr. Zackary Mohr) : Encounter at CEDAR STREET FAMILY CLINIC INC
+1996-01-27 (Dr. Zackary Mohr) : Encounter at CEDAR STREET FAMILY CLINIC INC
+1995-01-21 (Dr. Zackary Mohr) : Encounter at CEDAR STREET FAMILY CLINIC INC
+1994-12-15 (Dr. Ronald Emard) : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC : Encounter for Appendicitis
+1994-12-15 (Dr. Shon Swift) : Encounter at HEALTH ALLIANCE HOME HEALTH AND HOSPICE : Encounter for Appendicitis
+1994-01-15 (Dr. Zackary Mohr) : Encounter at CEDAR STREET FAMILY CLINIC INC
+1993-07-17 (Dr. Zackary Mohr) : Encounter at CEDAR STREET FAMILY CLINIC INC
+1993-02-13 (Dr. Ronald Emard) : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC : Encounter for Childhood asthma
+1991-07-05 (Dr. Ronald Emard) : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+1991-06-16 (Dr. Ronald Emard) : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

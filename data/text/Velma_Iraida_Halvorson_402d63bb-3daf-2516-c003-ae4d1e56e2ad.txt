@@ -1,0 +1,220 @@
+Velma Iraida Halvorson
+======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 47
+Birth Date:          1975-08-03
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1976-03-13 -            : Shellfish (substance)
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2021-12-12[CURRENT] : 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule
+  2021-12-12[CURRENT] : lisinopril 10 MG Oral Tablet for Hypertension
+  2021-12-12[CURRENT] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]
+  2021-12-12[CURRENT] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2020-12-06[STOPPED] : 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule
+  2020-12-06[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2020-12-06[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]
+  2020-12-06[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2019-12-01[STOPPED] : 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule
+  2019-12-01[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2019-12-01[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]
+  2019-12-01[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2018-11-25[STOPPED] : 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule
+  2018-11-25[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2018-11-25[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]
+  2018-11-25[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2017-11-19[STOPPED] : 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule
+  2017-11-19[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2017-11-19[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]
+  2017-11-19[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2016-11-13[STOPPED] : 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule
+  2016-11-13[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2016-11-13[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]
+  2016-11-13[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2015-11-08[STOPPED] : 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule
+  2015-11-08[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2015-11-08[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]
+  2015-11-08[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2014-11-02[STOPPED] : 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule
+  2014-11-02[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2014-11-02[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]
+  2014-11-02[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2014-07-10[STOPPED] : 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule
+  2014-03-24[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]
+  2014-02-04[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2013-10-27[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2012-10-21[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2012-10-21[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  1976-03-13[CURRENT] : diphenhydrAMINE Hydrochloride 25 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-08-20 - 2022-09-07 : Viral sinusitis (disorder)
+  2021-12-12 -            : Stress (finding)
+  2021-12-12 -            : Full-time employment (finding)
+  2020-12-06 - 2021-12-12 : Full-time employment (finding)
+  2019-12-01 - 2020-12-06 : Full-time employment (finding)
+  2018-11-25 -            : Metabolic syndrome X (disorder)
+  2017-11-19 - 2018-11-25 : Full-time employment (finding)
+  2015-11-08 - 2016-11-13 : Full-time employment (finding)
+  2014-11-02 - 2019-12-01 : Stress (finding)
+  2014-11-02 - 2021-12-12 : Limited social contact (finding)
+  2014-02-04 -            : Chronic low back pain (finding)
+  2013-10-27 -            : Social isolation (finding)
+  2013-10-27 - 2014-11-02 : Full-time employment (finding)
+  2012-10-21 - 2013-10-27 : Full-time employment (finding)
+  2012-10-21 -            : Body mass index 30+ - obesity (finding)
+  2012-10-21 -            : Hypertension
+  2009-10-18 - 2012-10-21 : Stress (finding)
+  2009-10-18 - 2012-10-21 : Full-time employment (finding)
+  2007-09-23 - 2009-10-18 : Full-time employment (finding)
+  2006-10-15 - 2007-09-23 : Full-time employment (finding)
+  2003-10-12 - 2007-09-23 : Stress (finding)
+  2003-10-12 - 2006-10-15 : Full-time employment (finding)
+  2000-10-08 - 2003-10-12 : Full-time employment (finding)
+  2000-10-08 -            : Anemia (disorder)
+  2000-10-08 -            : Prediabetes
+  1997-10-05 - 2000-10-08 : Full-time employment (finding)
+  1993-09-26 - 1994-10-02 : Stress (finding)
+  1993-09-26 - 1997-10-05 : Social isolation (finding)
+  1993-09-26 - 1994-10-02 : Full-time employment (finding)
+  1993-09-26 -            : Received certificate of high school equivalency (finding)
+  1975-09-08 -            : Epilepsy
+  1975-09-07 -            : History of single seizure (situation)
+  1975-09-07 -            : Seizure disorder
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2014-03-24[CURRENT] : Therapy (regime/therapy)
+                         Activity: Physical therapy procedure (regime/therapy)
+                         Activity: Cognitive and behavioral therapy (regime/therapy)
+  2012-10-21[CURRENT] : Lifestyle education regarding hypertension
+                         Reason: Hypertension
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  2000-10-08[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1976-02-27[CURRENT] : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-12-13 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+  2021-12-12 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-12-12 : Lipid Panel
+           - Total Cholesterol                        159.6 mg/dL
+           - Triglycerides                            106.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      81.6 mg/dL
+           - High Density Lipoprotein Cholesterol     56.7 mg/dL
+  2021-12-12 : Basic Metabolic Panel
+           - Glucose                                  84.2 mg/dL
+           - Urea Nitrogen                            9.2 mg/dL
+           - Creatinine                               0.8 mg/dL
+           - Calcium                                  9.8 mg/dL
+           - Sodium                                   140.7 mmol/L
+           - Potassium                                3.8 mmol/L
+           - Chloride                                 101.8 mmol/L
+           - Carbon Dioxide                           28.9 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-12-13 : Total score [AUDIT-C]                    1.0 {score}
+  2021-12-12 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-12-12 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 49892 /a
+           - What is your main insurance?             None/uninsured 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             721 Harber Route 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-12-12 : Hemoglobin A1c/Hemoglobin.total in Blood 5.8 %
+  2021-12-12 : Tobacco smoking status                   Ex-smoker (finding) 
+  2021-12-12 : High Density Lipoprotein Cholesterol     56.7 mg/dL
+  2021-12-12 : Low Density Lipoprotein Cholesterol      81.6 mg/dL
+  2021-12-12 : Triglycerides                            106.6 mg/dL
+  2021-12-12 : Total Cholesterol                        159.6 mg/dL
+  2021-12-12 : Carbon Dioxide                           28.9 mmol/L
+  2021-12-12 : Chloride                                 101.8 mmol/L
+  2021-12-12 : Potassium                                3.8 mmol/L
+  2021-12-12 : Sodium                                   140.7 mmol/L
+  2021-12-12 : Calcium                                  9.8 mg/dL
+  2021-12-12 : Creatinine                               0.8 mg/dL
+  2021-12-12 : Urea Nitrogen                            9.2 mg/dL
+  2021-12-12 : Glucose                                  84.2 mg/dL
+  2021-12-12 : Respiratory rate                         16.0 /min
+  2021-12-12 : Heart rate                               61.0 /min
+  2021-12-12 : Blood Pressure
+           - Diastolic Blood Pressure                 88.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2021-12-12 : Body Mass Index                          27.8 kg/m2
+  2021-12-12 : Body Weight                              68.7 kg
+  2021-12-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2021-12-12 : Body Height                              157.1 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2021-12-12 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2021-12-12 : Assessment of substance use (procedure)
+  2021-12-12 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-12-12 : Depression screening (procedure)
+  2021-12-12 : Medication Reconciliation (procedure)
+  2021-12-12 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-12-12 : Influenza, seasonal, injectable, preservative free
+  2021-04-11 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+  2021-03-14 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-08-20 (Dr. Latoria Eichmann) : Encounter at BERKSHIRE MEDICAL CENTER INC : Encounter for Viral sinusitis (disorder)
+2021-12-12 (Dr. Rashad Predovic) : Encounter at FAMILY PRACTICE ASSOCIATES R TAYLOR E HEYMAN & R LEE PTRS
+2021-04-11 (Dr. Maryann Hintz) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2021-03-14 (Dr. Maryann Hintz) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2020-12-06 (Dr. Rashad Predovic) : Encounter at FAMILY PRACTICE ASSOCIATES R TAYLOR E HEYMAN & R LEE PTRS
+2019-12-01 (Dr. Rashad Predovic) : Encounter at FAMILY PRACTICE ASSOCIATES R TAYLOR E HEYMAN & R LEE PTRS
+2018-11-25 (Dr. Rashad Predovic) : Encounter at FAMILY PRACTICE ASSOCIATES R TAYLOR E HEYMAN & R LEE PTRS
+2017-11-19 (Dr. Rashad Predovic) : Encounter at FAMILY PRACTICE ASSOCIATES R TAYLOR E HEYMAN & R LEE PTRS
+2016-11-13 (Dr. Rashad Predovic) : Encounter at FAMILY PRACTICE ASSOCIATES R TAYLOR E HEYMAN & R LEE PTRS
+2015-11-08 (Dr. Rashad Predovic) : Encounter at FAMILY PRACTICE ASSOCIATES R TAYLOR E HEYMAN & R LEE PTRS
+2014-11-02 (Dr. Rashad Predovic) : Encounter at FAMILY PRACTICE ASSOCIATES R TAYLOR E HEYMAN & R LEE PTRS
+2014-07-10 (Dr. Latoria Eichmann) : Encounter at BERKSHIRE MEDICAL CENTER INC
+2014-03-24 (Dr. Latoria Eichmann) : Encounter at BERKSHIRE MEDICAL CENTER INC
+2014-02-04 (Dr. Maryann Hintz) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2013-10-27 (Dr. Rashad Predovic) : Encounter at FAMILY PRACTICE ASSOCIATES R TAYLOR E HEYMAN & R LEE PTRS
+2012-10-21 (Dr. Rashad Predovic) : Encounter at FAMILY PRACTICE ASSOCIATES R TAYLOR E HEYMAN & R LEE PTRS
+2009-10-18 (Dr. Rashad Predovic) : Encounter at FAMILY PRACTICE ASSOCIATES R TAYLOR E HEYMAN & R LEE PTRS
+2007-09-23 (Dr. Maryann Hintz) : Encounter at BERKSHIRE MEDICAL CENTER INC - 1
+2006-10-15 (Dr. Rashad Predovic) : Encounter at FAMILY PRACTICE ASSOCIATES R TAYLOR E HEYMAN & R LEE PTRS
+2003-10-12 (Dr. Rashad Predovic) : Encounter at FAMILY PRACTICE ASSOCIATES R TAYLOR E HEYMAN & R LEE PTRS
+2000-10-08 (Dr. Latoria Eichmann) : Encounter at BERKSHIRE MEDICAL CENTER INC : Encounter for Anemia (disorder)
+2000-10-08 (Dr. Rashad Predovic) : Encounter at FAMILY PRACTICE ASSOCIATES R TAYLOR E HEYMAN & R LEE PTRS
+1997-10-05 (Dr. Rashad Predovic) : Encounter at FAMILY PRACTICE ASSOCIATES R TAYLOR E HEYMAN & R LEE PTRS
+1993-09-26 (Dr. Rashad Predovic) : Encounter at FAMILY PRACTICE ASSOCIATES R TAYLOR E HEYMAN & R LEE PTRS
+1976-03-13 (Dr. Latoria Eichmann) : Encounter at BERKSHIRE MEDICAL CENTER INC
+1976-02-27 (Dr. Latoria Eichmann) : Encounter at BERKSHIRE MEDICAL CENTER INC
+1975-09-07 (Dr. Troy Dooley) : Encounter at GENTIVA HEALTH SERVICES : Encounter for Seizure disorder
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

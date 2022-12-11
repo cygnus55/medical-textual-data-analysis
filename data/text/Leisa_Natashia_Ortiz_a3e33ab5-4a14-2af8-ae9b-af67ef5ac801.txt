@@ -1,0 +1,108 @@
+Leisa Natashia Ortiz
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 48
+Birth Date:          1974-09-03
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2022-11-09[CURRENT] : Etonogestrel 68 MG Drug Implant
+  2014-12-21[STOPPED] : Etonogestrel 68 MG Drug Implant
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-09-27 -            : Part-time employment (finding)
+  2021-05-11 - 2021-05-20 : Fetus with unknown complication
+  2021-05-11 -            : Miscarriage in first trimester
+  2021-05-11 - 2021-05-20 : Normal pregnancy
+  2020-09-22 - 2022-09-27 : Part-time employment (finding)
+  2019-08-20 - 2022-09-27 : Stress (finding)
+  2019-08-20 - 2022-09-27 : Social isolation (finding)
+  2012-01-24 -            : Body mass index 30+ - obesity (finding)
+  2006-05-16 - 2009-01-20 : Part-time employment (finding)
+  1999-11-09 - 2003-01-14 : Part-time employment (finding)
+  1992-10-27 -            : Received higher education (finding)
+  1979-03-11 -            : History of appendectomy
+  1979-03-11 -            : Appendicitis
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-09-27 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-09-27 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2022-09-27 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 113665 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             203 Langosh Approach 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 5.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2022-09-27 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-09-27 : Respiratory rate                         15.0 /min
+  2022-09-27 : Heart rate                               73.0 /min
+  2022-09-27 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  133.0 mm[Hg]
+  2022-09-27 : Body Mass Index                          29.3 kg/m2
+  2022-09-27 : Body Weight                              77.0 kg
+  2022-09-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2022-09-27 : Body Height                              162.2 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-11-09 : Insertion of subcutaneous contraceptive
+  2022-09-27 : Assessment of anxiety (procedure)
+  2022-09-27 : Medication Reconciliation (procedure)
+  2022-09-27 : Assessment of health and social care needs (procedure)
+  2021-05-20 : Depression screening for Normal pregnancy
+  2021-05-20 : Physical examination for Normal pregnancy
+  2021-05-11 : Ultrasound scan for fetal viability for Normal pregnancy
+  2021-05-11 : Standard pregnancy test for Normal pregnancy
+  2021-03-16 : Removal of subcutaneous contraceptive
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-09-27 : Influenza, seasonal, injectable, preservative free
+  2021-08-31 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-08-10 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-11-09 (Dr. Alysha Koch) : Encounter at TEWKSBURY HOSPITAL
+2022-09-27 (Dr. Valeri Hayes) : Encounter at CHELMSFORD PRIMARY CARE LLC
+2021-08-31 (Dr. Alysha Koch) : Encounter at TEWKSBURY HOSPITAL
+2021-08-10 (Dr. Alysha Koch) : Encounter at TEWKSBURY HOSPITAL
+2021-05-20 (Dr. Alysha Koch) : Encounter at TEWKSBURY HOSPITAL : Encounter for Fetus with unknown complication
+2021-05-11 (Dr. Alysha Koch) : Encounter at TEWKSBURY HOSPITAL : Encounter for Normal pregnancy
+2021-03-16 (Dr. Alysha Koch) : Encounter at TEWKSBURY HOSPITAL
+2020-09-22 (Dr. Valeri Hayes) : Encounter at CHELMSFORD PRIMARY CARE LLC
+2019-08-20 (Dr. Alysha Koch) : Encounter at TEWKSBURY HOSPITAL
+2014-12-21 (Dr. Alysha Koch) : Encounter at TEWKSBURY HOSPITAL
+2012-01-24 (Dr. Valeri Hayes) : Encounter at CHELMSFORD PRIMARY CARE LLC
+2006-05-14 (Dr. Alysha Koch) : Encounter at TEWKSBURY HOSPITAL : Encounter for Viral sinusitis (disorder)
+1999-11-09 (Dr. Valeri Hayes) : Encounter at CHELMSFORD PRIMARY CARE LLC
+1992-10-27 (Dr. Valeri Hayes) : Encounter at CHELMSFORD PRIMARY CARE LLC
+1979-03-11 (Dr. Alysha Koch) : Encounter at TEWKSBURY HOSPITAL : Encounter for Appendicitis
+1979-03-11 (Dr. Anabel Hilll) : Encounter at CIRCLE HOME : Encounter for Appendicitis
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

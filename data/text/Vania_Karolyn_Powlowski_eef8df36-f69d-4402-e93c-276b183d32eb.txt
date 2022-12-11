@@ -1,0 +1,72 @@
+Vania Karolyn Powlowski
+=======================
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 33
+Birth Date:          1989-06-17
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1990-09-10 -            : Tree nut (substance)
+  1990-09-10 -            : Eggs (edible) (substance)
+  1990-09-10 -            : Soya bean (substance)
+  1990-09-10 -            : Tree pollen (substance)
+  1990-09-10 -            : Animal dander (substance)
+  1990-09-10 -            : House dust mite (organism)
+  1990-09-10 -            : Mold (organism)
+  1990-09-10 -            : Bee venom (substance)
+  1990-09-10 -            : Latex (substance)
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2022-05-04[CURRENT] : NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+  2020-05-14[STOPPED] : Camila 28 Day Pack
+  2006-06-01[STOPPED] : NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+  1990-09-10[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  1990-09-10[CURRENT] : Terfenadine 60 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-11-03 - 2022-11-16 : Viral sinusitis (disorder)
+  2022-08-01 - 2022-08-26 : Viral sinusitis (disorder)
+  2020-08-29 -            : Full-time employment (finding)
+  2016-09-24 -            : Miscarriage in first trimester
+  2014-08-23 -            : Misuses drugs (finding)
+  2014-08-23 - 2017-08-26 : Full-time employment (finding)
+  2013-08-17 -            : Social isolation (finding)
+  2013-08-17 - 2014-08-23 : Full-time employment (finding)
+  2007-08-11 - 2011-08-20 : Social isolation (finding)
+  2007-08-11 - 2008-08-16 : Full-time employment (finding)
+  2007-08-11 -            : Only received primary school education (finding)
+  2006-08-05 -            : Risk activity involvement (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  1990-08-29[CURRENT] : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+--------------------------------------------------------------------------------
+PROCEDURES:
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-11-03 (Dr. Nickolas Schumm) : Encounter at ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE : Encounter for Viral sinusitis (disorder)
+2022-08-01 (Dr. Nickolas Schumm) : Encounter at ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE : Encounter for Viral sinusitis (disorder)
+2022-05-04 (Dr. Nickolas Schumm) : Encounter at ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+2020-08-29 (Dr. Anita Gil) : Encounter at LIFE LINE COMMUNITY HEALTHCARE
+2020-05-14 (Dr. Nickolas Schumm) : Encounter at ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+2016-09-24 (Dr. Nickolas Schumm) : Encounter at ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE : Encounter for Normal pregnancy
+2014-08-23 (Dr. Anita Gil) : Encounter at LIFE LINE COMMUNITY HEALTHCARE
+2013-08-13 (Dr. Nickolas Schumm) : Encounter at ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE : Encounter for Streptococcal sore throat (disorder)
+2007-08-11 (Dr. Anita Gil) : Encounter at LIFE LINE COMMUNITY HEALTHCARE
+2006-08-05 (Dr. Anita Gil) : Encounter at LIFE LINE COMMUNITY HEALTHCARE
+2006-06-01 (Dr. Nickolas Schumm) : Encounter at ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+1990-09-10 (Dr. Nickolas Schumm) : Encounter at ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+1990-08-29 (Dr. Nickolas Schumm) : Encounter at ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

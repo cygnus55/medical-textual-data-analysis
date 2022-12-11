@@ -1,0 +1,171 @@
+Darin Aufderhar
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 58
+Birth Date:          1964-10-15
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2020-12-15[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+  2014-03-25[CURRENT] : 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule
+  2014-02-01[CURRENT] : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+  2012-04-05[CURRENT] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2012-04-05[CURRENT] : 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+  2012-04-05[CURRENT] : Simvastatin 20 MG Oral Tablet
+  2012-04-05[CURRENT] : Clopidogrel 75 MG Oral Tablet
+  2012-03-29[CURRENT] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2012-03-29[CURRENT] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2011-03-24[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2010-03-18[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2009-03-12[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2008-03-06[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2007-03-01[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2006-02-23[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2005-02-17[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2004-02-12[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2003-02-06[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2002-01-31[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2001-01-25[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2000-01-20[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1999-01-14[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1998-01-08[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1997-01-02[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1995-12-28[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1995-12-28[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2021-01-09 - 2021-02-01 : COVID-19
+  2021-01-09 - 2021-01-09 : Suspected COVID-19
+  2021-01-09 - 2021-02-01 : Fever (finding)
+  2021-01-09 - 2021-02-01 : Sputum finding (finding)
+  2021-01-09 - 2021-02-01 : Cough (finding)
+  2020-12-15 - 2021-03-20 : Fracture of forearm
+  2014-02-01 -            : Chronic neck pain (finding)
+  2014-02-01 -            : Chronic low back pain (finding)
+  2012-04-09 -            : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  2012-03-29 -            : Part-time employment (finding)
+  2012-03-29 -            : Diabetic renal disease (disorder)
+  2012-03-29 -            : Chronic kidney disease stage 1 (disorder)
+  2012-03-29 -            : Ischemic heart disease (disorder)
+  2010-03-18 - 2011-03-24 : Part-time employment (finding)
+  2007-03-01 -            : Has a criminal record (finding)
+  2006-02-23 -            : Metabolic syndrome X (disorder)
+  2005-02-17 -            : Body mass index 30+ - obesity (finding)
+  2003-02-06 - 2004-02-12 : Part-time employment (finding)
+  2001-01-25 - 2002-01-31 : Part-time employment (finding)
+  2000-01-20 - 2001-01-25 : Part-time employment (finding)
+  1995-12-28 -            : Hypertension
+  1989-12-21 - 1992-12-24 : Part-time employment (finding)
+  1989-12-21 -            : Anemia (disorder)
+  1989-12-21 -            : Prediabetes
+  1982-12-09 -            : Received higher education (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2021-01-09[STOPPED] : Infectious disease care plan (record artifact)
+                         Activity: Airborne precautions (procedure)
+                         Activity: Isolation of infected patient (procedure)
+  2021-01-09[STOPPED] : Infectious disease care plan (record artifact)
+                         Activity: Airborne precautions (procedure)
+                         Activity: Personal protective equipment (physical object)
+  2020-12-15[STOPPED] : Fracture care
+                         Reason: Fracture of forearm
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+  2014-03-25[CURRENT] : Therapy (regime/therapy)
+                         Activity: Physical therapy procedure (regime/therapy)
+                         Activity: Cognitive and behavioral therapy (regime/therapy)
+  1995-12-28[CURRENT] : Lifestyle education regarding hypertension
+                         Reason: Hypertension
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  1989-12-21[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-01-09 : SARS-CoV-2 RNA Pnl Resp NAA+probe
+           - SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+  2021-01-09 : Respiratory pathogens DNA and RNA panel - Respiratory specimen by NAA with probe detection
+           - Influenza virus A RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Influenza virus B RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Respiratory syncytial virus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Parainfluenza virus 1 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Parainfluenza virus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Parainfluenza virus 3 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Rhinovirus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Human metapneumovirus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Adenovirus A+B+C+D+E DNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-01-09 : SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+  2021-01-09 : Adenovirus A+B+C+D+E DNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-01-09 : Human metapneumovirus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-01-09 : Rhinovirus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-01-09 : Parainfluenza virus 3 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-01-09 : Parainfluenza virus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-01-09 : Parainfluenza virus 1 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-01-09 : Respiratory syncytial virus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-01-09 : Influenza virus B RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-01-09 : Influenza virus A RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-01-09 : Body Weight                              91.4 kg
+  2021-01-09 : Blood Pressure
+           - Diastolic Blood Pressure                 88.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  2021-01-09 : Oxygen saturation in Arterial blood      85.3 %
+  2021-01-09 : Heart rate                               173.9 /min
+  2021-01-09 : Respiratory rate                         31.3 /min
+  2021-01-09 : Body temperature                         39.3 Cel
+  2020-12-15 : DXA [T-score] Bone density               0.4 {T-score}
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2021-01-09 : Face mask (physical object) for Suspected COVID-19
+  2020-12-15 : Bone density scan (procedure) for Fracture of forearm
+  2020-12-15 : Bone immobilization for Fracture of forearm
+  2020-12-15 : Upper arm X-ray
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-03-04 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+  2021-02-04 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-03-20 (Dr. Rolande Gerlach) : Encounter at NEW ENGLAND BAPTIST HOSPITAL : Encounter for Fracture of forearm
+2021-03-04 (Dr. Rolande Gerlach) : Encounter at NEW ENGLAND BAPTIST HOSPITAL
+2021-02-04 (Dr. Rolande Gerlach) : Encounter at NEW ENGLAND BAPTIST HOSPITAL
+2021-01-09 (Dr. Rolande Gerlach) : Encounter at NEW ENGLAND BAPTIST HOSPITAL
+2020-12-15 (Dr. Lucina Moen) : Encounter at NEWBRIDGE ON THE CHARLES SKILLED NURSING FACILITY
+2014-03-25 (Dr. Rolande Gerlach) : Encounter at NEW ENGLAND BAPTIST HOSPITAL
+2014-02-01 (Dr. Rolande Gerlach) : Encounter at NEW ENGLAND BAPTIST HOSPITAL
+2012-04-09 (Dr. Gabriel Reilly) : Encounter at Fitchburg Outpatient Clinic : Encounter for Ischemic heart disease (disorder)
+2012-04-05 (Dr. Gabriel Reilly) : Encounter at Fitchburg Outpatient Clinic : Encounter for Ischemic heart disease (disorder)
+2012-03-29 (Dr. Eugenio Streich) : Encounter at GREATER BOSTON INTERNAL MEDICINE PC
+2011-03-24 (Dr. Eugenio Streich) : Encounter at GREATER BOSTON INTERNAL MEDICINE PC
+2010-03-18 (Dr. Eugenio Streich) : Encounter at GREATER BOSTON INTERNAL MEDICINE PC
+2009-03-12 (Dr. Eugenio Streich) : Encounter at GREATER BOSTON INTERNAL MEDICINE PC
+2008-03-06 (Dr. Eugenio Streich) : Encounter at GREATER BOSTON INTERNAL MEDICINE PC
+2007-03-01 (Dr. Eugenio Streich) : Encounter at GREATER BOSTON INTERNAL MEDICINE PC
+2006-02-23 (Dr. Eugenio Streich) : Encounter at GREATER BOSTON INTERNAL MEDICINE PC
+2005-02-17 (Dr. Eugenio Streich) : Encounter at GREATER BOSTON INTERNAL MEDICINE PC
+2004-02-12 (Dr. Eugenio Streich) : Encounter at GREATER BOSTON INTERNAL MEDICINE PC
+2003-02-06 (Dr. Eugenio Streich) : Encounter at GREATER BOSTON INTERNAL MEDICINE PC
+2002-01-31 (Dr. Eugenio Streich) : Encounter at GREATER BOSTON INTERNAL MEDICINE PC
+2001-01-25 (Dr. Eugenio Streich) : Encounter at GREATER BOSTON INTERNAL MEDICINE PC
+2000-01-20 (Dr. Eugenio Streich) : Encounter at GREATER BOSTON INTERNAL MEDICINE PC
+1999-01-14 (Dr. Eugenio Streich) : Encounter at GREATER BOSTON INTERNAL MEDICINE PC
+1998-01-08 (Dr. Eugenio Streich) : Encounter at GREATER BOSTON INTERNAL MEDICINE PC
+1997-01-02 (Dr. Eugenio Streich) : Encounter at GREATER BOSTON INTERNAL MEDICINE PC
+1995-12-28 (Dr. Eugenio Streich) : Encounter at GREATER BOSTON INTERNAL MEDICINE PC
+1989-12-21 (Dr. Rolande Gerlach) : Encounter at NEW ENGLAND BAPTIST HOSPITAL : Encounter for Anemia (disorder)
+1989-12-21 (Dr. Eugenio Streich) : Encounter at GREATER BOSTON INTERNAL MEDICINE PC
+1982-12-09 (Dr. Eugenio Streich) : Encounter at GREATER BOSTON INTERNAL MEDICINE PC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2020-12-15 : Digital Radiography, Arm
+--------------------------------------------------------------------------------

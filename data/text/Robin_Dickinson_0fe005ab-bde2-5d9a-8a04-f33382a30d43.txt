@@ -1,0 +1,74 @@
+Robin Dickinson
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 15
+Birth Date:          2007-04-26
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2021-05-04 - 2021-05-14 : Acute viral pharyngitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-06-02 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2021-05-27 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 0.0 {score}
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-06-02 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2022-06-02 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-06-02 : Respiratory rate                         13.0 /min
+  2022-06-02 : Heart rate                               87.0 /min
+  2022-06-02 : Blood Pressure
+           - Diastolic Blood Pressure                 91.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2022-06-02 : Body mass index (BMI) [Percentile] Per age and gender 71.0 %
+  2022-06-02 : Body Mass Index                          21.6 kg/m2
+  2022-06-02 : Body Weight                              59.5 kg
+  2022-06-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2022-06-02 : Body Height                              165.9 cm
+  2021-05-27 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 0.0 {score}
+  2021-05-27 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-05-27 : Respiratory rate                         15.0 /min
+  2021-05-27 : Heart rate                               72.0 /min
+  2021-05-27 : Blood Pressure
+           - Diastolic Blood Pressure                 88.0 mm[Hg]
+           - Systolic Blood Pressure                  123.0 mm[Hg]
+  2021-05-27 : Body mass index (BMI) [Percentile] Per age and gender 78.3 %
+  2021-05-27 : Body Mass Index                          21.7 kg/m2
+  2021-05-27 : Body Weight                              55.5 kg
+  2021-05-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2021-05-27 : Body Height                              160.0 cm
+  2021-05-04 : Body temperature                         37.1 Cel
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-06-02 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2022-06-02 : Depression screening (procedure)
+  2021-05-27 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2021-05-27 : Depression screening (procedure)
+  2021-05-04 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-06-02 : Influenza, seasonal, injectable, preservative free
+  2021-11-11 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+  2021-10-14 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+  2021-05-27 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-06-02 (Dr. Millicent Mertz) : Encounter at FAMILY HEALTH CENTER OF WORCESTER, INC.
+2021-11-11 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+2021-10-14 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+2021-05-27 (Dr. Millicent Mertz) : Encounter at FAMILY HEALTH CENTER OF WORCESTER, INC.
+2021-05-04 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC : Encounter for Acute viral pharyngitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

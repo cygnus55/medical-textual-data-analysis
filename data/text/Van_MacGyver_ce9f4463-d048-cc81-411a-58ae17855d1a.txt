@@ -1,0 +1,186 @@
+Van MacGyver
+============
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 10
+Birth Date:          2012-03-11
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2013-01-16 -            : Cow's milk (substance)
+  2013-01-16 -            : Lisinopril
+  2013-01-16 -            : Tree pollen (substance)
+  2013-01-16 -            : Grass pollen (substance)
+  2013-01-16 -            : Animal dander (substance)
+  2013-01-16 -            : House dust mite (organism)
+  2013-01-16 -            : Mold (organism)
+  2013-01-16 -            : Latex (substance)
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2022-03-20[CURRENT] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  2022-03-20[CURRENT] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2022-01-23[STOPPED] : Acetaminophen 160 MG Chewable Tablet
+  2021-03-14[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  2021-03-14[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2020-03-08[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  2020-03-08[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2019-03-03[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  2019-03-03[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2018-02-25[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  2018-02-25[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2017-06-11[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  2017-06-11[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2017-02-19[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  2017-02-19[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2016-02-14[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  2016-02-14[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2015-08-16[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  2015-08-16[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2015-02-15[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  2015-02-15[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2014-11-09[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  2014-11-09[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2014-08-17[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  2014-08-17[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2014-06-13[STOPPED] : NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir] for Childhood asthma
+  2014-06-13[STOPPED] : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+  2013-01-16[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2013-01-16[CURRENT] : cetirizine hydrochloride 5 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-01-23 - 2022-02-12 : Facial laceration
+  2021-01-18 - 2021-09-17 : Child attention deficit disorder
+  2021-01-11 - 2021-02-17 : COVID-19
+  2021-01-11 - 2021-01-11 : Suspected COVID-19
+  2021-01-11 - 2021-02-17 : Joint pain (finding)
+  2021-01-11 - 2021-02-17 : Muscle pain (finding)
+  2021-01-11 - 2021-02-17 : Sore throat symptom (finding)
+  2021-01-11 - 2021-02-17 : Cough (finding)
+  2014-06-13 -            : Childhood asthma
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2022-01-23[STOPPED] : Wound care
+                         Reason: Facial laceration
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  2021-01-18[STOPPED] : Overactivity/inattention behavior management
+                         Activity: Counseling
+                         Activity: Psychological assessment
+  2021-01-11[STOPPED] : Infectious disease care plan (record artifact)
+                         Activity: Airborne precautions (procedure)
+                         Activity: Isolation of infected patient (procedure)
+  2021-01-11[STOPPED] : Infectious disease care plan (record artifact)
+                         Activity: Airborne precautions (procedure)
+                         Activity: Personal protective equipment (physical object)
+  2014-06-13[CURRENT] : Asthma self management
+                         Reason: Childhood asthma
+                         Activity: Inhaled steroid therapy
+                         Activity: Home nebulizer therapy
+                         Activity: Breathing control
+  2013-01-03[CURRENT] : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-01-11 : SARS-CoV-2 RNA Pnl Resp NAA+probe
+           - SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+  2021-01-11 : Respiratory pathogens DNA and RNA panel - Respiratory specimen by NAA with probe detection
+           - Influenza virus A RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Influenza virus B RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Respiratory syncytial virus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Parainfluenza virus 1 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Parainfluenza virus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Parainfluenza virus 3 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Rhinovirus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Human metapneumovirus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Adenovirus A+B+C+D+E DNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-03-20 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-03-20 : Respiratory rate                         15.0 /min
+  2022-03-20 : Heart rate                               85.0 /min
+  2022-03-20 : Blood Pressure
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  2022-03-20 : Body mass index (BMI) [Percentile] Per age and gender 66.4 %
+  2022-03-20 : Body Mass Index                          17.9 kg/m2
+  2022-03-20 : Body Weight                              30.5 kg
+  2022-03-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2022-03-20 : Body Height                              130.5 cm
+  2021-03-14 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-03-14 : Respiratory rate                         14.0 /min
+  2021-03-14 : Heart rate                               69.0 /min
+  2021-03-14 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  114.0 mm[Hg]
+  2021-03-14 : Body mass index (BMI) [Percentile] Per age and gender 71.0 %
+  2021-03-14 : Body Mass Index                          17.6 kg/m2
+  2021-03-14 : Body Weight                              28.0 kg
+  2021-03-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2021-03-14 : Body Height                              126.0 cm
+  2021-01-11 : SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+  2021-01-11 : Adenovirus A+B+C+D+E DNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-01-11 : Human metapneumovirus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-01-11 : Rhinovirus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-01-11 : Parainfluenza virus 3 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-01-11 : Parainfluenza virus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-01-11 : Parainfluenza virus 1 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-01-11 : Respiratory syncytial virus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-01-11 : Influenza virus B RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-01-11 : Influenza virus A RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-01-11 : Body Weight                              27.3 kg
+  2021-01-11 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  123.0 mm[Hg]
+  2021-01-11 : Oxygen saturation in Arterial blood      75.5 %
+  2021-01-11 : Heart rate                               69.5 /min
+  2021-01-11 : Respiratory rate                         26.5 /min
+  2021-01-11 : Body temperature                         41.0 Cel
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-01-23 : Suture open wound for Facial laceration
+  2021-09-17 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2021-08-09 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2021-06-29 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2021-05-29 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2021-04-19 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2021-03-20 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2021-03-14 : Medication Reconciliation (procedure)
+  2021-02-20 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2021-01-11 : Face mask (physical object) for Suspected COVID-19
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-03-20 : Influenza, seasonal, injectable, preservative free
+  2021-03-14 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-03-20 (Dr. Quentin Fritsch) : Encounter at RIVER'S EDGE PRIMARY CARE LLC
+2022-01-23 (Dr. Burton Schoen) : Encounter at EXCEL HOME CARE SERVICES INC
+2021-09-17 (Dr. Cletus Paucek) : Encounter at ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS : Encounter for Child attention deficit disorder
+2021-08-09 (Dr. Cletus Paucek) : Encounter at ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS : Encounter for Child attention deficit disorder
+2021-06-29 (Dr. Cletus Paucek) : Encounter at ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS : Encounter for Child attention deficit disorder
+2021-05-29 (Dr. Cletus Paucek) : Encounter at ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS : Encounter for Child attention deficit disorder
+2021-04-19 (Dr. Cletus Paucek) : Encounter at ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS : Encounter for Child attention deficit disorder
+2021-03-20 (Dr. Cletus Paucek) : Encounter at ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS : Encounter for Child attention deficit disorder
+2021-03-14 (Dr. Quentin Fritsch) : Encounter at RIVER'S EDGE PRIMARY CARE LLC
+2021-02-20 (Dr. Cletus Paucek) : Encounter at ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS : Encounter for Child attention deficit disorder
+2021-01-18 (Dr. Cletus Paucek) : Encounter at ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS : Encounter for Child attention deficit disorder
+2021-01-11 (Dr. Cletus Paucek) : Encounter at ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+2020-03-08 (Dr. Quentin Fritsch) : Encounter at RIVER'S EDGE PRIMARY CARE LLC
+2019-03-03 (Dr. Quentin Fritsch) : Encounter at RIVER'S EDGE PRIMARY CARE LLC
+2018-02-25 (Dr. Quentin Fritsch) : Encounter at RIVER'S EDGE PRIMARY CARE LLC
+2017-06-10 (Dr. Cletus Paucek) : Encounter at ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS : Encounter for Viral sinusitis (disorder)
+2017-02-19 (Dr. Quentin Fritsch) : Encounter at RIVER'S EDGE PRIMARY CARE LLC
+2016-02-14 (Dr. Quentin Fritsch) : Encounter at RIVER'S EDGE PRIMARY CARE LLC
+2015-08-16 (Dr. Quentin Fritsch) : Encounter at RIVER'S EDGE PRIMARY CARE LLC
+2015-02-15 (Dr. Quentin Fritsch) : Encounter at RIVER'S EDGE PRIMARY CARE LLC
+2014-11-09 (Dr. Cletus Paucek) : Encounter at ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+2014-08-17 (Dr. Quentin Fritsch) : Encounter at RIVER'S EDGE PRIMARY CARE LLC
+2014-06-13 (Dr. Cletus Paucek) : Encounter at ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS : Encounter for Childhood asthma
+2013-01-16 (Dr. Cletus Paucek) : Encounter at ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+2013-01-03 (Dr. Cletus Paucek) : Encounter at ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

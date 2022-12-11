@@ -1,0 +1,122 @@
+Ana Dickinson
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 32
+Birth Date:          1990-06-05
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2022-04-25[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-04-25 - 2022-05-08 : Acute bronchitis (disorder)
+  2021-08-17 -            : Social isolation (finding)
+  2021-08-17 -            : Part-time employment (finding)
+  2018-08-14 - 2021-08-17 : Full-time employment (finding)
+  2015-05-22 -            : Drug overdose
+  2009-08-04 - 2018-08-14 : Social isolation (finding)
+  2008-07-29 -            : Only received primary school education (finding)
+  2007-01-03 -            : Chronic intractable migraine without aura
+  2004-10-13 -            : Impacted molars
+  2004-08-07 -            : Chronic pain
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2022-04-25[CURRENT] : Respiratory therapy
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2015-05-22[CURRENT] : Care plan (record artifact)
+                         Activity: Drug addiction counseling
+                         Activity: Drug detoxification
+                         Activity: Drug addiction therapy
+  2013-07-18[STOPPED] : Respiratory therapy
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  1998-10-24[STOPPED] : Respiratory therapy
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-08-18 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-08-17 : Lipid Panel
+           - Total Cholesterol                        193.5 mg/dL
+           - Triglycerides                            117.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      107.4 mg/dL
+           - High Density Lipoprotein Cholesterol     62.6 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-08-18 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-08-17 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Less than once a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 57581 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             509 Glover Crossing 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 4.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-08-17 : Tobacco smoking status                   Ex-smoker (finding) 
+  2021-08-17 : High Density Lipoprotein Cholesterol     62.6 mg/dL
+  2021-08-17 : Low Density Lipoprotein Cholesterol      107.4 mg/dL
+  2021-08-17 : Triglycerides                            117.7 mg/dL
+  2021-08-17 : Total Cholesterol                        193.5 mg/dL
+  2021-08-17 : Respiratory rate                         15.0 /min
+  2021-08-17 : Heart rate                               64.0 /min
+  2021-08-17 : Blood Pressure
+           - Diastolic Blood Pressure                 69.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2021-08-17 : Body Mass Index                          26.8 kg/m2
+  2021-08-17 : Body Weight                              64.8 kg
+  2021-08-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2021-08-17 : Body Height                              155.4 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2021-08-17 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-08-17 : Depression screening (procedure)
+  2021-08-17 : Medication Reconciliation (procedure)
+  2021-08-17 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-05-03 : Influenza, seasonal, injectable, preservative free
+  2021-08-17 : Td (adult) preservative free
+  2021-08-17 : Influenza, seasonal, injectable, preservative free
+  2021-03-02 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-02-09 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-05-03 (Dr. Courtney Kihn) : Encounter at CARECENTRAL URGENT CARE MEDICAL GROUP PC
+2022-04-25 (Dr. Jeromy Okuneva) : Encounter at BRIGHAM & WOMENS HOSPITAL INC : Encounter for Acute bronchitis (disorder)
+2021-11-03 (Dr. Jeromy Okuneva) : Encounter at BRIGHAM & WOMENS HOSPITAL INC
+2021-08-17 (Dr. Juana Alba) : Encounter at SIGNATURE HEALTHCARE MEDICAL GROUP INC
+2021-03-02 (Dr. Jeromy Okuneva) : Encounter at BRIGHAM & WOMENS HOSPITAL INC
+2021-02-09 (Dr. Jeromy Okuneva) : Encounter at BRIGHAM & WOMENS HOSPITAL INC
+2018-08-14 (Dr. Juana Alba) : Encounter at SIGNATURE HEALTHCARE MEDICAL GROUP INC
+2015-05-22 (Dr. Stephen Stamm) : Encounter at SACHEM CENTER FOR HEALTH & REHABILITATION : Encounter for Drug overdose
+2013-07-18 (Dr. Jeromy Okuneva) : Encounter at BRIGHAM & WOMENS HOSPITAL INC : Encounter for Acute bronchitis (disorder)
+2009-08-04 (Dr. Juana Alba) : Encounter at SIGNATURE HEALTHCARE MEDICAL GROUP INC
+2008-07-29 (Dr. Juana Alba) : Encounter at SIGNATURE HEALTHCARE MEDICAL GROUP INC
+2007-01-03 (Dr. Jeromy Okuneva) : Encounter at BRIGHAM & WOMENS HOSPITAL INC : Encounter for Chronic intractable migraine without aura
+2004-10-13 (Dr. Jeromy Okuneva) : Encounter at BRIGHAM & WOMENS HOSPITAL INC : Encounter for Impacted molars
+2004-08-07 (Dr. Jeromy Okuneva) : Encounter at BRIGHAM & WOMENS HOSPITAL INC : Encounter for Chronic pain
+1998-10-24 (Dr. Jeromy Okuneva) : Encounter at BRIGHAM & WOMENS HOSPITAL INC : Encounter for Acute bronchitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

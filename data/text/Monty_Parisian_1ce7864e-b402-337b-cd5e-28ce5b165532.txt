@@ -1,0 +1,50 @@
+Monty Parisian
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 21
+Birth Date:          2001-03-01
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-02-23 - 2022-03-17 : Viral sinusitis (disorder)
+  2021-11-04 - 2021-11-16 : Viral sinusitis (disorder)
+  2020-04-30 -            : Full-time employment (finding)
+  2019-04-25 -            : Received higher education (finding)
+  2019-04-11 - 2019-04-25 : Full-time employment (finding)
+  2014-08-12 -            : Chronic sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2011-03-10[CURRENT] : Weight management program
+                         Activity: Low calorie diet
+                         Activity: Increased physical activity
+--------------------------------------------------------------------------------
+REPORTS:
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+--------------------------------------------------------------------------------
+PROCEDURES:
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-06-24 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-06-03 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-02-23 (Dr. Carisa Kutch) : Encounter at LAWRENCE GENERAL HOSPITAL : Encounter for Viral sinusitis (disorder)
+2021-11-04 (Dr. Carisa Kutch) : Encounter at LAWRENCE GENERAL HOSPITAL : Encounter for Viral sinusitis (disorder)
+2021-06-24 (Dr. Carisa Kutch) : Encounter at LAWRENCE GENERAL HOSPITAL
+2021-06-03 (Dr. Carisa Kutch) : Encounter at LAWRENCE GENERAL HOSPITAL
+2020-04-30 (Dr. Claribel Wuckert) : Encounter at MYHOME HEALTHCARE PLLC
+2019-04-25 (Dr. Claribel Wuckert) : Encounter at MYHOME HEALTHCARE PLLC
+2019-04-11 (Dr. Carisa Kutch) : Encounter at LAWRENCE GENERAL HOSPITAL
+2014-08-12 (Dr. Carisa Kutch) : Encounter at LAWRENCE GENERAL HOSPITAL : Encounter for Sinusitis (disorder)
+2011-03-10 (Dr. Claribel Wuckert) : Encounter at MYHOME HEALTHCARE PLLC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

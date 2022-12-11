@@ -1,0 +1,185 @@
+Laquanda Macejkovic
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 19
+Birth Date:          2003-08-12
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2022-07-16[CURRENT] : Etonogestrel 68 MG Drug Implant
+  2009-07-02[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2009-06-21[CURRENT] : Loratadine 5 MG Chewable Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-10-11 -            : Full-time employment (finding)
+  2021-10-05 - 2022-10-11 : Stress (finding)
+  2021-10-05 - 2022-10-11 : Social isolation (finding)
+  2021-10-05 - 2022-10-11 : Full-time employment (finding)
+  2021-10-05 -            : Received higher education (finding)
+  2021-09-16 -            : Chronic neck pain (finding)
+  2021-09-16 -            : Chronic low back pain (finding)
+  2021-08-07 - 2021-08-07 : Neutropenia (disorder)
+  2021-08-07 - 2021-08-07 : Acute myeloid leukemia, disease (disorder)
+  2021-04-08 - 2021-04-19 : Acute viral pharyngitis (disorder)
+  2009-06-21 - 2022-08-16 : Perennial allergic rhinitis
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2021-09-16[STOPPED] : Therapy (regime/therapy)
+                         Activity: Physical therapy procedure (regime/therapy)
+                         Activity: Cognitive and behavior therapy
+  2009-07-02[CURRENT] : Self-care interventions (procedure)
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-10-11 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    0.0 {score}
+  2022-10-11 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2021-10-05 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2021-10-05 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 6.0 {score}
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-10-11 : Total score [DAST-10]                    0.0 {score}
+  2022-10-11 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2022-10-11 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 172972 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             631 Zemlak Quay 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 2.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2022-10-11 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-10-11 : Respiratory rate                         14.0 /min
+  2022-10-11 : Heart rate                               61.0 /min
+  2022-10-11 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  2022-10-11 : Body mass index (BMI) [Percentile] Per age and gender 25.7 %
+  2022-10-11 : Body Mass Index                          19.8 kg/m2
+  2022-10-11 : Body Weight                              50.5 kg
+  2022-10-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2022-10-11 : Body Height                              159.9 cm
+  2021-10-05 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2021-10-05 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 6.0 {score}
+  2021-10-05 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Less than once a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 172972 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             631 Zemlak Quay 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 2.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-10-11 : Pain severity - Reported                 1.0 {score}
+  2021-10-07 : Pain severity - Reported                 1.1 {score}
+  2021-10-05 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-10-05 : Respiratory rate                         14.0 /min
+  2021-10-05 : Heart rate                               94.0 /min
+  2021-10-05 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2021-10-05 : Body mass index (BMI) [Percentile] Per age and gender 27.8 %
+  2021-10-05 : Body Mass Index                          19.7 kg/m2
+  2021-10-05 : Body Weight                              50.2 kg
+  2021-10-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2021-10-05 : Body Height                              159.7 cm
+  2021-10-04 : Pain severity - Reported                 2.7 {score}
+  2021-10-01 : Pain severity - Reported                 3.2 {score}
+  2021-09-28 : Pain severity - Reported                 7.2 {score}
+  2021-09-25 : Pain severity - Reported                 9.3 {score}
+  2021-09-22 : Pain severity - Reported                 7.0 {score}
+  2021-09-19 : Pain severity - Reported                 8.6 {score}
+  2021-09-16 : Drugs of abuse 5 panel - Urine by Screen method Negative (qualifier value) n/a
+  2021-09-16 : Pain intensity, Enjoyment of life, General activity (PEG) 3 item pain scale
+           - What number best describes how, during the past week, pain has interfered with your general activity? 5.4 {score}
+           - What number best describes how, during the past week, pain has interfered with your enjoyment of life? 2.8 {score}
+           - What number best describes your pain on average in the past week? 2.7 {score}
+  2021-08-07 : Body Temperature                         98.3 [degF]
+  2021-08-07 : Neutrophils [#/volume] in Blood by Automated count 286.8 10*3/uL
+  2021-04-08 : Body temperature                         37.4 Cel
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-10-11 : Screening for drug abuse (procedure)
+  2022-10-11 : Assessment of substance use (procedure)
+  2022-10-11 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2022-10-11 : Depression screening (procedure)
+  2022-10-11 : Assessment of health and social care needs (procedure)
+  2022-07-16 : Insertion of subcutaneous contraceptive
+  2021-10-05 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-10-05 : Depression screening (procedure)
+  2021-10-05 : Assessment of anxiety (procedure)
+  2021-10-11 : Cognitive and behavioral therapy (regime/therapy)
+  2021-10-07 : Cognitive and behavioral therapy (regime/therapy)
+  2021-10-05 : Assessment of health and social care needs (procedure)
+  2021-10-04 : Cognitive and behavioral therapy (regime/therapy)
+  2021-10-01 : Cognitive and behavioral therapy (regime/therapy)
+  2021-09-28 : Cognitive and behavioral therapy (regime/therapy)
+  2021-09-25 : Cognitive and behavioral therapy (regime/therapy)
+  2021-09-22 : Cognitive and behavioral therapy (regime/therapy)
+  2021-09-19 : Cognitive and behavioral therapy (regime/therapy)
+  2021-08-07 : Transfer to stepdown for Acute myeloid leukemia, disease (disorder)
+  2021-08-07 : Chemotherapy (procedure) for Acute myeloid leukemia, disease (disorder)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-10-11 : Influenza, seasonal, injectable, preservative free
+  2021-10-05 : Influenza, seasonal, injectable, preservative free
+  2021-06-08 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-05-18 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-10-11 (Dr. Deandre Hartmann) : Encounter at INTERNAL MEDICINE PHYSICIANS OF THE NORTH SHORE
+2022-07-16 (Dr. Lorette Hauck) : Encounter at WHITTIER REHABILTATION HOSPITAL
+2021-10-11 (Dr. Lorette Hauck) : Encounter at WHITTIER REHABILTATION HOSPITAL
+2021-10-07 (Dr. Lorette Hauck) : Encounter at WHITTIER REHABILTATION HOSPITAL
+2021-10-04 (Dr. Lorette Hauck) : Encounter at WHITTIER REHABILTATION HOSPITAL
+2021-10-01 (Dr. Lorette Hauck) : Encounter at WHITTIER REHABILTATION HOSPITAL
+2021-09-28 (Dr. Lorette Hauck) : Encounter at WHITTIER REHABILTATION HOSPITAL
+2021-10-05 (Dr. Deandre Hartmann) : Encounter at INTERNAL MEDICINE PHYSICIANS OF THE NORTH SHORE
+2021-09-25 (Dr. Lorette Hauck) : Encounter at WHITTIER REHABILTATION HOSPITAL
+2021-09-22 (Dr. Lorette Hauck) : Encounter at WHITTIER REHABILTATION HOSPITAL
+2021-09-19 (Dr. Lorette Hauck) : Encounter at WHITTIER REHABILTATION HOSPITAL
+2021-09-16 (Dr. Lorette Hauck) : Encounter at WHITTIER REHABILTATION HOSPITAL
+2021-08-07 (Dr. Lorette Hauck) : Encounter at WHITTIER REHABILTATION HOSPITAL : Encounter for Acute myeloid leukemia, disease (disorder)
+2021-06-08 (Dr. Lorette Hauck) : Encounter at WHITTIER REHABILTATION HOSPITAL
+2021-05-18 (Dr. Lorette Hauck) : Encounter at WHITTIER REHABILTATION HOSPITAL
+2021-04-08 (Dr. Lorette Hauck) : Encounter at WHITTIER REHABILTATION HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2009-07-02 (Dr. Lorette Hauck) : Encounter at WHITTIER REHABILTATION HOSPITAL
+2009-06-21 (Dr. Lorette Hauck) : Encounter at WHITTIER REHABILTATION HOSPITAL : Encounter for Perennial allergic rhinitis
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

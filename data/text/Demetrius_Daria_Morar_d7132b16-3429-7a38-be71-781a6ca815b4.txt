@@ -1,0 +1,119 @@
+Demetrius Daria Morar
+=====================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 29
+Birth Date:          1993-10-25
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2020-09-08[STOPPED] : Trinessa 28 Day Pack
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-01-03 -            : Stress (finding)
+  2022-01-03 -            : Not in labor force (finding)
+  2021-06-13 - 2021-07-06 : Viral sinusitis (disorder)
+  2018-12-31 - 2022-01-03 : Unhealthy alcohol drinking behavior (finding)
+  2018-12-31 - 2022-01-03 : Part-time employment (finding)
+  2015-12-28 -            : Misuses drugs (finding)
+  2015-12-28 - 2018-12-31 : Stress (finding)
+  2012-12-24 - 2022-01-03 : Social isolation (finding)
+  2011-12-19 -            : Limited social contact (finding)
+  2011-12-19 -            : Received higher education (finding)
+  1995-04-06 -            : Chronic sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-01-03 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+  2022-01-03 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.3 %
+           - MCV [Entitic volume] by Automated count  85.9 fL
+           - MCH [Entitic mass] by Automated count    28.5 pg
+           - MCHC [Mass/volume] by Automated count    35.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.9 fL
+           - Platelets [#/volume] in Blood by Automated count 157.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 261.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-01-03 : Total score [AUDIT-C]                    1.0 {score}
+  2022-01-03 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 82708 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Otherwise unemployed but not seeking work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             571 Abbott Path 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2022-01-03 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-01-03 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+  2022-01-03 : Platelet distribution width [Entitic volume] in Blood by Automated count 261.3 fL
+  2022-01-03 : Platelets [#/volume] in Blood by Automated count 157.4 10*3/uL
+  2022-01-03 : Erythrocyte distribution width [Entitic volume] by Automated count 40.9 fL
+  2022-01-03 : MCHC [Mass/volume] by Automated count    35.2 g/dL
+  2022-01-03 : MCH [Entitic mass] by Automated count    28.5 pg
+  2022-01-03 : MCV [Entitic volume] by Automated count  85.9 fL
+  2022-01-03 : Hematocrit [Volume Fraction] of Blood by Automated count 44.3 %
+  2022-01-03 : Hemoglobin [Mass/volume] in Blood        15.0 g/dL
+  2022-01-03 : Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+  2022-01-03 : Leukocytes [#/volume] in Blood by Automated count 5.9 10*3/uL
+  2022-01-03 : Respiratory rate                         14.0 /min
+  2022-01-03 : Heart rate                               97.0 /min
+  2022-01-03 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  95.0 mm[Hg]
+  2022-01-03 : Body Mass Index                          26.0 kg/m2
+  2022-01-03 : Body Weight                              70.9 kg
+  2022-01-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2022-01-03 : Body Height                              165.1 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-01-03 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2022-01-03 : Assessment of substance use (procedure)
+  2022-01-03 : Assessment of health and social care needs (procedure)
+  2021-09-05 : Insertion of intrauterine contraceptive device
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-01-03 : Influenza, seasonal, injectable, preservative free
+  2021-07-26 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-07-05 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-01-03 (Dr. Tyler Howe) : Encounter at PODIATRY HEALTHCARE P.C.
+2021-09-05 (Dr. Joanna Abbott) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+2021-09-03 (Dr. Joanna Abbott) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+2021-07-26 (Dr. Joanna Abbott) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+2021-07-05 (Dr. Joanna Abbott) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+2021-06-13 (Dr. Joanna Abbott) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON : Encounter for Viral sinusitis (disorder)
+2020-09-08 (Dr. Joanna Abbott) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+2018-12-31 (Dr. Tyler Howe) : Encounter at PODIATRY HEALTHCARE P.C.
+2015-12-28 (Dr. Tyler Howe) : Encounter at PODIATRY HEALTHCARE P.C.
+2012-12-24 (Dr. Tyler Howe) : Encounter at PODIATRY HEALTHCARE P.C.
+2011-12-19 (Dr. Tyler Howe) : Encounter at PODIATRY HEALTHCARE P.C.
+1995-04-06 (Dr. Joanna Abbott) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON : Encounter for Sinusitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

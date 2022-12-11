@@ -1,0 +1,92 @@
+Brett Lang
+==========
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 15
+Birth Date:          2007-04-25
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2021-02-07[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2021-05-26 -            : Risk activity involvement (finding)
+  2021-02-07 - 2021-02-27 : Sprain of ankle
+  2019-05-15 - 2020-05-20 : Risk activity involvement (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2021-02-07[STOPPED] : Physiotherapy care plan (record artifact)
+                         Reason: Sprain of ankle
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-06-01 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}
+  2022-06-01 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2021-05-26 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2021-05-26 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-06-01 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}
+  2022-06-01 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2022-06-01 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-06-01 : Respiratory rate                         12.0 /min
+  2022-06-01 : Heart rate                               87.0 /min
+  2022-06-01 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  105.0 mm[Hg]
+  2022-06-01 : Body mass index (BMI) [Percentile] Per age and gender 35.4 %
+  2022-06-01 : Body Mass Index                          19.0 kg/m2
+  2022-06-01 : Body Weight                              48.1 kg
+  2022-06-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2022-06-01 : Body Height                              159.1 cm
+  2021-05-26 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2021-05-26 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2021-05-26 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-05-26 : Respiratory rate                         14.0 /min
+  2021-05-26 : Heart rate                               65.0 /min
+  2021-05-26 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2021-05-26 : Body mass index (BMI) [Percentile] Per age and gender 32.3 %
+  2021-05-26 : Body Mass Index                          18.1 kg/m2
+  2021-05-26 : Body Weight                              42.5 kg
+  2021-05-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2021-05-26 : Body Height                              153.2 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-06-01 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2022-06-01 : Depression screening (procedure)
+  2022-06-01 : Assessment of anxiety (procedure)
+  2021-05-26 : Health risks education (procedure) for Risk activity involvement (finding)
+  2021-05-26 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2021-05-26 : Assessment of substance use (procedure)
+  2021-05-26 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2021-05-26 : Depression screening (procedure)
+  2021-05-26 : Medication Reconciliation (procedure)
+  2021-05-26 : Assessment of anxiety (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-06-01 : Influenza, seasonal, injectable, preservative free
+  2021-11-03 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-10-13 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-05-26 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-06-01 (Dr. Odilia Mraz) : Encounter at FAMILY MEDICINE ASSOCIATES
+2021-11-03 (Dr. Ahmed Feil) : Encounter at WESTERN MASSACHUSETTS HOSPITAL
+2021-10-13 (Dr. Ahmed Feil) : Encounter at WESTERN MASSACHUSETTS HOSPITAL
+2021-05-26 (Dr. Odilia Mraz) : Encounter at FAMILY MEDICINE ASSOCIATES
+2021-02-07 (Dr. Cherry Hackett) : Encounter at MEMORY SUPPORT OF HERITAGE HALL
+2019-05-15 (Dr. Odilia Mraz) : Encounter at FAMILY MEDICINE ASSOCIATES
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,39 @@
+Elisha Beatty
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 21
+Birth Date:          2001-06-09
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2020-08-08 -            : Full-time employment (finding)
+  2019-08-03 - 2020-08-08 : Full-time employment (finding)
+  2019-08-03 -            : Received higher education (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+--------------------------------------------------------------------------------
+PROCEDURES:
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-05-15 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-04-24 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-05-15 (Dr. Ahmed Feil) : Encounter at WESTERN MASSACHUSETTS HOSPITAL
+2021-04-24 (Dr. Ahmed Feil) : Encounter at WESTERN MASSACHUSETTS HOSPITAL
+2020-08-08 (Dr. Odilia Mraz) : Encounter at FAMILY MEDICINE ASSOCIATES
+2019-08-03 (Dr. Odilia Mraz) : Encounter at FAMILY MEDICINE ASSOCIATES
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,145 @@
+Camellia Loyce Jaskolski
+========================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 44
+Birth Date:          1978-03-28
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2022-05-23[CURRENT] : Trinessa 28 Day Pack
+  2020-06-02[STOPPED] : Jolivette 28 Day Pack
+  2006-07-20[STOPPED] : Trinessa 28 Day Pack
+  2004-07-30[STOPPED] : Trinessa 28 Day Pack
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-04-12 -            : Not in labor force (finding)
+  2021-03-28 - 2021-04-05 : Acute viral pharyngitis (disorder)
+  2020-12-20 - 2021-01-05 : COVID-19
+  2020-12-20 - 2020-12-20 : Suspected COVID-19
+  2020-12-20 - 2021-01-05 : Loss of taste (finding)
+  2020-12-20 - 2021-01-05 : Fever (finding)
+  2020-12-20 - 2021-01-05 : Cough (finding)
+  2020-04-07 - 2022-04-12 : Full-time employment (finding)
+  2018-04-03 -            : Stress (finding)
+  2015-06-16 -            : Body mass index 30+ - obesity (finding)
+  2012-06-12 -            : Transport problems (finding)
+  2011-07-12 -            : Miscarriage in first trimester
+  2009-06-09 - 2012-06-12 : Stress (finding)
+  2006-06-06 - 2022-04-12 : Social isolation (finding)
+  2003-06-03 - 2006-06-06 : Stress (finding)
+  1996-05-21 - 1997-05-27 : Stress (finding)
+  1996-05-21 -            : Lack of access to transportation (finding)
+  1996-05-21 -            : Received certificate of high school equivalency (finding)
+  1996-05-21 -            : Housing unsatisfactory (finding)
+  1983-04-25 -            : Chronic sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2020-12-20[STOPPED] : Infectious disease care plan (record artifact)
+                         Activity: Airborne precautions (procedure)
+                         Activity: Isolation of infected patient (procedure)
+  2020-12-20[STOPPED] : Infectious disease care plan (record artifact)
+                         Activity: Airborne precautions (procedure)
+                         Activity: Personal protective equipment (physical object)
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-04-12 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    0.0 {score}
+  2022-04-12 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2020-12-20 : SARS-CoV-2 RNA Pnl Resp NAA+probe
+           - SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+  2020-12-20 : Influenza virus A and B Ag panel - Nasopharynx by Rapid immunoassay
+           - Influenza virus A Ag [Presence] in Nasopharynx by Rapid immunoassay Not detected (qualifier value) 
+           - Influenza virus B Ag [Presence] in Nasopharynx by Rapid immunoassay Not detected (qualifier value) 
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-04-12 : Total score [AUDIT-C]                    0.0 {score}
+  2022-04-12 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2022-04-12 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? Yes, it has kept me from non-medical meetings, appointments, work, or from getting things that I need 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Medicine or Any Health Care 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 614828 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Otherwise unemployed but not seeking work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             292 Bergnaum Trafficway Apt 15 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2022-04-12 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-04-12 : Respiratory rate                         15.0 /min
+  2022-04-12 : Heart rate                               85.0 /min
+  2022-04-12 : Blood Pressure
+           - Diastolic Blood Pressure                 69.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  2022-04-12 : Body Mass Index                          27.7 kg/m2
+  2022-04-12 : Body Weight                              79.9 kg
+  2022-04-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2022-04-12 : Body Height                              169.8 cm
+  2021-03-28 : Body temperature                         37.9 Cel
+  2020-12-20 : SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+  2020-12-20 : Influenza virus B Ag [Presence] in Nasopharynx by Rapid immunoassay Not detected (qualifier value) 
+  2020-12-20 : Influenza virus A Ag [Presence] in Nasopharynx by Rapid immunoassay Not detected (qualifier value) 
+  2020-12-20 : Body Weight                              83.6 kg
+  2020-12-20 : Blood Pressure
+           - Diastolic Blood Pressure                 68.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2020-12-20 : Oxygen saturation in Arterial blood      83.0 %
+  2020-12-20 : Heart rate                               86.7 /min
+  2020-12-20 : Respiratory rate                         27.0 /min
+  2020-12-20 : Body temperature                         41.3 Cel
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-04-12 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2022-04-12 : Assessment of substance use (procedure)
+  2022-04-12 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2022-04-12 : Depression screening (procedure)
+  2022-04-12 : Medication Reconciliation (procedure)
+  2022-04-12 : Assessment of health and social care needs (procedure)
+  2021-03-28 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2020-12-20 : Face mask (physical object) for Suspected COVID-19
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-04-12 : Influenza, seasonal, injectable, preservative free
+  2021-04-06 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+  2021-03-09 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-05-23 (Dr. Daniel Wolff) : Encounter at THE SHRINERS HOSPITAL FOR CHILDREN
+2022-04-12 (Dr. Francisco Gusikowski) : Encounter at WHITLEY WELLNESS LLC
+2021-04-06 (Dr. Daniel Wolff) : Encounter at THE SHRINERS HOSPITAL FOR CHILDREN
+2021-03-28 (Dr. Daniel Wolff) : Encounter at THE SHRINERS HOSPITAL FOR CHILDREN : Encounter for Acute viral pharyngitis (disorder)
+2021-03-09 (Dr. Daniel Wolff) : Encounter at THE SHRINERS HOSPITAL FOR CHILDREN
+2020-12-20 (Dr. Daniel Wolff) : Encounter at THE SHRINERS HOSPITAL FOR CHILDREN
+2020-06-02 (Dr. Daniel Wolff) : Encounter at THE SHRINERS HOSPITAL FOR CHILDREN
+2020-04-07 (Dr. Daniel Wolff) : Encounter at THE SHRINERS HOSPITAL FOR CHILDREN : Encounter for Normal pregnancy
+2018-04-03 (Dr. Francisco Gusikowski) : Encounter at WHITLEY WELLNESS LLC
+2015-06-16 (Dr. Francisco Gusikowski) : Encounter at WHITLEY WELLNESS LLC
+2012-06-12 (Dr. Daniel Wolff) : Encounter at THE SHRINERS HOSPITAL FOR CHILDREN : Encounter for Normal pregnancy
+2011-07-12 (Dr. Daniel Wolff) : Encounter at THE SHRINERS HOSPITAL FOR CHILDREN : Encounter for Normal pregnancy
+2009-06-09 (Dr. Francisco Gusikowski) : Encounter at WHITLEY WELLNESS LLC
+2006-07-20 (Dr. Daniel Wolff) : Encounter at THE SHRINERS HOSPITAL FOR CHILDREN
+2006-06-06 (Dr. Francisco Gusikowski) : Encounter at WHITLEY WELLNESS LLC
+2004-07-30 (Dr. Daniel Wolff) : Encounter at THE SHRINERS HOSPITAL FOR CHILDREN
+2003-06-03 (Dr. Francisco Gusikowski) : Encounter at WHITLEY WELLNESS LLC
+1996-05-21 (Dr. Francisco Gusikowski) : Encounter at WHITLEY WELLNESS LLC
+1983-04-25 (Dr. Daniel Wolff) : Encounter at THE SHRINERS HOSPITAL FOR CHILDREN : Encounter for Acute bacterial sinusitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

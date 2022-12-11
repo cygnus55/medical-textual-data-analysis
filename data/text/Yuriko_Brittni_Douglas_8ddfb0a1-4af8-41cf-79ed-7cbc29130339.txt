@@ -1,0 +1,78 @@
+Yuriko Brittni Douglas
+======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 27
+Birth Date:          1994-12-28
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2022-12-06[CURRENT] : Levora 0.15/30 28 Day Pack
+  2022-03-05[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-03-05 - 2022-03-20 : Laceration of foot
+  2022-02-01 - 2022-02-16 : Viral sinusitis (disorder)
+  2021-07-21 - 2021-08-25 : Normal pregnancy
+  2020-03-04 -            : Stress (finding)
+  2020-03-04 -            : Full-time employment (finding)
+  2020-03-04 -            : Anemia (disorder)
+  2020-03-04 -            : Prediabetes
+  2017-03-01 - 2020-03-04 : Full-time employment (finding)
+  2014-02-26 - 2017-03-01 : Full-time employment (finding)
+  2013-02-20 - 2017-03-01 : Stress (finding)
+  2013-02-20 - 2014-02-26 : Full-time employment (finding)
+  2013-02-20 -            : Received higher education (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2022-03-05[STOPPED] : Wound care
+                         Reason: Laceration of foot
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  2020-03-04[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+--------------------------------------------------------------------------------
+REPORTS:
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-03-05 : Suture open wound for Laceration of foot
+  2021-08-25 : Depression screening for Normal pregnancy
+  2021-08-25 : Physical exam following abortion for Normal pregnancy
+  2021-08-25 : Pregnancy termination care for Normal pregnancy
+  2021-08-06 : Induced termination of pregnancy for Normal pregnancy
+  2021-08-06 : Counseling for termination of pregnancy for Normal pregnancy
+  2021-07-21 : Ultrasound scan for fetal viability for Normal pregnancy
+  2021-07-21 : Standard pregnancy test for Normal pregnancy
+  2020-12-16 : Depression screening
+  2020-12-16 : Physical examination following birth
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-09-15 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-08-25 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-12-06 (Dr. Bennett Rippin) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2022-03-05 (Dr. Gil Schroeder) : Encounter at LYDIA TAFT HOUSE
+2022-02-01 (Dr. Bennett Rippin) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Viral sinusitis (disorder)
+2021-09-15 (Dr. Bennett Rippin) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2021-08-25 (Dr. Bennett Rippin) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2021-08-25 (Dr. Bennett Rippin) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Normal pregnancy
+2021-08-06 (Dr. Bennett Rippin) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Normal pregnancy
+2021-07-21 (Dr. Bennett Rippin) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Normal pregnancy
+2020-12-16 (Dr. Bennett Rippin) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2020-03-04 (Dr. Bennett Rippin) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Anemia (disorder)
+2020-03-04 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+2017-03-01 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+2014-02-26 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+2013-02-20 (Dr. Barb Renner) : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

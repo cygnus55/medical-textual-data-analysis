@@ -1,0 +1,104 @@
+Tanner Kautzer
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 17
+Birth Date:          2004-12-16
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-02-03 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2021-01-28 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 4.0 {score}
+  2021-01-28 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2021-01-28 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.2 %
+           - MCV [Entitic volume] by Automated count  87.0 fL
+           - MCH [Entitic mass] by Automated count    28.0 pg
+           - MCHC [Mass/volume] by Automated count    35.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.7 fL
+           - Platelets [#/volume] in Blood by Automated count 392.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 290.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.9 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-02-03 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2022-02-03 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-02-03 : Respiratory rate                         13.0 /min
+  2022-02-03 : Heart rate                               98.0 /min
+  2022-02-03 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  144.0 mm[Hg]
+  2022-02-03 : Body mass index (BMI) [Percentile] Per age and gender 49.2 %
+  2022-02-03 : Body Mass Index                          21.2 kg/m2
+  2022-02-03 : Body Weight                              69.7 kg
+  2022-02-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2022-02-03 : Body Height                              181.2 cm
+  2021-01-28 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 4.0 {score}
+  2021-01-28 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2021-01-28 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-01-28 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.9 fL
+  2021-01-28 : Platelet distribution width [Entitic volume] in Blood by Automated count 290.1 fL
+  2021-01-28 : Platelets [#/volume] in Blood by Automated count 392.0 10*3/uL
+  2021-01-28 : Erythrocyte distribution width [Entitic volume] by Automated count 39.7 fL
+  2021-01-28 : MCHC [Mass/volume] by Automated count    35.8 g/dL
+  2021-01-28 : MCH [Entitic mass] by Automated count    28.0 pg
+  2021-01-28 : MCV [Entitic volume] by Automated count  87.0 fL
+  2021-01-28 : Hematocrit [Volume Fraction] of Blood by Automated count 45.2 %
+  2021-01-28 : Hemoglobin [Mass/volume] in Blood        14.0 g/dL
+  2021-01-28 : Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+  2021-01-28 : Leukocytes [#/volume] in Blood by Automated count 5.8 10*3/uL
+  2021-01-28 : Respiratory rate                         13.0 /min
+  2021-01-28 : Heart rate                               86.0 /min
+  2021-01-28 : Blood Pressure
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  135.0 mm[Hg]
+  2021-01-28 : Body mass index (BMI) [Percentile] Per age and gender 76.4 %
+  2021-01-28 : Body Mass Index                          23.0 kg/m2
+  2021-01-28 : Body Weight                              74.1 kg
+  2021-01-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2021-01-28 : Body Height                              179.7 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-02-03 : Anticipatory guidance (procedure)
+  2022-02-03 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2022-02-03 : Assessment of substance use (procedure)
+  2022-02-03 : Medication Reconciliation (procedure)
+  2022-02-03 : Assessment of anxiety (procedure)
+  2021-01-28 : Anticipatory guidance (procedure)
+  2021-01-28 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2021-01-28 : Assessment of substance use (procedure)
+  2021-01-28 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2021-01-28 : Depression screening (procedure)
+  2021-01-28 : Assessment of anxiety (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-02-03 : Influenza, seasonal, injectable, preservative free
+  2021-08-26 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-08-05 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-01-28 : meningococcal MCV4P
+  2021-01-28 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-02-03 (Dr. Tyler Howe) : Encounter at PODIATRY HEALTHCARE P.C.
+2021-08-26 (Dr. Joanna Abbott) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+2021-08-05 (Dr. Joanna Abbott) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+2021-01-28 (Dr. Tyler Howe) : Encounter at PODIATRY HEALTHCARE P.C.
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,66 @@
+Mao Franecki
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 10
+Birth Date:          2012-03-27
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2021-10-08[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2021-10-08 - 2021-10-15 : Acute bronchitis (disorder)
+  2021-06-01 - 2021-06-23 : Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2021-10-08[STOPPED] : Respiratory therapy
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+--------------------------------------------------------------------------------
+REPORTS:
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-04-05 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-04-05 : Respiratory rate                         16.0 /min
+  2022-04-05 : Heart rate                               61.0 /min
+  2022-04-05 : Blood Pressure
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2022-04-05 : Body mass index (BMI) [Percentile] Per age and gender 42.6 %
+  2022-04-05 : Body Mass Index                          16.5 kg/m2
+  2022-04-05 : Body Weight                              28.1 kg
+  2022-04-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2022-04-05 : Body Height                              130.8 cm
+  2021-03-30 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-03-30 : Respiratory rate                         15.0 /min
+  2021-03-30 : Heart rate                               77.0 /min
+  2021-03-30 : Blood Pressure
+           - Diastolic Blood Pressure                 65.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  2021-03-30 : Body mass index (BMI) [Percentile] Per age and gender 41.1 %
+  2021-03-30 : Body Mass Index                          15.9 kg/m2
+  2021-03-30 : Body Weight                              25.3 kg
+  2021-03-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2021-03-30 : Body Height                              126.3 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2021-10-08 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-10-19 : Influenza, seasonal, injectable, preservative free
+  2021-03-30 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-04-05 (Dr. Verda Bahringer) : Encounter at HORIZONS HEALTH & WELLNESS LLC
+2021-10-19 (Dr. Anderson Lemke) : Encounter at SOUTH SHORE PRIMARY AND URGENT CARE LLC
+2021-10-08 (Dr. Jeromy Okuneva) : Encounter at BRIGHAM & WOMENS HOSPITAL INC : Encounter for Acute bronchitis (disorder)
+2021-06-01 (Dr. Jeromy Okuneva) : Encounter at BRIGHAM & WOMENS HOSPITAL INC : Encounter for Viral sinusitis (disorder)
+2021-03-30 (Dr. Verda Bahringer) : Encounter at HORIZONS HEALTH & WELLNESS LLC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

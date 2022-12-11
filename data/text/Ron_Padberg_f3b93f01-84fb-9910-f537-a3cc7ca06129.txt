@@ -1,0 +1,2312 @@
+Ron Padberg
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 49
+Birth Date:          1973-12-11
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2022-09-20[CURRENT] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2022-09-20[CURRENT] : lisinopril 10 MG Oral Tablet for Hypertension
+  2022-09-20[CURRENT] : tramadol hydrochloride 50 MG Oral Tablet
+  2022-09-20[CURRENT] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2022-09-20[CURRENT] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2022-08-23[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2022-08-23[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2022-08-23[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2022-08-23[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2022-08-23[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2022-07-19[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2022-07-19[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2022-07-19[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2022-07-19[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2022-07-19[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2022-07-05[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2022-07-05[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2022-07-05[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2022-07-05[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2022-07-05[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2022-06-21[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2022-06-21[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2022-06-21[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2022-06-21[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2022-06-21[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2022-03-29[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2022-03-29[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2022-03-29[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2022-03-29[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2022-03-29[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2022-02-22[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2022-02-22[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2022-02-22[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2022-02-22[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2022-02-22[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2022-02-01[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2022-02-01[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2022-02-01[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2022-02-01[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2022-02-01[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2021-12-28[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2021-12-28[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2021-12-28[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2021-12-28[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2021-12-28[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2021-11-30[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2021-11-30[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2021-11-30[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2021-11-30[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2021-11-30[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2021-07-06[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2021-07-06[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2021-07-06[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2021-07-06[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2021-07-06[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2021-06-22[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2021-06-22[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2021-06-22[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2021-06-22[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2021-06-22[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2021-05-25[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2021-05-25[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2021-05-25[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2021-05-25[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2021-05-25[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2021-03-30[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2021-03-30[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2021-03-30[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2021-03-30[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2021-03-30[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2021-02-02[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2021-02-02[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2021-02-02[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2021-02-02[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2021-02-02[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2020-11-03[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2020-11-03[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2020-11-03[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2020-11-03[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2020-11-03[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2020-10-06[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2020-10-06[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2020-10-06[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2020-10-06[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2020-10-06[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2020-07-07[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2020-07-07[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2020-07-07[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2020-07-07[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2020-07-07[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2020-06-16[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2020-06-16[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2020-06-16[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2020-06-16[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2020-06-16[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2020-06-02[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2020-06-02[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2020-06-02[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2020-06-02[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2020-06-02[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2020-05-05[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2020-05-05[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2020-05-05[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2020-05-05[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2020-05-05[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2020-03-17[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2020-03-17[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2020-03-17[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2020-03-17[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2020-03-17[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2020-03-03[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2020-03-03[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2020-03-03[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2020-03-03[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2020-03-03[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2020-02-04[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2020-02-04[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2020-02-04[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2020-02-04[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2020-02-04[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2019-12-10[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2019-12-10[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2019-12-10[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2019-12-10[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2019-12-10[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2019-09-10[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2019-09-10[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2019-09-10[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2019-09-10[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2019-09-10[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2019-08-20[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2019-08-20[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2019-08-20[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2019-08-20[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2019-08-20[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2019-07-09[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2019-07-09[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2019-07-09[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2019-07-09[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2019-07-09[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2019-06-11[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2019-06-11[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2019-06-11[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2019-06-11[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2019-06-11[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2019-04-16[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2019-04-16[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2019-04-16[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2019-04-16[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2019-04-16[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2019-03-12[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2019-03-12[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2019-03-12[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2019-03-12[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2019-03-12[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2019-01-15[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2019-01-15[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2019-01-15[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2019-01-15[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2019-01-15[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2018-12-11[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2018-12-11[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2018-12-11[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2018-12-11[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2018-12-11[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2018-07-17[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2018-07-17[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2018-07-17[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2018-07-17[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2018-07-17[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2018-06-05[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2018-06-05[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2018-06-05[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2018-06-05[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2018-06-05[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2018-03-20[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2018-03-20[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2018-03-20[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2018-03-20[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2018-03-20[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2018-02-13[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2018-02-13[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2018-02-13[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2018-02-13[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2018-02-13[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2018-01-16[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2018-01-16[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2018-01-16[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2018-01-16[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2018-01-16[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2017-12-12[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2017-12-12[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2017-12-12[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2017-12-12[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2017-12-12[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2017-08-22[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2017-08-22[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2017-08-22[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2017-08-22[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2017-08-22[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2017-07-18[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2017-07-18[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2017-07-18[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2017-07-18[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2017-07-18[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2017-05-30[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2017-05-30[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2017-05-30[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2017-05-30[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2017-05-30[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2017-05-16[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2017-05-16[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2017-05-16[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2017-05-16[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2017-05-16[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2017-01-24[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2017-01-24[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2017-01-24[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2017-01-24[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2017-01-24[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2016-05-24[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2016-05-24[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2016-05-24[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2016-05-24[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2016-05-24[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2016-02-23[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2016-02-23[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2016-02-23[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2016-02-23[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2016-02-23[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2015-10-27[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2015-10-27[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2015-10-27[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2015-10-27[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2015-10-27[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2015-09-01[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2015-09-01[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2015-09-01[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2015-09-01[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2015-09-01[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2015-05-19[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2015-05-19[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2015-05-19[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2015-05-19[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2015-05-19[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2015-04-21[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2015-04-21[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2015-04-21[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2015-04-21[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2015-04-21[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2015-03-24[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2015-03-24[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2015-03-24[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2015-03-24[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2015-03-24[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2015-01-13[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2015-01-13[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2015-01-13[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2015-01-13[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2015-01-13[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2014-12-30[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2014-12-30[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2014-12-30[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2014-12-30[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2014-12-30[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2014-09-02[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2014-09-02[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2014-09-02[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2014-09-02[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2014-09-02[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2014-05-13[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2014-05-13[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2014-05-13[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2014-05-13[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2014-05-13[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2014-03-30[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2014-02-06[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2013-05-07[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2013-05-07[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2013-05-07[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2012-05-01[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2012-05-01[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2012-05-01[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2011-04-26[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2011-04-26[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2011-04-26[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2010-09-28[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2010-09-28[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2010-09-28[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2010-04-20[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2010-04-20[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2010-04-20[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2009-04-14[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2009-04-14[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2009-04-14[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2008-04-08[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2008-04-08[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2008-04-08[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2008-01-08[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2008-01-08[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2008-01-08[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2007-04-03[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2007-04-03[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2007-04-03[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2007-04-03[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2007-04-03[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2007-04-03[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2006-03-28[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2006-03-28[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2006-03-28[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2005-03-22[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2005-03-22[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2005-03-22[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2004-04-27[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2004-04-27[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2004-04-27[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2004-03-16[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2004-03-16[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2004-03-16[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2003-11-04[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2003-11-04[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2003-11-04[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2003-03-11[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2003-03-11[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2003-03-11[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2003-03-11[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2002-03-05[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2002-03-05[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2001-02-27[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2001-02-27[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2000-02-22[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2000-02-22[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  1999-03-18[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  1999-02-16[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1999-02-16[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1998-01-28[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  1998-01-28[CURRENT] : Fexofenadine hydrochloride 60 MG Oral Tablet
+  1998-01-14[CURRENT] : Hydrocortisone 10 MG/ML Topical Cream for Contact dermatitis
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-09-20 -            : Not in labor force (finding)
+  2022-08-23 - 2022-09-20 : Stress (finding)
+  2022-08-23 - 2022-09-20 : Full-time employment (finding)
+  2022-07-19 - 2022-08-23 : Full-time employment (finding)
+  2022-07-05 - 2022-07-19 : Reports of violence in the environment (finding)
+  2022-07-05 - 2022-07-19 : Full-time employment (finding)
+  2022-06-21 - 2022-07-19 : Stress (finding)
+  2022-06-21 - 2022-07-05 : Full-time employment (finding)
+  2022-03-29 - 2022-06-21 : Part-time employment (finding)
+  2022-02-22 - 2022-03-29 : Stress (finding)
+  2022-02-22 - 2022-03-29 : Not in labor force (finding)
+  2022-02-01 - 2022-02-22 : Reports of violence in the environment (finding)
+  2022-02-01 - 2022-02-22 : Full-time employment (finding)
+  2021-12-28 - 2022-02-01 : Part-time employment (finding)
+  2021-11-30 - 2021-12-28 : Full-time employment (finding)
+  2021-07-06 - 2021-11-30 : Full-time employment (finding)
+  2021-06-22 - 2022-07-19 : Limited social contact (finding)
+  2021-06-22 - 2021-07-06 : Full-time employment (finding)
+  2021-05-25 - 2022-02-01 : Stress (finding)
+  2021-05-25 - 2021-06-22 : Full-time employment (finding)
+  2021-03-30 - 2021-05-25 : Full-time employment (finding)
+  2021-02-02 - 2021-03-30 : Stress (finding)
+  2021-02-02 - 2021-05-25 : Limited social contact (finding)
+  2021-02-02 - 2021-03-30 : Part-time employment (finding)
+  2020-11-03 - 2021-02-02 : Full-time employment (finding)
+  2020-10-06 - 2020-11-03 : Not in labor force (finding)
+  2019-08-20 - 2019-09-10 : Not in labor force (finding)
+  2019-07-09 - 2019-08-20 : Not in labor force (finding)
+  2018-12-11 -            : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  2018-12-11 -            : Chronic kidney disease stage 2 (disorder)
+  2018-01-16 - 2022-09-20 : Social isolation (finding)
+  2018-01-16 - 2018-02-13 : Not in labor force (finding)
+  2017-01-24 -            : Metabolic syndrome X (disorder)
+  2016-05-24 - 2017-01-24 : Not in labor force (finding)
+  2015-01-13 -            : Has a criminal record (finding)
+  2014-12-30 -            : Body mass index 30+ - obesity (finding)
+  2014-02-06 -            : Fibromyalgia (disorder)
+  2014-02-06 -            : Chronic low back pain (finding)
+  2003-11-04 -            : Diabetic renal disease (disorder)
+  2003-11-04 -            : Chronic kidney disease stage 1 (disorder)
+  2003-03-11 -            : Anemia (disorder)
+  2002-03-05 -            : Prediabetes
+  1999-02-16 -            : Hypertension
+  1992-02-04 -            : Received higher education (finding)
+  1992-02-04 -            : Housing unsatisfactory (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2014-03-30[CURRENT] : Therapy (regime/therapy)
+                         Activity: Physical therapy procedure (regime/therapy)
+                         Activity: Cognitive and behavioral therapy (regime/therapy)
+  2002-03-05[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1999-02-16[CURRENT] : Lifestyle education regarding hypertension
+                         Reason: Hypertension
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  1998-01-28[CURRENT] : Self-care interventions (procedure)
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-09-20 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    3.0 {score}
+  2022-09-20 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-09-20 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2022-09-20 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2022-09-20 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 0.7 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 0.6 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 13.4 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                6.5 pH
+           - Protein [Mass/volume] in Urine by Test strip 342.5 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2022-09-20 : Basic Metabolic 2000 Panel
+           - Glucose                                  70.6 mg/dL
+           - Urea Nitrogen                            10.8 mg/dL
+           - Creatinine                               2.1 mg/dL
+           - Calcium                                  9.1 mg/dL
+           - Sodium                                   143.9 mmol/L
+           - Potassium                                4.9 mmol/L
+           - Chloride                                 103.0 mmol/L
+           - Carbon Dioxide                           26.5 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 78.8 mL/min
+  2022-09-20 : Basic Metabolic Panel
+           - Glucose                                  70.6 mg/dL
+           - Urea Nitrogen                            10.8 mg/dL
+           - Creatinine                               3.1 mg/dL
+           - Calcium                                  9.1 mg/dL
+           - Sodium                                   143.9 mmol/L
+           - Potassium                                4.9 mmol/L
+           - Chloride                                 103.0 mmol/L
+           - Carbon Dioxide                           26.5 mmol/L
+  2022-08-23 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+  2022-08-23 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2022-08-23 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2022-08-23 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 2.3 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 0.8 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 12.8 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                6.4 pH
+           - Protein [Mass/volume] in Urine by Test strip 292.6 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2022-08-23 : Basic Metabolic 2000 Panel
+           - Glucose                                  92.5 mg/dL
+           - Urea Nitrogen                            16.2 mg/dL
+           - Creatinine                               2.1 mg/dL
+           - Calcium                                  9.2 mg/dL
+           - Sodium                                   137.5 mmol/L
+           - Potassium                                3.8 mmol/L
+           - Chloride                                 109.5 mmol/L
+           - Carbon Dioxide                           23.9 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 60.6 mL/min
+  2022-08-23 : Basic Metabolic Panel
+           - Glucose                                  92.5 mg/dL
+           - Urea Nitrogen                            16.2 mg/dL
+           - Creatinine                               2.4 mg/dL
+           - Calcium                                  9.2 mg/dL
+           - Sodium                                   137.5 mmol/L
+           - Potassium                                3.8 mmol/L
+           - Chloride                                 109.5 mmol/L
+           - Carbon Dioxide                           23.9 mmol/L
+  2022-07-19 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    0.0 {score}
+  2022-07-19 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-07-19 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 1.4 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 1.1 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 1.3 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                6.9 pH
+           - Protein [Mass/volume] in Urine by Test strip 295.8 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2022-07-19 : Basic Metabolic 2000 Panel
+           - Glucose                                  81.9 mg/dL
+           - Urea Nitrogen                            17.3 mg/dL
+           - Creatinine                               2.1 mg/dL
+           - Calcium                                  9.8 mg/dL
+           - Sodium                                   142.4 mmol/L
+           - Potassium                                4.7 mmol/L
+           - Chloride                                 106.2 mmol/L
+           - Carbon Dioxide                           25.7 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 80.1 mL/min
+  2022-07-19 : Basic Metabolic Panel
+           - Glucose                                  81.9 mg/dL
+           - Urea Nitrogen                            17.3 mg/dL
+           - Creatinine                               2.3 mg/dL
+           - Calcium                                  9.8 mg/dL
+           - Sodium                                   142.4 mmol/L
+           - Potassium                                4.7 mmol/L
+           - Chloride                                 106.2 mmol/L
+           - Carbon Dioxide                           25.7 mmol/L
+  2022-07-05 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2022-07-05 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 2.0 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 1.0 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 12.1 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                6.0 pH
+           - Protein [Mass/volume] in Urine by Test strip 177.1 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2022-07-05 : Basic Metabolic 2000 Panel
+           - Glucose                                  79.3 mg/dL
+           - Urea Nitrogen                            9.5 mg/dL
+           - Creatinine                               2.0 mg/dL
+           - Calcium                                  8.6 mg/dL
+           - Sodium                                   141.5 mmol/L
+           - Potassium                                3.8 mmol/L
+           - Chloride                                 105.8 mmol/L
+           - Carbon Dioxide                           23.0 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 75.2 mL/min
+  2022-07-05 : Basic Metabolic Panel
+           - Glucose                                  79.3 mg/dL
+           - Urea Nitrogen                            9.5 mg/dL
+           - Creatinine                               3.7 mg/dL
+           - Calcium                                  8.6 mg/dL
+           - Sodium                                   141.5 mmol/L
+           - Potassium                                3.8 mmol/L
+           - Chloride                                 105.8 mmol/L
+           - Carbon Dioxide                           23.0 mmol/L
+  2022-06-21 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    2.0 {score}
+  2022-06-21 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-06-21 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2022-06-21 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 1.3 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 1.0 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 7.6 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                6.7 pH
+           - Protein [Mass/volume] in Urine by Test strip 290.4 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2022-06-21 : Basic Metabolic 2000 Panel
+           - Glucose                                  85.1 mg/dL
+           - Urea Nitrogen                            12.1 mg/dL
+           - Creatinine                               2.0 mg/dL
+           - Calcium                                  8.9 mg/dL
+           - Sodium                                   137.0 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 110.9 mmol/L
+           - Carbon Dioxide                           22.8 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 76.9 mL/min
+  2022-06-21 : Lipid Panel
+           - Total Cholesterol                        170.9 mg/dL
+           - Triglycerides                            128.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      86.4 mg/dL
+           - High Density Lipoprotein Cholesterol     58.7 mg/dL
+  2022-06-21 : Basic Metabolic Panel
+           - Glucose                                  85.1 mg/dL
+           - Urea Nitrogen                            12.1 mg/dL
+           - Creatinine                               3.5 mg/dL
+           - Calcium                                  8.9 mg/dL
+           - Sodium                                   137.0 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 110.9 mmol/L
+           - Carbon Dioxide                           22.8 mmol/L
+  2022-03-29 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    2.0 {score}
+  2022-03-29 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-03-29 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2022-03-29 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 1.8 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 0.4 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 19.0 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                6.3 pH
+           - Protein [Mass/volume] in Urine by Test strip 281.1 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2022-03-29 : Basic Metabolic 2000 Panel
+           - Glucose                                  97.4 mg/dL
+           - Urea Nitrogen                            8.3 mg/dL
+           - Creatinine                               2.1 mg/dL
+           - Calcium                                  9.9 mg/dL
+           - Sodium                                   138.9 mmol/L
+           - Potassium                                5.2 mmol/L
+           - Chloride                                 106.3 mmol/L
+           - Carbon Dioxide                           24.8 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 64.3 mL/min
+  2022-03-29 : Basic Metabolic Panel
+           - Glucose                                  97.4 mg/dL
+           - Urea Nitrogen                            8.3 mg/dL
+           - Creatinine                               2.3 mg/dL
+           - Calcium                                  9.9 mg/dL
+           - Sodium                                   138.9 mmol/L
+           - Potassium                                5.2 mmol/L
+           - Chloride                                 106.3 mmol/L
+           - Carbon Dioxide                           24.8 mmol/L
+  2022-02-22 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2022-02-22 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 1.4 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 0.5 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 7.2 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                5.7 pH
+           - Protein [Mass/volume] in Urine by Test strip 229.9 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2022-02-22 : Basic Metabolic 2000 Panel
+           - Glucose                                  85.9 mg/dL
+           - Urea Nitrogen                            10.5 mg/dL
+           - Creatinine                               1.9 mg/dL
+           - Calcium                                  9.3 mg/dL
+           - Sodium                                   137.7 mmol/L
+           - Potassium                                5.1 mmol/L
+           - Chloride                                 104.2 mmol/L
+           - Carbon Dioxide                           20.4 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 71.6 mL/min
+  2022-02-22 : Basic Metabolic Panel
+           - Glucose                                  85.9 mg/dL
+           - Urea Nitrogen                            10.5 mg/dL
+           - Creatinine                               3.5 mg/dL
+           - Calcium                                  9.3 mg/dL
+           - Sodium                                   137.7 mmol/L
+           - Potassium                                5.1 mmol/L
+           - Chloride                                 104.2 mmol/L
+           - Carbon Dioxide                           20.4 mmol/L
+  2022-02-01 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+  2022-02-01 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-02-01 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2022-02-01 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 2.1 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 0.8 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 19.3 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                5.6 pH
+           - Protein [Mass/volume] in Urine by Test strip 208.2 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2022-02-01 : Basic Metabolic 2000 Panel
+           - Glucose                                  88.8 mg/dL
+           - Urea Nitrogen                            18.4 mg/dL
+           - Creatinine                               2.1 mg/dL
+           - Calcium                                  9.8 mg/dL
+           - Sodium                                   138.3 mmol/L
+           - Potassium                                4.9 mmol/L
+           - Chloride                                 106.6 mmol/L
+           - Carbon Dioxide                           24.0 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 66.5 mL/min
+  2022-02-01 : Basic Metabolic Panel
+           - Glucose                                  88.8 mg/dL
+           - Urea Nitrogen                            18.4 mg/dL
+           - Creatinine                               2.7 mg/dL
+           - Calcium                                  9.8 mg/dL
+           - Sodium                                   138.3 mmol/L
+           - Potassium                                4.9 mmol/L
+           - Chloride                                 106.6 mmol/L
+           - Carbon Dioxide                           24.0 mmol/L
+  2021-12-28 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    2.0 {score}
+  2021-12-28 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2021-12-28 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2021-12-28 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 2.0 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 1.4 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 1.4 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                6.5 pH
+           - Protein [Mass/volume] in Urine by Test strip 262.3 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2021-12-28 : Basic Metabolic 2000 Panel
+           - Glucose                                  74.0 mg/dL
+           - Urea Nitrogen                            19.5 mg/dL
+           - Creatinine                               1.9 mg/dL
+           - Calcium                                  9.7 mg/dL
+           - Sodium                                   141.7 mmol/L
+           - Potassium                                4.2 mmol/L
+           - Chloride                                 106.9 mmol/L
+           - Carbon Dioxide                           26.0 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 68.6 mL/min
+  2021-12-28 : Basic Metabolic Panel
+           - Glucose                                  74.0 mg/dL
+           - Urea Nitrogen                            19.5 mg/dL
+           - Creatinine                               4.0 mg/dL
+           - Calcium                                  9.7 mg/dL
+           - Sodium                                   141.7 mmol/L
+           - Potassium                                4.2 mmol/L
+           - Chloride                                 106.9 mmol/L
+           - Carbon Dioxide                           26.0 mmol/L
+  2021-11-30 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    2.0 {score}
+  2021-11-30 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 1.2 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 0.8 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 11.2 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                5.2 pH
+           - Protein [Mass/volume] in Urine by Test strip 257.3 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2021-11-30 : Basic Metabolic 2000 Panel
+           - Glucose                                  97.0 mg/dL
+           - Urea Nitrogen                            7.8 mg/dL
+           - Creatinine                               2.0 mg/dL
+           - Calcium                                  9.7 mg/dL
+           - Sodium                                   137.7 mmol/L
+           - Potassium                                4.2 mmol/L
+           - Chloride                                 107.5 mmol/L
+           - Carbon Dioxide                           20.9 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 64.0 mL/min
+  2021-11-30 : Basic Metabolic Panel
+           - Glucose                                  97.0 mg/dL
+           - Urea Nitrogen                            7.8 mg/dL
+           - Creatinine                               3.3 mg/dL
+           - Calcium                                  9.7 mg/dL
+           - Sodium                                   137.7 mmol/L
+           - Potassium                                4.2 mmol/L
+           - Chloride                                 107.5 mmol/L
+           - Carbon Dioxide                           20.9 mmol/L
+  2021-07-06 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    2.0 {score}
+  2021-07-06 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2021-07-06 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2021-07-06 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2021-07-06 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 0.7 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 0.3 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 5.9 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                5.3 pH
+           - Protein [Mass/volume] in Urine by Test strip 334.0 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2021-07-06 : Basic Metabolic 2000 Panel
+           - Glucose                                  64.6 mg/dL
+           - Urea Nitrogen                            15.7 mg/dL
+           - Creatinine                               1.8 mg/dL
+           - Calcium                                  10.1 mg/dL
+           - Sodium                                   139.7 mmol/L
+           - Potassium                                4.3 mmol/L
+           - Chloride                                 107.9 mmol/L
+           - Carbon Dioxide                           22.4 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 74.7 mL/min
+  2021-07-06 : Basic Metabolic Panel
+           - Glucose                                  64.6 mg/dL
+           - Urea Nitrogen                            15.7 mg/dL
+           - Creatinine                               2.2 mg/dL
+           - Calcium                                  10.1 mg/dL
+           - Sodium                                   139.7 mmol/L
+           - Potassium                                4.3 mmol/L
+           - Chloride                                 107.9 mmol/L
+           - Carbon Dioxide                           22.4 mmol/L
+  2021-06-22 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    2.0 {score}
+  2021-06-22 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-06-22 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2021-06-22 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 1.8 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 0.2 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 4.1 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                5.2 pH
+           - Protein [Mass/volume] in Urine by Test strip 284.0 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2021-06-22 : Basic Metabolic 2000 Panel
+           - Glucose                                  70.5 mg/dL
+           - Urea Nitrogen                            10.9 mg/dL
+           - Creatinine                               2.1 mg/dL
+           - Calcium                                  9.4 mg/dL
+           - Sodium                                   140.1 mmol/L
+           - Potassium                                4.2 mmol/L
+           - Chloride                                 104.8 mmol/L
+           - Carbon Dioxide                           26.4 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 68.0 mL/min
+  2021-06-22 : Basic Metabolic Panel
+           - Glucose                                  70.5 mg/dL
+           - Urea Nitrogen                            10.9 mg/dL
+           - Creatinine                               2.5 mg/dL
+           - Calcium                                  9.4 mg/dL
+           - Sodium                                   140.1 mmol/L
+           - Potassium                                4.2 mmol/L
+           - Chloride                                 104.8 mmol/L
+           - Carbon Dioxide                           26.4 mmol/L
+  2021-05-25 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2021-05-25 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2021-05-25 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 1.0 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 1.4 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 6.9 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                5.5 pH
+           - Protein [Mass/volume] in Urine by Test strip 242.5 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2021-05-25 : Basic Metabolic 2000 Panel
+           - Glucose                                  88.7 mg/dL
+           - Urea Nitrogen                            19.2 mg/dL
+           - Creatinine                               2.1 mg/dL
+           - Calcium                                  8.8 mg/dL
+           - Sodium                                   143.1 mmol/L
+           - Potassium                                4.3 mmol/L
+           - Chloride                                 106.8 mmol/L
+           - Carbon Dioxide                           22.5 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 69.2 mL/min
+  2021-05-25 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.5 %
+           - MCV [Entitic volume] by Automated count  91.9 fL
+           - MCH [Entitic mass] by Automated count    29.1 pg
+           - MCHC [Mass/volume] by Automated count    35.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.8 fL
+           - Platelets [#/volume] in Blood by Automated count 185.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 501.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+  2021-05-25 : Basic Metabolic Panel
+           - Glucose                                  88.7 mg/dL
+           - Urea Nitrogen                            19.2 mg/dL
+           - Creatinine                               3.8 mg/dL
+           - Calcium                                  8.8 mg/dL
+           - Sodium                                   143.1 mmol/L
+           - Potassium                                4.3 mmol/L
+           - Chloride                                 106.8 mmol/L
+           - Carbon Dioxide                           22.5 mmol/L
+  2021-03-30 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+  2021-03-30 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-03-30 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2021-03-30 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 2.1 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 0.3 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 3.6 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                6.1 pH
+           - Protein [Mass/volume] in Urine by Test strip 257.7 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2021-03-30 : Basic Metabolic 2000 Panel
+           - Glucose                                  88.9 mg/dL
+           - Urea Nitrogen                            12.2 mg/dL
+           - Creatinine                               2.0 mg/dL
+           - Calcium                                  9.5 mg/dL
+           - Sodium                                   141.8 mmol/L
+           - Potassium                                3.9 mmol/L
+           - Chloride                                 104.9 mmol/L
+           - Carbon Dioxide                           21.6 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 88.2 mL/min
+  2021-03-30 : Basic Metabolic Panel
+           - Glucose                                  88.9 mg/dL
+           - Urea Nitrogen                            12.2 mg/dL
+           - Creatinine                               2.8 mg/dL
+           - Calcium                                  9.5 mg/dL
+           - Sodium                                   141.8 mmol/L
+           - Potassium                                3.9 mmol/L
+           - Chloride                                 104.9 mmol/L
+           - Carbon Dioxide                           21.6 mmol/L
+  2021-02-02 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-02-02 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 1.6 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 0.7 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 15.4 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                6.2 pH
+           - Protein [Mass/volume] in Urine by Test strip 318.9 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2021-02-02 : Basic Metabolic 2000 Panel
+           - Glucose                                  69.7 mg/dL
+           - Urea Nitrogen                            12.3 mg/dL
+           - Creatinine                               1.8 mg/dL
+           - Calcium                                  9.1 mg/dL
+           - Sodium                                   136.3 mmol/L
+           - Potassium                                3.9 mmol/L
+           - Chloride                                 107.0 mmol/L
+           - Carbon Dioxide                           22.0 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 68.1 mL/min
+  2021-02-02 : Basic Metabolic Panel
+           - Glucose                                  69.7 mg/dL
+           - Urea Nitrogen                            12.3 mg/dL
+           - Creatinine                               3.9 mg/dL
+           - Calcium                                  9.1 mg/dL
+           - Sodium                                   136.3 mmol/L
+           - Potassium                                3.9 mmol/L
+           - Chloride                                 107.0 mmol/L
+           - Carbon Dioxide                           22.0 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-09-20 : Total score [AUDIT-C]                    3.0 {score}
+  2022-09-20 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-09-20 : Total score [HARK]                       0.0 {score}
+  2022-09-20 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2022-09-20 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 148230 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Otherwise unemployed but not seeking work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             868 Bashirian Port 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2022-09-20 : Hemoglobin A1c/Hemoglobin.total in Blood 4.1 %
+  2022-09-20 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2022-09-20 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2022-09-20 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2022-09-20 : Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+  2022-09-20 : Protein [Mass/volume] in Urine by Test strip 342.5 mg/dL
+  2022-09-20 : pH of Urine by Test strip                6.5 pH
+  2022-09-20 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2022-09-20 : Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+  2022-09-20 : Ketones [Mass/volume] in Urine by Test strip 13.4 mg/dL
+  2022-09-20 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2022-09-20 : Bilirubin.total [Mass/volume] in Urine by Test strip 0.6 mg/dL
+  2022-09-20 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2022-09-20 : Glucose [Mass/volume] in Urine by Test strip 0.7 mg/dL
+  2022-09-20 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2022-09-20 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2022-09-20 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2022-09-20 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2022-09-20 : Glomerular filtration rate/1.73 sq M.predicted 78.8 mL/min
+  2022-09-20 : Carbon Dioxide                           26.5 mmol/L
+  2022-09-20 : Chloride                                 103.0 mmol/L
+  2022-09-20 : Potassium                                4.9 mmol/L
+  2022-09-20 : Sodium                                   143.9 mmol/L
+  2022-09-20 : Calcium                                  9.1 mg/dL
+  2022-09-20 : Creatinine                               2.1 mg/dL
+  2022-09-20 : Urea Nitrogen                            10.8 mg/dL
+  2022-09-20 : Glucose                                  70.6 mg/dL
+  2022-09-20 : Tobacco smoking status                   Ex-smoker (finding) 
+  2022-09-20 : Carbon Dioxide                           26.5 mmol/L
+  2022-09-20 : Chloride                                 103.0 mmol/L
+  2022-09-20 : Potassium                                4.9 mmol/L
+  2022-09-20 : Sodium                                   143.9 mmol/L
+  2022-09-20 : Calcium                                  9.1 mg/dL
+  2022-09-20 : Creatinine                               3.1 mg/dL
+  2022-09-20 : Urea Nitrogen                            10.8 mg/dL
+  2022-09-20 : Glucose                                  70.6 mg/dL
+  2022-09-20 : Respiratory rate                         14.0 /min
+  2022-09-20 : Heart rate                               93.0 /min
+  2022-09-20 : Blood Pressure
+           - Diastolic Blood Pressure                 68.0 mm[Hg]
+           - Systolic Blood Pressure                  96.0 mm[Hg]
+  2022-09-20 : Body Mass Index                          28.4 kg/m2
+  2022-09-20 : Body Weight                              102.8 kg
+  2022-09-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2022-09-20 : Body Height                              190.2 cm
+  2022-08-23 : Total score [AUDIT-C]                    1.0 {score}
+  2022-08-23 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2022-08-23 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2022-08-23 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Quite a bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Less than once a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 148230 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             868 Bashirian Port 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2022-08-23 : Hemoglobin A1c/Hemoglobin.total in Blood 4.1 %
+  2022-08-23 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2022-08-23 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2022-08-23 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2022-08-23 : Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+  2022-08-23 : Protein [Mass/volume] in Urine by Test strip 292.6 mg/dL
+  2022-08-23 : pH of Urine by Test strip                6.4 pH
+  2022-08-23 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2022-08-23 : Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+  2022-08-23 : Ketones [Mass/volume] in Urine by Test strip 12.8 mg/dL
+  2022-08-23 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2022-08-23 : Bilirubin.total [Mass/volume] in Urine by Test strip 0.8 mg/dL
+  2022-08-23 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2022-08-23 : Glucose [Mass/volume] in Urine by Test strip 2.3 mg/dL
+  2022-08-23 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2022-08-23 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2022-08-23 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2022-08-23 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2022-08-23 : Glomerular filtration rate/1.73 sq M.predicted 60.6 mL/min
+  2022-08-23 : Carbon Dioxide                           23.9 mmol/L
+  2022-08-23 : Chloride                                 109.5 mmol/L
+  2022-08-23 : Potassium                                3.8 mmol/L
+  2022-08-23 : Sodium                                   137.5 mmol/L
+  2022-08-23 : Calcium                                  9.2 mg/dL
+  2022-08-23 : Creatinine                               2.1 mg/dL
+  2022-08-23 : Urea Nitrogen                            16.2 mg/dL
+  2022-08-23 : Glucose                                  92.5 mg/dL
+  2022-08-23 : Tobacco smoking status                   Ex-smoker (finding) 
+  2022-08-23 : Carbon Dioxide                           23.9 mmol/L
+  2022-08-23 : Chloride                                 109.5 mmol/L
+  2022-08-23 : Potassium                                3.8 mmol/L
+  2022-08-23 : Sodium                                   137.5 mmol/L
+  2022-08-23 : Calcium                                  9.2 mg/dL
+  2022-08-23 : Creatinine                               2.4 mg/dL
+  2022-08-23 : Urea Nitrogen                            16.2 mg/dL
+  2022-08-23 : Glucose                                  92.5 mg/dL
+  2022-08-23 : Respiratory rate                         16.0 /min
+  2022-08-23 : Heart rate                               81.0 /min
+  2022-08-23 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  99.0 mm[Hg]
+  2022-08-23 : Body Mass Index                          28.4 kg/m2
+  2022-08-23 : Body Weight                              102.6 kg
+  2022-08-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2022-08-23 : Body Height                              190.2 cm
+  2022-07-19 : Total score [AUDIT-C]                    0.0 {score}
+  2022-07-19 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-07-19 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 148230 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             868 Bashirian Port 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2022-07-19 : Hemoglobin A1c/Hemoglobin.total in Blood 4.1 %
+  2022-07-19 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2022-07-19 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2022-07-19 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2022-07-19 : Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+  2022-07-19 : Protein [Mass/volume] in Urine by Test strip 295.8 mg/dL
+  2022-07-19 : pH of Urine by Test strip                6.9 pH
+  2022-07-19 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2022-07-19 : Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+  2022-07-19 : Ketones [Mass/volume] in Urine by Test strip 1.3 mg/dL
+  2022-07-19 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2022-07-19 : Bilirubin.total [Mass/volume] in Urine by Test strip 1.1 mg/dL
+  2022-07-19 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2022-07-19 : Glucose [Mass/volume] in Urine by Test strip 1.4 mg/dL
+  2022-07-19 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2022-07-19 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2022-07-19 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2022-07-19 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2022-07-19 : Glomerular filtration rate/1.73 sq M.predicted 80.1 mL/min
+  2022-07-19 : Carbon Dioxide                           25.7 mmol/L
+  2022-07-19 : Chloride                                 106.2 mmol/L
+  2022-07-19 : Potassium                                4.7 mmol/L
+  2022-07-19 : Sodium                                   142.4 mmol/L
+  2022-07-19 : Calcium                                  9.8 mg/dL
+  2022-07-19 : Creatinine                               2.1 mg/dL
+  2022-07-19 : Urea Nitrogen                            17.3 mg/dL
+  2022-07-19 : Glucose                                  81.9 mg/dL
+  2022-07-19 : Tobacco smoking status                   Ex-smoker (finding) 
+  2022-07-19 : Carbon Dioxide                           25.7 mmol/L
+  2022-07-19 : Chloride                                 106.2 mmol/L
+  2022-07-19 : Potassium                                4.7 mmol/L
+  2022-07-19 : Sodium                                   142.4 mmol/L
+  2022-07-19 : Calcium                                  9.8 mg/dL
+  2022-07-19 : Creatinine                               2.3 mg/dL
+  2022-07-19 : Urea Nitrogen                            17.3 mg/dL
+  2022-07-19 : Glucose                                  81.9 mg/dL
+  2022-07-19 : Respiratory rate                         15.0 /min
+  2022-07-19 : Heart rate                               60.0 /min
+  2022-07-19 : Blood Pressure
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  100.0 mm[Hg]
+  2022-07-19 : Body Mass Index                          28.3 kg/m2
+  2022-07-19 : Body Weight                              102.3 kg
+  2022-07-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2022-07-19 : Body Height                              190.2 cm
+  2022-07-05 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2022-07-05 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? No 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 148230 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             868 Bashirian Port 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2022-07-05 : Hemoglobin A1c/Hemoglobin.total in Blood 4.1 %
+  2022-07-05 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2022-07-05 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2022-07-05 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2022-07-05 : Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+  2022-07-05 : Protein [Mass/volume] in Urine by Test strip 177.1 mg/dL
+  2022-07-05 : pH of Urine by Test strip                6.0 pH
+  2022-07-05 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2022-07-05 : Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+  2022-07-05 : Ketones [Mass/volume] in Urine by Test strip 12.1 mg/dL
+  2022-07-05 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2022-07-05 : Bilirubin.total [Mass/volume] in Urine by Test strip 1.0 mg/dL
+  2022-07-05 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2022-07-05 : Glucose [Mass/volume] in Urine by Test strip 2.0 mg/dL
+  2022-07-05 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2022-07-05 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2022-07-05 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2022-07-05 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2022-07-05 : Glomerular filtration rate/1.73 sq M.predicted 75.2 mL/min
+  2022-07-05 : Carbon Dioxide                           23.0 mmol/L
+  2022-07-05 : Chloride                                 105.8 mmol/L
+  2022-07-05 : Potassium                                3.8 mmol/L
+  2022-07-05 : Sodium                                   141.5 mmol/L
+  2022-07-05 : Calcium                                  8.6 mg/dL
+  2022-07-05 : Creatinine                               2.0 mg/dL
+  2022-07-05 : Urea Nitrogen                            9.5 mg/dL
+  2022-07-05 : Glucose                                  79.3 mg/dL
+  2022-07-05 : Tobacco smoking status                   Ex-smoker (finding) 
+  2022-07-05 : Carbon Dioxide                           23.0 mmol/L
+  2022-07-05 : Chloride                                 105.8 mmol/L
+  2022-07-05 : Potassium                                3.8 mmol/L
+  2022-07-05 : Sodium                                   141.5 mmol/L
+  2022-07-05 : Calcium                                  8.6 mg/dL
+  2022-07-05 : Creatinine                               3.7 mg/dL
+  2022-07-05 : Urea Nitrogen                            9.5 mg/dL
+  2022-07-05 : Glucose                                  79.3 mg/dL
+  2022-07-05 : Respiratory rate                         13.0 /min
+  2022-07-05 : Heart rate                               75.0 /min
+  2022-07-05 : Blood Pressure
+           - Diastolic Blood Pressure                 64.0 mm[Hg]
+           - Systolic Blood Pressure                  92.0 mm[Hg]
+  2022-07-05 : Body Mass Index                          28.3 kg/m2
+  2022-07-05 : Body Weight                              102.2 kg
+  2022-07-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2022-07-05 : Body Height                              190.2 cm
+  2022-06-21 : Total score [AUDIT-C]                    2.0 {score}
+  2022-06-21 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-06-21 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2022-06-21 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 148230 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             868 Bashirian Port 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2022-06-21 : Hemoglobin A1c/Hemoglobin.total in Blood 4.1 %
+  2022-06-21 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2022-06-21 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2022-06-21 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2022-06-21 : Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+  2022-06-21 : Protein [Mass/volume] in Urine by Test strip 290.4 mg/dL
+  2022-06-21 : pH of Urine by Test strip                6.7 pH
+  2022-06-21 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2022-06-21 : Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+  2022-06-21 : Ketones [Mass/volume] in Urine by Test strip 7.6 mg/dL
+  2022-06-21 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2022-06-21 : Bilirubin.total [Mass/volume] in Urine by Test strip 1.0 mg/dL
+  2022-06-21 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2022-06-21 : Glucose [Mass/volume] in Urine by Test strip 1.3 mg/dL
+  2022-06-21 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2022-06-21 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2022-06-21 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2022-06-21 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2022-06-21 : Glomerular filtration rate/1.73 sq M.predicted 76.9 mL/min
+  2022-06-21 : Carbon Dioxide                           22.8 mmol/L
+  2022-06-21 : Chloride                                 110.9 mmol/L
+  2022-06-21 : Potassium                                4.5 mmol/L
+  2022-06-21 : Sodium                                   137.0 mmol/L
+  2022-06-21 : Calcium                                  8.9 mg/dL
+  2022-06-21 : Creatinine                               2.0 mg/dL
+  2022-06-21 : Urea Nitrogen                            12.1 mg/dL
+  2022-06-21 : Glucose                                  85.1 mg/dL
+  2022-06-21 : Tobacco smoking status                   Ex-smoker (finding) 
+  2022-06-21 : High Density Lipoprotein Cholesterol     58.7 mg/dL
+  2022-06-21 : Low Density Lipoprotein Cholesterol      86.4 mg/dL
+  2022-06-21 : Triglycerides                            128.8 mg/dL
+  2022-06-21 : Total Cholesterol                        170.9 mg/dL
+  2022-06-21 : Carbon Dioxide                           22.8 mmol/L
+  2022-06-21 : Chloride                                 110.9 mmol/L
+  2022-06-21 : Potassium                                4.5 mmol/L
+  2022-06-21 : Sodium                                   137.0 mmol/L
+  2022-06-21 : Calcium                                  8.9 mg/dL
+  2022-06-21 : Creatinine                               3.5 mg/dL
+  2022-06-21 : Urea Nitrogen                            12.1 mg/dL
+  2022-06-21 : Glucose                                  85.1 mg/dL
+  2022-06-21 : Respiratory rate                         15.0 /min
+  2022-06-21 : Heart rate                               86.0 /min
+  2022-06-21 : Blood Pressure
+           - Diastolic Blood Pressure                 70.0 mm[Hg]
+           - Systolic Blood Pressure                  99.0 mm[Hg]
+  2022-06-21 : Body Mass Index                          28.2 kg/m2
+  2022-06-21 : Body Weight                              102.1 kg
+  2022-06-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2022-06-21 : Body Height                              190.2 cm
+  2022-03-29 : Total score [AUDIT-C]                    2.0 {score}
+  2022-03-29 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-03-29 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2022-03-29 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 148230 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             868 Bashirian Port 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2022-03-29 : Hemoglobin A1c/Hemoglobin.total in Blood 4.0 %
+  2022-03-29 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2022-03-29 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2022-03-29 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2022-03-29 : Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+  2022-03-29 : Protein [Mass/volume] in Urine by Test strip 281.1 mg/dL
+  2022-03-29 : pH of Urine by Test strip                6.3 pH
+  2022-03-29 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2022-03-29 : Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+  2022-03-29 : Ketones [Mass/volume] in Urine by Test strip 19.0 mg/dL
+  2022-03-29 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2022-03-29 : Bilirubin.total [Mass/volume] in Urine by Test strip 0.4 mg/dL
+  2022-03-29 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2022-03-29 : Glucose [Mass/volume] in Urine by Test strip 1.8 mg/dL
+  2022-03-29 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2022-03-29 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2022-03-29 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2022-03-29 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2022-03-29 : Glomerular filtration rate/1.73 sq M.predicted 64.3 mL/min
+  2022-03-29 : Carbon Dioxide                           24.8 mmol/L
+  2022-03-29 : Chloride                                 106.3 mmol/L
+  2022-03-29 : Potassium                                5.2 mmol/L
+  2022-03-29 : Sodium                                   138.9 mmol/L
+  2022-03-29 : Calcium                                  9.9 mg/dL
+  2022-03-29 : Creatinine                               2.1 mg/dL
+  2022-03-29 : Urea Nitrogen                            8.3 mg/dL
+  2022-03-29 : Glucose                                  97.4 mg/dL
+  2022-03-29 : Tobacco smoking status                   Ex-smoker (finding) 
+  2022-03-29 : Carbon Dioxide                           24.8 mmol/L
+  2022-03-29 : Chloride                                 106.3 mmol/L
+  2022-03-29 : Potassium                                5.2 mmol/L
+  2022-03-29 : Sodium                                   138.9 mmol/L
+  2022-03-29 : Calcium                                  9.9 mg/dL
+  2022-03-29 : Creatinine                               2.3 mg/dL
+  2022-03-29 : Urea Nitrogen                            8.3 mg/dL
+  2022-03-29 : Glucose                                  97.4 mg/dL
+  2022-03-29 : Respiratory rate                         15.0 /min
+  2022-03-29 : Heart rate                               76.0 /min
+  2022-03-29 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  95.0 mm[Hg]
+  2022-03-29 : Body Mass Index                          28.1 kg/m2
+  2022-03-29 : Body Weight                              101.5 kg
+  2022-03-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2022-03-29 : Body Height                              190.2 cm
+  2022-02-22 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2022-02-22 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 148230 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Otherwise unemployed but not seeking work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             868 Bashirian Port 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2022-02-22 : Hemoglobin A1c/Hemoglobin.total in Blood 4.0 %
+  2022-02-22 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2022-02-22 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2022-02-22 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2022-02-22 : Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+  2022-02-22 : Protein [Mass/volume] in Urine by Test strip 229.9 mg/dL
+  2022-02-22 : pH of Urine by Test strip                5.7 pH
+  2022-02-22 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2022-02-22 : Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+  2022-02-22 : Ketones [Mass/volume] in Urine by Test strip 7.2 mg/dL
+  2022-02-22 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2022-02-22 : Bilirubin.total [Mass/volume] in Urine by Test strip 0.5 mg/dL
+  2022-02-22 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2022-02-22 : Glucose [Mass/volume] in Urine by Test strip 1.4 mg/dL
+  2022-02-22 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2022-02-22 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2022-02-22 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2022-02-22 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2022-02-22 : Glomerular filtration rate/1.73 sq M.predicted 71.6 mL/min
+  2022-02-22 : Carbon Dioxide                           20.4 mmol/L
+  2022-02-22 : Chloride                                 104.2 mmol/L
+  2022-02-22 : Potassium                                5.1 mmol/L
+  2022-02-22 : Sodium                                   137.7 mmol/L
+  2022-02-22 : Calcium                                  9.3 mg/dL
+  2022-02-22 : Creatinine                               1.9 mg/dL
+  2022-02-22 : Urea Nitrogen                            10.5 mg/dL
+  2022-02-22 : Glucose                                  85.9 mg/dL
+  2022-02-22 : Tobacco smoking status                   Ex-smoker (finding) 
+  2022-02-22 : Carbon Dioxide                           20.4 mmol/L
+  2022-02-22 : Chloride                                 104.2 mmol/L
+  2022-02-22 : Potassium                                5.1 mmol/L
+  2022-02-22 : Sodium                                   137.7 mmol/L
+  2022-02-22 : Calcium                                  9.3 mg/dL
+  2022-02-22 : Creatinine                               3.5 mg/dL
+  2022-02-22 : Urea Nitrogen                            10.5 mg/dL
+  2022-02-22 : Glucose                                  85.9 mg/dL
+  2022-02-22 : Respiratory rate                         14.0 /min
+  2022-02-22 : Heart rate                               98.0 /min
+  2022-02-22 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  88.0 mm[Hg]
+  2022-02-22 : Body Mass Index                          28.0 kg/m2
+  2022-02-22 : Body Weight                              101.3 kg
+  2022-02-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2022-02-22 : Body Height                              190.2 cm
+  2022-02-01 : Total score [DAST-10]                    1.0 {score}
+  2022-02-01 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-02-01 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2022-02-01 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? No 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 148230 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             868 Bashirian Port 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I choose not to answer this question 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2022-02-01 : Hemoglobin A1c/Hemoglobin.total in Blood 4.0 %
+  2022-02-01 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2022-02-01 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2022-02-01 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2022-02-01 : Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+  2022-02-01 : Protein [Mass/volume] in Urine by Test strip 208.2 mg/dL
+  2022-02-01 : pH of Urine by Test strip                5.6 pH
+  2022-02-01 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2022-02-01 : Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+  2022-02-01 : Ketones [Mass/volume] in Urine by Test strip 19.3 mg/dL
+  2022-02-01 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2022-02-01 : Bilirubin.total [Mass/volume] in Urine by Test strip 0.8 mg/dL
+  2022-02-01 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2022-02-01 : Glucose [Mass/volume] in Urine by Test strip 2.1 mg/dL
+  2022-02-01 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2022-02-01 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2022-02-01 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2022-02-01 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2022-02-01 : Glomerular filtration rate/1.73 sq M.predicted 66.5 mL/min
+  2022-02-01 : Carbon Dioxide                           24.0 mmol/L
+  2022-02-01 : Chloride                                 106.6 mmol/L
+  2022-02-01 : Potassium                                4.9 mmol/L
+  2022-02-01 : Sodium                                   138.3 mmol/L
+  2022-02-01 : Calcium                                  9.8 mg/dL
+  2022-02-01 : Creatinine                               2.1 mg/dL
+  2022-02-01 : Urea Nitrogen                            18.4 mg/dL
+  2022-02-01 : Glucose                                  88.8 mg/dL
+  2022-02-01 : Tobacco smoking status                   Ex-smoker (finding) 
+  2022-02-01 : Carbon Dioxide                           24.0 mmol/L
+  2022-02-01 : Chloride                                 106.6 mmol/L
+  2022-02-01 : Potassium                                4.9 mmol/L
+  2022-02-01 : Sodium                                   138.3 mmol/L
+  2022-02-01 : Calcium                                  9.8 mg/dL
+  2022-02-01 : Creatinine                               2.7 mg/dL
+  2022-02-01 : Urea Nitrogen                            18.4 mg/dL
+  2022-02-01 : Glucose                                  88.8 mg/dL
+  2022-02-01 : Respiratory rate                         12.0 /min
+  2022-02-01 : Heart rate                               66.0 /min
+  2022-02-01 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  92.0 mm[Hg]
+  2022-02-01 : Body Mass Index                          28.0 kg/m2
+  2022-02-01 : Body Weight                              101.1 kg
+  2022-02-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2022-02-01 : Body Height                              190.2 cm
+  2021-12-28 : Total score [AUDIT-C]                    2.0 {score}
+  2021-12-28 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2021-12-28 : Total score [HARK]                       0.0 {score}
+  2021-12-28 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Very much 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 148230 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             868 Bashirian Port 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-12-28 : Hemoglobin A1c/Hemoglobin.total in Blood 4.0 %
+  2021-12-28 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2021-12-28 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2021-12-28 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2021-12-28 : Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+  2021-12-28 : Protein [Mass/volume] in Urine by Test strip 262.3 mg/dL
+  2021-12-28 : pH of Urine by Test strip                6.5 pH
+  2021-12-28 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2021-12-28 : Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+  2021-12-28 : Ketones [Mass/volume] in Urine by Test strip 1.4 mg/dL
+  2021-12-28 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2021-12-28 : Bilirubin.total [Mass/volume] in Urine by Test strip 1.4 mg/dL
+  2021-12-28 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2021-12-28 : Glucose [Mass/volume] in Urine by Test strip 2.0 mg/dL
+  2021-12-28 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2021-12-28 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2021-12-28 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2021-12-28 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2021-12-28 : Glomerular filtration rate/1.73 sq M.predicted 68.6 mL/min
+  2021-12-28 : Carbon Dioxide                           26.0 mmol/L
+  2021-12-28 : Chloride                                 106.9 mmol/L
+  2021-12-28 : Potassium                                4.2 mmol/L
+  2021-12-28 : Sodium                                   141.7 mmol/L
+  2021-12-28 : Calcium                                  9.7 mg/dL
+  2021-12-28 : Creatinine                               1.9 mg/dL
+  2021-12-28 : Urea Nitrogen                            19.5 mg/dL
+  2021-12-28 : Glucose                                  74.0 mg/dL
+  2021-12-28 : Tobacco smoking status                   Ex-smoker (finding) 
+  2021-12-28 : Carbon Dioxide                           26.0 mmol/L
+  2021-12-28 : Chloride                                 106.9 mmol/L
+  2021-12-28 : Potassium                                4.2 mmol/L
+  2021-12-28 : Sodium                                   141.7 mmol/L
+  2021-12-28 : Calcium                                  9.7 mg/dL
+  2021-12-28 : Creatinine                               4.0 mg/dL
+  2021-12-28 : Urea Nitrogen                            19.5 mg/dL
+  2021-12-28 : Glucose                                  74.0 mg/dL
+  2021-12-28 : Respiratory rate                         13.0 /min
+  2021-12-28 : Heart rate                               67.0 /min
+  2021-12-28 : Blood Pressure
+           - Diastolic Blood Pressure                 70.0 mm[Hg]
+           - Systolic Blood Pressure                  98.0 mm[Hg]
+  2021-12-28 : Body Mass Index                          27.9 kg/m2
+  2021-12-28 : Body Weight                              100.9 kg
+  2021-12-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2021-12-28 : Body Height                              190.2 cm
+  2021-11-30 : Total score [DAST-10]                    2.0 {score}
+  2021-11-30 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Quite a bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 148230 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             868 Bashirian Port 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-11-30 : Hemoglobin A1c/Hemoglobin.total in Blood 4.0 %
+  2021-11-30 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2021-11-30 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2021-11-30 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2021-11-30 : Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+  2021-11-30 : Protein [Mass/volume] in Urine by Test strip 257.3 mg/dL
+  2021-11-30 : pH of Urine by Test strip                5.2 pH
+  2021-11-30 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2021-11-30 : Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+  2021-11-30 : Ketones [Mass/volume] in Urine by Test strip 11.2 mg/dL
+  2021-11-30 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2021-11-30 : Bilirubin.total [Mass/volume] in Urine by Test strip 0.8 mg/dL
+  2021-11-30 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2021-11-30 : Glucose [Mass/volume] in Urine by Test strip 1.2 mg/dL
+  2021-11-30 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2021-11-30 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2021-11-30 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2021-11-30 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2021-11-30 : Glomerular filtration rate/1.73 sq M.predicted 64.0 mL/min
+  2021-11-30 : Carbon Dioxide                           20.9 mmol/L
+  2021-11-30 : Chloride                                 107.5 mmol/L
+  2021-11-30 : Potassium                                4.2 mmol/L
+  2021-11-30 : Sodium                                   137.7 mmol/L
+  2021-11-30 : Calcium                                  9.7 mg/dL
+  2021-11-30 : Creatinine                               2.0 mg/dL
+  2021-11-30 : Urea Nitrogen                            7.8 mg/dL
+  2021-11-30 : Glucose                                  97.0 mg/dL
+  2021-11-30 : Tobacco smoking status                   Ex-smoker (finding) 
+  2021-11-30 : Carbon Dioxide                           20.9 mmol/L
+  2021-11-30 : Chloride                                 107.5 mmol/L
+  2021-11-30 : Potassium                                4.2 mmol/L
+  2021-11-30 : Sodium                                   137.7 mmol/L
+  2021-11-30 : Calcium                                  9.7 mg/dL
+  2021-11-30 : Creatinine                               3.3 mg/dL
+  2021-11-30 : Urea Nitrogen                            7.8 mg/dL
+  2021-11-30 : Glucose                                  97.0 mg/dL
+  2021-11-30 : Respiratory rate                         16.0 /min
+  2021-11-30 : Heart rate                               76.0 /min
+  2021-11-30 : Blood Pressure
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  94.0 mm[Hg]
+  2021-11-30 : Body Mass Index                          27.8 kg/m2
+  2021-11-30 : Body Weight                              100.6 kg
+  2021-11-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2021-11-30 : Body Height                              190.2 cm
+  2021-07-06 : Total score [AUDIT-C]                    2.0 {score}
+  2021-07-06 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2021-07-06 : Total score [HARK]                       0.0 {score}
+  2021-07-06 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2021-07-06 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 148230 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             868 Bashirian Port 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-07-06 : Hemoglobin A1c/Hemoglobin.total in Blood 3.9 %
+  2021-07-06 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2021-07-06 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2021-07-06 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2021-07-06 : Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+  2021-07-06 : Protein [Mass/volume] in Urine by Test strip 334.0 mg/dL
+  2021-07-06 : pH of Urine by Test strip                5.3 pH
+  2021-07-06 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2021-07-06 : Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+  2021-07-06 : Ketones [Mass/volume] in Urine by Test strip 5.9 mg/dL
+  2021-07-06 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2021-07-06 : Bilirubin.total [Mass/volume] in Urine by Test strip 0.3 mg/dL
+  2021-07-06 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2021-07-06 : Glucose [Mass/volume] in Urine by Test strip 0.7 mg/dL
+  2021-07-06 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2021-07-06 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2021-07-06 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2021-07-06 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2021-07-06 : Glomerular filtration rate/1.73 sq M.predicted 74.7 mL/min
+  2021-07-06 : Carbon Dioxide                           22.4 mmol/L
+  2021-07-06 : Chloride                                 107.9 mmol/L
+  2021-07-06 : Potassium                                4.3 mmol/L
+  2021-07-06 : Sodium                                   139.7 mmol/L
+  2021-07-06 : Calcium                                  10.1 mg/dL
+  2021-07-06 : Creatinine                               1.8 mg/dL
+  2021-07-06 : Urea Nitrogen                            15.7 mg/dL
+  2021-07-06 : Glucose                                  64.6 mg/dL
+  2021-07-06 : Tobacco smoking status                   Ex-smoker (finding) 
+  2021-07-06 : Carbon Dioxide                           22.4 mmol/L
+  2021-07-06 : Chloride                                 107.9 mmol/L
+  2021-07-06 : Potassium                                4.3 mmol/L
+  2021-07-06 : Sodium                                   139.7 mmol/L
+  2021-07-06 : Calcium                                  10.1 mg/dL
+  2021-07-06 : Creatinine                               2.2 mg/dL
+  2021-07-06 : Urea Nitrogen                            15.7 mg/dL
+  2021-07-06 : Glucose                                  64.6 mg/dL
+  2021-07-06 : Respiratory rate                         14.0 /min
+  2021-07-06 : Heart rate                               89.0 /min
+  2021-07-06 : Blood Pressure
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  99.0 mm[Hg]
+  2021-07-06 : Body Mass Index                          27.5 kg/m2
+  2021-07-06 : Body Weight                              99.6 kg
+  2021-07-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2021-07-06 : Body Height                              190.2 cm
+  2021-06-22 : Total score [AUDIT-C]                    2.0 {score}
+  2021-06-22 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-06-22 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2021-06-22 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 1 or 2 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 148230 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             868 Bashirian Port 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-06-22 : Hemoglobin A1c/Hemoglobin.total in Blood 3.9 %
+  2021-06-22 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2021-06-22 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2021-06-22 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2021-06-22 : Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+  2021-06-22 : Protein [Mass/volume] in Urine by Test strip 284.0 mg/dL
+  2021-06-22 : pH of Urine by Test strip                5.2 pH
+  2021-06-22 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2021-06-22 : Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+  2021-06-22 : Ketones [Mass/volume] in Urine by Test strip 4.1 mg/dL
+  2021-06-22 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2021-06-22 : Bilirubin.total [Mass/volume] in Urine by Test strip 0.2 mg/dL
+  2021-06-22 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2021-06-22 : Glucose [Mass/volume] in Urine by Test strip 1.8 mg/dL
+  2021-06-22 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2021-06-22 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2021-06-22 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2021-06-22 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2021-06-22 : Glomerular filtration rate/1.73 sq M.predicted 68.0 mL/min
+  2021-06-22 : Carbon Dioxide                           26.4 mmol/L
+  2021-06-22 : Chloride                                 104.8 mmol/L
+  2021-06-22 : Potassium                                4.2 mmol/L
+  2021-06-22 : Sodium                                   140.1 mmol/L
+  2021-06-22 : Calcium                                  9.4 mg/dL
+  2021-06-22 : Creatinine                               2.1 mg/dL
+  2021-06-22 : Urea Nitrogen                            10.9 mg/dL
+  2021-06-22 : Glucose                                  70.5 mg/dL
+  2021-06-22 : Tobacco smoking status                   Ex-smoker (finding) 
+  2021-06-22 : Carbon Dioxide                           26.4 mmol/L
+  2021-06-22 : Chloride                                 104.8 mmol/L
+  2021-06-22 : Potassium                                4.2 mmol/L
+  2021-06-22 : Sodium                                   140.1 mmol/L
+  2021-06-22 : Calcium                                  9.4 mg/dL
+  2021-06-22 : Creatinine                               2.5 mg/dL
+  2021-06-22 : Urea Nitrogen                            10.9 mg/dL
+  2021-06-22 : Glucose                                  70.5 mg/dL
+  2021-06-22 : Respiratory rate                         13.0 /min
+  2021-06-22 : Heart rate                               65.0 /min
+  2021-06-22 : Blood Pressure
+           - Diastolic Blood Pressure                 61.0 mm[Hg]
+           - Systolic Blood Pressure                  93.0 mm[Hg]
+  2021-06-22 : Body Mass Index                          27.5 kg/m2
+  2021-06-22 : Body Weight                              99.5 kg
+  2021-06-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2021-06-22 : Body Height                              190.2 cm
+  2021-05-25 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2021-05-25 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2021-05-25 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 148230 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             868 Bashirian Port 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-05-25 : Hemoglobin A1c/Hemoglobin.total in Blood 3.9 %
+  2021-05-25 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2021-05-25 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2021-05-25 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2021-05-25 : Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+  2021-05-25 : Protein [Mass/volume] in Urine by Test strip 242.5 mg/dL
+  2021-05-25 : pH of Urine by Test strip                5.5 pH
+  2021-05-25 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2021-05-25 : Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+  2021-05-25 : Ketones [Mass/volume] in Urine by Test strip 6.9 mg/dL
+  2021-05-25 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2021-05-25 : Bilirubin.total [Mass/volume] in Urine by Test strip 1.4 mg/dL
+  2021-05-25 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2021-05-25 : Glucose [Mass/volume] in Urine by Test strip 1.0 mg/dL
+  2021-05-25 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2021-05-25 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2021-05-25 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2021-05-25 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2021-05-25 : Glomerular filtration rate/1.73 sq M.predicted 69.2 mL/min
+  2021-05-25 : Carbon Dioxide                           22.5 mmol/L
+  2021-05-25 : Chloride                                 106.8 mmol/L
+  2021-05-25 : Potassium                                4.3 mmol/L
+  2021-05-25 : Sodium                                   143.1 mmol/L
+  2021-05-25 : Calcium                                  8.8 mg/dL
+  2021-05-25 : Creatinine                               2.1 mg/dL
+  2021-05-25 : Urea Nitrogen                            19.2 mg/dL
+  2021-05-25 : Glucose                                  88.7 mg/dL
+  2021-05-25 : Tobacco smoking status                   Ex-smoker (finding) 
+  2021-05-25 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+  2021-05-25 : Platelet distribution width [Entitic volume] in Blood by Automated count 501.8 fL
+  2021-05-25 : Platelets [#/volume] in Blood by Automated count 185.6 10*3/uL
+  2021-05-25 : Erythrocyte distribution width [Entitic volume] by Automated count 40.8 fL
+  2021-05-25 : MCHC [Mass/volume] by Automated count    35.6 g/dL
+  2021-05-25 : MCH [Entitic mass] by Automated count    29.1 pg
+  2021-05-25 : MCV [Entitic volume] by Automated count  91.9 fL
+  2021-05-25 : Hematocrit [Volume Fraction] of Blood by Automated count 37.5 %
+  2021-05-25 : Hemoglobin [Mass/volume] in Blood        13.5 g/dL
+  2021-05-25 : Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+  2021-05-25 : Leukocytes [#/volume] in Blood by Automated count 4.1 10*3/uL
+  2021-05-25 : Carbon Dioxide                           22.5 mmol/L
+  2021-05-25 : Chloride                                 106.8 mmol/L
+  2021-05-25 : Potassium                                4.3 mmol/L
+  2021-05-25 : Sodium                                   143.1 mmol/L
+  2021-05-25 : Calcium                                  8.8 mg/dL
+  2021-05-25 : Creatinine                               3.8 mg/dL
+  2021-05-25 : Urea Nitrogen                            19.2 mg/dL
+  2021-05-25 : Glucose                                  88.7 mg/dL
+  2021-05-25 : Respiratory rate                         15.0 /min
+  2021-05-25 : Heart rate                               64.0 /min
+  2021-05-25 : Blood Pressure
+           - Diastolic Blood Pressure                 68.0 mm[Hg]
+           - Systolic Blood Pressure                  97.0 mm[Hg]
+  2021-05-25 : Body Mass Index                          27.4 kg/m2
+  2021-05-25 : Body Weight                              99.3 kg
+  2021-05-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2021-05-25 : Body Height                              190.2 cm
+  2021-03-30 : Total score [DAST-10]                    1.0 {score}
+  2021-03-30 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-03-30 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2021-03-30 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 148230 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             868 Bashirian Port 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-03-30 : Hemoglobin A1c/Hemoglobin.total in Blood 3.8 %
+  2021-03-30 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2021-03-30 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2021-03-30 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2021-03-30 : Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+  2021-03-30 : Protein [Mass/volume] in Urine by Test strip 257.7 mg/dL
+  2021-03-30 : pH of Urine by Test strip                6.1 pH
+  2021-03-30 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2021-03-30 : Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+  2021-03-30 : Ketones [Mass/volume] in Urine by Test strip 3.6 mg/dL
+  2021-03-30 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2021-03-30 : Bilirubin.total [Mass/volume] in Urine by Test strip 0.3 mg/dL
+  2021-03-30 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2021-03-30 : Glucose [Mass/volume] in Urine by Test strip 2.1 mg/dL
+  2021-03-30 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2021-03-30 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2021-03-30 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2021-03-30 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2021-03-30 : Glomerular filtration rate/1.73 sq M.predicted 88.2 mL/min
+  2021-03-30 : Carbon Dioxide                           21.6 mmol/L
+  2021-03-30 : Chloride                                 104.9 mmol/L
+  2021-03-30 : Potassium                                3.9 mmol/L
+  2021-03-30 : Sodium                                   141.8 mmol/L
+  2021-03-30 : Calcium                                  9.5 mg/dL
+  2021-03-30 : Creatinine                               2.0 mg/dL
+  2021-03-30 : Urea Nitrogen                            12.2 mg/dL
+  2021-03-30 : Glucose                                  88.9 mg/dL
+  2021-03-30 : Tobacco smoking status                   Ex-smoker (finding) 
+  2021-03-30 : Carbon Dioxide                           21.6 mmol/L
+  2021-03-30 : Chloride                                 104.9 mmol/L
+  2021-03-30 : Potassium                                3.9 mmol/L
+  2021-03-30 : Sodium                                   141.8 mmol/L
+  2021-03-30 : Calcium                                  9.5 mg/dL
+  2021-03-30 : Creatinine                               2.8 mg/dL
+  2021-03-30 : Urea Nitrogen                            12.2 mg/dL
+  2021-03-30 : Glucose                                  88.9 mg/dL
+  2021-03-30 : Respiratory rate                         13.0 /min
+  2021-03-30 : Heart rate                               68.0 /min
+  2021-03-30 : Blood Pressure
+           - Diastolic Blood Pressure                 69.0 mm[Hg]
+           - Systolic Blood Pressure                  90.0 mm[Hg]
+  2021-03-30 : Body Mass Index                          27.3 kg/m2
+  2021-03-30 : Body Weight                              98.9 kg
+  2021-03-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2021-03-30 : Body Height                              190.2 cm
+  2021-02-02 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-02-02 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 1 or 2 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 148230 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             868 Bashirian Port 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-02-02 : Hemoglobin A1c/Hemoglobin.total in Blood 3.8 %
+  2021-02-02 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2021-02-02 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2021-02-02 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2021-02-02 : Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+  2021-02-02 : Protein [Mass/volume] in Urine by Test strip 318.9 mg/dL
+  2021-02-02 : pH of Urine by Test strip                6.2 pH
+  2021-02-02 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2021-02-02 : Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+  2021-02-02 : Ketones [Mass/volume] in Urine by Test strip 15.4 mg/dL
+  2021-02-02 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2021-02-02 : Bilirubin.total [Mass/volume] in Urine by Test strip 0.7 mg/dL
+  2021-02-02 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2021-02-02 : Glucose [Mass/volume] in Urine by Test strip 1.6 mg/dL
+  2021-02-02 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2021-02-02 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2021-02-02 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2021-02-02 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2021-02-02 : Glomerular filtration rate/1.73 sq M.predicted 68.1 mL/min
+  2021-02-02 : Carbon Dioxide                           22.0 mmol/L
+  2021-02-02 : Chloride                                 107.0 mmol/L
+  2021-02-02 : Potassium                                3.9 mmol/L
+  2021-02-02 : Sodium                                   136.3 mmol/L
+  2021-02-02 : Calcium                                  9.1 mg/dL
+  2021-02-02 : Creatinine                               1.8 mg/dL
+  2021-02-02 : Urea Nitrogen                            12.3 mg/dL
+  2021-02-02 : Glucose                                  69.7 mg/dL
+  2021-02-02 : Tobacco smoking status                   Ex-smoker (finding) 
+  2021-02-02 : Carbon Dioxide                           22.0 mmol/L
+  2021-02-02 : Chloride                                 107.0 mmol/L
+  2021-02-02 : Potassium                                3.9 mmol/L
+  2021-02-02 : Sodium                                   136.3 mmol/L
+  2021-02-02 : Calcium                                  9.1 mg/dL
+  2021-02-02 : Creatinine                               3.9 mg/dL
+  2021-02-02 : Urea Nitrogen                            12.3 mg/dL
+  2021-02-02 : Glucose                                  69.7 mg/dL
+  2021-02-02 : Respiratory rate                         15.0 /min
+  2021-02-02 : Heart rate                               68.0 /min
+  2021-02-02 : Blood Pressure
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  96.0 mm[Hg]
+  2021-02-02 : Body Mass Index                          27.2 kg/m2
+  2021-02-02 : Body Weight                              98.5 kg
+  2021-02-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2021-02-02 : Body Height                              190.2 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-09-20 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2022-09-20 : Assessment of substance use (procedure)
+  2022-09-20 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2022-09-20 : Depression screening (procedure)
+  2022-09-20 : Screening for domestic abuse (procedure)
+  2022-09-20 : Assessment of anxiety (procedure)
+  2022-09-20 : Assessment of health and social care needs (procedure)
+  2022-08-23 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2022-08-23 : Assessment of substance use (procedure)
+  2022-08-23 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2022-08-23 : Depression screening (procedure)
+  2022-08-23 : Assessment of anxiety (procedure)
+  2022-08-23 : Assessment of health and social care needs (procedure)
+  2022-07-19 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2022-07-19 : Assessment of substance use (procedure)
+  2022-07-19 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2022-07-19 : Depression screening (procedure)
+  2022-07-19 : Medication Reconciliation (procedure)
+  2022-07-19 : Assessment of health and social care needs (procedure)
+  2022-07-05 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2022-07-05 : Depression screening (procedure)
+  2022-07-05 : Medication Reconciliation (procedure)
+  2022-07-05 : Assessment of health and social care needs (procedure)
+  2022-06-21 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2022-06-21 : Assessment of substance use (procedure)
+  2022-06-21 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2022-06-21 : Depression screening (procedure)
+  2022-06-21 : Assessment of anxiety (procedure)
+  2022-06-21 : Assessment of health and social care needs (procedure)
+  2022-03-29 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2022-03-29 : Assessment of substance use (procedure)
+  2022-03-29 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2022-03-29 : Depression screening (procedure)
+  2022-03-29 : Assessment of anxiety (procedure)
+  2022-03-29 : Medication Reconciliation (procedure)
+  2022-03-29 : Assessment of health and social care needs (procedure)
+  2022-02-22 : Assessment of anxiety (procedure)
+  2022-02-22 : Medication Reconciliation (procedure)
+  2022-02-22 : Assessment of health and social care needs (procedure)
+  2022-02-01 : Screening for drug abuse (procedure)
+  2022-02-01 : Assessment of substance use (procedure)
+  2022-02-01 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2022-02-01 : Depression screening (procedure)
+  2022-02-01 : Assessment of anxiety (procedure)
+  2022-02-01 : Medication Reconciliation (procedure)
+  2022-02-01 : Assessment of health and social care needs (procedure)
+  2021-12-28 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2021-12-28 : Assessment of substance use (procedure)
+  2021-12-28 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-12-28 : Depression screening (procedure)
+  2021-12-28 : Screening for domestic abuse (procedure)
+  2021-12-28 : Medication Reconciliation (procedure)
+  2021-12-28 : Assessment of health and social care needs (procedure)
+  2021-11-30 : Screening for drug abuse (procedure)
+  2021-11-30 : Assessment of substance use (procedure)
+  2021-11-30 : Medication Reconciliation (procedure)
+  2021-11-30 : Assessment of health and social care needs (procedure)
+  2021-07-06 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2021-07-06 : Assessment of substance use (procedure)
+  2021-07-06 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-07-06 : Depression screening (procedure)
+  2021-07-06 : Screening for domestic abuse (procedure)
+  2021-07-06 : Assessment of anxiety (procedure)
+  2021-07-06 : Assessment of health and social care needs (procedure)
+  2021-06-22 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2021-06-22 : Assessment of substance use (procedure)
+  2021-06-22 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-06-22 : Depression screening (procedure)
+  2021-06-22 : Assessment of anxiety (procedure)
+  2021-06-22 : Medication Reconciliation (procedure)
+  2021-06-22 : Assessment of health and social care needs (procedure)
+  2021-05-25 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-05-25 : Depression screening (procedure)
+  2021-05-25 : Assessment of anxiety (procedure)
+  2021-05-25 : Assessment of health and social care needs (procedure)
+  2021-03-30 : Screening for drug abuse (procedure)
+  2021-03-30 : Assessment of substance use (procedure)
+  2021-03-30 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-03-30 : Depression screening (procedure)
+  2021-03-30 : Assessment of anxiety (procedure)
+  2021-03-30 : Medication Reconciliation (procedure)
+  2021-03-30 : Assessment of health and social care needs (procedure)
+  2021-02-02 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-02-02 : Depression screening (procedure)
+  2021-02-02 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-06-21 : Influenza, seasonal, injectable, preservative free
+  2021-08-17 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-07-27 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-06-22 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-09-20 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2022-08-23 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2022-07-19 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2022-07-05 (Dr. Jerrell Breitenberg) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2022-06-21 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2022-05-24 (Dr. Anderson Lemke) : Encounter at SOUTH SHORE PRIMARY AND URGENT CARE LLC
+2022-03-29 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2022-02-22 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2022-02-01 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2022-01-25 (Dr. Anderson Lemke) : Encounter at SOUTH SHORE PRIMARY AND URGENT CARE LLC
+2021-12-28 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2021-11-30 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2021-09-28 (Dr. Anderson Lemke) : Encounter at SOUTH SHORE PRIMARY AND URGENT CARE LLC
+2021-08-31 (Dr. Anderson Lemke) : Encounter at SOUTH SHORE PRIMARY AND URGENT CARE LLC
+2021-08-17 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2021-07-27 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2021-07-27 (Dr. Anderson Lemke) : Encounter at SOUTH SHORE PRIMARY AND URGENT CARE LLC
+2021-07-06 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2021-06-22 (Dr. Jerrell Breitenberg) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2021-06-08 (Dr. Anderson Lemke) : Encounter at SOUTH SHORE PRIMARY AND URGENT CARE LLC
+2021-05-25 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2021-05-04 (Dr. Anderson Lemke) : Encounter at SOUTH SHORE PRIMARY AND URGENT CARE LLC
+2021-03-30 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2021-02-02 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2020-12-29 (Dr. Anderson Lemke) : Encounter at SOUTH SHORE PRIMARY AND URGENT CARE LLC
+2020-11-03 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2020-10-06 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2020-07-07 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2020-06-16 (Dr. Jerrell Breitenberg) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2020-06-02 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2020-05-05 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2020-03-17 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2020-03-03 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2020-02-04 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2019-12-10 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2019-09-10 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2019-08-20 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2019-07-09 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2019-06-11 (Dr. Jerrell Breitenberg) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2019-04-16 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2019-03-12 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2019-01-15 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2018-12-11 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2018-07-17 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2018-06-05 (Dr. Jerrell Breitenberg) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2018-03-20 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2018-02-13 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2018-01-16 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2017-12-12 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2017-08-22 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2017-07-18 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2017-05-30 (Dr. Jerrell Breitenberg) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2017-05-16 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2017-01-24 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2016-05-24 (Dr. Jerrell Breitenberg) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2016-02-23 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2015-10-27 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2015-09-01 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2015-05-19 (Dr. Jerrell Breitenberg) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2015-04-21 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2015-03-24 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2015-01-13 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2014-12-30 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2014-09-02 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2014-05-13 (Dr. Jerrell Breitenberg) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2014-03-30 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2014-02-06 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2013-05-07 (Dr. Jerrell Breitenberg) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2012-05-01 (Dr. Jerrell Breitenberg) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2011-04-26 (Dr. Jerrell Breitenberg) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2010-09-28 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2010-04-20 (Dr. Jerrell Breitenberg) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2009-04-14 (Dr. Jerrell Breitenberg) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2008-04-08 (Dr. Jerrell Breitenberg) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2008-01-08 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2007-03-30 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC : Encounter for Acute bronchitis (disorder)
+2007-04-03 (Dr. Jerrell Breitenberg) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2006-03-28 (Dr. Jerrell Breitenberg) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2005-03-22 (Dr. Jerrell Breitenberg) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2004-04-27 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2004-03-16 (Dr. Jerrell Breitenberg) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2003-11-04 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2003-03-11 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC : Encounter for Anemia (disorder)
+2003-03-11 (Dr. Jerrell Breitenberg) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2002-03-05 (Dr. Jerrell Breitenberg) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2001-02-27 (Dr. Jerrell Breitenberg) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+2000-02-21 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+1999-03-18 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC : Encounter for Hypertension
+1999-02-16 (Dr. Jerrell Breitenberg) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+1998-01-28 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+1998-01-14 (Dr. Bea Daniel) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+1992-02-04 (Dr. Jerrell Breitenberg) : Encounter at MARTHA'S VINEYARD HOSPITAL INC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

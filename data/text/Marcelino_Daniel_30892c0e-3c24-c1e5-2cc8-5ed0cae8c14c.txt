@@ -1,0 +1,203 @@
+Marcelino Daniel
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 20
+Birth Date:          2002-01-05
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2022-03-12[CURRENT] : buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet for Opioid abuse (disorder)
+  2021-03-06[STOPPED] : buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet for Opioid abuse (disorder)
+  2021-03-06[STOPPED] : buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet for Opioid abuse (disorder)
+  2020-08-08[STOPPED] : buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet for Opioid abuse (disorder)
+  2020-02-29[STOPPED] : buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet for Opioid abuse (disorder)
+  2020-02-19[STOPPED] : buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet for Opioid abuse (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-03-12 -            : Limited social contact (finding)
+  2022-03-12 -            : Full-time employment (finding)
+  2021-03-06 - 2022-03-12 : Stress (finding)
+  2021-03-06 - 2022-03-12 : Full-time employment (finding)
+  2021-03-06 -            : Anemia (disorder)
+  2021-03-06 -            : Prediabetes
+  2020-08-08 - 2021-03-06 : Victim of intimate partner abuse (finding)
+  2020-08-08 - 2021-03-06 : Full-time employment (finding)
+  2020-02-29 -            : Transport problems (finding)
+  2020-02-29 -            : Received higher education (finding)
+  2020-02-19 -            : Opioid abuse (disorder)
+  2020-02-10 -            : Chronic neck pain (finding)
+  2020-02-10 -            : Chronic low back pain (finding)
+  2019-02-23 -            : Risk activity involvement (finding)
+  2014-01-25 - 2015-01-31 : Risk activity involvement (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2021-03-06[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-03-12 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-03-12 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 6.0 {score}
+  2022-03-12 : Basic Metabolic Panel
+           - Glucose                                  84.0 mg/dL
+           - Urea Nitrogen                            19.8 mg/dL
+           - Creatinine                               1.5 mg/dL
+           - Calcium                                  10.2 mg/dL
+           - Sodium                                   136.9 mmol/L
+           - Potassium                                4.6 mmol/L
+           - Chloride                                 107.5 mmol/L
+           - Carbon Dioxide                           20.9 mmol/L
+  2021-03-06 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-03-06 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2021-03-06 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Hemoglobin [Mass/volume] in Blood        11.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood    30.9 %
+           - WBC Auto (Bld) [#/Vol]                   5.8 10*3/uL
+           - RBC Auto (Bld) [#/Vol]                   3.9 10*6/uL
+           - MCV [Entitic volume] by Automated count  84.3 fL
+           - MCH [Entitic mass] by Automated count    31.5 pg
+           - MCHC [Mass/volume] by Automated count    35.3 g/dL
+           - RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol] 39.6 fL
+           - Platelets [#/volume] in Blood by Automated count 339.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 411.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.6 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-03-12 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-03-12 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 6.0 {score}
+  2022-03-12 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 1 or 2 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? Yes, it has kept me from non-medical meetings, appointments, work, or from getting things that I need 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 36144 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             483 Green Park Unit 85 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2022-03-12 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+  2022-03-12 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-03-12 : Carbon Dioxide                           20.9 mmol/L
+  2022-03-12 : Chloride                                 107.5 mmol/L
+  2022-03-12 : Potassium                                4.6 mmol/L
+  2022-03-12 : Sodium                                   136.9 mmol/L
+  2022-03-12 : Calcium                                  10.2 mg/dL
+  2022-03-12 : Creatinine                               1.5 mg/dL
+  2022-03-12 : Urea Nitrogen                            19.8 mg/dL
+  2022-03-12 : Glucose                                  84.0 mg/dL
+  2022-03-12 : Respiratory rate                         12.0 /min
+  2022-03-12 : Heart rate                               77.0 /min
+  2022-03-12 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  105.0 mm[Hg]
+  2022-03-12 : Body Mass Index                          29.2 kg/m2
+  2022-03-12 : Body Weight                              89.5 kg
+  2022-03-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2022-03-12 : Body Height                              175.2 cm
+  2021-03-06 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-03-06 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2021-03-06 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? Yes, it has kept me from non-medical meetings, appointments, work, or from getting things that I need 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 36144 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             483 Green Park Unit 85 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-03-06 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.6 fL
+  2021-03-06 : Platelet distribution width [Entitic volume] in Blood by Automated count 411.5 fL
+  2021-03-06 : Platelets [#/volume] in Blood by Automated count 339.7 10*3/uL
+  2021-03-06 : RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol] 39.6 fL
+  2021-03-06 : MCHC [Mass/volume] by Automated count    35.3 g/dL
+  2021-03-06 : MCH [Entitic mass] by Automated count    31.5 pg
+  2021-03-06 : MCV [Entitic volume] by Automated count  84.3 fL
+  2021-03-06 : RBC Auto (Bld) [#/Vol]                   3.9 10*6/uL
+  2021-03-06 : WBC Auto (Bld) [#/Vol]                   5.8 10*3/uL
+  2021-03-06 : Hematocrit [Volume Fraction] of Blood    30.9 %
+  2021-03-06 : Hemoglobin [Mass/volume] in Blood        11.2 g/dL
+  2021-03-06 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2021-03-06 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-03-06 : Respiratory rate                         14.0 /min
+  2021-03-06 : Heart rate                               63.0 /min
+  2021-03-06 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  110.0 mm[Hg]
+  2021-03-06 : Body mass index (BMI) [Percentile] Per age and gender 92.4 %
+  2021-03-06 : Body Mass Index                          28.6 kg/m2
+  2021-03-06 : Body Weight                              87.5 kg
+  2021-03-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2021-03-06 : Body Height                              175.0 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-03-12 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2022-03-12 : Depression screening (procedure)
+  2022-03-12 : Assessment of anxiety (procedure)
+  2022-03-12 : Medication Reconciliation (procedure)
+  2022-03-12 : Assessment of health and social care needs (procedure)
+  2021-03-06 : Brief general examination (procedure)
+  2021-03-06 : Medication Reconciliation (procedure)
+  2021-03-06 : Review of systems (procedure)
+  2021-03-06 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-03-06 : Depression screening (procedure)
+  2021-03-06 : Assessment of anxiety (procedure)
+  2021-03-06 : Peripheral blood smear interpretation
+  2021-03-06 : Medication Reconciliation (procedure)
+  2021-03-06 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-03-12 : Hep B, adult
+  2022-03-12 : Influenza, seasonal, injectable, preservative free
+  2021-05-29 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-05-08 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-03-12 (Dr. Alex Satterfield) : Encounter at BEDFORD-LEXINGTON INTERNAL MEDICINE, PC
+2021-05-29 (Dr. Dewayne Lemke) : Encounter at MOUNT AUBURN HOSPITAL
+2021-05-08 (Dr. Dewayne Lemke) : Encounter at MOUNT AUBURN HOSPITAL
+2021-03-06 (Dr. Cristi Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Anemia (disorder)
+2021-03-06 (Dr. Alex Satterfield) : Encounter at BEDFORD-LEXINGTON INTERNAL MEDICINE, PC
+2020-08-01 (Dr. Cristi Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION
+2020-02-26 (Dr. Cristi Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION
+2020-02-19 (Dr. Cristi Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION
+2020-02-10 (Dr. Dewayne Lemke) : Encounter at MOUNT AUBURN HOSPITAL
+2019-02-23 (Dr. Alex Satterfield) : Encounter at BEDFORD-LEXINGTON INTERNAL MEDICINE, PC
+2014-01-25 (Dr. Alex Satterfield) : Encounter at BEDFORD-LEXINGTON INTERNAL MEDICINE, PC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

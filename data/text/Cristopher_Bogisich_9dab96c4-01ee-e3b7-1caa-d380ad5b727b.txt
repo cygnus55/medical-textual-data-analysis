@@ -1,0 +1,191 @@
+Cristopher Bogisich
+===================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 47
+Birth Date:          1975-02-05
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2017-04-01[STOPPED] : Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of knee
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-07-29 - 2022-09-18 : Fracture of rib
+  2021-02-24 -            : Stress (finding)
+  2021-02-03 - 2021-02-23 : COVID-19
+  2021-02-03 - 2021-02-03 : Suspected COVID-19
+  2021-02-03 - 2021-02-23 : Loss of taste (finding)
+  2021-02-03 - 2021-02-23 : Fever (finding)
+  2021-02-03 - 2021-02-23 : Joint pain (finding)
+  2021-02-03 - 2021-02-23 : Muscle pain (finding)
+  2021-02-03 - 2021-02-23 : Cough (finding)
+  2021-02-03 - 2021-02-23 : Headache (finding)
+  2017-04-01 -            : Osteoarthritis of knee
+  2015-02-11 -            : Body mass index 30+ - obesity (finding)
+  2012-04-25 - 2021-02-24 : Limited social contact (finding)
+  2009-04-22 -            : Anemia (disorder)
+  2002-12-23 -            : Tricuspid valve regurgitation (disorder)
+  2000-04-12 - 2009-04-22 : Stress (finding)
+  1994-04-06 -            : Prediabetes
+  1993-03-31 - 1997-04-09 : Stress (finding)
+  1993-03-31 -            : Unemployed (finding)
+  1993-03-31 -            : Received higher education (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2022-07-29[STOPPED] : Fracture care
+                         Reason: Fracture of rib
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+  2021-02-03[STOPPED] : Infectious disease care plan (record artifact)
+                         Activity: Airborne precautions (procedure)
+                         Activity: Isolation of infected patient (procedure)
+  2021-02-03[STOPPED] : Infectious disease care plan (record artifact)
+                         Activity: Airborne precautions (procedure)
+                         Activity: Personal protective equipment (physical object)
+  2017-04-01[CURRENT] : Musculoskeletal care
+                         Reason: Osteoarthritis of knee
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+  1994-04-06[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-02-24 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-02-24 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 49.1 %
+           - MCV [Entitic volume] by Automated count  93.9 fL
+           - MCH [Entitic mass] by Automated count    28.1 pg
+           - MCHC [Mass/volume] by Automated count    35.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.1 fL
+           - Platelets [#/volume] in Blood by Automated count 174.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 305.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.3 fL
+  2021-02-24 : Lipid Panel
+           - Total Cholesterol                        161.2 mg/dL
+           - Triglycerides                            119.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      76.9 mg/dL
+           - High Density Lipoprotein Cholesterol     60.3 mg/dL
+  2021-02-24 : Basic Metabolic Panel
+           - Glucose                                  85.9 mg/dL
+           - Urea Nitrogen                            18.2 mg/dL
+           - Creatinine                               1.1 mg/dL
+           - Calcium                                  10.0 mg/dL
+           - Sodium                                   142.1 mmol/L
+           - Potassium                                4.1 mmol/L
+           - Chloride                                 108.0 mmol/L
+           - Carbon Dioxide                           22.0 mmol/L
+  2021-02-03 : SARS-CoV-2 RNA Pnl Resp NAA+probe
+           - SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+  2021-02-03 : Influenza virus A and B Ag panel - Nasopharynx by Rapid immunoassay
+           - Influenza virus A Ag [Presence] in Nasopharynx by Rapid immunoassay Not detected (qualifier value) 
+           - Influenza virus B Ag [Presence] in Nasopharynx by Rapid immunoassay Not detected (qualifier value) 
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-02-24 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-02-24 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 288149 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Unemployed (finding) 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             471 Hirthe Village 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 5.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? I choose not to answer this question 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2021-02-24 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2021-02-24 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-02-24 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.3 fL
+  2021-02-24 : Platelet distribution width [Entitic volume] in Blood by Automated count 305.0 fL
+  2021-02-24 : Platelets [#/volume] in Blood by Automated count 174.1 10*3/uL
+  2021-02-24 : Erythrocyte distribution width [Entitic volume] by Automated count 39.1 fL
+  2021-02-24 : MCHC [Mass/volume] by Automated count    35.7 g/dL
+  2021-02-24 : MCH [Entitic mass] by Automated count    28.1 pg
+  2021-02-24 : MCV [Entitic volume] by Automated count  93.9 fL
+  2021-02-24 : Hematocrit [Volume Fraction] of Blood by Automated count 49.1 %
+  2021-02-24 : Hemoglobin [Mass/volume] in Blood        13.2 g/dL
+  2021-02-24 : Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+  2021-02-24 : Leukocytes [#/volume] in Blood by Automated count 8.2 10*3/uL
+  2021-02-24 : High Density Lipoprotein Cholesterol     60.3 mg/dL
+  2021-02-24 : Low Density Lipoprotein Cholesterol      76.9 mg/dL
+  2021-02-24 : Triglycerides                            119.9 mg/dL
+  2021-02-24 : Total Cholesterol                        161.2 mg/dL
+  2021-02-24 : Carbon Dioxide                           22.0 mmol/L
+  2021-02-24 : Chloride                                 108.0 mmol/L
+  2021-02-24 : Potassium                                4.1 mmol/L
+  2021-02-24 : Sodium                                   142.1 mmol/L
+  2021-02-24 : Calcium                                  10.0 mg/dL
+  2021-02-24 : Creatinine                               1.1 mg/dL
+  2021-02-24 : Urea Nitrogen                            18.2 mg/dL
+  2021-02-24 : Glucose                                  85.9 mg/dL
+  2021-02-24 : Respiratory rate                         15.0 /min
+  2021-02-24 : Heart rate                               90.0 /min
+  2021-02-24 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  2021-02-24 : Body Mass Index                          28.1 kg/m2
+  2021-02-24 : Body Weight                              81.2 kg
+  2021-02-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2021-02-24 : Body Height                              170.0 cm
+  2021-02-03 : SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+  2021-02-03 : Influenza virus B Ag [Presence] in Nasopharynx by Rapid immunoassay Not detected (qualifier value) 
+  2021-02-03 : Influenza virus A Ag [Presence] in Nasopharynx by Rapid immunoassay Not detected (qualifier value) 
+  2021-02-03 : Body Weight                              81.7 kg
+  2021-02-03 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  2021-02-03 : Oxygen saturation in Arterial blood      84.1 %
+  2021-02-03 : Heart rate                               86.7 /min
+  2021-02-03 : Respiratory rate                         31.8 /min
+  2021-02-03 : Body temperature                         41.0 Cel
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-07-29 : Bone immobilization for Fracture of rib
+  2022-07-29 : Chest X-ray
+  2021-02-24 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-02-24 : Depression screening (procedure)
+  2021-02-24 : Assessment of health and social care needs (procedure)
+  2021-02-03 : Face mask (physical object) for Suspected COVID-19
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-02-24 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-09-18 (Dr. Synthia Keebler) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Fracture of rib
+2022-07-29 (Dr. Nerissa Hahn) : Encounter at MEDFORD REHABILITATION AND NURSING CENTER
+2021-02-24 (Dr. Luther Schroeder) : Encounter at FAMILY PRACTICE GROUP PC
+2021-02-03 (Dr. Synthia Keebler) : Encounter at MOUNT AUBURN HOSPITAL
+2017-04-01 (Dr. Synthia Keebler) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Osteoarthritis of knee
+2015-02-11 (Dr. Luther Schroeder) : Encounter at FAMILY PRACTICE GROUP PC
+2012-04-25 (Dr. Luther Schroeder) : Encounter at FAMILY PRACTICE GROUP PC
+2009-04-22 (Dr. Luther Schroeder) : Encounter at FAMILY PRACTICE GROUP PC
+2002-12-23 (Dr. Gabriel Reilly) : Encounter at Fitchburg Outpatient Clinic : Encounter for Tricuspid valve regurgitation (disorder)
+2000-04-12 (Dr. Luther Schroeder) : Encounter at FAMILY PRACTICE GROUP PC
+1994-04-06 (Dr. Luther Schroeder) : Encounter at FAMILY PRACTICE GROUP PC
+1993-03-31 (Dr. Luther Schroeder) : Encounter at FAMILY PRACTICE GROUP PC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2022-07-29 : Digital Radiography, Chest
+  2002-12-23 : Ultrasound, Thoracic structure (body structure)
+--------------------------------------------------------------------------------

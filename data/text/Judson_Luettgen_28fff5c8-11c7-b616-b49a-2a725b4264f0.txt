@@ -1,0 +1,142 @@
+Judson Luettgen
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 23
+Birth Date:          1999-02-18
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2021-07-31 - 2021-08-19 : Viral sinusitis (disorder)
+  2021-04-22 -            : Full-time employment (finding)
+  2020-03-05 -            : Unhealthy alcohol drinking behavior (finding)
+  2020-03-05 - 2021-04-22 : Reports of violence in the environment (finding)
+  2020-03-05 - 2021-04-22 : Limited social contact (finding)
+  2020-03-05 - 2021-04-22 : Part-time employment (finding)
+  2018-04-19 -            : Prediabetes
+  2017-04-13 - 2018-04-19 : Full-time employment (finding)
+  2017-04-13 -            : Received certificate of high school equivalency (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2020-02-24[STOPPED] : Respiratory therapy
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2018-04-19[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-04-22 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+  2021-04-22 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-04-22 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 43.7 %
+           - MCV [Entitic volume] by Automated count  89.6 fL
+           - MCH [Entitic mass] by Automated count    32.4 pg
+           - MCHC [Mass/volume] by Automated count    34.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.1 fL
+           - Platelets [#/volume] in Blood by Automated count 216.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 440.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.1 fL
+  2021-04-22 : Basic Metabolic Panel
+           - Glucose                                  64.1 mg/dL
+           - Urea Nitrogen                            17.3 mg/dL
+           - Creatinine                               1.5 mg/dL
+           - Calcium                                  8.7 mg/dL
+           - Sodium                                   137.3 mmol/L
+           - Potassium                                4.4 mmol/L
+           - Chloride                                 107.5 mmol/L
+           - Carbon Dioxide                           23.5 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-04-22 : Total score [DAST-10]                    1.0 {score}
+  2021-04-22 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-04-22 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 48361 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             820 Wilderman Quay Apt 61 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-04-22 : Hemoglobin A1c/Hemoglobin.total in Blood 5.8 %
+  2021-04-22 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-04-22 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.1 fL
+  2021-04-22 : Platelet distribution width [Entitic volume] in Blood by Automated count 440.4 fL
+  2021-04-22 : Platelets [#/volume] in Blood by Automated count 216.6 10*3/uL
+  2021-04-22 : Erythrocyte distribution width [Entitic volume] by Automated count 41.1 fL
+  2021-04-22 : MCHC [Mass/volume] by Automated count    34.9 g/dL
+  2021-04-22 : MCH [Entitic mass] by Automated count    32.4 pg
+  2021-04-22 : MCV [Entitic volume] by Automated count  89.6 fL
+  2021-04-22 : Hematocrit [Volume Fraction] of Blood by Automated count 43.7 %
+  2021-04-22 : Hemoglobin [Mass/volume] in Blood        12.5 g/dL
+  2021-04-22 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  2021-04-22 : Leukocytes [#/volume] in Blood by Automated count 10.2 10*3/uL
+  2021-04-22 : Carbon Dioxide                           23.5 mmol/L
+  2021-04-22 : Chloride                                 107.5 mmol/L
+  2021-04-22 : Potassium                                4.4 mmol/L
+  2021-04-22 : Sodium                                   137.3 mmol/L
+  2021-04-22 : Calcium                                  8.7 mg/dL
+  2021-04-22 : Creatinine                               1.5 mg/dL
+  2021-04-22 : Urea Nitrogen                            17.3 mg/dL
+  2021-04-22 : Glucose                                  64.1 mg/dL
+  2021-04-22 : Respiratory rate                         15.0 /min
+  2021-04-22 : Heart rate                               94.0 /min
+  2021-04-22 : Blood Pressure
+           - Diastolic Blood Pressure                 93.0 mm[Hg]
+           - Systolic Blood Pressure                  136.0 mm[Hg]
+  2021-04-22 : Body Mass Index                          28.9 kg/m2
+  2021-04-22 : Body Weight                              92.2 kg
+  2021-04-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2021-04-22 : Body Height                              178.7 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2021-04-22 : Screening for drug abuse (procedure)
+  2021-04-22 : Assessment of substance use (procedure)
+  2021-04-22 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-04-22 : Depression screening (procedure)
+  2021-04-22 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-09-23 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-09-02 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-04-22 : Hep B, adult
+  2021-04-22 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-09-23 (Dr. Bennett Rippin) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2021-09-02 (Dr. Bennett Rippin) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2021-07-31 (Dr. Bennett Rippin) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Viral sinusitis (disorder)
+2021-04-22 (Dr. Bea Schiller) : Encounter at PRIMARY CARE FOR ADULTS PLLC
+2020-03-05 (Dr. Bennett Rippin) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2020-02-24 (Dr. Bennett Rippin) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Acute bronchitis (disorder)
+2018-04-19 (Dr. Bea Schiller) : Encounter at PRIMARY CARE FOR ADULTS PLLC
+2017-04-13 (Dr. Bea Schiller) : Encounter at PRIMARY CARE FOR ADULTS PLLC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

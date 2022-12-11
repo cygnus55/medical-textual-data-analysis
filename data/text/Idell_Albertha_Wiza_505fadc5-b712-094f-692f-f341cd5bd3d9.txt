@@ -1,0 +1,249 @@
+Idell Albertha Wiza
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 58
+Birth Date:          1964-07-13
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-08-29 -            : Full-time employment (finding)
+  2021-08-23 - 2022-08-29 : Full-time employment (finding)
+  2020-08-17 - 2021-08-23 : Full-time employment (finding)
+  2019-08-12 - 2020-08-17 : Full-time employment (finding)
+  2018-08-06 - 2022-08-29 : Limited social contact (finding)
+  2018-08-06 - 2019-05-06 : Full-time employment (finding)
+  2017-07-31 -            : Stress (finding)
+  2017-07-31 - 2018-08-06 : Full-time employment (finding)
+  2016-07-25 - 2017-07-31 : Full-time employment (finding)
+  2015-07-20 - 2016-07-25 : Full-time employment (finding)
+  2014-07-14 - 2015-07-20 : Full-time employment (finding)
+  2012-08-06 - 2014-07-14 : Full-time employment (finding)
+  2010-08-02 - 2016-07-25 : Stress (finding)
+  2008-07-28 - 2010-08-02 : Full-time employment (finding)
+  2007-05-14 - 2008-07-28 : Full-time employment (finding)
+  2007-05-14 -            : Anemia (disorder)
+  2006-07-24 - 2008-07-28 : Stress (finding)
+  2006-07-24 -            : Prediabetes
+  2001-10-01 - 2004-07-19 : Stress (finding)
+  2001-10-01 - 2004-07-19 : Full-time employment (finding)
+  2001-04-09 - 2001-10-01 : Full-time employment (finding)
+  1998-11-30 - 2001-04-09 : Full-time employment (finding)
+  1998-09-28 - 1998-11-30 : Full-time employment (finding)
+  1997-11-10 - 1998-11-30 : Stress (finding)
+  1997-11-10 - 1998-09-28 : Full-time employment (finding)
+  1994-03-07 -            : Miscarriage in first trimester
+  1992-09-21 -            : Body mass index 30+ - obesity (finding)
+  1992-05-30 -            : Drug overdose
+  1989-09-18 - 1992-09-21 : Full-time employment (finding)
+  1986-09-15 - 1989-09-18 : Full-time employment (finding)
+  1983-09-12 - 1986-09-15 : Full-time employment (finding)
+  1982-09-06 - 1992-09-21 : Stress (finding)
+  1982-09-06 - 1983-09-12 : Full-time employment (finding)
+  1982-09-06 -            : Received certificate of high school equivalency (finding)
+  1982-09-06 -            : Housing unsatisfactory (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2006-07-24[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1992-05-30[CURRENT] : Care plan (record artifact)
+                         Activity: Drug addiction counseling
+                         Activity: Drug detoxification
+                         Activity: Drug addiction therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-08-29 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2022-08-29 : Basic Metabolic Panel
+           - Glucose                                  64.6 mg/dL
+           - Urea Nitrogen                            16.0 mg/dL
+           - Creatinine                               0.7 mg/dL
+           - Calcium                                  9.4 mg/dL
+           - Sodium                                   141.9 mmol/L
+           - Potassium                                4.8 mmol/L
+           - Chloride                                 101.2 mmol/L
+           - Carbon Dioxide                           27.1 mmol/L
+  2021-08-23 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2021-08-23 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2021-08-23 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 3.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 49.2 %
+           - MCV [Entitic volume] by Automated count  88.5 fL
+           - MCH [Entitic mass] by Automated count    30.9 pg
+           - MCHC [Mass/volume] by Automated count    35.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.3 fL
+           - Platelets [#/volume] in Blood by Automated count 441.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 303.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2021-08-23 : Basic Metabolic Panel
+           - Glucose                                  75.1 mg/dL
+           - Urea Nitrogen                            11.7 mg/dL
+           - Creatinine                               0.7 mg/dL
+           - Calcium                                  9.6 mg/dL
+           - Sodium                                   140.8 mmol/L
+           - Potassium                                4.7 mmol/L
+           - Chloride                                 110.2 mmol/L
+           - Carbon Dioxide                           21.9 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-08-29 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2022-08-29 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 60494 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             1005 Muller Course 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2022-08-29 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+  2022-08-29 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-08-29 : Carbon Dioxide                           27.1 mmol/L
+  2022-08-29 : Chloride                                 101.2 mmol/L
+  2022-08-29 : Potassium                                4.8 mmol/L
+  2022-08-29 : Sodium                                   141.9 mmol/L
+  2022-08-29 : Calcium                                  9.4 mg/dL
+  2022-08-29 : Creatinine                               0.7 mg/dL
+  2022-08-29 : Urea Nitrogen                            16.0 mg/dL
+  2022-08-29 : Glucose                                  64.6 mg/dL
+  2022-08-29 : Respiratory rate                         13.0 /min
+  2022-08-29 : Heart rate                               75.0 /min
+  2022-08-29 : Blood Pressure
+           - Diastolic Blood Pressure                 65.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2022-08-29 : Body Mass Index                          27.8 kg/m2
+  2022-08-29 : Body Weight                              68.8 kg
+  2022-08-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2022-08-29 : Body Height                              157.4 cm
+  2022-08-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2021-08-23 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2021-08-23 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2021-08-23 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 60494 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             1005 Muller Course 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-08-23 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2021-08-23 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-08-23 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2021-08-23 : Platelet distribution width [Entitic volume] in Blood by Automated count 303.4 fL
+  2021-08-23 : Platelets [#/volume] in Blood by Automated count 441.9 10*3/uL
+  2021-08-23 : Erythrocyte distribution width [Entitic volume] by Automated count 40.3 fL
+  2021-08-23 : MCHC [Mass/volume] by Automated count    35.7 g/dL
+  2021-08-23 : MCH [Entitic mass] by Automated count    30.9 pg
+  2021-08-23 : MCV [Entitic volume] by Automated count  88.5 fL
+  2021-08-23 : Hematocrit [Volume Fraction] of Blood by Automated count 49.2 %
+  2021-08-23 : Hemoglobin [Mass/volume] in Blood        16.8 g/dL
+  2021-08-23 : Erythrocytes [#/volume] in Blood by Automated count 3.9 10*6/uL
+  2021-08-23 : Leukocytes [#/volume] in Blood by Automated count 6.9 10*3/uL
+  2021-08-23 : Carbon Dioxide                           21.9 mmol/L
+  2021-08-23 : Chloride                                 110.2 mmol/L
+  2021-08-23 : Potassium                                4.7 mmol/L
+  2021-08-23 : Sodium                                   140.8 mmol/L
+  2021-08-23 : Calcium                                  9.6 mg/dL
+  2021-08-23 : Creatinine                               0.7 mg/dL
+  2021-08-23 : Urea Nitrogen                            11.7 mg/dL
+  2021-08-23 : Glucose                                  75.1 mg/dL
+  2021-08-23 : Respiratory rate                         14.0 /min
+  2021-08-23 : Heart rate                               81.0 /min
+  2021-08-23 : Blood Pressure
+           - Diastolic Blood Pressure                 63.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2021-08-23 : Body Mass Index                          27.8 kg/m2
+  2021-08-23 : Body Weight                              68.8 kg
+  2021-08-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2021-08-23 : Body Height                              157.4 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-08-29 : Assessment of anxiety (procedure)
+  2022-08-29 : Assessment of health and social care needs (procedure)
+  2021-08-23 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-08-23 : Depression screening (procedure)
+  2021-08-23 : Assessment of anxiety (procedure)
+  2021-08-23 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-08-29 : Influenza, seasonal, injectable, preservative free
+  2021-08-23 : Influenza, seasonal, injectable, preservative free
+  2021-04-12 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-03-22 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-08-28 (Dr. Ahmed Feil) : Encounter at WESTERN MASSACHUSETTS HOSPITAL
+2022-08-29 (Dr. Erwin Baumbach) : Encounter at PRIMARY CARE ASSOCIATES LLC
+2021-10-29 (Dr. Ahmed Feil) : Encounter at WESTERN MASSACHUSETTS HOSPITAL
+2021-08-23 (Dr. Erwin Baumbach) : Encounter at PRIMARY CARE ASSOCIATES LLC
+2021-08-04 (Dr. Ahmed Feil) : Encounter at WESTERN MASSACHUSETTS HOSPITAL
+2021-07-05 (Dr. Ahmed Feil) : Encounter at WESTERN MASSACHUSETTS HOSPITAL
+2021-04-12 (Dr. Ahmed Feil) : Encounter at WESTERN MASSACHUSETTS HOSPITAL
+2021-03-22 (Dr. Ahmed Feil) : Encounter at WESTERN MASSACHUSETTS HOSPITAL
+2020-08-17 (Dr. Erwin Baumbach) : Encounter at PRIMARY CARE ASSOCIATES LLC
+2019-08-12 (Dr. Erwin Baumbach) : Encounter at PRIMARY CARE ASSOCIATES LLC
+2018-08-06 (Dr. Erwin Baumbach) : Encounter at PRIMARY CARE ASSOCIATES LLC
+2017-07-31 (Dr. Erwin Baumbach) : Encounter at PRIMARY CARE ASSOCIATES LLC
+2016-07-25 (Dr. Erwin Baumbach) : Encounter at PRIMARY CARE ASSOCIATES LLC
+2015-07-20 (Dr. Erwin Baumbach) : Encounter at PRIMARY CARE ASSOCIATES LLC
+2014-07-21 (Dr. Ahmed Feil) : Encounter at WESTERN MASSACHUSETTS HOSPITAL
+2012-08-06 (Dr. Erwin Baumbach) : Encounter at PRIMARY CARE ASSOCIATES LLC
+2010-08-02 (Dr. Erwin Baumbach) : Encounter at PRIMARY CARE ASSOCIATES LLC
+2008-07-28 (Dr. Erwin Baumbach) : Encounter at PRIMARY CARE ASSOCIATES LLC
+2007-05-14 (Dr. Ahmed Feil) : Encounter at WESTERN MASSACHUSETTS HOSPITAL : Encounter for Anemia (disorder)
+2007-05-10 (Dr. Ahmed Feil) : Encounter at WESTERN MASSACHUSETTS HOSPITAL
+2006-07-24 (Dr. Erwin Baumbach) : Encounter at PRIMARY CARE ASSOCIATES LLC
+2001-10-01 (Dr. Erwin Baumbach) : Encounter at PRIMARY CARE ASSOCIATES LLC
+2001-04-08 (Dr. Ahmed Feil) : Encounter at WESTERN MASSACHUSETTS HOSPITAL : Encounter for Viral sinusitis (disorder)
+1998-11-30 (Dr. Ahmed Feil) : Encounter at WESTERN MASSACHUSETTS HOSPITAL
+1998-09-28 (Dr. Erwin Baumbach) : Encounter at PRIMARY CARE ASSOCIATES LLC
+1997-11-10 (Dr. Ahmed Feil) : Encounter at WESTERN MASSACHUSETTS HOSPITAL
+1994-03-07 (Dr. Ahmed Feil) : Encounter at WESTERN MASSACHUSETTS HOSPITAL : Encounter for Normal pregnancy
+1992-09-19 (Dr. Ahmed Feil) : Encounter at WESTERN MASSACHUSETTS HOSPITAL : Encounter for Normal pregnancy
+1992-05-30 (Dr. Cherry Hackett) : Encounter at MEMORY SUPPORT OF HERITAGE HALL : Encounter for Drug overdose
+1989-09-18 (Dr. Erwin Baumbach) : Encounter at PRIMARY CARE ASSOCIATES LLC
+1986-09-15 (Dr. Erwin Baumbach) : Encounter at PRIMARY CARE ASSOCIATES LLC
+1983-09-12 (Dr. Erwin Baumbach) : Encounter at PRIMARY CARE ASSOCIATES LLC
+1982-09-06 (Dr. Erwin Baumbach) : Encounter at PRIMARY CARE ASSOCIATES LLC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

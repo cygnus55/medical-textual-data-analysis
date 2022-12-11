@@ -1,0 +1,104 @@
+Dean Lynch
+==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 17
+Birth Date:          2005-03-24
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2021-01-11[STOPPED] : Acetaminophen 325 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2021-01-11 - 2021-01-27 : Sprain of wrist
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2021-01-11[STOPPED] : Physiotherapy care plan (record artifact)
+                         Reason: Sprain of wrist
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-05-12 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2021-05-06 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2021-05-06 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2021-05-06 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 43.2 %
+           - MCV [Entitic volume] by Automated count  84.9 fL
+           - MCH [Entitic mass] by Automated count    28.2 pg
+           - MCHC [Mass/volume] by Automated count    33.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.7 fL
+           - Platelets [#/volume] in Blood by Automated count 439.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 314.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.2 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-05-12 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2022-05-12 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-05-12 : Respiratory rate                         13.0 /min
+  2022-05-12 : Heart rate                               76.0 /min
+  2022-05-12 : Blood Pressure
+           - Diastolic Blood Pressure                 68.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2022-05-12 : Body mass index (BMI) [Percentile] Per age and gender 70.6 %
+  2022-05-12 : Body Mass Index                          23.0 kg/m2
+  2022-05-12 : Body Weight                              74.6 kg
+  2022-05-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2022-05-12 : Body Height                              180.1 cm
+  2021-05-06 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2021-05-06 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2021-05-06 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-05-06 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.2 fL
+  2021-05-06 : Platelet distribution width [Entitic volume] in Blood by Automated count 314.7 fL
+  2021-05-06 : Platelets [#/volume] in Blood by Automated count 439.0 10*3/uL
+  2021-05-06 : Erythrocyte distribution width [Entitic volume] by Automated count 42.7 fL
+  2021-05-06 : MCHC [Mass/volume] by Automated count    33.5 g/dL
+  2021-05-06 : MCH [Entitic mass] by Automated count    28.2 pg
+  2021-05-06 : MCV [Entitic volume] by Automated count  84.9 fL
+  2021-05-06 : Hematocrit [Volume Fraction] of Blood by Automated count 43.2 %
+  2021-05-06 : Hemoglobin [Mass/volume] in Blood        13.1 g/dL
+  2021-05-06 : Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+  2021-05-06 : Leukocytes [#/volume] in Blood by Automated count 7.0 10*3/uL
+  2021-05-06 : Respiratory rate                         16.0 /min
+  2021-05-06 : Heart rate                               78.0 /min
+  2021-05-06 : Blood Pressure
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  2021-05-06 : Body mass index (BMI) [Percentile] Per age and gender 69.6 %
+  2021-05-06 : Body Mass Index                          22.2 kg/m2
+  2021-05-06 : Body Weight                              70.8 kg
+  2021-05-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2021-05-06 : Body Height                              178.5 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-05-12 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2022-05-12 : Depression screening (procedure)
+  2021-05-06 : Anticipatory guidance (procedure)
+  2021-05-06 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2021-05-06 : Assessment of substance use (procedure)
+  2021-05-06 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2021-05-06 : Depression screening (procedure)
+  2021-05-06 : Assessment of anxiety (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-05-12 : Influenza, seasonal, injectable, preservative free
+  2021-05-06 : meningococcal MCV4P
+  2021-05-06 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-05-12 (Dr. Shawn Padberg) : Encounter at RISE ABOVE WELLNESS HEALTH SERVICES LLC
+2021-05-06 (Dr. Shawn Padberg) : Encounter at RISE ABOVE WELLNESS HEALTH SERVICES LLC
+2021-01-11 (Dr. Kerrie Bergstrom) : Encounter at LIFE CARE CENTER OF ATTLEBORO
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

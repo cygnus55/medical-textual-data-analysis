@@ -1,0 +1,103 @@
+Yen Hagenes
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 17
+Birth Date:          2005-11-19
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2021-03-02 - 2021-03-29 : Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-01-01 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2022-01-01 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.5 %
+           - MCV [Entitic volume] by Automated count  80.7 fL
+           - MCH [Entitic mass] by Automated count    27.1 pg
+           - MCHC [Mass/volume] by Automated count    35.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.7 fL
+           - Platelets [#/volume] in Blood by Automated count 168.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 185.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2020-12-26 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2020-12-26 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-01-01 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2022-01-01 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-01-01 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2022-01-01 : Platelet distribution width [Entitic volume] in Blood by Automated count 185.0 fL
+  2022-01-01 : Platelets [#/volume] in Blood by Automated count 168.4 10*3/uL
+  2022-01-01 : Erythrocyte distribution width [Entitic volume] by Automated count 44.7 fL
+  2022-01-01 : MCHC [Mass/volume] by Automated count    35.9 g/dL
+  2022-01-01 : MCH [Entitic mass] by Automated count    27.1 pg
+  2022-01-01 : MCV [Entitic volume] by Automated count  80.7 fL
+  2022-01-01 : Hematocrit [Volume Fraction] of Blood by Automated count 46.5 %
+  2022-01-01 : Hemoglobin [Mass/volume] in Blood        12.3 g/dL
+  2022-01-01 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  2022-01-01 : Leukocytes [#/volume] in Blood by Automated count 10.5 10*3/uL
+  2022-01-01 : Respiratory rate                         15.0 /min
+  2022-01-01 : Heart rate                               70.0 /min
+  2022-01-01 : Blood Pressure
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  135.0 mm[Hg]
+  2022-01-01 : Body mass index (BMI) [Percentile] Per age and gender 20.6 %
+  2022-01-01 : Body Mass Index                          18.4 kg/m2
+  2022-01-01 : Body Weight                              48.7 kg
+  2022-01-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2022-01-01 : Body Height                              162.8 cm
+  2020-12-26 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2020-12-26 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2020-12-26 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-12-26 : Respiratory rate                         15.0 /min
+  2020-12-26 : Heart rate                               80.0 /min
+  2020-12-26 : Blood Pressure
+           - Diastolic Blood Pressure                 88.0 mm[Hg]
+           - Systolic Blood Pressure                  139.0 mm[Hg]
+  2020-12-26 : Body mass index (BMI) [Percentile] Per age and gender 25.7 %
+  2020-12-26 : Body Mass Index                          18.3 kg/m2
+  2020-12-26 : Body Weight                              48.0 kg
+  2020-12-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2020-12-26 : Body Height                              162.1 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-01-01 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2022-01-01 : Depression screening (procedure)
+  2020-12-26 : Anticipatory guidance (procedure)
+  2020-12-26 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2020-12-26 : Assessment of substance use (procedure)
+  2020-12-26 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2020-12-26 : Depression screening (procedure)
+  2020-12-26 : Assessment of anxiety (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-01-01 : meningococcal MCV4P
+  2022-01-01 : Influenza, seasonal, injectable, preservative free
+  2021-06-26 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-06-05 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2020-12-26 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-01-01 (Dr. Eloisa Arellano) : Encounter at PRIMARY CARE MEDICINE AND PEDIATRICS, LLC
+2021-06-26 (Dr. Azzie Feil) : Encounter at BAYSTATE NOBLE HOSPITAL CORPORATION
+2021-06-05 (Dr. Azzie Feil) : Encounter at BAYSTATE NOBLE HOSPITAL CORPORATION
+2021-03-02 (Dr. Lynn Cassin) : Encounter at BAYSTATE NOBLE HOSPITAL CORPORATION : Encounter for Viral sinusitis (disorder)
+2020-12-26 (Dr. Eloisa Arellano) : Encounter at PRIMARY CARE MEDICINE AND PEDIATRICS, LLC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

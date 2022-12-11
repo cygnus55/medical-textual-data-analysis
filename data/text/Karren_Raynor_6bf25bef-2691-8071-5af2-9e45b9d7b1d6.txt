@@ -1,0 +1,208 @@
+Karren Raynor
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 DECEASED
+Birth Date:          1990-10-20
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2015-12-26 -            : Full-time employment (finding)
+  2015-12-05 - 2016-07-02 : Normal pregnancy
+  2014-12-06 -            : Tubal pregnancy
+  2014-12-06 - 2015-07-25 : Normal pregnancy
+  2014-06-07 -            : Miscarriage in first trimester
+  2013-03-09 -            : Stress (finding)
+  2013-03-09 - 2015-12-26 : Limited social contact (finding)
+  2013-03-09 - 2015-12-26 : Full-time employment (finding)
+  2012-12-22 - 2013-03-09 : Full-time employment (finding)
+  2009-12-19 - 2012-12-22 : Full-time employment (finding)
+  2009-09-05 - 2009-12-19 : Full-time employment (finding)
+  2008-12-13 - 2012-12-22 : Stress (finding)
+  2008-12-13 - 2009-09-05 : Full-time employment (finding)
+  2008-12-13 -            : Received certificate of high school equivalency (finding)
+  2006-09-06 -            : Drug overdose
+  2004-12-22 -            : Chronic pain
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2015-12-05[STOPPED] : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2014-12-06[STOPPED] : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2006-09-06[CURRENT] : Care plan (record artifact)
+                         Activity: Drug addiction counseling
+                         Activity: Drug detoxification
+                         Activity: Drug addiction therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-12-10 : U.S. standard certificate of death - 2003 revision
+           - Cause of Death [US Standard Certificate of Death] Drug overdose 
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2016-12-10 : Cause of Death [US Standard Certificate of Death] Drug overdose 
+  2015-12-26 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 15627 /a
+           - What is your main insurance?             Medicaid 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             863 Jacobs Viaduct 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 2.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2015-12-26 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2015-12-26 : Respiratory rate                         15.0 /min
+  2015-12-26 : Heart rate                               73.0 /min
+  2015-12-26 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  111.0 mm[Hg]
+  2015-12-26 : Body Mass Index                          28.3 kg/m2
+  2015-12-26 : Body Weight                              75.1 kg
+  2015-12-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2015-12-26 : Body Height                              163.0 cm
+  2015-11-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2016-08-13 : Depression screening
+  2016-08-13 : Physical examination following birth
+  2016-07-02 : Childbirth for Normal pregnancy
+  2016-06-18 : Auscultation of the fetal heart for Normal pregnancy
+  2016-06-18 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-06-18 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2016-05-21 : Auscultation of the fetal heart for Normal pregnancy
+  2016-05-21 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-04-23 : Auscultation of the fetal heart for Normal pregnancy
+  2016-04-23 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-04-23 : Urine screening for glucose for Normal pregnancy
+  2016-04-23 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2016-04-23 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2016-03-26 : Auscultation of the fetal heart for Normal pregnancy
+  2016-03-26 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-02-27 : Auscultation of the fetal heart for Normal pregnancy
+  2016-02-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-01-30 : Auscultation of the fetal heart for Normal pregnancy
+  2016-01-30 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-01-30 : Alpha-fetoprotein test for Normal pregnancy
+  2016-01-30 : Fetal anatomy study for Normal pregnancy
+  2016-01-02 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2016-01-02 : Auscultation of the fetal heart for Normal pregnancy
+  2016-01-02 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-12-26 : Medication Reconciliation (procedure)
+  2015-12-26 : Assessment of health and social care needs (procedure)
+  2015-12-05 : Physical examination of mother for Normal pregnancy
+  2015-12-05 : Urine protein test for Normal pregnancy
+  2015-12-05 : Skin test for tuberculosis for Normal pregnancy
+  2015-12-05 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2015-12-05 : Rubella screening for Normal pregnancy
+  2015-12-05 : Hepatitis C antibody test for Normal pregnancy
+  2015-12-05 : Urine screening test for diabetes for Normal pregnancy
+  2015-12-05 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2015-12-05 : Urine culture for Normal pregnancy
+  2015-12-05 : Syphilis infection test for Normal pregnancy
+  2015-12-05 : Gonorrhea infection test for Normal pregnancy
+  2015-12-05 : Chlamydia antigen test for Normal pregnancy
+  2015-12-05 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2015-12-05 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2015-12-05 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2015-12-05 : Blood typing, RH typing for Normal pregnancy
+  2015-12-05 : Auscultation of the fetal heart for Normal pregnancy
+  2015-12-05 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-12-05 : Ultrasound scan for fetal viability for Normal pregnancy
+  2015-12-05 : Standard pregnancy test for Normal pregnancy
+  2015-09-05 : Depression screening
+  2015-09-05 : Physical examination following birth
+  2015-07-25 : Childbirth for Normal pregnancy
+  2015-07-18 : Auscultation of the fetal heart for Normal pregnancy
+  2015-07-18 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-07-11 : Auscultation of the fetal heart for Normal pregnancy
+  2015-07-11 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-07-04 : Auscultation of the fetal heart for Normal pregnancy
+  2015-07-04 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-06-20 : Auscultation of the fetal heart for Normal pregnancy
+  2015-06-20 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-06-20 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2015-05-23 : Auscultation of the fetal heart for Normal pregnancy
+  2015-05-23 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-04-25 : Auscultation of the fetal heart for Normal pregnancy
+  2015-04-25 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-04-25 : Urine screening for glucose for Normal pregnancy
+  2015-04-25 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2015-04-25 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2015-03-28 : Auscultation of the fetal heart for Normal pregnancy
+  2015-03-28 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-02-28 : Auscultation of the fetal heart for Normal pregnancy
+  2015-02-28 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-01-31 : Auscultation of the fetal heart for Normal pregnancy
+  2015-01-31 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-01-31 : Alpha-fetoprotein test for Normal pregnancy
+  2015-01-31 : Fetal anatomy study for Normal pregnancy
+  2015-01-03 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2015-01-03 : Auscultation of the fetal heart for Normal pregnancy
+  2015-01-03 : Evaluation of uterine fundal height for Normal pregnancy
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2015-12-26 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2016-12-10 (Dr. Jolynn Adams) : Encounter at BL HEALTHCARE INC DELEWARE : Encounter for Drug overdose
+2016-12-03 (Dr. Kerrie Bergstrom) : Encounter at LIFE CARE CENTER OF ATTLEBORO : Encounter for Drug overdose
+2016-08-13 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC
+2016-07-02 (Dr. Kerrie Bergstrom) : Encounter at LIFE CARE CENTER OF ATTLEBORO : Encounter for Normal pregnancy
+2016-06-18 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC : Encounter for Normal pregnancy
+2016-05-21 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC : Encounter for Normal pregnancy
+2016-04-23 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC : Encounter for Normal pregnancy
+2016-03-26 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC : Encounter for Normal pregnancy
+2016-03-10 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC
+2016-02-27 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC : Encounter for Normal pregnancy
+2016-01-30 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC : Encounter for Normal pregnancy
+2016-01-02 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC : Encounter for Normal pregnancy
+2015-12-26 (Dr. Jolynn Adams) : Encounter at BL HEALTHCARE INC DELEWARE
+2015-12-05 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC : Encounter for Normal pregnancy
+2015-11-12 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC
+2015-10-22 (Dr. Kerrie Bergstrom) : Encounter at LIFE CARE CENTER OF ATTLEBORO : Encounter for Drug overdose
+2015-09-05 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC
+2015-07-25 (Dr. Kerrie Bergstrom) : Encounter at LIFE CARE CENTER OF ATTLEBORO : Encounter for Normal pregnancy
+2015-07-18 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC : Encounter for Normal pregnancy
+2015-07-11 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC : Encounter for Normal pregnancy
+2015-07-04 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC : Encounter for Normal pregnancy
+2015-06-20 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC : Encounter for Normal pregnancy
+2015-05-23 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC : Encounter for Normal pregnancy
+2015-04-25 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC : Encounter for Normal pregnancy
+2015-03-28 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC : Encounter for Normal pregnancy
+2015-02-28 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC : Encounter for Normal pregnancy
+2015-01-31 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC : Encounter for Normal pregnancy
+2015-01-03 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC : Encounter for Normal pregnancy
+2014-12-06 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC : Encounter for Normal pregnancy
+2014-06-07 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC : Encounter for Normal pregnancy
+2013-03-16 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC : Encounter for Normal pregnancy
+2012-12-25 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC
+2009-12-19 (Dr. Jolynn Adams) : Encounter at BL HEALTHCARE INC DELEWARE
+2009-09-01 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC : Encounter for Sinusitis (disorder)
+2008-12-13 (Dr. Jolynn Adams) : Encounter at BL HEALTHCARE INC DELEWARE
+2006-09-06 (Dr. Kerrie Bergstrom) : Encounter at LIFE CARE CENTER OF ATTLEBORO : Encounter for Drug overdose
+2004-12-22 (Dr. Chu Weber) : Encounter at STURDY MEMORIAL HOSPITAL INC : Encounter for Chronic pain
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

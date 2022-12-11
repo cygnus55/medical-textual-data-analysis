@@ -1,0 +1,173 @@
+Cedric Rice
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 24
+Birth Date:          1998-05-14
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2022-08-11[CURRENT] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2022-08-11[CURRENT] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2021-08-05[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2021-08-05[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2020-07-30[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2020-07-30[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2019-07-25[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2019-07-25[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2018-07-19[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2018-07-19[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2017-07-13[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2017-07-13[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2016-08-18[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2016-07-07[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2016-06-18[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-08-12 -            : Full-time employment (finding)
+  2021-12-11 - 2021-12-19 : Acute viral pharyngitis (disorder)
+  2021-08-06 - 2022-08-12 : Stress (finding)
+  2021-08-06 - 2022-08-12 : Social isolation (finding)
+  2021-08-06 - 2022-08-12 : Not in labor force (finding)
+  2020-07-31 - 2021-08-06 : Victim of intimate partner abuse (finding)
+  2020-07-31 - 2021-08-06 : Full-time employment (finding)
+  2019-07-26 - 2020-07-31 : Full-time employment (finding)
+  2018-07-20 - 2019-07-26 : Full-time employment (finding)
+  2017-07-14 -            : Limited social contact (finding)
+  2017-07-14 - 2018-07-20 : Full-time employment (finding)
+  2016-07-08 - 2017-07-14 : Full-time employment (finding)
+  2016-07-08 -            : Received higher education (finding)
+  2016-06-18 -            : Chronic neck pain (finding)
+  2016-06-18 -            : Chronic low back pain (finding)
+  2013-06-21 -            : Risk activity involvement (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2016-08-18[CURRENT] : Therapy (regime/therapy)
+                         Activity: Physical therapy procedure (regime/therapy)
+                         Activity: Cognitive and behavioral therapy (regime/therapy)
+  2016-06-18[STOPPED] : Therapy (regime/therapy)
+                         Activity: Physical therapy procedure (regime/therapy)
+                         Activity: Cognitive and behavior therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-08-12 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    3.0 {score}
+  2022-08-12 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-08-12 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2021-08-06 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+  2021-08-06 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 6.0 {score}
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-08-12 : Total score [AUDIT-C]                    3.0 {score}
+  2022-08-12 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-08-12 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2022-08-12 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 76688 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             268 O'Hara Meadow Suite 37 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 5.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2022-08-11 : Tobacco smoking status                   Ex-smoker (finding) 
+  2022-08-11 : Respiratory rate                         14.0 /min
+  2022-08-11 : Heart rate                               82.0 /min
+  2022-08-11 : Blood Pressure
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  95.0 mm[Hg]
+  2022-08-11 : Body Mass Index                          20.4 kg/m2
+  2022-08-11 : Body Weight                              62.9 kg
+  2022-08-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2022-08-11 : Body Height                              175.6 cm
+  2021-12-11 : Body temperature                         37.4 Cel
+  2021-08-06 : Total score [AUDIT-C]                    1.0 {score}
+  2021-08-06 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 6.0 {score}
+  2021-08-06 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       I choose not to answer this question 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Quite a bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Less than once a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 76688 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Otherwise unemployed but not seeking work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             268 O'Hara Meadow Suite 37 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 5.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-08-05 : Tobacco smoking status                   Ex-smoker (finding) 
+  2021-08-05 : Respiratory rate                         13.0 /min
+  2021-08-05 : Heart rate                               73.0 /min
+  2021-08-05 : Blood Pressure
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  101.0 mm[Hg]
+  2021-08-05 : Body Mass Index                          19.8 kg/m2
+  2021-08-05 : Body Weight                              61.0 kg
+  2021-08-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2021-08-05 : Body Height                              175.6 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-08-12 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2022-08-12 : Assessment of substance use (procedure)
+  2022-08-12 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2022-08-12 : Depression screening (procedure)
+  2022-08-12 : Assessment of anxiety (procedure)
+  2022-08-11 : Medication Reconciliation (procedure)
+  2022-08-11 : Assessment of health and social care needs (procedure)
+  2021-12-11 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2021-08-06 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2021-08-06 : Assessment of substance use (procedure)
+  2021-08-06 : Assessment of anxiety (procedure)
+  2021-08-05 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-08-11 : Influenza, seasonal, injectable, preservative free
+  2021-08-05 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-08-11 (Dr. Ethyl Rau) : Encounter at WALPOLE MEDICAL CENTER, PC
+2021-12-11 (Dr. Abdul White) : Encounter at STEWARD NORWOOD HOSPITAL INC : Encounter for Acute viral pharyngitis (disorder)
+2021-08-05 (Dr. Ethyl Rau) : Encounter at WALPOLE MEDICAL CENTER, PC
+2020-07-30 (Dr. Ethyl Rau) : Encounter at WALPOLE MEDICAL CENTER, PC
+2019-07-25 (Dr. Ethyl Rau) : Encounter at WALPOLE MEDICAL CENTER, PC
+2018-07-19 (Dr. Ethyl Rau) : Encounter at WALPOLE MEDICAL CENTER, PC
+2017-07-13 (Dr. Ethyl Rau) : Encounter at WALPOLE MEDICAL CENTER, PC
+2016-08-18 (Dr. Abdul White) : Encounter at STEWARD NORWOOD HOSPITAL INC
+2016-07-13 (Dr. Abdul White) : Encounter at STEWARD NORWOOD HOSPITAL INC
+2016-07-07 (Dr. Abdul White) : Encounter at STEWARD NORWOOD HOSPITAL INC
+2016-06-18 (Dr. Trinidad King) : Encounter at STEWARD NORWOOD HOSPITAL INC
+2013-06-20 (Dr. Ethyl Rau) : Encounter at WALPOLE MEDICAL CENTER, PC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

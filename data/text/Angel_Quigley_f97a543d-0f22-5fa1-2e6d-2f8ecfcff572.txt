@@ -1,0 +1,109 @@
+Angel Quigley
+=============
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 15
+Birth Date:          2007-09-22
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2021-12-11[STOPPED] : Penicillin V Potassium 250 MG Oral Tablet for Streptococcal sore throat (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2021-12-11 - 2021-12-23 : Streptococcal sore throat (disorder)
+  2021-10-23 -            : Risk activity involvement (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-10-29 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}
+  2022-10-29 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2021-12-18 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2021-12-18 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2021-10-23 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 4.0 {score}
+  2021-10-23 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-10-29 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}
+  2022-10-29 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2022-10-29 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-10-29 : Respiratory rate                         14.0 /min
+  2022-10-29 : Heart rate                               94.0 /min
+  2022-10-29 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  133.0 mm[Hg]
+  2022-10-29 : Body mass index (BMI) [Percentile] Per age and gender 87.4 %
+  2022-10-29 : Body Mass Index                          24.0 kg/m2
+  2022-10-29 : Body Weight                              72.5 kg
+  2022-10-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2022-10-29 : Body Height                              173.7 cm
+  2021-12-18 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2021-12-18 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2021-12-18 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-12-18 : Respiratory rate                         15.0 /min
+  2021-12-18 : Heart rate                               74.0 /min
+  2021-12-18 : Blood Pressure
+           - Diastolic Blood Pressure                 89.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2021-12-18 : Body mass index (BMI) [Percentile] Per age and gender 88.0 %
+  2021-12-18 : Body Mass Index                          23.5 kg/m2
+  2021-12-18 : Body Weight                              66.6 kg
+  2021-12-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2021-12-18 : Body Height                              168.6 cm
+  2021-12-11 : Body temperature                         37.7 Cel
+  2021-10-23 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 4.0 {score}
+  2021-10-23 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2021-10-23 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-10-23 : Respiratory rate                         14.0 /min
+  2021-10-23 : Heart rate                               86.0 /min
+  2021-10-23 : Blood Pressure
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  133.0 mm[Hg]
+  2021-10-23 : Body mass index (BMI) [Percentile] Per age and gender 87.9 %
+  2021-10-23 : Body Mass Index                          23.4 kg/m2
+  2021-10-23 : Body Weight                              65.9 kg
+  2021-10-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2021-10-23 : Body Height                              168.0 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-10-29 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2022-10-29 : Depression screening (procedure)
+  2022-10-29 : Medication Reconciliation (procedure)
+  2022-10-29 : Assessment of anxiety (procedure)
+  2021-12-18 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2021-12-18 : Depression screening (procedure)
+  2021-12-18 : Assessment of anxiety (procedure)
+  2021-10-23 : Health risks education (procedure) for Risk activity involvement (finding)
+  2021-10-23 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2021-10-23 : Assessment of substance use (procedure)
+  2021-10-23 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2021-10-23 : Depression screening (procedure)
+  2021-10-23 : Medication Reconciliation (procedure)
+  2021-10-23 : Assessment of anxiety (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-10-29 : Influenza, seasonal, injectable, preservative free
+  2021-10-23 : Influenza, seasonal, injectable, preservative free
+  2021-06-19 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-05-29 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-10-29 (Dr. Rob Cormier) : Encounter at BOSTON UNIVERSITY MEDICAL CENTER RADIOLOGISTS, INC.
+2021-12-18 (Dr. Latoyia Lindgren) : Encounter at DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER
+2021-12-11 (Dr. Latoyia Lindgren) : Encounter at DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER : Encounter for Streptococcal sore throat (disorder)
+2021-10-23 (Dr. Rob Cormier) : Encounter at BOSTON UNIVERSITY MEDICAL CENTER RADIOLOGISTS, INC.
+2021-06-19 (Dr. Latoyia Lindgren) : Encounter at DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER
+2021-05-29 (Dr. Latoyia Lindgren) : Encounter at DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

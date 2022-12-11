@@ -1,0 +1,87 @@
+Arthur Toy
+==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 11
+Birth Date:          2011-06-27
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2020-09-08[STOPPED] : Respiratory therapy
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-07-11 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.8 %
+           - MCV [Entitic volume] by Automated count  86.1 fL
+           - MCH [Entitic mass] by Automated count    30.5 pg
+           - MCHC [Mass/volume] by Automated count    34.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.2 fL
+           - Platelets [#/volume] in Blood by Automated count 387.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 269.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.9 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-07-11 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-07-11 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.9 fL
+  2022-07-11 : Platelet distribution width [Entitic volume] in Blood by Automated count 269.7 fL
+  2022-07-11 : Platelets [#/volume] in Blood by Automated count 387.1 10*3/uL
+  2022-07-11 : Erythrocyte distribution width [Entitic volume] by Automated count 44.2 fL
+  2022-07-11 : MCHC [Mass/volume] by Automated count    34.8 g/dL
+  2022-07-11 : MCH [Entitic mass] by Automated count    30.5 pg
+  2022-07-11 : MCV [Entitic volume] by Automated count  86.1 fL
+  2022-07-11 : Hematocrit [Volume Fraction] of Blood by Automated count 37.8 %
+  2022-07-11 : Hemoglobin [Mass/volume] in Blood        14.7 g/dL
+  2022-07-11 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2022-07-11 : Leukocytes [#/volume] in Blood by Automated count 5.4 10*3/uL
+  2022-07-11 : Respiratory rate                         14.0 /min
+  2022-07-11 : Heart rate                               87.0 /min
+  2022-07-11 : Blood Pressure
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  122.0 mm[Hg]
+  2022-07-11 : Body mass index (BMI) [Percentile] Per age and gender 85.0 %
+  2022-07-11 : Body Mass Index                          20.9 kg/m2
+  2022-07-11 : Body Weight                              40.3 kg
+  2022-07-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2022-07-11 : Body Height                              138.9 cm
+  2021-07-05 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-07-05 : Respiratory rate                         14.0 /min
+  2021-07-05 : Heart rate                               62.0 /min
+  2021-07-05 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  123.0 mm[Hg]
+  2021-07-05 : Body mass index (BMI) [Percentile] Per age and gender 76.1 %
+  2021-07-05 : Body Mass Index                          18.8 kg/m2
+  2021-07-05 : Body Weight                              33.4 kg
+  2021-07-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2021-07-05 : Body Height                              133.3 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-07-11 : Medication Reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-07-11 : meningococcal MCV4P
+  2022-07-11 : HPV, quadrivalent
+  2022-07-11 : Influenza, seasonal, injectable, preservative free
+  2022-07-11 : Tdap
+  2021-07-05 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-07-11 (Dr. Peter Crona) : Encounter at LIGHTHOUSE PRIMARY CARE PC
+2021-07-05 (Dr. Peter Crona) : Encounter at LIGHTHOUSE PRIMARY CARE PC
+2020-09-08 (Dr. Carisa Kutch) : Encounter at LAWRENCE GENERAL HOSPITAL : Encounter for Acute bronchitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

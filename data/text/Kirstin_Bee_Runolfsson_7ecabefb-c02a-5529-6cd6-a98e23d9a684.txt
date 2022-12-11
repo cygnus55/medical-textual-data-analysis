@@ -1,0 +1,104 @@
+Kirstin Bee Runolfsson
+======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 42
+Birth Date:          1980-03-10
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2020-03-16 -            : Has a criminal record (finding)
+  2020-03-16 -            : Stress (finding)
+  2020-03-16 -            : Body mass index 30+ - obesity (finding)
+  2014-05-26 - 2022-03-21 : Limited social contact (finding)
+  2008-05-19 - 2014-05-26 : Stress (finding)
+  1999-05-10 - 2005-05-16 : Stress (finding)
+  1998-05-04 -            : Social isolation (finding)
+  1998-05-04 -            : Unemployed (finding)
+  1998-05-04 -            : Received higher education (finding)
+  1998-05-04 -            : Housing unsatisfactory (finding)
+  1992-03-30 -            : Risk activity involvement (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-03-21 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    2.0 {score}
+  2022-03-21 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-03-21 : Lipid Panel
+           - Total Cholesterol                        191.5 mg/dL
+           - Triglycerides                            106.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      111.3 mg/dL
+           - High Density Lipoprotein Cholesterol     59.0 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-03-21 : Total score [DAST-10]                    2.0 {score}
+  2022-03-21 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-03-21 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Very much 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Utilities 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 3092 /a
+           - What is your main insurance?             Medicaid 
+           - What is your current work situation?     Unemployed (finding) 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             979 Kertzmann Alley Apt 75 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 5.0 {#}
+           - What language are you most comfortable speaking? Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2022-03-21 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-03-21 : High Density Lipoprotein Cholesterol     59.0 mg/dL
+  2022-03-21 : Low Density Lipoprotein Cholesterol      111.3 mg/dL
+  2022-03-21 : Triglycerides                            106.0 mg/dL
+  2022-03-21 : Total Cholesterol                        191.5 mg/dL
+  2022-03-21 : Respiratory rate                         14.0 /min
+  2022-03-21 : Heart rate                               83.0 /min
+  2022-03-21 : Blood Pressure
+           - Diastolic Blood Pressure                 89.0 mm[Hg]
+           - Systolic Blood Pressure                  113.0 mm[Hg]
+  2022-03-21 : Body Mass Index                          30.1 kg/m2
+  2022-03-21 : Body Weight                              73.3 kg
+  2022-03-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2022-03-21 : Body Height                              156.0 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-03-21 : Screening for drug abuse (procedure)
+  2022-03-21 : Assessment of substance use (procedure)
+  2022-03-21 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2022-03-21 : Depression screening (procedure)
+  2022-03-21 : Medication Reconciliation (procedure)
+  2022-03-21 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-03-21 : Hep A, adult
+  2022-03-21 : Td (adult) preservative free
+  2022-03-21 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-03-21 (Dr. Tomeka Rutherford) : Encounter at PARTNERS IN INTERNAL MEDICINE PC
+2020-03-16 (Dr. Tomeka Rutherford) : Encounter at PARTNERS IN INTERNAL MEDICINE PC
+2014-05-26 (Dr. Tomeka Rutherford) : Encounter at PARTNERS IN INTERNAL MEDICINE PC
+2008-05-19 (Dr. Tomeka Rutherford) : Encounter at PARTNERS IN INTERNAL MEDICINE PC
+1999-05-10 (Dr. Tomeka Rutherford) : Encounter at PARTNERS IN INTERNAL MEDICINE PC
+1998-05-04 (Dr. Tomeka Rutherford) : Encounter at PARTNERS IN INTERNAL MEDICINE PC
+1992-03-30 (Dr. Tomeka Rutherford) : Encounter at PARTNERS IN INTERNAL MEDICINE PC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

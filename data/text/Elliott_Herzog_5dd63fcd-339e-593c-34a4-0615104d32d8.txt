@@ -1,0 +1,1101 @@
+Elliott Herzog
+==============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1987-12-16
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2011-07-13[CURRENT] : lisinopril 10 MG Oral Tablet for Hypertension
+  2011-07-13[CURRENT] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2011-05-11[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2011-05-11[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2011-04-13[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2011-04-13[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2011-03-16[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2011-03-16[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2010-12-15[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2010-12-15[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2010-06-16[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2010-06-16[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2010-03-10[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2010-03-10[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2010-02-17[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2010-02-17[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2009-12-16[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2009-12-16[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2009-09-16[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2009-09-16[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2009-03-04[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2009-03-04[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2009-02-18[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2009-02-18[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2008-05-28[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2008-05-28[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2008-02-20[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2008-02-20[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2007-08-29[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2007-08-29[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2007-07-04[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2007-07-04[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2007-02-14[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2007-02-14[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2006-02-08[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2006-02-08[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2006-02-08[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2006-02-08[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2011-07-13 -            : Social isolation (finding)
+  2011-07-13 -            : Full-time employment (finding)
+  2011-05-11 -            : Stress (finding)
+  2011-05-11 - 2011-07-13 : Part-time employment (finding)
+  2011-04-13 - 2011-05-11 : Limited social contact (finding)
+  2011-04-13 - 2011-05-11 : Full-time employment (finding)
+  2011-03-16 - 2011-04-13 : Full-time employment (finding)
+  2010-12-15 - 2011-03-16 : Full-time employment (finding)
+  2010-06-16 - 2010-12-15 : Victim of intimate partner abuse (finding)
+  2010-06-16 - 2010-12-15 : Stress (finding)
+  2010-06-16 - 2010-12-15 : Full-time employment (finding)
+  2010-03-10 - 2010-06-16 : Full-time employment (finding)
+  2010-02-17 - 2010-03-10 : Stress (finding)
+  2010-02-17 - 2011-03-16 : Limited social contact (finding)
+  2010-02-17 - 2010-03-10 : Full-time employment (finding)
+  2009-12-16 - 2010-02-17 : Full-time employment (finding)
+  2009-12-16 -            : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  2009-12-16 -            : Chronic kidney disease stage 2 (disorder)
+  2009-09-16 - 2009-12-16 : Full-time employment (finding)
+  2009-03-04 - 2009-09-16 : Full-time employment (finding)
+  2009-02-18 - 2009-03-04 : Stress (finding)
+  2009-02-18 - 2009-03-04 : Full-time employment (finding)
+  2008-09-13 -            : Drug overdose
+  2008-05-28 - 2009-12-16 : Limited social contact (finding)
+  2008-02-20 - 2008-05-28 : Full-time employment (finding)
+  2007-08-29 - 2008-05-28 : Stress (finding)
+  2007-08-29 - 2008-02-20 : Full-time employment (finding)
+  2007-07-04 - 2008-02-20 : Social isolation (finding)
+  2007-07-04 - 2007-08-29 : Full-time employment (finding)
+  2007-07-04 -            : Diabetic renal disease (disorder)
+  2007-07-04 -            : Chronic kidney disease stage 1 (disorder)
+  2006-02-08 - 2007-02-14 : Stress (finding)
+  2006-02-08 -            : Received certificate of high school equivalency (finding)
+  2006-02-08 -            : Housing unsatisfactory (finding)
+  2006-02-08 -            : Hypertension
+  2003-01-31 -            : Chronic intractable migraine without aura
+  2002-05-30 -            : Impacted molars
+  2002-02-17 -            : Chronic pain
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2008-09-13[CURRENT] : Care plan (record artifact)
+                         Activity: Drug addiction counseling
+                         Activity: Drug detoxification
+                         Activity: Drug addiction therapy
+  2006-02-08[CURRENT] : Lifestyle education regarding hypertension
+                         Reason: Hypertension
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+--------------------------------------------------------------------------------
+REPORTS:
+  2011-08-03 : U.S. standard certificate of death - 2003 revision
+           - Cause of Death [US Standard Certificate of Death] Drug overdose 
+  2011-07-13 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2011-07-13 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2011-07-13 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 2.0 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 1.4 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 8.8 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                5.7 pH
+           - Protein [Mass/volume] in Urine by Test strip 282.4 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2011-07-13 : Basic Metabolic 2000 Panel
+           - Glucose                                  65.1 mg/dL
+           - Urea Nitrogen                            14.8 mg/dL
+           - Creatinine                               2.1 mg/dL
+           - Calcium                                  9.7 mg/dL
+           - Sodium                                   143.1 mmol/L
+           - Potassium                                4.3 mmol/L
+           - Chloride                                 108.0 mmol/L
+           - Carbon Dioxide                           28.5 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 73.3 mL/min
+  2011-05-11 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2011-05-11 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2011-05-11 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 1.6 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 1.2 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 13.1 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                6.0 pH
+           - Protein [Mass/volume] in Urine by Test strip 328.0 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2011-05-11 : Basic Metabolic 2000 Panel
+           - Glucose                                  71.6 mg/dL
+           - Urea Nitrogen                            14.5 mg/dL
+           - Creatinine                               1.9 mg/dL
+           - Calcium                                  10.1 mg/dL
+           - Sodium                                   137.3 mmol/L
+           - Potassium                                3.8 mmol/L
+           - Chloride                                 106.8 mmol/L
+           - Carbon Dioxide                           20.0 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 71.5 mL/min
+  2011-04-13 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2011-04-13 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 13.0 {score}
+  2011-04-13 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 0.7 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 1.0 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 3.9 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                5.0 pH
+           - Protein [Mass/volume] in Urine by Test strip 335.7 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2011-04-13 : Basic Metabolic 2000 Panel
+           - Glucose                                  73.8 mg/dL
+           - Urea Nitrogen                            15.6 mg/dL
+           - Creatinine                               2.0 mg/dL
+           - Calcium                                  9.0 mg/dL
+           - Sodium                                   143.4 mmol/L
+           - Potassium                                4.6 mmol/L
+           - Chloride                                 101.9 mmol/L
+           - Carbon Dioxide                           20.2 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 79.1 mL/min
+  2011-03-16 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2011-03-16 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 0.5 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 0.8 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 17.9 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                6.8 pH
+           - Protein [Mass/volume] in Urine by Test strip 283.0 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2011-03-16 : Basic Metabolic 2000 Panel
+           - Glucose                                  75.1 mg/dL
+           - Urea Nitrogen                            19.1 mg/dL
+           - Creatinine                               2.1 mg/dL
+           - Calcium                                  9.7 mg/dL
+           - Sodium                                   137.5 mmol/L
+           - Potassium                                4.3 mmol/L
+           - Chloride                                 101.4 mmol/L
+           - Carbon Dioxide                           24.9 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 74.2 mL/min
+  2010-12-15 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2010-12-15 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2010-12-15 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2010-12-15 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 0.8 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 1.0 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 4.2 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                6.9 pH
+           - Protein [Mass/volume] in Urine by Test strip 166.3 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2010-12-15 : Basic Metabolic 2000 Panel
+           - Glucose                                  68.5 mg/dL
+           - Urea Nitrogen                            18.1 mg/dL
+           - Creatinine                               2.1 mg/dL
+           - Calcium                                  9.8 mg/dL
+           - Sodium                                   138.9 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 108.2 mmol/L
+           - Carbon Dioxide                           27.0 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 87.0 mL/min
+  2010-06-16 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2010-06-16 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2010-06-16 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 2.4 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 0.4 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 9.5 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                5.5 pH
+           - Protein [Mass/volume] in Urine by Test strip 315.1 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2010-06-16 : Basic Metabolic 2000 Panel
+           - Glucose                                  86.6 mg/dL
+           - Urea Nitrogen                            15.4 mg/dL
+           - Creatinine                               2.1 mg/dL
+           - Calcium                                  10.1 mg/dL
+           - Sodium                                   140.8 mmol/L
+           - Potassium                                5.2 mmol/L
+           - Chloride                                 110.6 mmol/L
+           - Carbon Dioxide                           28.2 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 71.8 mL/min
+  2010-03-10 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2010-03-10 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2010-03-10 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 2.4 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 0.5 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 5.2 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                5.9 pH
+           - Protein [Mass/volume] in Urine by Test strip 177.1 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2010-03-10 : Basic Metabolic 2000 Panel
+           - Glucose                                  96.0 mg/dL
+           - Urea Nitrogen                            19.5 mg/dL
+           - Creatinine                               2.0 mg/dL
+           - Calcium                                  9.9 mg/dL
+           - Sodium                                   139.5 mmol/L
+           - Potassium                                4.8 mmol/L
+           - Chloride                                 102.4 mmol/L
+           - Carbon Dioxide                           20.3 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 73.0 mL/min
+  2010-02-17 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2010-02-17 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 2.2 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 1.2 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 9.0 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                5.5 pH
+           - Protein [Mass/volume] in Urine by Test strip 349.3 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2010-02-17 : Basic Metabolic 2000 Panel
+           - Glucose                                  98.7 mg/dL
+           - Urea Nitrogen                            14.9 mg/dL
+           - Creatinine                               1.9 mg/dL
+           - Calcium                                  9.3 mg/dL
+           - Sodium                                   140.5 mmol/L
+           - Potassium                                5.2 mmol/L
+           - Chloride                                 102.8 mmol/L
+           - Carbon Dioxide                           21.5 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 70.3 mL/min
+  2009-12-16 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2009-12-16 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2009-12-16 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 0.7 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 0.5 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 14.5 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                6.2 pH
+           - Protein [Mass/volume] in Urine by Test strip 230.8 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2009-12-16 : Basic Metabolic 2000 Panel
+           - Glucose                                  90.5 mg/dL
+           - Urea Nitrogen                            8.4 mg/dL
+           - Creatinine                               1.9 mg/dL
+           - Calcium                                  8.7 mg/dL
+           - Sodium                                   138.1 mmol/L
+           - Potassium                                4.0 mmol/L
+           - Chloride                                 106.7 mmol/L
+           - Carbon Dioxide                           20.9 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 70.0 mL/min
+  2009-09-16 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 1.2 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 0.9 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 13.2 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = trace (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                6.6 pH
+           - Protein [Mass/volume] in Urine by Test strip 138.8 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = + (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2009-09-16 : Basic Metabolic 2000 Panel
+           - Glucose                                  84.1 mg/dL
+           - Urea Nitrogen                            7.1 mg/dL
+           - Creatinine                               1.7 mg/dL
+           - Calcium                                  9.0 mg/dL
+           - Sodium                                   139.3 mmol/L
+           - Potassium                                4.0 mmol/L
+           - Chloride                                 102.0 mmol/L
+           - Carbon Dioxide                           23.4 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 101.8 mL/min
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2011-08-03 : Cause of Death [US Standard Certificate of Death] Drug overdose 
+  2011-07-13 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2011-07-13 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2011-07-13 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Less than once a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 13914 /a
+           - What is your main insurance?             I choose not to answer this question 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             386 Sauer Drive 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2011-07-13 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2011-07-13 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2011-07-13 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2011-07-13 : Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+  2011-07-13 : Protein [Mass/volume] in Urine by Test strip 282.4 mg/dL
+  2011-07-13 : pH of Urine by Test strip                5.7 pH
+  2011-07-13 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2011-07-13 : Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+  2011-07-13 : Ketones [Mass/volume] in Urine by Test strip 8.8 mg/dL
+  2011-07-13 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2011-07-13 : Bilirubin.total [Mass/volume] in Urine by Test strip 1.4 mg/dL
+  2011-07-13 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2011-07-13 : Glucose [Mass/volume] in Urine by Test strip 2.0 mg/dL
+  2011-07-13 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2011-07-13 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2011-07-13 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2011-07-13 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2011-07-13 : Glomerular filtration rate/1.73 sq M.predicted 73.3 mL/min
+  2011-07-13 : Carbon Dioxide                           28.5 mmol/L
+  2011-07-13 : Chloride                                 108.0 mmol/L
+  2011-07-13 : Potassium                                4.3 mmol/L
+  2011-07-13 : Sodium                                   143.1 mmol/L
+  2011-07-13 : Calcium                                  9.7 mg/dL
+  2011-07-13 : Creatinine                               2.1 mg/dL
+  2011-07-13 : Urea Nitrogen                            14.8 mg/dL
+  2011-07-13 : Glucose                                  65.1 mg/dL
+  2011-07-13 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2011-07-13 : Respiratory rate                         12.0 /min
+  2011-07-13 : Heart rate                               93.0 /min
+  2011-07-13 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  2011-07-13 : Body Mass Index                          27.9 kg/m2
+  2011-07-13 : Body Weight                              93.6 kg
+  2011-07-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2011-07-13 : Body Height                              183.1 cm
+  2011-05-11 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2011-05-11 : Total score [HARK]                       0.0 {score}
+  2011-05-11 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Quite a bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 13914 /a
+           - What is your main insurance?             I choose not to answer this question 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             386 Sauer Drive 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2011-05-11 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2011-05-11 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2011-05-11 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2011-05-11 : Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+  2011-05-11 : Protein [Mass/volume] in Urine by Test strip 328.0 mg/dL
+  2011-05-11 : pH of Urine by Test strip                6.0 pH
+  2011-05-11 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2011-05-11 : Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+  2011-05-11 : Ketones [Mass/volume] in Urine by Test strip 13.1 mg/dL
+  2011-05-11 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2011-05-11 : Bilirubin.total [Mass/volume] in Urine by Test strip 1.2 mg/dL
+  2011-05-11 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2011-05-11 : Glucose [Mass/volume] in Urine by Test strip 1.6 mg/dL
+  2011-05-11 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2011-05-11 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2011-05-11 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2011-05-11 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2011-05-11 : Glomerular filtration rate/1.73 sq M.predicted 71.5 mL/min
+  2011-05-11 : Carbon Dioxide                           20.0 mmol/L
+  2011-05-11 : Chloride                                 106.8 mmol/L
+  2011-05-11 : Potassium                                3.8 mmol/L
+  2011-05-11 : Sodium                                   137.3 mmol/L
+  2011-05-11 : Calcium                                  10.1 mg/dL
+  2011-05-11 : Creatinine                               1.9 mg/dL
+  2011-05-11 : Urea Nitrogen                            14.5 mg/dL
+  2011-05-11 : Glucose                                  71.6 mg/dL
+  2011-05-11 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2011-05-11 : Respiratory rate                         15.0 /min
+  2011-05-11 : Heart rate                               68.0 /min
+  2011-05-11 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  132.0 mm[Hg]
+  2011-05-11 : Body Mass Index                          27.9 kg/m2
+  2011-05-11 : Body Weight                              93.6 kg
+  2011-05-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2011-05-11 : Body Height                              183.1 cm
+  2011-04-13 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2011-04-13 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 13.0 {score}
+  2011-04-13 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 1 or 2 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 13914 /a
+           - What is your main insurance?             I choose not to answer this question 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             386 Sauer Drive 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2011-04-13 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2011-04-13 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2011-04-13 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2011-04-13 : Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+  2011-04-13 : Protein [Mass/volume] in Urine by Test strip 335.7 mg/dL
+  2011-04-13 : pH of Urine by Test strip                5.0 pH
+  2011-04-13 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2011-04-13 : Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+  2011-04-13 : Ketones [Mass/volume] in Urine by Test strip 3.9 mg/dL
+  2011-04-13 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2011-04-13 : Bilirubin.total [Mass/volume] in Urine by Test strip 1.0 mg/dL
+  2011-04-13 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2011-04-13 : Glucose [Mass/volume] in Urine by Test strip 0.7 mg/dL
+  2011-04-13 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2011-04-13 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2011-04-13 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2011-04-13 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2011-04-13 : Glomerular filtration rate/1.73 sq M.predicted 79.1 mL/min
+  2011-04-13 : Carbon Dioxide                           20.2 mmol/L
+  2011-04-13 : Chloride                                 101.9 mmol/L
+  2011-04-13 : Potassium                                4.6 mmol/L
+  2011-04-13 : Sodium                                   143.4 mmol/L
+  2011-04-13 : Calcium                                  9.0 mg/dL
+  2011-04-13 : Creatinine                               2.0 mg/dL
+  2011-04-13 : Urea Nitrogen                            15.6 mg/dL
+  2011-04-13 : Glucose                                  73.8 mg/dL
+  2011-04-13 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2011-04-13 : Respiratory rate                         15.0 /min
+  2011-04-13 : Heart rate                               75.0 /min
+  2011-04-13 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  133.0 mm[Hg]
+  2011-04-13 : Body Mass Index                          27.9 kg/m2
+  2011-04-13 : Body Weight                              93.6 kg
+  2011-04-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2011-04-13 : Body Height                              183.1 cm
+  2011-03-16 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2011-03-16 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Utilities 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 13914 /a
+           - What is your main insurance?             I choose not to answer this question 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             386 Sauer Drive 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2011-03-16 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2011-03-16 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2011-03-16 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2011-03-16 : Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+  2011-03-16 : Protein [Mass/volume] in Urine by Test strip 283.0 mg/dL
+  2011-03-16 : pH of Urine by Test strip                6.8 pH
+  2011-03-16 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2011-03-16 : Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+  2011-03-16 : Ketones [Mass/volume] in Urine by Test strip 17.9 mg/dL
+  2011-03-16 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2011-03-16 : Bilirubin.total [Mass/volume] in Urine by Test strip 0.8 mg/dL
+  2011-03-16 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2011-03-16 : Glucose [Mass/volume] in Urine by Test strip 0.5 mg/dL
+  2011-03-16 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2011-03-16 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2011-03-16 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2011-03-16 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2011-03-16 : Glomerular filtration rate/1.73 sq M.predicted 74.2 mL/min
+  2011-03-16 : Carbon Dioxide                           24.9 mmol/L
+  2011-03-16 : Chloride                                 101.4 mmol/L
+  2011-03-16 : Potassium                                4.3 mmol/L
+  2011-03-16 : Sodium                                   137.5 mmol/L
+  2011-03-16 : Calcium                                  9.7 mg/dL
+  2011-03-16 : Creatinine                               2.1 mg/dL
+  2011-03-16 : Urea Nitrogen                            19.1 mg/dL
+  2011-03-16 : Glucose                                  75.1 mg/dL
+  2011-03-16 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2011-03-16 : Respiratory rate                         15.0 /min
+  2011-03-16 : Heart rate                               98.0 /min
+  2011-03-16 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  136.0 mm[Hg]
+  2011-03-16 : Body Mass Index                          27.9 kg/m2
+  2011-03-16 : Body Weight                              93.6 kg
+  2011-03-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2011-03-16 : Body Height                              183.1 cm
+  2010-12-15 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2010-12-15 : Total score [HARK]                       0.0 {score}
+  2010-12-15 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2010-12-15 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 13914 /a
+           - What is your main insurance?             I choose not to answer this question 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             386 Sauer Drive 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2010-12-15 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2010-12-15 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2010-12-15 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2010-12-15 : Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+  2010-12-15 : Protein [Mass/volume] in Urine by Test strip 166.3 mg/dL
+  2010-12-15 : pH of Urine by Test strip                6.9 pH
+  2010-12-15 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2010-12-15 : Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+  2010-12-15 : Ketones [Mass/volume] in Urine by Test strip 4.2 mg/dL
+  2010-12-15 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2010-12-15 : Bilirubin.total [Mass/volume] in Urine by Test strip 1.0 mg/dL
+  2010-12-15 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2010-12-15 : Glucose [Mass/volume] in Urine by Test strip 0.8 mg/dL
+  2010-12-15 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2010-12-15 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2010-12-15 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2010-12-15 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2010-12-15 : Glomerular filtration rate/1.73 sq M.predicted 87.0 mL/min
+  2010-12-15 : Carbon Dioxide                           27.0 mmol/L
+  2010-12-15 : Chloride                                 108.2 mmol/L
+  2010-12-15 : Potassium                                4.5 mmol/L
+  2010-12-15 : Sodium                                   138.9 mmol/L
+  2010-12-15 : Calcium                                  9.8 mg/dL
+  2010-12-15 : Creatinine                               2.1 mg/dL
+  2010-12-15 : Urea Nitrogen                            18.1 mg/dL
+  2010-12-15 : Glucose                                  68.5 mg/dL
+  2010-12-15 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2010-12-15 : Respiratory rate                         16.0 /min
+  2010-12-15 : Heart rate                               92.0 /min
+  2010-12-15 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  131.0 mm[Hg]
+  2010-12-15 : Body Mass Index                          27.4 kg/m2
+  2010-12-15 : Body Weight                              91.7 kg
+  2010-12-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2010-12-15 : Body Height                              183.1 cm
+  2010-06-16 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2010-06-16 : Total score [HARK]                       0.0 {score}
+  2010-06-16 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? Yes 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Utilities 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 13914 /a
+           - What is your main insurance?             I choose not to answer this question 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             386 Sauer Drive 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2010-06-16 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2010-06-16 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2010-06-16 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2010-06-16 : Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+  2010-06-16 : Protein [Mass/volume] in Urine by Test strip 315.1 mg/dL
+  2010-06-16 : pH of Urine by Test strip                5.5 pH
+  2010-06-16 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2010-06-16 : Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+  2010-06-16 : Ketones [Mass/volume] in Urine by Test strip 9.5 mg/dL
+  2010-06-16 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2010-06-16 : Bilirubin.total [Mass/volume] in Urine by Test strip 0.4 mg/dL
+  2010-06-16 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2010-06-16 : Glucose [Mass/volume] in Urine by Test strip 2.4 mg/dL
+  2010-06-16 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2010-06-16 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2010-06-16 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2010-06-16 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2010-06-16 : Glomerular filtration rate/1.73 sq M.predicted 71.8 mL/min
+  2010-06-16 : Carbon Dioxide                           28.2 mmol/L
+  2010-06-16 : Chloride                                 110.6 mmol/L
+  2010-06-16 : Potassium                                5.2 mmol/L
+  2010-06-16 : Sodium                                   140.8 mmol/L
+  2010-06-16 : Calcium                                  10.1 mg/dL
+  2010-06-16 : Creatinine                               2.1 mg/dL
+  2010-06-16 : Urea Nitrogen                            15.4 mg/dL
+  2010-06-16 : Glucose                                  86.6 mg/dL
+  2010-06-16 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2010-06-16 : Respiratory rate                         13.0 /min
+  2010-06-16 : Heart rate                               78.0 /min
+  2010-06-16 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  133.0 mm[Hg]
+  2010-06-16 : Body Mass Index                          27.4 kg/m2
+  2010-06-16 : Body Weight                              91.7 kg
+  2010-06-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2010-06-16 : Body Height                              183.1 cm
+  2010-03-10 : Total score [HARK]                       0.0 {score}
+  2010-03-10 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2010-03-10 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Utilities 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 13914 /a
+           - What is your main insurance?             I choose not to answer this question 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             386 Sauer Drive 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2010-03-10 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2010-03-10 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2010-03-10 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2010-03-10 : Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+  2010-03-10 : Protein [Mass/volume] in Urine by Test strip 177.1 mg/dL
+  2010-03-10 : pH of Urine by Test strip                5.9 pH
+  2010-03-10 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2010-03-10 : Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+  2010-03-10 : Ketones [Mass/volume] in Urine by Test strip 5.2 mg/dL
+  2010-03-10 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2010-03-10 : Bilirubin.total [Mass/volume] in Urine by Test strip 0.5 mg/dL
+  2010-03-10 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2010-03-10 : Glucose [Mass/volume] in Urine by Test strip 2.4 mg/dL
+  2010-03-10 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2010-03-10 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2010-03-10 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2010-03-10 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2010-03-10 : Glomerular filtration rate/1.73 sq M.predicted 73.0 mL/min
+  2010-03-10 : Carbon Dioxide                           20.3 mmol/L
+  2010-03-10 : Chloride                                 102.4 mmol/L
+  2010-03-10 : Potassium                                4.8 mmol/L
+  2010-03-10 : Sodium                                   139.5 mmol/L
+  2010-03-10 : Calcium                                  9.9 mg/dL
+  2010-03-10 : Creatinine                               2.0 mg/dL
+  2010-03-10 : Urea Nitrogen                            19.5 mg/dL
+  2010-03-10 : Glucose                                  96.0 mg/dL
+  2010-03-10 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2010-03-10 : Respiratory rate                         14.0 /min
+  2010-03-10 : Heart rate                               86.0 /min
+  2010-03-10 : Blood Pressure
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  131.0 mm[Hg]
+  2010-03-10 : Body Mass Index                          27.4 kg/m2
+  2010-03-10 : Body Weight                              91.7 kg
+  2010-03-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2010-03-10 : Body Height                              183.1 cm
+  2010-02-17 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2010-02-17 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 1 or 2 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 13914 /a
+           - What is your main insurance?             I choose not to answer this question 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             386 Sauer Drive 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? Yes 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2010-02-17 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2010-02-17 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2010-02-17 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2010-02-17 : Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+  2010-02-17 : Protein [Mass/volume] in Urine by Test strip 349.3 mg/dL
+  2010-02-17 : pH of Urine by Test strip                5.5 pH
+  2010-02-17 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2010-02-17 : Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+  2010-02-17 : Ketones [Mass/volume] in Urine by Test strip 9.0 mg/dL
+  2010-02-17 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2010-02-17 : Bilirubin.total [Mass/volume] in Urine by Test strip 1.2 mg/dL
+  2010-02-17 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2010-02-17 : Glucose [Mass/volume] in Urine by Test strip 2.2 mg/dL
+  2010-02-17 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2010-02-17 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2010-02-17 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2010-02-17 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2010-02-17 : Glomerular filtration rate/1.73 sq M.predicted 70.3 mL/min
+  2010-02-17 : Carbon Dioxide                           21.5 mmol/L
+  2010-02-17 : Chloride                                 102.8 mmol/L
+  2010-02-17 : Potassium                                5.2 mmol/L
+  2010-02-17 : Sodium                                   140.5 mmol/L
+  2010-02-17 : Calcium                                  9.3 mg/dL
+  2010-02-17 : Creatinine                               1.9 mg/dL
+  2010-02-17 : Urea Nitrogen                            14.9 mg/dL
+  2010-02-17 : Glucose                                  98.7 mg/dL
+  2010-02-17 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2010-02-17 : Respiratory rate                         13.0 /min
+  2010-02-17 : Heart rate                               84.0 /min
+  2010-02-17 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  129.0 mm[Hg]
+  2010-02-17 : Body Mass Index                          27.4 kg/m2
+  2010-02-17 : Body Weight                              91.7 kg
+  2010-02-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2010-02-17 : Body Height                              183.1 cm
+  2009-12-16 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2009-12-16 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2009-12-16 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? I choose not to answer this question 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Clothing 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 13914 /a
+           - What is your main insurance?             I choose not to answer this question 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             386 Sauer Drive 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2009-12-16 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2009-12-16 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2009-12-16 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2009-12-16 : Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+  2009-12-16 : Protein [Mass/volume] in Urine by Test strip 230.8 mg/dL
+  2009-12-16 : pH of Urine by Test strip                6.2 pH
+  2009-12-16 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2009-12-16 : Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+  2009-12-16 : Ketones [Mass/volume] in Urine by Test strip 14.5 mg/dL
+  2009-12-16 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2009-12-16 : Bilirubin.total [Mass/volume] in Urine by Test strip 0.5 mg/dL
+  2009-12-16 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2009-12-16 : Glucose [Mass/volume] in Urine by Test strip 0.7 mg/dL
+  2009-12-16 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2009-12-16 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2009-12-16 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2009-12-16 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2009-12-16 : Glomerular filtration rate/1.73 sq M.predicted 70.0 mL/min
+  2009-12-16 : Carbon Dioxide                           20.9 mmol/L
+  2009-12-16 : Chloride                                 106.7 mmol/L
+  2009-12-16 : Potassium                                4.0 mmol/L
+  2009-12-16 : Sodium                                   138.1 mmol/L
+  2009-12-16 : Calcium                                  8.7 mg/dL
+  2009-12-16 : Creatinine                               1.9 mg/dL
+  2009-12-16 : Urea Nitrogen                            8.4 mg/dL
+  2009-12-16 : Glucose                                  90.5 mg/dL
+  2009-12-16 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2009-12-16 : Respiratory rate                         15.0 /min
+  2009-12-16 : Heart rate                               80.0 /min
+  2009-12-16 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  2009-12-16 : Body Mass Index                          27.4 kg/m2
+  2009-12-16 : Body Weight                              91.7 kg
+  2009-12-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2009-12-16 : Body Height                              183.1 cm
+  2009-09-16 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Medicine or Any Health Care 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 13914 /a
+           - What is your main insurance?             I choose not to answer this question 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             386 Sauer Drive 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2009-09-16 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2009-09-16 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2009-09-16 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2009-09-16 : Protein [Presence] in Urine by Test strip Urine protein test = + (finding) {nominal}
+  2009-09-16 : Protein [Mass/volume] in Urine by Test strip 138.8 mg/dL
+  2009-09-16 : pH of Urine by Test strip                6.6 pH
+  2009-09-16 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2009-09-16 : Ketones [Presence] in Urine by Test strip Urine ketone test = trace (finding) {nominal}
+  2009-09-16 : Ketones [Mass/volume] in Urine by Test strip 13.2 mg/dL
+  2009-09-16 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2009-09-16 : Bilirubin.total [Mass/volume] in Urine by Test strip 0.9 mg/dL
+  2009-09-16 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2009-09-16 : Glucose [Mass/volume] in Urine by Test strip 1.2 mg/dL
+  2009-09-16 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2009-09-16 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2009-09-16 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2009-09-16 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2009-09-16 : Glomerular filtration rate/1.73 sq M.predicted 101.8 mL/min
+  2009-09-16 : Carbon Dioxide                           23.4 mmol/L
+  2009-09-16 : Chloride                                 102.0 mmol/L
+  2009-09-16 : Potassium                                4.0 mmol/L
+  2009-09-16 : Sodium                                   139.3 mmol/L
+  2009-09-16 : Calcium                                  9.0 mg/dL
+  2009-09-16 : Creatinine                               1.7 mg/dL
+  2009-09-16 : Urea Nitrogen                            7.1 mg/dL
+  2009-09-16 : Glucose                                  84.1 mg/dL
+  2009-09-16 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2009-09-16 : Respiratory rate                         14.0 /min
+  2009-09-16 : Heart rate                               63.0 /min
+  2009-09-16 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  2009-09-16 : Body Mass Index                          26.8 kg/m2
+  2009-09-16 : Body Weight                              90.0 kg
+  2009-09-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2009-09-16 : Body Height                              183.1 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2011-07-13 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2011-07-13 : Depression screening (procedure)
+  2011-07-13 : Assessment of anxiety (procedure)
+  2011-07-13 : Medication Reconciliation (procedure)
+  2011-07-13 : Assessment of health and social care needs (procedure)
+  2011-05-11 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2011-05-11 : Depression screening (procedure)
+  2011-05-11 : Screening for domestic abuse (procedure)
+  2011-05-11 : Assessment of health and social care needs (procedure)
+  2011-04-13 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2011-04-13 : Depression screening (procedure)
+  2011-04-13 : Assessment of anxiety (procedure)
+  2011-04-13 : Assessment of health and social care needs (procedure)
+  2011-03-16 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2011-03-16 : Depression screening (procedure)
+  2011-03-16 : Medication Reconciliation (procedure)
+  2011-03-16 : Assessment of health and social care needs (procedure)
+  2010-12-15 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2010-12-15 : Depression screening (procedure)
+  2010-12-15 : Screening for domestic abuse (procedure)
+  2010-12-15 : Assessment of anxiety (procedure)
+  2010-12-15 : Assessment of health and social care needs (procedure)
+  2010-06-16 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2010-06-16 : Depression screening (procedure)
+  2010-06-16 : Screening for domestic abuse (procedure)
+  2010-06-16 : Assessment of health and social care needs (procedure)
+  2010-03-10 : Screening for domestic abuse (procedure)
+  2010-03-10 : Assessment of anxiety (procedure)
+  2010-03-10 : Assessment of health and social care needs (procedure)
+  2010-02-17 : Assessment of anxiety (procedure)
+  2010-02-17 : Assessment of health and social care needs (procedure)
+  2009-12-16 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2009-12-16 : Depression screening (procedure)
+  2009-12-16 : Assessment of anxiety (procedure)
+  2009-12-16 : Medication Reconciliation (procedure)
+  2009-12-16 : Assessment of health and social care needs (procedure)
+  2009-09-16 : Medication Reconciliation (procedure)
+  2009-09-16 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2011-07-13 : Influenza, seasonal, injectable, preservative free
+  2010-06-16 : Influenza, seasonal, injectable, preservative free
+  2009-09-16 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2011-08-03 (Dr. Lai Nicolas) : Encounter at UPHAMS CORNER HEALTH COMMITTEE INC : Encounter for Drug overdose
+2011-07-21 (Dr. Mana Boehm) : Encounter at MARIAN MANOR : Encounter for Drug overdose
+2011-07-13 (Dr. Latoyia Lindgren) : Encounter at DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER
+2011-05-17 (Dr. Latoyia Lindgren) : Encounter at DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER
+2011-05-11 (Dr. Latoyia Lindgren) : Encounter at DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER
+2011-04-17 (Dr. Latoyia Lindgren) : Encounter at DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER
+2011-04-13 (Dr. Latoyia Lindgren) : Encounter at DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER
+2011-03-18 (Dr. Latoyia Lindgren) : Encounter at DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER
+2011-03-11 (Dr. Mana Boehm) : Encounter at MARIAN MANOR : Encounter for Drug overdose
+2011-03-16 (Dr. Lai Nicolas) : Encounter at UPHAMS CORNER HEALTH COMMITTEE INC
+2010-12-15 (Dr. Latoyia Lindgren) : Encounter at DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER
+2010-06-16 (Dr. Latoyia Lindgren) : Encounter at DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER
+2010-05-19 (Dr. Courtney Kihn) : Encounter at CARECENTRAL URGENT CARE MEDICAL GROUP PC
+2010-03-10 (Dr. Lai Nicolas) : Encounter at UPHAMS CORNER HEALTH COMMITTEE INC
+2010-02-17 (Dr. Latoyia Lindgren) : Encounter at DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER
+2009-12-16 (Dr. Latoyia Lindgren) : Encounter at DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER
+2009-09-16 (Dr. Latoyia Lindgren) : Encounter at DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER
+2009-03-04 (Dr. Lai Nicolas) : Encounter at UPHAMS CORNER HEALTH COMMITTEE INC
+2009-02-18 (Dr. Latoyia Lindgren) : Encounter at DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER
+2008-09-13 (Dr. Mana Boehm) : Encounter at MARIAN MANOR : Encounter for Drug overdose
+2008-05-28 (Dr. Latoyia Lindgren) : Encounter at DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER
+2008-02-20 (Dr. Lai Nicolas) : Encounter at UPHAMS CORNER HEALTH COMMITTEE INC
+2007-08-29 (Dr. Latoyia Lindgren) : Encounter at DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER
+2007-07-04 (Dr. Latoyia Lindgren) : Encounter at DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER
+2007-02-14 (Dr. Lai Nicolas) : Encounter at UPHAMS CORNER HEALTH COMMITTEE INC
+2006-02-11 (Dr. Latoyia Lindgren) : Encounter at DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER
+2006-02-08 (Dr. Lai Nicolas) : Encounter at UPHAMS CORNER HEALTH COMMITTEE INC
+2003-01-31 (Dr. Latoyia Lindgren) : Encounter at DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER : Encounter for Chronic intractable migraine without aura
+2002-05-30 (Dr. Latoyia Lindgren) : Encounter at DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER : Encounter for Impacted molars
+2002-02-17 (Dr. Latoyia Lindgren) : Encounter at DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER : Encounter for Chronic pain
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

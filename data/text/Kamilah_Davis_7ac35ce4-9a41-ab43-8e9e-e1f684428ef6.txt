@@ -1,0 +1,233 @@
+Kamilah Davis
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 50
+Birth Date:          1972-07-14
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2022-04-06[CURRENT] : Yaz 28 Day Pack
+  2022-04-01[CURRENT] : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+  2022-04-01[CURRENT] : tramadol hydrochloride 50 MG Oral Tablet
+  2022-04-01[CURRENT] : 72 HR Fentanyl 0.025 MG/HR Transdermal System
+  2021-03-26[STOPPED] : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+  2021-03-26[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2021-03-26[STOPPED] : 72 HR Fentanyl 0.025 MG/HR Transdermal System
+  2020-03-20[STOPPED] : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+  2020-03-20[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2020-03-20[STOPPED] : 72 HR Fentanyl 0.025 MG/HR Transdermal System
+  2019-03-15[STOPPED] : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+  2019-03-15[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2019-03-15[STOPPED] : 72 HR Fentanyl 0.025 MG/HR Transdermal System
+  2018-04-27[STOPPED] : Yaz 28 Day Pack
+  2018-03-09[STOPPED] : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+  2018-03-09[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2018-03-09[STOPPED] : 72 HR Fentanyl 0.025 MG/HR Transdermal System
+  2017-10-27[STOPPED] : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+  2017-10-27[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2017-10-27[STOPPED] : 72 HR Fentanyl 0.025 MG/HR Transdermal System
+  2017-03-03[STOPPED] : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+  2017-03-03[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2017-03-03[STOPPED] : 72 HR Fentanyl 0.025 MG/HR Transdermal System
+  2016-02-26[STOPPED] : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+  2016-02-26[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2016-02-26[STOPPED] : 72 HR Fentanyl 0.025 MG/HR Transdermal System
+  2015-02-20[STOPPED] : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+  2015-02-20[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2015-02-20[STOPPED] : 72 HR Fentanyl 0.025 MG/HR Transdermal System
+  2014-06-01[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2014-04-02[STOPPED] : 72 HR Fentanyl 0.025 MG/HR Transdermal System
+  2014-02-14[STOPPED] : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+  2014-02-02[STOPPED] : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-04-01 -            : Reports of violence in the environment (finding)
+  2022-04-01 -            : Full-time employment (finding)
+  2021-03-26 - 2022-04-01 : Part-time employment (finding)
+  2020-03-20 - 2022-04-01 : Limited social contact (finding)
+  2020-03-20 - 2021-03-26 : Full-time employment (finding)
+  2019-03-15 - 2020-03-20 : Full-time employment (finding)
+  2017-10-27 -            : Severe anxiety (panic) (finding
+  2017-03-03 - 2017-10-27 : Full-time employment (finding)
+  2016-02-26 - 2022-04-01 : Stress (finding)
+  2015-02-20 - 2016-02-26 : Full-time employment (finding)
+  2014-02-02 -            : Chronic neck pain (finding)
+  2012-07-20 - 2014-02-14 : Full-time employment (finding)
+  2011-06-03 - 2012-07-20 : Full-time employment (finding)
+  2009-10-02 -            : Prediabetes
+  2007-03-16 - 2009-10-02 : Full-time employment (finding)
+  2006-09-29 - 2007-03-16 : Full-time employment (finding)
+  2000-09-22 - 2003-09-26 : Full-time employment (finding)
+  1994-09-16 - 1997-09-19 : Full-time employment (finding)
+  1991-09-13 - 1994-09-16 : Full-time employment (finding)
+  1990-09-07 - 1991-09-13 : Full-time employment (finding)
+  1990-09-07 -            : Received higher education (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2014-04-02[CURRENT] : Therapy (regime/therapy)
+                         Activity: Physical therapy procedure (regime/therapy)
+                         Activity: Cognitive and behavioral therapy (regime/therapy)
+  2009-10-02[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-04-01 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+  2022-04-01 : Basic Metabolic Panel
+           - Glucose                                  70.3 mg/dL
+           - Urea Nitrogen                            18.7 mg/dL
+           - Creatinine                               0.8 mg/dL
+           - Calcium                                  9.0 mg/dL
+           - Sodium                                   137.4 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 101.7 mmol/L
+           - Carbon Dioxide                           20.8 mmol/L
+  2021-03-26 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+  2021-03-26 : Basic Metabolic Panel
+           - Glucose                                  93.4 mg/dL
+           - Urea Nitrogen                            19.1 mg/dL
+           - Creatinine                               0.8 mg/dL
+           - Calcium                                  9.7 mg/dL
+           - Sodium                                   138.7 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 108.1 mmol/L
+           - Carbon Dioxide                           22.9 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-04-01 : Total score [AUDIT-C]                    1.0 {score}
+  2022-04-01 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? No 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 404085 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             100 Herman Trace 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 5.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2022-04-01 : Hemoglobin A1c/Hemoglobin.total in Blood 5.8 %
+  2022-04-01 : Tobacco smoking status                   Ex-smoker (finding) 
+  2022-04-01 : Carbon Dioxide                           20.8 mmol/L
+  2022-04-01 : Chloride                                 101.7 mmol/L
+  2022-04-01 : Potassium                                4.5 mmol/L
+  2022-04-01 : Sodium                                   137.4 mmol/L
+  2022-04-01 : Calcium                                  9.0 mg/dL
+  2022-04-01 : Creatinine                               0.8 mg/dL
+  2022-04-01 : Urea Nitrogen                            18.7 mg/dL
+  2022-04-01 : Glucose                                  70.3 mg/dL
+  2022-04-01 : Respiratory rate                         13.0 /min
+  2022-04-01 : Heart rate                               91.0 /min
+  2022-04-01 : Blood Pressure
+           - Diastolic Blood Pressure                 97.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2022-04-01 : Body Mass Index                          28.0 kg/m2
+  2022-04-01 : Body Weight                              73.4 kg
+  2022-04-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2022-04-01 : Body Height                              161.9 cm
+  2021-03-26 : Total score [AUDIT-C]                    1.0 {score}
+  2021-03-26 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Quite a bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 404085 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             100 Herman Trace 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 5.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-03-26 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2021-03-26 : Tobacco smoking status                   Ex-smoker (finding) 
+  2021-03-26 : Carbon Dioxide                           22.9 mmol/L
+  2021-03-26 : Chloride                                 108.1 mmol/L
+  2021-03-26 : Potassium                                4.5 mmol/L
+  2021-03-26 : Sodium                                   138.7 mmol/L
+  2021-03-26 : Calcium                                  9.7 mg/dL
+  2021-03-26 : Creatinine                               0.8 mg/dL
+  2021-03-26 : Urea Nitrogen                            19.1 mg/dL
+  2021-03-26 : Glucose                                  93.4 mg/dL
+  2021-03-26 : Respiratory rate                         13.0 /min
+  2021-03-26 : Heart rate                               61.0 /min
+  2021-03-26 : Blood Pressure
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  111.0 mm[Hg]
+  2021-03-26 : Body Mass Index                          28.0 kg/m2
+  2021-03-26 : Body Weight                              73.4 kg
+  2021-03-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2021-03-26 : Body Height                              161.9 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-04-01 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2022-04-01 : Assessment of substance use (procedure)
+  2022-04-01 : Medication Reconciliation (procedure)
+  2022-04-01 : Assessment of health and social care needs (procedure)
+  2021-03-26 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2021-03-26 : Assessment of substance use (procedure)
+  2021-03-26 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-04-01 : Influenza, seasonal, injectable, preservative free
+  2021-04-30 : SARS-COV-2 (COVID-19) vaccine, vector non-replicating, recombinant spike protein-Ad26, preservative free, 0.5 mL
+  2021-03-26 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-04-06 (Dr. Cira Jakubowski) : Encounter at ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN
+2022-04-01 (Dr. Augustine Greenholt) : Encounter at WAYSIDE YOUTH & FAMILY SUPPORT NETWORK
+2021-04-30 (Dr. Cira Jakubowski) : Encounter at ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN
+2021-03-26 (Dr. Augustine Greenholt) : Encounter at WAYSIDE YOUTH & FAMILY SUPPORT NETWORK
+2020-03-20 (Dr. Augustine Greenholt) : Encounter at WAYSIDE YOUTH & FAMILY SUPPORT NETWORK
+2019-03-15 (Dr. Augustine Greenholt) : Encounter at WAYSIDE YOUTH & FAMILY SUPPORT NETWORK
+2018-04-27 (Dr. Cira Jakubowski) : Encounter at ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN
+2018-03-09 (Dr. Augustine Greenholt) : Encounter at WAYSIDE YOUTH & FAMILY SUPPORT NETWORK
+2017-11-03 (Dr. Cira Jakubowski) : Encounter at ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN : Encounter for Normal pregnancy
+2017-10-20 (Dr. Cira Jakubowski) : Encounter at ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN : Encounter for Viral sinusitis (disorder)
+2017-03-03 (Dr. Augustine Greenholt) : Encounter at WAYSIDE YOUTH & FAMILY SUPPORT NETWORK
+2016-02-26 (Dr. Augustine Greenholt) : Encounter at WAYSIDE YOUTH & FAMILY SUPPORT NETWORK
+2015-02-20 (Dr. Augustine Greenholt) : Encounter at WAYSIDE YOUTH & FAMILY SUPPORT NETWORK
+2014-06-01 (Dr. Cira Jakubowski) : Encounter at ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN
+2014-04-02 (Dr. Cira Jakubowski) : Encounter at ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN
+2014-02-14 (Dr. Augustine Greenholt) : Encounter at WAYSIDE YOUTH & FAMILY SUPPORT NETWORK
+2014-02-02 (Dr. Cira Jakubowski) : Encounter at ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN
+2012-07-20 (Dr. Augustine Greenholt) : Encounter at WAYSIDE YOUTH & FAMILY SUPPORT NETWORK
+2011-06-01 (Dr. Cira Jakubowski) : Encounter at ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN
+2009-10-02 (Dr. Augustine Greenholt) : Encounter at WAYSIDE YOUTH & FAMILY SUPPORT NETWORK
+2007-03-10 (Dr. Cira Jakubowski) : Encounter at ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN : Encounter for Acute bronchitis (disorder)
+2006-09-29 (Dr. Augustine Greenholt) : Encounter at WAYSIDE YOUTH & FAMILY SUPPORT NETWORK
+2000-09-22 (Dr. Augustine Greenholt) : Encounter at WAYSIDE YOUTH & FAMILY SUPPORT NETWORK
+1994-09-16 (Dr. Augustine Greenholt) : Encounter at WAYSIDE YOUTH & FAMILY SUPPORT NETWORK
+1991-09-13 (Dr. Augustine Greenholt) : Encounter at WAYSIDE YOUTH & FAMILY SUPPORT NETWORK
+1990-09-07 (Dr. Augustine Greenholt) : Encounter at WAYSIDE YOUTH & FAMILY SUPPORT NETWORK
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

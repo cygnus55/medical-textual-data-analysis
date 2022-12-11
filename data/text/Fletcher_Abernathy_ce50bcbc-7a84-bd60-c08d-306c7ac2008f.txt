@@ -1,0 +1,226 @@
+Fletcher Abernathy
+==================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 44
+Birth Date:          1978-03-19
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2022-06-01[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-06-12 -            : Full-time employment (finding)
+  2022-06-01 - 2022-06-19 : Acute bronchitis (disorder)
+  2022-04-03 -            : Stress (finding)
+  2022-04-03 - 2022-06-12 : Not in labor force (finding)
+  2020-12-11 - 2021-01-01 : COVID-19
+  2020-12-11 - 2021-01-01 : Fever (finding)
+  2020-12-11 - 2021-01-01 : Fatigue (finding)
+  2020-12-11 - 2021-01-01 : Sputum finding (finding)
+  2020-12-11 - 2021-01-01 : Cough (finding)
+  2020-03-29 - 2022-04-03 : Reports of violence in the environment (finding)
+  2020-03-29 - 2022-04-03 : Part-time employment (finding)
+  2020-03-29 -            : Body mass index 30+ - obesity (finding)
+  2015-06-07 - 2020-03-29 : Stress (finding)
+  2012-06-03 - 2022-06-12 : Limited social contact (finding)
+  2012-06-03 - 2014-11-30 : Full-time employment (finding)
+  2011-08-21 - 2012-06-03 : Full-time employment (finding)
+  2009-05-31 - 2011-08-21 : Full-time employment (finding)
+  2009-05-31 -            : Anemia (disorder)
+  2009-05-31 -            : Prediabetes
+  2006-05-28 - 2009-05-31 : Full-time employment (finding)
+  2003-05-25 - 2006-05-28 : Full-time employment (finding)
+  1997-05-18 -            : Social isolation (finding)
+  1997-05-18 - 2000-05-21 : Full-time employment (finding)
+  1996-05-12 - 2012-06-03 : Stress (finding)
+  1996-05-12 - 1997-05-18 : Full-time employment (finding)
+  1996-05-12 -            : Received higher education (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2022-06-01[CURRENT] : Respiratory therapy
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2020-12-11[STOPPED] : Infectious disease care plan (record artifact)
+                         Activity: Airborne precautions (procedure)
+                         Activity: Isolation of infected patient (procedure)
+  2014-11-22[STOPPED] : Respiratory therapy
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2011-08-15[STOPPED] : Respiratory therapy
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2009-05-31[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1986-04-07[STOPPED] : Respiratory therapy
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-06-12 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    2.0 {score}
+  2022-06-12 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-06-12 : Basic Metabolic Panel
+           - Glucose                                  73.5 mg/dL
+           - Urea Nitrogen                            17.8 mg/dL
+           - Creatinine                               1.3 mg/dL
+           - Calcium                                  9.3 mg/dL
+           - Sodium                                   143.8 mmol/L
+           - Potassium                                4.0 mmol/L
+           - Chloride                                 101.4 mmol/L
+           - Carbon Dioxide                           22.5 mmol/L
+  2022-04-03 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+  2022-04-03 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-04-03 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2022-04-03 : Basic Metabolic Panel
+           - Glucose                                  64.4 mg/dL
+           - Urea Nitrogen                            7.3 mg/dL
+           - Creatinine                               1.3 mg/dL
+           - Calcium                                  8.5 mg/dL
+           - Sodium                                   138.5 mmol/L
+           - Potassium                                3.9 mmol/L
+           - Chloride                                 109.1 mmol/L
+           - Carbon Dioxide                           23.3 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-06-12 : Total score [AUDIT-C]                    2.0 {score}
+  2022-06-12 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-06-12 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 43405 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             376 Stiedemann Terrace 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 2.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2022-06-12 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2022-06-12 : Tobacco smoking status                   Ex-smoker (finding) 
+  2022-06-12 : Carbon Dioxide                           22.5 mmol/L
+  2022-06-12 : Chloride                                 101.4 mmol/L
+  2022-06-12 : Potassium                                4.0 mmol/L
+  2022-06-12 : Sodium                                   143.8 mmol/L
+  2022-06-12 : Calcium                                  9.3 mg/dL
+  2022-06-12 : Creatinine                               1.3 mg/dL
+  2022-06-12 : Urea Nitrogen                            17.8 mg/dL
+  2022-06-12 : Glucose                                  73.5 mg/dL
+  2022-06-12 : Respiratory rate                         13.0 /min
+  2022-06-12 : Heart rate                               69.0 /min
+  2022-06-12 : Blood Pressure
+           - Diastolic Blood Pressure                 68.0 mm[Hg]
+           - Systolic Blood Pressure                  119.0 mm[Hg]
+  2022-06-12 : Body Mass Index                          30.3 kg/m2
+  2022-06-12 : Body Weight                              99.8 kg
+  2022-06-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2022-06-12 : Body Height                              181.4 cm
+  2022-04-03 : Total score [DAST-10]                    1.0 {score}
+  2022-04-03 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-04-03 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2022-04-03 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Quite a bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Phone 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 43405 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Otherwise unemployed but not seeking work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             376 Stiedemann Terrace 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 2.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2022-04-03 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2022-04-03 : Tobacco smoking status                   Ex-smoker (finding) 
+  2022-04-03 : Carbon Dioxide                           23.3 mmol/L
+  2022-04-03 : Chloride                                 109.1 mmol/L
+  2022-04-03 : Potassium                                3.9 mmol/L
+  2022-04-03 : Sodium                                   138.5 mmol/L
+  2022-04-03 : Calcium                                  8.5 mg/dL
+  2022-04-03 : Creatinine                               1.3 mg/dL
+  2022-04-03 : Urea Nitrogen                            7.3 mg/dL
+  2022-04-03 : Glucose                                  64.4 mg/dL
+  2022-04-03 : Respiratory rate                         14.0 /min
+  2022-04-03 : Heart rate                               65.0 /min
+  2022-04-03 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  2022-04-03 : Body Mass Index                          30.3 kg/m2
+  2022-04-03 : Body Weight                              99.8 kg
+  2022-04-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2022-04-03 : Body Height                              181.4 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-06-12 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2022-06-12 : Assessment of substance use (procedure)
+  2022-06-12 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2022-06-12 : Depression screening (procedure)
+  2022-06-12 : Assessment of health and social care needs (procedure)
+  2022-06-01 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2022-04-03 : Screening for drug abuse (procedure)
+  2022-04-03 : Assessment of substance use (procedure)
+  2022-04-03 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2022-04-03 : Depression screening (procedure)
+  2022-04-03 : Assessment of anxiety (procedure)
+  2022-04-03 : Medication Reconciliation (procedure)
+  2022-04-03 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-06-12 : Influenza, seasonal, injectable, preservative free
+  2022-04-03 : Influenza, seasonal, injectable, preservative free
+  2021-10-03 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-09-12 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-06-12 (Dr. Paz Gerlach) : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+2022-06-01 (Dr. Paz Gerlach) : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC : Encounter for Acute bronchitis (disorder)
+2022-04-03 (Dr. Reggie Kassulke) : Encounter at NASH HEALTH CARE PRACTICES LLC
+2021-10-03 (Dr. Paz Gerlach) : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+2021-09-12 (Dr. Paz Gerlach) : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+2020-12-11 (Dr. Paz Gerlach) : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+2020-03-29 (Dr. Reggie Kassulke) : Encounter at NASH HEALTH CARE PRACTICES LLC
+2015-06-07 (Dr. Reggie Kassulke) : Encounter at NASH HEALTH CARE PRACTICES LLC
+2014-11-22 (Dr. Paz Gerlach) : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC : Encounter for Acute bronchitis (disorder)
+2012-06-03 (Dr. Reggie Kassulke) : Encounter at NASH HEALTH CARE PRACTICES LLC
+2011-08-15 (Dr. Paz Gerlach) : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC : Encounter for Acute bronchitis (disorder)
+2009-05-31 (Dr. Paz Gerlach) : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC : Encounter for Anemia (disorder)
+2009-05-31 (Dr. Reggie Kassulke) : Encounter at NASH HEALTH CARE PRACTICES LLC
+2006-05-28 (Dr. Reggie Kassulke) : Encounter at NASH HEALTH CARE PRACTICES LLC
+2003-05-25 (Dr. Reggie Kassulke) : Encounter at NASH HEALTH CARE PRACTICES LLC
+1997-05-18 (Dr. Reggie Kassulke) : Encounter at NASH HEALTH CARE PRACTICES LLC
+1996-05-12 (Dr. Reggie Kassulke) : Encounter at NASH HEALTH CARE PRACTICES LLC
+1986-04-07 (Dr. Paz Gerlach) : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC : Encounter for Acute bronchitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

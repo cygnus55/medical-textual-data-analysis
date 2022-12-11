@@ -1,0 +1,175 @@
+Donella Keebler
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 DECEASED
+Birth Date:          1981-02-03
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2001-04-19[CURRENT] : Alteplase 100 MG Injection
+  2001-04-19[CURRENT] : Clopidogrel 75 MG Oral Tablet
+  1981-07-11[CURRENT] : glycopyrrolate 1.5 MG Oral Tablet [Glycate] for Excessive salivation (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2001-04-19 - 2001-04-19 : Stroke
+  2000-10-17 -            : Normal pregnancy
+  2000-04-04 -            : Full-time employment (finding)
+  1999-03-30 -            : Stress (finding)
+  1999-03-30 - 2000-04-04 : Not in labor force (finding)
+  1999-03-30 -            : Received certificate of high school equivalency (finding)
+  1998-03-24 -            : Risk activity involvement (finding)
+  1981-07-11 -            : Retention of urine (disorder)
+  1981-03-05 -            : Dribbling from mouth (finding)
+  1981-03-05 -            : Excessive salivation (disorder)
+  1981-03-05 -            : Gastroesophageal reflux disease (disorder)
+  1981-03-05 -            : Intellectual disability (disorder)
+  1981-03-05 -            : Osteoporosis (disorder)
+  1981-03-05 -            : Spasticity (finding)
+  1981-03-05 -            : Dystonia (disorder)
+  1981-03-05 -            : Cerebral palsy (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2000-10-17[CURRENT] : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+--------------------------------------------------------------------------------
+REPORTS:
+  2001-05-01 : U.S. standard certificate of death - 2003 revision
+           - Cause of Death [US Standard Certificate of Death] Stroke 
+  2000-04-04 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+  2000-04-04 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2000-04-04 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2000-04-04 : Morse Fall Scale panel
+           - Fall risk total [Morse Fall Scale]       37.0 {#}
+           - Fall risk level [Morse Fall Scale]       Moderate Risk (MFS Score 25 - 45) 
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2001-05-01 : Cause of Death [US Standard Certificate of Death] Stroke 
+  2000-04-04 : Total score [AUDIT-C]                    1.0 {score}
+  2000-04-04 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2000-04-04 : Total score [HARK]                       0.0 {score}
+  2000-04-04 : Fall risk level [Morse Fall Scale]       Moderate Risk (MFS Score 25 - 45) 
+  2000-04-04 : Fall risk total [Morse Fall Scale]       37.0 {#}
+  2000-04-04 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 21452 /a
+           - What is your main insurance?             None/uninsured 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             917 Kshlerin Fork Suite 70 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2000-04-04 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2000-04-04 : Respiratory rate                         14.0 /min
+  2000-04-04 : Heart rate                               90.0 /min
+  2000-04-04 : Blood Pressure
+           - Diastolic Blood Pressure                 66.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  2000-04-04 : Body mass index (BMI) [Percentile] Per age and gender 91.4 %
+  2000-04-04 : Body Mass Index                          28.5 kg/m2
+  2000-04-04 : Body Weight                              68.8 kg
+  2000-04-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2000-04-04 : Body Height                              155.3 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2001-04-19 : Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance
+  2001-04-19 : Echocardiography (procedure)
+  2001-04-03 : Auscultation of the fetal heart for Normal pregnancy
+  2001-04-03 : Evaluation of uterine fundal height for Normal pregnancy
+  2001-03-06 : Auscultation of the fetal heart for Normal pregnancy
+  2001-03-06 : Evaluation of uterine fundal height for Normal pregnancy
+  2001-03-06 : Urine screening for glucose for Normal pregnancy
+  2001-03-06 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2001-03-06 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2001-02-06 : Auscultation of the fetal heart for Normal pregnancy
+  2001-02-06 : Evaluation of uterine fundal height for Normal pregnancy
+  2001-01-24 : Monitoring of patient (regime/therapy) for Excessive salivation (disorder)
+  2001-01-09 : Auscultation of the fetal heart for Normal pregnancy
+  2001-01-09 : Evaluation of uterine fundal height for Normal pregnancy
+  2000-12-12 : Auscultation of the fetal heart for Normal pregnancy
+  2000-12-12 : Evaluation of uterine fundal height for Normal pregnancy
+  2000-12-12 : Alpha-fetoprotein test for Normal pregnancy
+  2000-12-12 : Fetal anatomy study for Normal pregnancy
+  2000-11-14 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2000-11-14 : Auscultation of the fetal heart for Normal pregnancy
+  2000-11-14 : Evaluation of uterine fundal height for Normal pregnancy
+  2000-10-17 : Physical examination of mother for Normal pregnancy
+  2000-10-17 : Urine protein test for Normal pregnancy
+  2000-10-17 : Skin test for tuberculosis for Normal pregnancy
+  2000-10-17 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2000-10-17 : Rubella screening for Normal pregnancy
+  2000-10-17 : Hepatitis C antibody test for Normal pregnancy
+  2000-10-17 : Urine screening test for diabetes for Normal pregnancy
+  2000-10-17 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2000-10-17 : Urine culture for Normal pregnancy
+  2000-10-17 : Syphilis infection test for Normal pregnancy
+  2000-10-17 : Gonorrhea infection test for Normal pregnancy
+  2000-10-17 : Chlamydia antigen test for Normal pregnancy
+  2000-10-17 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2000-10-17 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2000-10-17 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2000-10-17 : Blood typing, RH typing for Normal pregnancy
+  2000-10-17 : Auscultation of the fetal heart for Normal pregnancy
+  2000-10-17 : Evaluation of uterine fundal height for Normal pregnancy
+  2000-10-17 : Ultrasound scan for fetal viability for Normal pregnancy
+  2000-10-17 : Standard pregnancy test for Normal pregnancy
+  2000-08-22 : Removal of intrauterine device
+  2000-06-13 : Monitoring of patient (regime/therapy) for Excessive salivation (disorder)
+  2000-04-04 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2000-04-04 : Assessment of substance use (procedure)
+  2000-04-04 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2000-04-04 : Depression screening (procedure)
+  2000-04-04 : Screening for domestic abuse (procedure)
+  2000-04-04 : Assessment using Morse Fall Scale (procedure)
+  2000-04-04 : Assessment of health and social care needs (procedure)
+  2000-02-15 : Replacement of contraceptive intrauterine device
+  1999-09-10 : Monitoring of patient (regime/therapy) for Excessive salivation (disorder)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2000-04-04 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2001-05-01 (Dr. Ethyl Rau) : Encounter at WALPOLE MEDICAL CENTER, PC : Encounter for Stroke
+2001-04-19 (Dr. Gabriel Reilly) : Encounter at Fitchburg Outpatient Clinic
+2001-04-03 (Dr. Abdul White) : Encounter at STEWARD NORWOOD HOSPITAL INC : Encounter for Normal pregnancy
+2001-03-06 (Dr. Abdul White) : Encounter at STEWARD NORWOOD HOSPITAL INC : Encounter for Normal pregnancy
+2001-02-06 (Dr. Abdul White) : Encounter at STEWARD NORWOOD HOSPITAL INC : Encounter for Normal pregnancy
+2001-01-24 (Dr. Abdul White) : Encounter at STEWARD NORWOOD HOSPITAL INC
+2001-01-09 (Dr. Abdul White) : Encounter at STEWARD NORWOOD HOSPITAL INC : Encounter for Normal pregnancy
+2000-12-12 (Dr. Abdul White) : Encounter at STEWARD NORWOOD HOSPITAL INC : Encounter for Normal pregnancy
+2000-11-14 (Dr. Abdul White) : Encounter at STEWARD NORWOOD HOSPITAL INC : Encounter for Normal pregnancy
+2000-10-17 (Dr. Abdul White) : Encounter at STEWARD NORWOOD HOSPITAL INC : Encounter for Normal pregnancy
+2000-08-22 (Dr. Trinidad King) : Encounter at STEWARD NORWOOD HOSPITAL INC
+2000-06-13 (Dr. Abdul White) : Encounter at STEWARD NORWOOD HOSPITAL INC
+2000-04-04 (Dr. Ethyl Rau) : Encounter at WALPOLE MEDICAL CENTER, PC
+2000-02-15 (Dr. Trinidad King) : Encounter at STEWARD NORWOOD HOSPITAL INC
+1999-09-10 (Dr. Abdul White) : Encounter at STEWARD NORWOOD HOSPITAL INC
+1999-03-30 (Dr. Ethyl Rau) : Encounter at WALPOLE MEDICAL CENTER, PC
+1998-03-24 (Dr. Ethyl Rau) : Encounter at WALPOLE MEDICAL CENTER, PC
+1981-07-11 (Dr. Abdul White) : Encounter at STEWARD NORWOOD HOSPITAL INC
+1981-03-05 (Dr. Abdul White) : Encounter at STEWARD NORWOOD HOSPITAL INC : Encounter for Cerebral palsy (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

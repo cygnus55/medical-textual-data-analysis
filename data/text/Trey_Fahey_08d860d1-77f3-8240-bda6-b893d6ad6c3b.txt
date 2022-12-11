@@ -1,0 +1,107 @@
+Trey Fahey
+==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 12
+Birth Date:          2010-04-17
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-08-18 - 2022-08-30 : Acute viral pharyngitis (disorder)
+  2022-05-07 -            : Risk activity involvement (finding)
+  2021-02-25 - 2021-03-08 : Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-05-07 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2022-05-07 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2021-05-01 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 47.3 %
+           - MCV [Entitic volume] by Automated count  91.9 fL
+           - MCH [Entitic mass] by Automated count    32.8 pg
+           - MCHC [Mass/volume] by Automated count    35.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.9 fL
+           - Platelets [#/volume] in Blood by Automated count 340.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 426.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-08-18 : Body temperature                         37.9 Cel
+  2022-05-07 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2022-05-07 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2022-05-07 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-05-07 : Respiratory rate                         15.0 /min
+  2022-05-07 : Heart rate                               68.0 /min
+  2022-05-07 : Blood Pressure
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  145.0 mm[Hg]
+  2022-05-07 : Body mass index (BMI) [Percentile] Per age and gender 45.5 %
+  2022-05-07 : Body Mass Index                          17.6 kg/m2
+  2022-05-07 : Body Weight                              40.3 kg
+  2022-05-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2022-05-07 : Body Height                              151.6 cm
+  2021-05-01 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-05-01 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+  2021-05-01 : Platelet distribution width [Entitic volume] in Blood by Automated count 426.8 fL
+  2021-05-01 : Platelets [#/volume] in Blood by Automated count 340.3 10*3/uL
+  2021-05-01 : Erythrocyte distribution width [Entitic volume] by Automated count 44.9 fL
+  2021-05-01 : MCHC [Mass/volume] by Automated count    35.7 g/dL
+  2021-05-01 : MCH [Entitic mass] by Automated count    32.8 pg
+  2021-05-01 : MCV [Entitic volume] by Automated count  91.9 fL
+  2021-05-01 : Hematocrit [Volume Fraction] of Blood by Automated count 47.3 %
+  2021-05-01 : Hemoglobin [Mass/volume] in Blood        13.0 g/dL
+  2021-05-01 : Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+  2021-05-01 : Leukocytes [#/volume] in Blood by Automated count 5.7 10*3/uL
+  2021-05-01 : Respiratory rate                         12.0 /min
+  2021-05-01 : Heart rate                               86.0 /min
+  2021-05-01 : Blood Pressure
+           - Diastolic Blood Pressure                 89.0 mm[Hg]
+           - Systolic Blood Pressure                  140.0 mm[Hg]
+  2021-05-01 : Body mass index (BMI) [Percentile] Per age and gender 48.3 %
+  2021-05-01 : Body Mass Index                          17.1 kg/m2
+  2021-05-01 : Body Weight                              36.4 kg
+  2021-05-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2021-05-01 : Body Height                              145.9 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-08-18 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2022-05-07 : Health risks education (procedure) for Risk activity involvement (finding)
+  2022-05-07 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2022-05-07 : Assessment of substance use (procedure)
+  2022-05-07 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2022-05-07 : Depression screening (procedure)
+  2022-05-07 : Medication Reconciliation (procedure)
+  2022-05-07 : Assessment of anxiety (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-06-18 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2022-05-28 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2022-05-07 : HPV, quadrivalent
+  2022-05-07 : Influenza, seasonal, injectable, preservative free
+  2021-05-01 : meningococcal MCV4P
+  2021-05-01 : HPV, quadrivalent
+  2021-05-01 : Influenza, seasonal, injectable, preservative free
+  2021-05-01 : Tdap
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-08-18 (Dr. Bennett Rippin) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Acute viral pharyngitis (disorder)
+2022-06-18 (Dr. Bennett Rippin) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2022-05-28 (Dr. Bennett Rippin) : Encounter at MILFORD REGIONAL MEDICAL CENTER
+2022-05-07 (Dr. Bea Schiller) : Encounter at PRIMARY CARE FOR ADULTS PLLC
+2021-05-01 (Dr. Bea Schiller) : Encounter at PRIMARY CARE FOR ADULTS PLLC
+2021-02-25 (Dr. Bennett Rippin) : Encounter at MILFORD REGIONAL MEDICAL CENTER : Encounter for Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

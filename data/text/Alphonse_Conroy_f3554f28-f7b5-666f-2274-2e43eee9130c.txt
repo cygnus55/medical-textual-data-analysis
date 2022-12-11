@@ -1,0 +1,336 @@
+Alphonse Conroy
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 56
+Birth Date:          1966-04-10
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2022-07-25[CURRENT] : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2022-07-10[CURRENT] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2021-07-25[STOPPED] : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2021-07-04[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2021-07-04[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2020-06-28[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2019-06-23[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2018-06-17[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2017-06-11[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2016-06-05[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2015-05-31[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2014-05-25[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2013-05-19[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2012-05-13[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2011-05-08[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2010-05-02[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2009-04-26[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2008-04-20[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2008-04-20[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-07-10 -            : Stress (finding)
+  2022-07-10 -            : Full-time employment (finding)
+  2021-07-04 - 2022-07-10 : Full-time employment (finding)
+  2021-07-04 -            : Hyperlipidemia
+  2021-04-10 - 2022-05-31 : Polyp of colon
+  2020-06-28 - 2021-07-04 : Full-time employment (finding)
+  2019-06-23 - 2020-06-28 : Full-time employment (finding)
+  2017-06-11 - 2021-07-04 : Stress (finding)
+  2017-06-11 - 2018-06-17 : Full-time employment (finding)
+  2016-06-05 - 2022-07-10 : Social isolation (finding)
+  2016-06-05 - 2017-06-11 : Full-time employment (finding)
+  2015-05-31 - 2016-06-05 : Full-time employment (finding)
+  2013-05-19 - 2016-06-05 : Stress (finding)
+  2013-05-19 - 2014-05-25 : Full-time employment (finding)
+  2012-05-13 - 2013-05-19 : Full-time employment (finding)
+  2009-04-26 - 2010-05-02 : Full-time employment (finding)
+  2008-04-20 - 2009-04-26 : Full-time employment (finding)
+  2008-04-20 -            : Hypertension
+  2003-07-06 - 2006-04-16 : Full-time employment (finding)
+  2000-07-02 - 2003-07-06 : Full-time employment (finding)
+  1998-04-23 -            : Drug overdose
+  1998-03-08 - 2010-05-02 : Stress (finding)
+  1998-03-08 - 2000-07-02 : Full-time employment (finding)
+  1997-06-29 - 1998-03-08 : Full-time employment (finding)
+  1994-06-26 - 1997-06-29 : Full-time employment (finding)
+  1992-03-08 - 1997-06-29 : Stress (finding)
+  1992-03-08 - 1994-06-26 : Full-time employment (finding)
+  1991-06-23 -            : Victim of intimate partner abuse (finding)
+  1991-06-23 - 1992-03-08 : Full-time employment (finding)
+  1991-05-09 -            : Chronic intractable migraine without aura
+  1990-12-02 -            : Impacted molars
+  1990-03-08 -            : Chronic pain
+  1988-06-19 - 1991-06-23 : Full-time employment (finding)
+  1985-06-16 - 1986-09-14 : Full-time employment (finding)
+  1984-06-10 - 1985-06-16 : Full-time employment (finding)
+  1984-06-10 -            : Only received primary school education (finding)
+  1978-05-07 -            : Risk activity involvement (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2021-07-25[CURRENT] : Hyperlipidemia clinical management plan
+                         Reason: Hyperlipidemia
+                         Activity: low salt diet education
+                         Activity: physical exercise
+  2008-04-20[CURRENT] : Lifestyle education regarding hypertension
+                         Reason: Hypertension
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  1998-04-23[CURRENT] : Care plan (record artifact)
+                         Activity: Drug addiction counseling
+                         Activity: Drug detoxification
+                         Activity: Drug addiction therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-07-25 : Lipid Panel
+           - Total Cholesterol                        204.2 mg/dL
+           - Triglycerides                            169.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      147.0 mg/dL
+           - High Density Lipoprotein Cholesterol     65.0 mg/dL
+  2022-07-25 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  75.1 mg/dL
+           - Urea Nitrogen                            10.0 mg/dL
+           - Creatinine                               2.6 mg/dL
+           - Calcium                                  8.7 mg/dL
+           - Sodium                                   140.6 mmol/L
+           - Potassium                                3.8 mmol/L
+           - Chloride                                 105.8 mmol/L
+           - Carbon Dioxide                           20.9 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 85.8 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 7.5 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.3 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 3.2 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.4 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 56.3 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 49.7 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 7.6 U/L
+  2022-07-10 : PHQ-9 quick depression assessment panel [Reported.PHQ]
+           - Patient Health Questionnaire 9 item (PHQ-9) total score [Reported] 25.0 {score}
+  2022-07-10 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 5.0 {score}
+  2021-07-04 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2021-07-04 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.9 %
+           - MCV [Entitic volume] by Automated count  92.4 fL
+           - MCH [Entitic mass] by Automated count    28.2 pg
+           - MCHC [Mass/volume] by Automated count    35.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.6 fL
+           - Platelets [#/volume] in Blood by Automated count 436.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 318.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.7 fL
+  2021-07-04 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  91.0 mg/dL
+           - Urea Nitrogen                            8.7 mg/dL
+           - Creatinine                               2.8 mg/dL
+           - Calcium                                  9.8 mg/dL
+           - Sodium                                   137.7 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 106.2 mmol/L
+           - Carbon Dioxide                           28.0 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 88.3 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 6.3 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 5.1 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.3 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.4 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 84.6 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 46.4 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 19.9 U/L
+  2021-07-04 : Lipid Panel
+           - Total Cholesterol                        284.4 mg/dL
+           - Triglycerides                            388.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      185.7 mg/dL
+           - High Density Lipoprotein Cholesterol     52.2 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-07-25 : High Density Lipoprotein Cholesterol     65.0 mg/dL
+  2022-07-25 : Low Density Lipoprotein Cholesterol      147.0 mg/dL
+  2022-07-25 : Triglycerides                            169.6 mg/dL
+  2022-07-25 : Total Cholesterol                        204.2 mg/dL
+  2022-07-25 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 7.6 U/L
+  2022-07-25 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 49.7 U/L
+  2022-07-25 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 56.3 U/L
+  2022-07-25 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.4 mg/dL
+  2022-07-25 : Globulin [Mass/volume] in Serum by calculation 3.2 g/L
+  2022-07-25 : Albumin [Mass/volume] in Serum or Plasma 4.3 g/dL
+  2022-07-25 : Protein [Mass/volume] in Serum or Plasma 7.5 g/dL
+  2022-07-25 : Glomerular filtration rate/1.73 sq M.predicted 85.8 mL/min
+  2022-07-25 : Carbon Dioxide                           20.9 mmol/L
+  2022-07-25 : Chloride                                 105.8 mmol/L
+  2022-07-25 : Potassium                                3.8 mmol/L
+  2022-07-25 : Sodium                                   140.6 mmol/L
+  2022-07-25 : Calcium                                  8.7 mg/dL
+  2022-07-25 : Creatinine                               2.6 mg/dL
+  2022-07-25 : Urea Nitrogen                            10.0 mg/dL
+  2022-07-25 : Glucose                                  75.1 mg/dL
+  2022-07-10 : Patient Health Questionnaire 9 item (PHQ-9) total score [Reported] 25.0 {score}
+  2022-07-10 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 5.0 {score}
+  2022-07-10 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Quite a bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Other, Please write 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 29712 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             1073 Berge Meadow Apt 60 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 4.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2022-07-10 : Tobacco smoking status                   Ex-smoker (finding) 
+  2022-07-10 : Respiratory rate                         15.0 /min
+  2022-07-10 : Heart rate                               83.0 /min
+  2022-07-10 : Blood Pressure
+           - Diastolic Blood Pressure                 93.0 mm[Hg]
+           - Systolic Blood Pressure                  132.0 mm[Hg]
+  2022-07-10 : Body Mass Index                          27.5 kg/m2
+  2022-07-10 : Body Weight                              86.0 kg
+  2022-07-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2022-07-10 : Body Height                              176.7 cm
+  2021-07-04 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2021-07-04 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 29712 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             1073 Berge Meadow Apt 60 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 4.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-07-04 : Tobacco smoking status                   Ex-smoker (finding) 
+  2021-07-04 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.7 fL
+  2021-07-04 : Platelet distribution width [Entitic volume] in Blood by Automated count 318.3 fL
+  2021-07-04 : Platelets [#/volume] in Blood by Automated count 436.1 10*3/uL
+  2021-07-04 : Erythrocyte distribution width [Entitic volume] by Automated count 43.6 fL
+  2021-07-04 : MCHC [Mass/volume] by Automated count    35.8 g/dL
+  2021-07-04 : MCH [Entitic mass] by Automated count    28.2 pg
+  2021-07-04 : MCV [Entitic volume] by Automated count  92.4 fL
+  2021-07-04 : Hematocrit [Volume Fraction] of Blood by Automated count 37.9 %
+  2021-07-04 : Hemoglobin [Mass/volume] in Blood        17.0 g/dL
+  2021-07-04 : Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+  2021-07-04 : Leukocytes [#/volume] in Blood by Automated count 3.8 10*3/uL
+  2021-07-04 : Respiratory rate                         13.0 /min
+  2021-07-04 : Heart rate                               82.0 /min
+  2021-07-04 : Blood Pressure
+           - Diastolic Blood Pressure                 93.0 mm[Hg]
+           - Systolic Blood Pressure                  138.0 mm[Hg]
+  2021-07-04 : Body Mass Index                          27.5 kg/m2
+  2021-07-04 : Body Weight                              86.0 kg
+  2021-07-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2021-07-04 : Body Height                              176.7 cm
+  2021-07-04 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 19.9 U/L
+  2021-07-04 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 46.4 U/L
+  2021-07-04 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 84.6 U/L
+  2021-07-04 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.4 mg/dL
+  2021-07-04 : Globulin [Mass/volume] in Serum by calculation 2.3 g/L
+  2021-07-04 : Albumin [Mass/volume] in Serum or Plasma 5.1 g/dL
+  2021-07-04 : Protein [Mass/volume] in Serum or Plasma 6.3 g/dL
+  2021-07-04 : Glomerular filtration rate/1.73 sq M.predicted 88.3 mL/min
+  2021-07-04 : Carbon Dioxide                           28.0 mmol/L
+  2021-07-04 : Chloride                                 106.2 mmol/L
+  2021-07-04 : Potassium                                4.5 mmol/L
+  2021-07-04 : Sodium                                   137.7 mmol/L
+  2021-07-04 : Calcium                                  9.8 mg/dL
+  2021-07-04 : Creatinine                               2.8 mg/dL
+  2021-07-04 : Urea Nitrogen                            8.7 mg/dL
+  2021-07-04 : Glucose                                  91.0 mg/dL
+  2021-07-04 : High Density Lipoprotein Cholesterol     52.2 mg/dL
+  2021-07-04 : Low Density Lipoprotein Cholesterol      185.7 mg/dL
+  2021-07-04 : Triglycerides                            388.7 mg/dL
+  2021-07-04 : Total Cholesterol                        284.4 mg/dL
+  2021-04-10 : Hemoglobin.gastrointestinal [Presence] in Stool by Immunologic method 16.9 ng/mL
+  2021-04-10 : Polyp size greatest dimension by CAP cancer protocols 3.4 mm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-07-10 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2022-07-10 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2022-07-10 : Depression screening (procedure)
+  2022-07-10 : Assessment of health and social care needs (procedure)
+  2022-05-31 : Colonoscopy
+  2021-07-04 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-07-04 : Depression screening (procedure)
+  2021-07-04 : Assessment of health and social care needs (procedure)
+  2021-04-10 : Rectal polypectomy for Polyp of colon
+  2021-04-10 : Screening for occult blood in feces (procedure) for Polyp of colon
+  2021-04-10 : Colonoscopy
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-07-10 : Influenza, seasonal, injectable, preservative free
+  2021-08-01 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+  2021-07-04 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+  2021-07-04 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-11-22 (Dr. Jerónimo Berríos) : Encounter at AP MEDICAL LLC
+2022-10-23 (Dr. Jerónimo Berríos) : Encounter at AP MEDICAL LLC
+2022-07-25 (Dr. Jerónimo Berríos) : Encounter at AP MEDICAL LLC : Encounter for Hyperlipidemia
+2022-07-10 (Dr. Marline Kreiger) : Encounter at GERIATRIC INTERNAL MEDICINE SPECIALISTS, LLC
+2022-05-31 (Dr. Jerónimo Berríos) : Encounter at AP MEDICAL LLC
+2021-08-15 (Dr. Majorie Bergstrom) : Encounter at ROYAL OF FAIRHAVEN NURSING CENTER : Encounter for Drug overdose
+2021-08-01 (Dr. Jerónimo Berríos) : Encounter at AP MEDICAL LLC
+2021-07-25 (Dr. Jerónimo Berríos) : Encounter at AP MEDICAL LLC : Encounter for Hyperlipidemia
+2021-07-04 (Dr. Jerónimo Berríos) : Encounter at AP MEDICAL LLC
+2021-07-04 (Dr. Marline Kreiger) : Encounter at GERIATRIC INTERNAL MEDICINE SPECIALISTS, LLC
+2021-04-10 (Dr. Jerónimo Berríos) : Encounter at AP MEDICAL LLC
+2020-06-28 (Dr. Marline Kreiger) : Encounter at GERIATRIC INTERNAL MEDICINE SPECIALISTS, LLC
+2019-06-23 (Dr. Marline Kreiger) : Encounter at GERIATRIC INTERNAL MEDICINE SPECIALISTS, LLC
+2018-06-17 (Dr. Marline Kreiger) : Encounter at GERIATRIC INTERNAL MEDICINE SPECIALISTS, LLC
+2017-06-11 (Dr. Marline Kreiger) : Encounter at GERIATRIC INTERNAL MEDICINE SPECIALISTS, LLC
+2016-06-05 (Dr. Marline Kreiger) : Encounter at GERIATRIC INTERNAL MEDICINE SPECIALISTS, LLC
+2015-05-31 (Dr. Marline Kreiger) : Encounter at GERIATRIC INTERNAL MEDICINE SPECIALISTS, LLC
+2014-05-25 (Dr. Marline Kreiger) : Encounter at GERIATRIC INTERNAL MEDICINE SPECIALISTS, LLC
+2013-05-19 (Dr. Marline Kreiger) : Encounter at GERIATRIC INTERNAL MEDICINE SPECIALISTS, LLC
+2012-05-13 (Dr. Marline Kreiger) : Encounter at GERIATRIC INTERNAL MEDICINE SPECIALISTS, LLC
+2011-05-08 (Dr. Marline Kreiger) : Encounter at GERIATRIC INTERNAL MEDICINE SPECIALISTS, LLC
+2010-05-02 (Dr. Marline Kreiger) : Encounter at GERIATRIC INTERNAL MEDICINE SPECIALISTS, LLC
+2009-04-26 (Dr. Marline Kreiger) : Encounter at GERIATRIC INTERNAL MEDICINE SPECIALISTS, LLC
+2008-04-20 (Dr. Marline Kreiger) : Encounter at GERIATRIC INTERNAL MEDICINE SPECIALISTS, LLC
+2003-07-06 (Dr. Marline Kreiger) : Encounter at GERIATRIC INTERNAL MEDICINE SPECIALISTS, LLC
+2000-07-05 (Dr. Jerónimo Berríos) : Encounter at AP MEDICAL LLC
+1998-04-23 (Dr. Majorie Bergstrom) : Encounter at ROYAL OF FAIRHAVEN NURSING CENTER : Encounter for Drug overdose
+1998-03-10 (Dr. Jerónimo Berríos) : Encounter at AP MEDICAL LLC
+1997-06-29 (Dr. Marline Kreiger) : Encounter at GERIATRIC INTERNAL MEDICINE SPECIALISTS, LLC
+1994-06-20 (Dr. Jerónimo Berríos) : Encounter at AP MEDICAL LLC : Encounter for Impacted molars
+1992-03-06 (Dr. Jerónimo Berríos) : Encounter at AP MEDICAL LLC : Encounter for Viral sinusitis (disorder)
+1991-06-29 (Dr. Jerónimo Berríos) : Encounter at AP MEDICAL LLC : Encounter for Chronic intractable migraine without aura
+1991-05-09 (Dr. Jerónimo Berríos) : Encounter at AP MEDICAL LLC : Encounter for Chronic intractable migraine without aura
+1990-12-02 (Dr. Jerónimo Berríos) : Encounter at AP MEDICAL LLC : Encounter for Impacted molars
+1990-03-08 (Dr. Jerónimo Berríos) : Encounter at AP MEDICAL LLC : Encounter for Chronic pain
+1988-06-19 (Dr. Marline Kreiger) : Encounter at GERIATRIC INTERNAL MEDICINE SPECIALISTS, LLC
+1985-06-16 (Dr. Marline Kreiger) : Encounter at GERIATRIC INTERNAL MEDICINE SPECIALISTS, LLC
+1984-06-10 (Dr. Marline Kreiger) : Encounter at GERIATRIC INTERNAL MEDICINE SPECIALISTS, LLC
+1978-05-07 (Dr. Marline Kreiger) : Encounter at GERIATRIC INTERNAL MEDICINE SPECIALISTS, LLC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

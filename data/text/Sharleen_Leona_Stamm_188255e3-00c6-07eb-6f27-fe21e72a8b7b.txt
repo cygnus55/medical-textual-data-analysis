@@ -1,0 +1,690 @@
+Sharleen Leona Stamm
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 DECEASED
+Birth Date:          1966-09-05
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1967-04-23 -            : Peanut (substance)
+  1967-04-23 -            : Tree pollen (substance)
+  1967-04-23 -            : Animal dander (substance)
+  1967-04-23 -            : House dust mite (organism)
+  1967-04-23 -            : Mold (organism)
+  1967-04-23 -            : Latex (substance)
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2019-03-18[CURRENT] : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+  2019-03-18[CURRENT] : lisinopril 10 MG Oral Tablet for Hypertension
+  2018-12-30[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  2018-07-18[STOPPED] : 10 ML oxaliplatin 5 MG/ML Injection for Malignant tumor of colon
+  2018-07-18[STOPPED] : Leucovorin 100 MG Injection for Malignant tumor of colon
+  2018-06-16[STOPPED] : 10 ML oxaliplatin 5 MG/ML Injection for Malignant tumor of colon
+  2018-06-16[STOPPED] : Leucovorin 100 MG Injection for Malignant tumor of colon
+  2018-05-16[STOPPED] : 10 ML oxaliplatin 5 MG/ML Injection for Malignant tumor of colon
+  2018-05-16[STOPPED] : Leucovorin 100 MG Injection for Malignant tumor of colon
+  2018-04-15[STOPPED] : 10 ML oxaliplatin 5 MG/ML Injection for Malignant tumor of colon
+  2018-04-15[STOPPED] : Leucovorin 100 MG Injection for Malignant tumor of colon
+  2018-03-16[STOPPED] : 10 ML oxaliplatin 5 MG/ML Injection for Malignant tumor of colon
+  2018-03-16[STOPPED] : Leucovorin 100 MG Injection for Malignant tumor of colon
+  2018-03-12[STOPPED] : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+  2018-03-12[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2018-02-13[STOPPED] : 10 ML oxaliplatin 5 MG/ML Injection for Malignant tumor of colon
+  2018-02-13[STOPPED] : Leucovorin 100 MG Injection for Malignant tumor of colon
+  2017-03-06[STOPPED] : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+  2017-03-06[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2016-02-29[STOPPED] : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+  2016-02-29[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2015-02-23[STOPPED] : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+  2015-02-23[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2014-02-17[STOPPED] : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+  2014-02-17[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2014-02-05[STOPPED] : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+  2013-02-11[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2012-02-06[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2011-01-31[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2010-01-25[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2009-01-19[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2008-01-14[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2007-01-08[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2006-07-10[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2006-01-02[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2004-12-27[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2003-12-22[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2002-12-16[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2001-12-10[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2000-12-04[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  1999-11-29[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  1998-11-23[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  1997-11-17[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  1997-11-17[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  1991-02-25[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  1969-02-14[CURRENT] : diphenhydrAMINE Hydrochloride 25 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2019-03-18 -            : Stress (finding)
+  2018-12-30 - 2019-01-19 : Laceration of thigh
+  2018-01-02 -            : Malignant tumor of colon
+  2017-12-29 -            : Recurrent rectal polyp
+  2017-03-06 - 2018-03-12 : Stress (finding)
+  2016-09-05 -            : Polyp of colon
+  2014-02-17 - 2019-03-18 : Limited social contact (finding)
+  2014-02-05 -            : Chronic low back pain (finding)
+  2013-02-11 - 2015-02-23 : Stress (finding)
+  2012-04-30 -            : Miscarriage in first trimester
+  2008-01-14 - 2010-01-25 : Stress (finding)
+  2006-07-10 - 2007-01-08 : Stress (finding)
+  2003-12-22 - 2004-12-27 : Stress (finding)
+  1997-11-17 -            : Body mass index 30+ - obesity (finding)
+  1997-11-17 -            : Hypertension
+  1991-11-11 -            : Has a criminal record (finding)
+  1991-11-11 - 2001-12-10 : Stress (finding)
+  1991-02-25 -            : Impacted molars
+  1984-10-29 - 1988-11-07 : Stress (finding)
+  1984-10-29 -            : Unemployed (finding)
+  1984-10-29 -            : Received certificate of high school equivalency (finding)
+  1980-04-21 -            : Risk activity involvement (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2018-12-30[STOPPED] : Wound care
+                         Reason: Laceration of thigh
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  2018-01-13[STOPPED] : Major surgery care management (procedure)
+                         Reason: Malignant tumor of colon
+                         Activity: Liquid diet
+                         Activity: Administration of intravenous fluids
+  2018-01-02[CURRENT] : Cancer care plan
+                         Reason: Malignant tumor of colon
+                         Activity: Healthy diet
+                         Activity: Colonoscopy planned
+                         Activity: Cancer education
+  2015-09-21[CURRENT] : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2007-01-15[STOPPED] : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2001-05-21[STOPPED] : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2000-05-08[STOPPED] : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  1999-03-08[STOPPED] : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  1997-11-17[CURRENT] : Lifestyle education regarding hypertension
+                         Reason: Hypertension
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  1996-12-09[STOPPED] : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  1994-10-10[STOPPED] : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  1967-04-10[CURRENT] : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2020-01-06 : U.S. standard certificate of death - 2003 revision
+           - Cause of Death [US Standard Certificate of Death] Malignant tumor of colon 
+  2019-03-18 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    2.0 {score}
+  2019-03-18 : PHQ-9 quick depression assessment panel [Reported.PHQ]
+           - Patient Health Questionnaire 9 item (PHQ-9) total score [Reported] 8.0 {score}
+  2019-03-18 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 4.0 {score}
+  2019-03-18 : Lipid Panel
+           - Total Cholesterol                        202.6 mg/dL
+           - Triglycerides                            105.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      130.2 mg/dL
+           - High Density Lipoprotein Cholesterol     51.3 mg/dL
+  2018-07-18 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 2.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 25.8 %
+           - MCV [Entitic volume] by Automated count  86.4 fL
+           - MCH [Entitic mass] by Automated count    28.9 pg
+           - MCHC [Mass/volume] by Automated count    34.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.2 fL
+           - Platelets [#/volume] in Blood by Automated count 336.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 209.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.7 fL
+  2018-07-18 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  71.5 mg/dL
+           - Urea Nitrogen                            16.6 mg/dL
+           - Creatinine                               3.2 mg/dL
+           - Calcium                                  9.0 mg/dL
+           - Sodium                                   142.1 mmol/L
+           - Potassium                                3.8 mmol/L
+           - Chloride                                 101.7 mmol/L
+           - Carbon Dioxide                           25.9 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 8.6 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 6.4 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 5.3 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.6 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.6 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 139.4 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 34.8 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 19.0 U/L
+  2018-06-16 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 1.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 32.6 %
+           - MCV [Entitic volume] by Automated count  91.1 fL
+           - MCH [Entitic mass] by Automated count    31.5 pg
+           - MCHC [Mass/volume] by Automated count    34.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.5 fL
+           - Platelets [#/volume] in Blood by Automated count 411.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 397.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.1 fL
+  2018-06-16 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  73.1 mg/dL
+           - Urea Nitrogen                            14.1 mg/dL
+           - Creatinine                               3.4 mg/dL
+           - Calcium                                  9.9 mg/dL
+           - Sodium                                   138.8 mmol/L
+           - Potassium                                5.0 mmol/L
+           - Chloride                                 108.1 mmol/L
+           - Carbon Dioxide                           28.2 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 17.5 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 6.0 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.9 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 3.1 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.1 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 132.4 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 53.3 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 35.5 U/L
+  2018-05-16 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 2.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        7.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 26.0 %
+           - MCV [Entitic volume] by Automated count  88.9 fL
+           - MCH [Entitic mass] by Automated count    28.4 pg
+           - MCHC [Mass/volume] by Automated count    33.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.3 fL
+           - Platelets [#/volume] in Blood by Automated count 431.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 208.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.1 fL
+  2018-05-16 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  91.6 mg/dL
+           - Urea Nitrogen                            16.8 mg/dL
+           - Creatinine                               2.7 mg/dL
+           - Calcium                                  10.0 mg/dL
+           - Sodium                                   142.4 mmol/L
+           - Potassium                                3.9 mmol/L
+           - Chloride                                 106.5 mmol/L
+           - Carbon Dioxide                           21.8 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 22.3 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 7.5 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 3.7 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.1 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.4 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 108.0 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 52.2 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 26.9 U/L
+  2018-04-15 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 2.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 3.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        11.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 31.3 %
+           - MCV [Entitic volume] by Automated count  81.7 fL
+           - MCH [Entitic mass] by Automated count    28.3 pg
+           - MCHC [Mass/volume] by Automated count    35.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.6 fL
+           - Platelets [#/volume] in Blood by Automated count 337.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 356.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.3 fL
+  2018-04-15 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  85.6 mg/dL
+           - Urea Nitrogen                            11.2 mg/dL
+           - Creatinine                               2.9 mg/dL
+           - Calcium                                  10.0 mg/dL
+           - Sodium                                   137.7 mmol/L
+           - Potassium                                4.8 mmol/L
+           - Chloride                                 104.9 mmol/L
+           - Carbon Dioxide                           28.5 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 23.3 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 7.1 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 5.1 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 3.1 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.3 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 76.9 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 20.1 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 10.4 U/L
+  2018-03-12 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2018-03-12 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2018-03-16 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 1.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 3.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 26.4 %
+           - MCV [Entitic volume] by Automated count  83.6 fL
+           - MCH [Entitic mass] by Automated count    31.7 pg
+           - MCHC [Mass/volume] by Automated count    34.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.2 fL
+           - Platelets [#/volume] in Blood by Automated count 246.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 240.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.0 fL
+  2018-03-16 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  82.0 mg/dL
+           - Urea Nitrogen                            7.3 mg/dL
+           - Creatinine                               2.7 mg/dL
+           - Calcium                                  9.0 mg/dL
+           - Sodium                                   138.7 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 107.1 mmol/L
+           - Carbon Dioxide                           26.5 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 20.1 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 6.8 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 5.0 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 3.4 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.6 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 99.0 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 44.2 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 10.0 U/L
+  2018-02-13 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 2.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        9.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 27.2 %
+           - MCV [Entitic volume] by Automated count  87.3 fL
+           - MCH [Entitic mass] by Automated count    29.9 pg
+           - MCHC [Mass/volume] by Automated count    33.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.1 fL
+           - Platelets [#/volume] in Blood by Automated count 254.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 228.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2018-02-13 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  95.3 mg/dL
+           - Urea Nitrogen                            17.3 mg/dL
+           - Creatinine                               3.1 mg/dL
+           - Calcium                                  9.5 mg/dL
+           - Sodium                                   137.4 mmol/L
+           - Potassium                                4.0 mmol/L
+           - Chloride                                 101.8 mmol/L
+           - Carbon Dioxide                           24.0 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 28.8 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 6.1 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.2 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.2 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.7 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 90.6 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 58.1 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 28.9 U/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2020-01-06 : Cause of Death [US Standard Certificate of Death] Malignant tumor of colon 
+  2019-03-18 : Total score [AUDIT-C]                    2.0 {score}
+  2019-03-18 : Patient Health Questionnaire 9 item (PHQ-9) total score [Reported] 8.0 {score}
+  2019-03-18 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 4.0 {score}
+  2019-03-18 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 97014 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Unemployed (finding) 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             827 Runolfsdottir Key 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 2.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2019-03-18 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2019-03-18 : High Density Lipoprotein Cholesterol     51.3 mg/dL
+  2019-03-18 : Low Density Lipoprotein Cholesterol      130.2 mg/dL
+  2019-03-18 : Triglycerides                            105.5 mg/dL
+  2019-03-18 : Total Cholesterol                        202.6 mg/dL
+  2019-03-18 : Respiratory rate                         15.0 /min
+  2019-03-18 : Heart rate                               72.0 /min
+  2019-03-18 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  141.0 mm[Hg]
+  2019-03-18 : Body Mass Index                          27.3 kg/m2
+  2019-03-18 : Body Weight                              74.4 kg
+  2019-03-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2019-03-18 : Body Height                              165.1 cm
+  2018-07-18 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.7 fL
+  2018-07-18 : Platelet distribution width [Entitic volume] in Blood by Automated count 209.7 fL
+  2018-07-18 : Platelets [#/volume] in Blood by Automated count 336.9 10*3/uL
+  2018-07-18 : Erythrocyte distribution width [Entitic volume] by Automated count 41.2 fL
+  2018-07-18 : MCHC [Mass/volume] by Automated count    34.1 g/dL
+  2018-07-18 : MCH [Entitic mass] by Automated count    28.9 pg
+  2018-07-18 : MCV [Entitic volume] by Automated count  86.4 fL
+  2018-07-18 : Hematocrit [Volume Fraction] of Blood by Automated count 25.8 %
+  2018-07-18 : Hemoglobin [Mass/volume] in Blood        13.5 g/dL
+  2018-07-18 : Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+  2018-07-18 : Leukocytes [#/volume] in Blood by Automated count 2.8 10*3/uL
+  2018-07-18 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 19.0 U/L
+  2018-07-18 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 34.8 U/L
+  2018-07-18 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 139.4 U/L
+  2018-07-18 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.6 mg/dL
+  2018-07-18 : Globulin [Mass/volume] in Serum by calculation 2.6 g/L
+  2018-07-18 : Albumin [Mass/volume] in Serum or Plasma 5.3 g/dL
+  2018-07-18 : Protein [Mass/volume] in Serum or Plasma 6.4 g/dL
+  2018-07-18 : Glomerular filtration rate/1.73 sq M.predicted 8.6 mL/min
+  2018-07-18 : Carbon Dioxide                           25.9 mmol/L
+  2018-07-18 : Chloride                                 101.7 mmol/L
+  2018-07-18 : Potassium                                3.8 mmol/L
+  2018-07-18 : Sodium                                   142.1 mmol/L
+  2018-07-18 : Calcium                                  9.0 mg/dL
+  2018-07-18 : Creatinine                               3.2 mg/dL
+  2018-07-18 : Urea Nitrogen                            16.6 mg/dL
+  2018-07-18 : Glucose                                  71.5 mg/dL
+  2018-07-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.0 {score}
+  2018-06-16 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.1 fL
+  2018-06-16 : Platelet distribution width [Entitic volume] in Blood by Automated count 397.4 fL
+  2018-06-16 : Platelets [#/volume] in Blood by Automated count 411.4 10*3/uL
+  2018-06-16 : Erythrocyte distribution width [Entitic volume] by Automated count 39.5 fL
+  2018-06-16 : MCHC [Mass/volume] by Automated count    34.5 g/dL
+  2018-06-16 : MCH [Entitic mass] by Automated count    31.5 pg
+  2018-06-16 : MCV [Entitic volume] by Automated count  91.1 fL
+  2018-06-16 : Hematocrit [Volume Fraction] of Blood by Automated count 32.6 %
+  2018-06-16 : Hemoglobin [Mass/volume] in Blood        12.2 g/dL
+  2018-06-16 : Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+  2018-06-16 : Leukocytes [#/volume] in Blood by Automated count 1.7 10*3/uL
+  2018-06-16 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 35.5 U/L
+  2018-06-16 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 53.3 U/L
+  2018-06-16 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 132.4 U/L
+  2018-06-16 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.1 mg/dL
+  2018-06-16 : Globulin [Mass/volume] in Serum by calculation 3.1 g/L
+  2018-06-16 : Albumin [Mass/volume] in Serum or Plasma 4.9 g/dL
+  2018-06-16 : Protein [Mass/volume] in Serum or Plasma 6.0 g/dL
+  2018-06-16 : Glomerular filtration rate/1.73 sq M.predicted 17.5 mL/min
+  2018-06-16 : Carbon Dioxide                           28.2 mmol/L
+  2018-06-16 : Chloride                                 108.1 mmol/L
+  2018-06-16 : Potassium                                5.0 mmol/L
+  2018-06-16 : Sodium                                   138.8 mmol/L
+  2018-06-16 : Calcium                                  9.9 mg/dL
+  2018-06-16 : Creatinine                               3.4 mg/dL
+  2018-06-16 : Urea Nitrogen                            14.1 mg/dL
+  2018-06-16 : Glucose                                  73.1 mg/dL
+  2018-06-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2018-05-16 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.1 fL
+  2018-05-16 : Platelet distribution width [Entitic volume] in Blood by Automated count 208.2 fL
+  2018-05-16 : Platelets [#/volume] in Blood by Automated count 431.6 10*3/uL
+  2018-05-16 : Erythrocyte distribution width [Entitic volume] by Automated count 45.3 fL
+  2018-05-16 : MCHC [Mass/volume] by Automated count    33.5 g/dL
+  2018-05-16 : MCH [Entitic mass] by Automated count    28.4 pg
+  2018-05-16 : MCV [Entitic volume] by Automated count  88.9 fL
+  2018-05-16 : Hematocrit [Volume Fraction] of Blood by Automated count 26.0 %
+  2018-05-16 : Hemoglobin [Mass/volume] in Blood        7.1 g/dL
+  2018-05-16 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2018-05-16 : Leukocytes [#/volume] in Blood by Automated count 2.8 10*3/uL
+  2018-05-16 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 26.9 U/L
+  2018-05-16 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 52.2 U/L
+  2018-05-16 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 108.0 U/L
+  2018-05-16 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.4 mg/dL
+  2018-05-16 : Globulin [Mass/volume] in Serum by calculation 2.1 g/L
+  2018-05-16 : Albumin [Mass/volume] in Serum or Plasma 3.7 g/dL
+  2018-05-16 : Protein [Mass/volume] in Serum or Plasma 7.5 g/dL
+  2018-05-16 : Glomerular filtration rate/1.73 sq M.predicted 22.3 mL/min
+  2018-05-16 : Carbon Dioxide                           21.8 mmol/L
+  2018-05-16 : Chloride                                 106.5 mmol/L
+  2018-05-16 : Potassium                                3.9 mmol/L
+  2018-05-16 : Sodium                                   142.4 mmol/L
+  2018-05-16 : Calcium                                  10.0 mg/dL
+  2018-05-16 : Creatinine                               2.7 mg/dL
+  2018-05-16 : Urea Nitrogen                            16.8 mg/dL
+  2018-05-16 : Glucose                                  91.6 mg/dL
+  2018-05-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2018-04-15 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.3 fL
+  2018-04-15 : Platelet distribution width [Entitic volume] in Blood by Automated count 356.3 fL
+  2018-04-15 : Platelets [#/volume] in Blood by Automated count 337.4 10*3/uL
+  2018-04-15 : Erythrocyte distribution width [Entitic volume] by Automated count 44.6 fL
+  2018-04-15 : MCHC [Mass/volume] by Automated count    35.9 g/dL
+  2018-04-15 : MCH [Entitic mass] by Automated count    28.3 pg
+  2018-04-15 : MCV [Entitic volume] by Automated count  81.7 fL
+  2018-04-15 : Hematocrit [Volume Fraction] of Blood by Automated count 31.3 %
+  2018-04-15 : Hemoglobin [Mass/volume] in Blood        11.0 g/dL
+  2018-04-15 : Erythrocytes [#/volume] in Blood by Automated count 3.9 10*6/uL
+  2018-04-15 : Leukocytes [#/volume] in Blood by Automated count 2.5 10*3/uL
+  2018-04-15 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 10.4 U/L
+  2018-04-15 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 20.1 U/L
+  2018-04-15 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 76.9 U/L
+  2018-04-15 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.3 mg/dL
+  2018-04-15 : Globulin [Mass/volume] in Serum by calculation 3.1 g/L
+  2018-04-15 : Albumin [Mass/volume] in Serum or Plasma 5.1 g/dL
+  2018-04-15 : Protein [Mass/volume] in Serum or Plasma 7.1 g/dL
+  2018-04-15 : Glomerular filtration rate/1.73 sq M.predicted 23.3 mL/min
+  2018-04-15 : Carbon Dioxide                           28.5 mmol/L
+  2018-04-15 : Chloride                                 104.9 mmol/L
+  2018-04-15 : Potassium                                4.8 mmol/L
+  2018-04-15 : Sodium                                   137.7 mmol/L
+  2018-04-15 : Calcium                                  10.0 mg/dL
+  2018-04-15 : Creatinine                               2.9 mg/dL
+  2018-04-15 : Urea Nitrogen                            11.2 mg/dL
+  2018-04-15 : Glucose                                  85.6 mg/dL
+  2018-04-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+  2018-03-12 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2018-03-12 : Total score [HARK]                       0.0 {score}
+  2018-03-12 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 97014 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Unemployed (finding) 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             827 Runolfsdottir Key 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 2.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2018-03-16 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.0 fL
+  2018-03-16 : Platelet distribution width [Entitic volume] in Blood by Automated count 240.2 fL
+  2018-03-16 : Platelets [#/volume] in Blood by Automated count 246.1 10*3/uL
+  2018-03-16 : Erythrocyte distribution width [Entitic volume] by Automated count 44.2 fL
+  2018-03-16 : MCHC [Mass/volume] by Automated count    34.4 g/dL
+  2018-03-16 : MCH [Entitic mass] by Automated count    31.7 pg
+  2018-03-16 : MCV [Entitic volume] by Automated count  83.6 fL
+  2018-03-16 : Hematocrit [Volume Fraction] of Blood by Automated count 26.4 %
+  2018-03-16 : Hemoglobin [Mass/volume] in Blood        14.3 g/dL
+  2018-03-16 : Erythrocytes [#/volume] in Blood by Automated count 3.9 10*6/uL
+  2018-03-16 : Leukocytes [#/volume] in Blood by Automated count 1.0 10*3/uL
+  2018-03-16 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 10.0 U/L
+  2018-03-16 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 44.2 U/L
+  2018-03-16 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 99.0 U/L
+  2018-03-16 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.6 mg/dL
+  2018-03-16 : Globulin [Mass/volume] in Serum by calculation 3.4 g/L
+  2018-03-16 : Albumin [Mass/volume] in Serum or Plasma 5.0 g/dL
+  2018-03-16 : Protein [Mass/volume] in Serum or Plasma 6.8 g/dL
+  2018-03-16 : Glomerular filtration rate/1.73 sq M.predicted 20.1 mL/min
+  2018-03-16 : Carbon Dioxide                           26.5 mmol/L
+  2018-03-16 : Chloride                                 107.1 mmol/L
+  2018-03-16 : Potassium                                4.5 mmol/L
+  2018-03-16 : Sodium                                   138.7 mmol/L
+  2018-03-16 : Calcium                                  9.0 mg/dL
+  2018-03-16 : Creatinine                               2.7 mg/dL
+  2018-03-16 : Urea Nitrogen                            7.3 mg/dL
+  2018-03-16 : Glucose                                  82.0 mg/dL
+  2018-03-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+  2018-03-12 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2018-03-12 : Respiratory rate                         12.0 /min
+  2018-03-12 : Heart rate                               75.0 /min
+  2018-03-12 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  136.0 mm[Hg]
+  2018-03-12 : Body Mass Index                          27.3 kg/m2
+  2018-03-12 : Body Weight                              74.4 kg
+  2018-03-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-03-12 : Body Height                              165.1 cm
+  2018-02-13 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2018-02-13 : Platelet distribution width [Entitic volume] in Blood by Automated count 228.8 fL
+  2018-02-13 : Platelets [#/volume] in Blood by Automated count 254.6 10*3/uL
+  2018-02-13 : Erythrocyte distribution width [Entitic volume] by Automated count 39.1 fL
+  2018-02-13 : MCHC [Mass/volume] by Automated count    33.3 g/dL
+  2018-02-13 : MCH [Entitic mass] by Automated count    29.9 pg
+  2018-02-13 : MCV [Entitic volume] by Automated count  87.3 fL
+  2018-02-13 : Hematocrit [Volume Fraction] of Blood by Automated count 27.2 %
+  2018-02-13 : Hemoglobin [Mass/volume] in Blood        9.2 g/dL
+  2018-02-13 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  2018-02-13 : Leukocytes [#/volume] in Blood by Automated count 2.8 10*3/uL
+  2018-02-13 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 28.9 U/L
+  2018-02-13 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 58.1 U/L
+  2018-02-13 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 90.6 U/L
+  2018-02-13 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.7 mg/dL
+  2018-02-13 : Globulin [Mass/volume] in Serum by calculation 2.2 g/L
+  2018-02-13 : Albumin [Mass/volume] in Serum or Plasma 4.2 g/dL
+  2018-02-13 : Protein [Mass/volume] in Serum or Plasma 6.1 g/dL
+  2018-02-13 : Glomerular filtration rate/1.73 sq M.predicted 28.8 mL/min
+  2018-02-13 : Carbon Dioxide                           24.0 mmol/L
+  2018-02-13 : Chloride                                 101.8 mmol/L
+  2018-02-13 : Potassium                                4.0 mmol/L
+  2018-02-13 : Sodium                                   137.4 mmol/L
+  2018-02-13 : Calcium                                  9.5 mg/dL
+  2018-02-13 : Creatinine                               3.1 mg/dL
+  2018-02-13 : Urea Nitrogen                            17.3 mg/dL
+  2018-02-13 : Glucose                                  95.3 mg/dL
+  2018-02-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2018-01-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2019-12-30 : Hospice care (regime/therapy)
+  2019-12-29 : Hospice care (regime/therapy)
+  2019-12-28 : Hospice care (regime/therapy)
+  2019-12-27 : Hospice care (regime/therapy)
+  2019-12-26 : Hospice care (regime/therapy)
+  2019-12-25 : Hospice care (regime/therapy)
+  2019-12-24 : Hospice care (regime/therapy)
+  2019-12-23 : Hospice care (regime/therapy)
+  2019-12-22 : Hospice care (regime/therapy)
+  2019-12-21 : Hospice care (regime/therapy)
+  2019-12-20 : Hospice care (regime/therapy)
+  2019-12-19 : Hospice care (regime/therapy)
+  2019-12-18 : Hospice care (regime/therapy)
+  2019-12-17 : Hospice care (regime/therapy)
+  2019-12-16 : Hospice care (regime/therapy)
+  2019-12-15 : Hospice care (regime/therapy)
+  2019-12-14 : Hospice care (regime/therapy)
+  2019-12-13 : Hospice care (regime/therapy)
+  2019-12-12 : Hospice care (regime/therapy)
+  2019-12-11 : Hospice care (regime/therapy)
+  2019-12-10 : Hospice care (regime/therapy)
+  2019-12-09 : Hospice care (regime/therapy)
+  2019-12-09 : Development of individualized plan of care (procedure)
+  2019-12-09 : Initial patient assessment (procedure)
+  2019-12-09 : Notifications (procedure)
+  2019-12-09 : Certification procedure (procedure)
+  2019-03-18 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2019-03-18 : Assessment of substance use (procedure)
+  2019-03-18 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2019-03-18 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2019-03-18 : Depression screening (procedure)
+  2019-03-18 : Assessment of health and social care needs (procedure)
+  2018-12-30 : Suture open wound for Laceration of thigh
+  2018-07-18 : Combined chemotherapy and radiation therapy (procedure) for Malignant tumor of colon
+  2018-06-16 : Combined chemotherapy and radiation therapy (procedure) for Malignant tumor of colon
+  2018-05-16 : Combined chemotherapy and radiation therapy (procedure) for Malignant tumor of colon
+  2018-04-15 : Combined chemotherapy and radiation therapy (procedure) for Malignant tumor of colon
+  2018-03-12 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2018-03-12 : Depression screening (procedure)
+  2018-03-12 : Screening for domestic abuse (procedure)
+  2018-03-16 : Combined chemotherapy and radiation therapy (procedure) for Malignant tumor of colon
+  2018-03-12 : Medication Reconciliation (procedure)
+  2018-03-12 : Assessment of health and social care needs (procedure)
+  2018-02-13 : Combined chemotherapy and radiation therapy (procedure) for Malignant tumor of colon
+  2018-01-13 : Partial resection of colon for Malignant tumor of colon
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2019-03-18 : Influenza, seasonal, injectable, preservative free
+  2018-03-12 : Td (adult) preservative free
+  2018-03-12 : Influenza, seasonal, injectable, preservative free
+  2018-03-12 : zoster
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2020-01-06 (Dr. Emory Nicolas) : Encounter at COMMUNITY HEALTH CENTER OF FRANKLIN COUNTY INCORPORATED : Encounter for Malignant tumor of colon
+2019-12-09 (Dr. Ai Hyatt) : Encounter at HOSPICE OF FRANKLIN COUNTY, INC.
+2019-03-18 (Dr. Emory Nicolas) : Encounter at COMMUNITY HEALTH CENTER OF FRANKLIN COUNTY INCORPORATED
+2018-12-30 (Dr. Leon Lehner) : Encounter at BUCKLEY-GREENFIELD HEALTHCARE CENTER
+2018-07-18 (Dr. Erick Mayer) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER : Encounter for Malignant tumor of colon
+2018-06-16 (Dr. Erick Mayer) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER : Encounter for Malignant tumor of colon
+2018-05-16 (Dr. Erick Mayer) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER : Encounter for Malignant tumor of colon
+2018-04-15 (Dr. Erick Mayer) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER : Encounter for Malignant tumor of colon
+2018-03-16 (Dr. Erick Mayer) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER : Encounter for Malignant tumor of colon
+2018-03-12 (Dr. Emory Nicolas) : Encounter at COMMUNITY HEALTH CENTER OF FRANKLIN COUNTY INCORPORATED
+2018-02-13 (Dr. Erick Mayer) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER : Encounter for Malignant tumor of colon
+2018-01-13 (Dr. Erick Mayer) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER : Encounter for Malignant tumor of colon
+2018-01-02 (Dr. Erick Mayer) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER : Encounter for Malignant tumor of colon
+2017-12-29 (Dr. Erick Mayer) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER
+2017-03-06 (Dr. Emory Nicolas) : Encounter at COMMUNITY HEALTH CENTER OF FRANKLIN COUNTY INCORPORATED
+2016-09-12 (Dr. Erick Mayer) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER
+2016-02-29 (Dr. Emory Nicolas) : Encounter at COMMUNITY HEALTH CENTER OF FRANKLIN COUNTY INCORPORATED
+2015-09-21 (Dr. Erick Mayer) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER : Encounter for Normal pregnancy
+2015-02-23 (Dr. Emory Nicolas) : Encounter at COMMUNITY HEALTH CENTER OF FRANKLIN COUNTY INCORPORATED
+2014-02-23 (Dr. Erick Mayer) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER
+2014-02-14 (Dr. Erick Mayer) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER
+2014-02-05 (Dr. Erick Mayer) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER
+2013-02-11 (Dr. Emory Nicolas) : Encounter at COMMUNITY HEALTH CENTER OF FRANKLIN COUNTY INCORPORATED
+2012-04-30 (Dr. Erick Mayer) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER : Encounter for Normal pregnancy
+2012-02-06 (Dr. Emory Nicolas) : Encounter at COMMUNITY HEALTH CENTER OF FRANKLIN COUNTY INCORPORATED
+2011-01-31 (Dr. Emory Nicolas) : Encounter at COMMUNITY HEALTH CENTER OF FRANKLIN COUNTY INCORPORATED
+2010-01-25 (Dr. Emory Nicolas) : Encounter at COMMUNITY HEALTH CENTER OF FRANKLIN COUNTY INCORPORATED
+2009-01-19 (Dr. Emory Nicolas) : Encounter at COMMUNITY HEALTH CENTER OF FRANKLIN COUNTY INCORPORATED
+2008-01-14 (Dr. Emory Nicolas) : Encounter at COMMUNITY HEALTH CENTER OF FRANKLIN COUNTY INCORPORATED
+2007-01-15 (Dr. Erick Mayer) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER : Encounter for Normal pregnancy
+2007-01-08 (Dr. Emory Nicolas) : Encounter at COMMUNITY HEALTH CENTER OF FRANKLIN COUNTY INCORPORATED
+2006-07-10 (Dr. Erick Mayer) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER
+2006-01-02 (Dr. Emory Nicolas) : Encounter at COMMUNITY HEALTH CENTER OF FRANKLIN COUNTY INCORPORATED
+2004-12-27 (Dr. Emory Nicolas) : Encounter at COMMUNITY HEALTH CENTER OF FRANKLIN COUNTY INCORPORATED
+2003-12-22 (Dr. Emory Nicolas) : Encounter at COMMUNITY HEALTH CENTER OF FRANKLIN COUNTY INCORPORATED
+2002-12-16 (Dr. Emory Nicolas) : Encounter at COMMUNITY HEALTH CENTER OF FRANKLIN COUNTY INCORPORATED
+2001-12-10 (Dr. Emory Nicolas) : Encounter at COMMUNITY HEALTH CENTER OF FRANKLIN COUNTY INCORPORATED
+2001-05-21 (Dr. Erick Mayer) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER : Encounter for Normal pregnancy
+2000-12-04 (Dr. Erick Mayer) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER : Encounter for Normal pregnancy
+2000-05-08 (Dr. Erick Mayer) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER : Encounter for Normal pregnancy
+1999-11-29 (Dr. Emory Nicolas) : Encounter at COMMUNITY HEALTH CENTER OF FRANKLIN COUNTY INCORPORATED
+1999-03-08 (Dr. Erick Mayer) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER : Encounter for Normal pregnancy
+1998-11-23 (Dr. Emory Nicolas) : Encounter at COMMUNITY HEALTH CENTER OF FRANKLIN COUNTY INCORPORATED
+1997-11-17 (Dr. Emory Nicolas) : Encounter at COMMUNITY HEALTH CENTER OF FRANKLIN COUNTY INCORPORATED
+1996-12-09 (Dr. Erick Mayer) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER : Encounter for Normal pregnancy
+1994-10-10 (Dr. Erick Mayer) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER : Encounter for Normal pregnancy
+1991-11-14 (Dr. Erick Mayer) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER
+1991-02-25 (Dr. Erick Mayer) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER : Encounter for Impacted molars
+1984-10-29 (Dr. Emory Nicolas) : Encounter at COMMUNITY HEALTH CENTER OF FRANKLIN COUNTY INCORPORATED
+1980-04-21 (Dr. Erick Mayer) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER
+1969-02-14 (Dr. Erick Mayer) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER : Encounter for Perennial allergic rhinitis
+1967-04-23 (Dr. Erick Mayer) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER
+1967-04-10 (Dr. Erick Mayer) : Encounter at BAYSTATE FRANKLIN MEDICAL CENTER
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

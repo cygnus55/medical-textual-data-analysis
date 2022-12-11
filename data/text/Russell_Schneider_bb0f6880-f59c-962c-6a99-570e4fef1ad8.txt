@@ -1,0 +1,156 @@
+Russell Schneider
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 14
+Birth Date:          2008-10-15
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2009-08-07 -            : Shellfish (substance)
+  2009-08-07 -            : Cow's milk (substance)
+  2009-08-07 -            : Aspirin
+  2009-08-07 -            : Tree pollen (substance)
+  2009-08-07 -            : Grass pollen (substance)
+  2009-08-07 -            : Animal dander (substance)
+  2009-08-07 -            : House dust mite (organism)
+  2009-08-07 -            : Mold (organism)
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2009-08-07[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2009-08-07[CURRENT] : cetirizine hydrochloride 5 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2021-11-10 -            : Risk activity involvement (finding)
+  2011-02-21 -            : Perennial allergic rhinitis with seasonal variation
+  2009-06-23 -            : Atopic dermatitis
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2021-10-20[CURRENT] : Allergic disorder monitoring
+                         Activity: Hyposensitization to allergens (procedure)
+  2009-07-23[CURRENT] : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+  2009-06-23[CURRENT] : Skin condition care
+                         Reason: Atopic dermatitis
+                         Activity: Application of moisturizer to skin
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-11-16 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 3.0 {score}
+  2022-11-16 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2021-11-10 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2021-11-10 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-11-16 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 3.0 {score}
+  2022-11-16 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2022-11-16 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-11-16 : Respiratory rate                         15.0 /min
+  2022-11-16 : Heart rate                               81.0 /min
+  2022-11-16 : Blood Pressure
+           - Diastolic Blood Pressure                 65.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  2022-11-16 : Body mass index (BMI) [Percentile] Per age and gender 89.6 %
+  2022-11-16 : Body Mass Index                          23.8 kg/m2
+  2022-11-16 : Body Weight                              61.1 kg
+  2022-11-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2022-11-16 : Body Height                              160.2 cm
+  2021-11-10 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2021-11-10 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2021-11-10 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-11-10 : Respiratory rate                         14.0 /min
+  2021-11-10 : Heart rate                               74.0 /min
+  2021-11-10 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  2021-11-10 : Body mass index (BMI) [Percentile] Per age and gender 86.5 %
+  2021-11-10 : Body Mass Index                          22.2 kg/m2
+  2021-11-10 : Body Weight                              51.2 kg
+  2021-11-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2021-11-10 : Body Height                              152.1 cm
+  2021-10-20 : Latex IgE Ab in Serum                    0.2 kU/L
+  2021-10-20 : Honey bee IgE Ab in Serum                0.2 kU/L
+  2021-10-20 : Cladosporium herbarum IgE Ab in Serum    0.3 kU/L
+  2021-10-20 : American house dust mite IgE Ab in Serum 0.2 kU/L
+  2021-10-20 : Cat dander IgE Ab in Serum               0.1 kU/L
+  2021-10-20 : Common Ragweed IgE Ab in Serum           0.3 kU/L
+  2021-10-20 : White oak IgE Ab in Serum                0.1 kU/L
+  2021-10-20 : Cow milk IgE Ab in Serum                 0.2 kU/L
+  2021-10-20 : Soybean IgE Ab in Serum                  0.1 kU/L
+  2021-10-20 : Egg white IgE Ab in Serum                0.1 kU/L
+  2021-10-20 : Wheat IgE Ab in Serum                    0.3 kU/L
+  2021-10-20 : Shrimp IgE Ab in Serum                   0.1 kU/L
+  2021-10-20 : Codfish IgE Ab in Serum                  0.3 kU/L
+  2021-10-20 : Walnut IgE Ab in Serum                   0.2 kU/L
+  2021-10-20 : Peanut IgE Ab in Serum                   0.1 kU/L
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-11-16 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2022-11-16 : Depression screening (procedure)
+  2022-11-16 : Medication Reconciliation (procedure)
+  2022-11-16 : Assessment of anxiety (procedure)
+  2022-11-13 : Subcutaneous immunotherapy
+  2022-10-23 : Subcutaneous immunotherapy
+  2022-09-26 : Subcutaneous immunotherapy
+  2022-09-03 : Subcutaneous immunotherapy
+  2022-08-11 : Subcutaneous immunotherapy
+  2022-07-17 : Subcutaneous immunotherapy
+  2022-06-24 : Subcutaneous immunotherapy
+  2022-05-31 : Subcutaneous immunotherapy
+  2022-05-04 : Subcutaneous immunotherapy
+  2022-04-08 : Subcutaneous immunotherapy
+  2022-03-17 : Subcutaneous immunotherapy
+  2022-02-22 : Subcutaneous immunotherapy
+  2022-01-26 : Subcutaneous immunotherapy
+  2021-12-31 : Subcutaneous immunotherapy
+  2021-12-06 : Subcutaneous immunotherapy
+  2021-11-10 : Health risks education (procedure) for Risk activity involvement (finding)
+  2021-11-10 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2021-11-10 : Assessment of substance use (procedure)
+  2021-11-10 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2021-11-10 : Depression screening (procedure)
+  2021-11-12 : Subcutaneous immunotherapy
+  2021-11-10 : Assessment of anxiety (procedure)
+  2021-10-20 : Allergy screening test
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-11-16 : Influenza, seasonal, injectable, preservative free
+  2021-11-10 : Influenza, seasonal, injectable, preservative free
+  2021-09-08 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-08-18 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-11-13 (Dr. Abdul White) : Encounter at STEWARD NORWOOD HOSPITAL INC
+2022-11-16 (Dr. Ethyl Rau) : Encounter at WALPOLE MEDICAL CENTER, PC
+2022-10-23 (Dr. Abdul White) : Encounter at STEWARD NORWOOD HOSPITAL INC
+2022-09-26 (Dr. Abdul White) : Encounter at STEWARD NORWOOD HOSPITAL INC
+2022-09-03 (Dr. Abdul White) : Encounter at STEWARD NORWOOD HOSPITAL INC
+2022-08-11 (Dr. Abdul White) : Encounter at STEWARD NORWOOD HOSPITAL INC
+2022-07-17 (Dr. Abdul White) : Encounter at STEWARD NORWOOD HOSPITAL INC
+2022-06-24 (Dr. Abdul White) : Encounter at STEWARD NORWOOD HOSPITAL INC
+2022-05-31 (Dr. Abdul White) : Encounter at STEWARD NORWOOD HOSPITAL INC
+2022-05-04 (Dr. Abdul White) : Encounter at STEWARD NORWOOD HOSPITAL INC
+2022-04-08 (Dr. Abdul White) : Encounter at STEWARD NORWOOD HOSPITAL INC
+2022-03-17 (Dr. Abdul White) : Encounter at STEWARD NORWOOD HOSPITAL INC
+2022-02-22 (Dr. Abdul White) : Encounter at STEWARD NORWOOD HOSPITAL INC
+2022-01-26 (Dr. Abdul White) : Encounter at STEWARD NORWOOD HOSPITAL INC
+2021-12-31 (Dr. Abdul White) : Encounter at STEWARD NORWOOD HOSPITAL INC
+2021-12-06 (Dr. Abdul White) : Encounter at STEWARD NORWOOD HOSPITAL INC
+2021-11-12 (Dr. Abdul White) : Encounter at STEWARD NORWOOD HOSPITAL INC
+2021-11-10 (Dr. Ethyl Rau) : Encounter at WALPOLE MEDICAL CENTER, PC
+2021-10-20 (Dr. Abdul White) : Encounter at STEWARD NORWOOD HOSPITAL INC
+2021-09-08 (Dr. Trinidad King) : Encounter at STEWARD NORWOOD HOSPITAL INC
+2021-08-18 (Dr. Trinidad King) : Encounter at STEWARD NORWOOD HOSPITAL INC
+2011-02-21 (Dr. Abdul White) : Encounter at STEWARD NORWOOD HOSPITAL INC : Encounter for Perennial allergic rhinitis with seasonal variation
+2009-08-07 (Dr. Abdul White) : Encounter at STEWARD NORWOOD HOSPITAL INC
+2009-07-23 (Dr. Abdul White) : Encounter at STEWARD NORWOOD HOSPITAL INC
+2009-06-23 (Dr. Abdul White) : Encounter at STEWARD NORWOOD HOSPITAL INC : Encounter for Atopic dermatitis
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

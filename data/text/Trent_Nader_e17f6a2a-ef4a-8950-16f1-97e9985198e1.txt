@@ -1,0 +1,230 @@
+Trent Nader
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 39
+Birth Date:          1982-12-12
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2004-09-28 -            : Tree pollen (substance)
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2022-05-08[CURRENT] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2022-05-08[CURRENT] : lisinopril 10 MG Oral Tablet for Hypertension
+  2021-05-02[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2021-05-02[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2020-04-26[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2020-04-26[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2019-04-21[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2019-04-21[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2018-04-15[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2018-04-15[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2017-06-28[CURRENT] : Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of knee
+  2017-04-09[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2017-04-09[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2016-04-03[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2016-04-03[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2015-03-29[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2015-03-29[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2014-03-23[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2014-03-23[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2013-03-17[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2013-03-17[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2012-03-11[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2012-03-11[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2011-03-06[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2011-03-06[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2010-02-28[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2010-02-28[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2009-02-22[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2009-02-22[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2008-02-17[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2008-02-17[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2008-02-17[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2008-02-17[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2004-09-28[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2004-09-28[CURRENT] : Fexofenadine hydrochloride 60 MG Oral Tablet
+  2004-09-13[CURRENT] : Hydrocortisone 10 MG/ML Topical Cream for Contact dermatitis
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-05-08 -            : Full-time employment (finding)
+  2021-05-02 - 2022-05-08 : Full-time employment (finding)
+  2020-04-26 -            : Victim of intimate partner abuse (finding)
+  2020-04-26 - 2021-05-02 : Full-time employment (finding)
+  2019-04-21 - 2020-04-26 : Full-time employment (finding)
+  2018-04-15 - 2019-04-21 : Full-time employment (finding)
+  2017-06-28 -            : Osteoarthritis of knee
+  2017-04-09 -            : Stress (finding)
+  2017-04-09 - 2018-04-15 : Full-time employment (finding)
+  2016-04-03 - 2017-04-09 : Full-time employment (finding)
+  2015-03-29 - 2016-04-03 : Full-time employment (finding)
+  2013-03-17 - 2014-03-23 : Full-time employment (finding)
+  2011-03-06 - 2012-03-11 : Stress (finding)
+  2010-02-28 - 2011-03-06 : Full-time employment (finding)
+  2009-02-22 - 2010-02-28 : Full-time employment (finding)
+  2008-02-17 - 2009-02-22 : Stress (finding)
+  2008-02-17 -            : Hypertension
+  2005-02-13 - 2008-02-17 : Victim of intimate partner abuse (finding)
+  2005-02-13 - 2022-05-08 : Social isolation (finding)
+  2005-02-13 -            : Lack of access to transportation (finding)
+  2005-02-13 -            : Body mass index 30+ - obesity (finding)
+  2002-02-10 - 2005-02-13 : Full-time employment (finding)
+  2001-02-04 -            : Transport problems (finding)
+  2001-02-04 - 2002-02-10 : Full-time employment (finding)
+  2001-02-04 -            : Received higher education (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2017-06-28[CURRENT] : Musculoskeletal care
+                         Reason: Osteoarthritis of knee
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+  2008-02-17[CURRENT] : Lifestyle education regarding hypertension
+                         Reason: Hypertension
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  2004-09-28[CURRENT] : Self-care interventions (procedure)
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-05-08 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2022-05-08 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2022-05-08 : Lipid Panel
+           - Total Cholesterol                        145.1 mg/dL
+           - Triglycerides                            138.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      58.3 mg/dL
+           - High Density Lipoprotein Cholesterol     59.2 mg/dL
+  2021-05-02 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+  2021-05-02 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-05-02 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-05-08 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2022-05-08 : Total score [HARK]                       0.0 {score}
+  2022-05-08 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? Yes, it has kept me from medical appointments or from getting my medications 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 99623 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             105 Krajcik Course 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2022-05-08 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-05-08 : High Density Lipoprotein Cholesterol     59.2 mg/dL
+  2022-05-08 : Low Density Lipoprotein Cholesterol      58.3 mg/dL
+  2022-05-08 : Triglycerides                            138.0 mg/dL
+  2022-05-08 : Total Cholesterol                        145.1 mg/dL
+  2022-05-08 : Respiratory rate                         13.0 /min
+  2022-05-08 : Heart rate                               87.0 /min
+  2022-05-08 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  136.0 mm[Hg]
+  2022-05-08 : Body Mass Index                          28.4 kg/m2
+  2022-05-08 : Body Weight                              91.6 kg
+  2022-05-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2022-05-08 : Body Height                              179.6 cm
+  2021-05-02 : Total score [DAST-10]                    1.0 {score}
+  2021-05-02 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-05-02 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2021-05-02 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? Yes, it has kept me from medical appointments or from getting my medications 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 99623 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             105 Krajcik Course 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-05-02 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-05-02 : Respiratory rate                         13.0 /min
+  2021-05-02 : Heart rate                               93.0 /min
+  2021-05-02 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  135.0 mm[Hg]
+  2021-05-02 : Body Mass Index                          28.4 kg/m2
+  2021-05-02 : Body Weight                              91.6 kg
+  2021-05-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2021-05-02 : Body Height                              179.6 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-05-08 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2022-05-08 : Depression screening (procedure)
+  2022-05-08 : Screening for domestic abuse (procedure)
+  2022-05-08 : Medication Reconciliation (procedure)
+  2022-05-08 : Assessment of health and social care needs (procedure)
+  2021-05-02 : Screening for drug abuse (procedure)
+  2021-05-02 : Assessment of substance use (procedure)
+  2021-05-02 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-05-02 : Depression screening (procedure)
+  2021-05-02 : Assessment of anxiety (procedure)
+  2021-05-02 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-05-08 : Influenza, seasonal, injectable, preservative free
+  2021-05-16 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-05-02 : Influenza, seasonal, injectable, preservative free
+  2021-04-25 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-05-08 (Dr. Elvin Marks) : Encounter at STANFORD HEALTH CARE
+2021-05-16 (Dr. Dewayne Lemke) : Encounter at MOUNT AUBURN HOSPITAL
+2021-05-02 (Dr. Elvin Marks) : Encounter at STANFORD HEALTH CARE
+2021-04-25 (Dr. Dewayne Lemke) : Encounter at MOUNT AUBURN HOSPITAL
+2020-04-26 (Dr. Elvin Marks) : Encounter at STANFORD HEALTH CARE
+2019-04-21 (Dr. Elvin Marks) : Encounter at STANFORD HEALTH CARE
+2018-04-15 (Dr. Elvin Marks) : Encounter at STANFORD HEALTH CARE
+2017-06-28 (Dr. Haywood Strosin) : Encounter at ASSOCIATED PHYSICIANS OF HARVARD MEDICAL FACULTY PHYSICIANS AT BETH IS : Encounter for Osteoarthritis of knee
+2017-04-09 (Dr. Elvin Marks) : Encounter at STANFORD HEALTH CARE
+2016-04-03 (Dr. Elvin Marks) : Encounter at STANFORD HEALTH CARE
+2015-03-29 (Dr. Elvin Marks) : Encounter at STANFORD HEALTH CARE
+2014-03-23 (Dr. Elvin Marks) : Encounter at STANFORD HEALTH CARE
+2013-03-17 (Dr. Elvin Marks) : Encounter at STANFORD HEALTH CARE
+2012-03-11 (Dr. Elvin Marks) : Encounter at STANFORD HEALTH CARE
+2011-03-06 (Dr. Elvin Marks) : Encounter at STANFORD HEALTH CARE
+2010-02-28 (Dr. Elvin Marks) : Encounter at STANFORD HEALTH CARE
+2009-02-22 (Dr. Elvin Marks) : Encounter at STANFORD HEALTH CARE
+2008-02-17 (Dr. Elvin Marks) : Encounter at STANFORD HEALTH CARE
+2005-02-17 (Dr. Haywood Strosin) : Encounter at ASSOCIATED PHYSICIANS OF HARVARD MEDICAL FACULTY PHYSICIANS AT BETH IS
+2005-02-13 (Dr. Elvin Marks) : Encounter at STANFORD HEALTH CARE
+2004-09-28 (Dr. Haywood Strosin) : Encounter at ASSOCIATED PHYSICIANS OF HARVARD MEDICAL FACULTY PHYSICIANS AT BETH IS
+2004-09-13 (Dr. Haywood Strosin) : Encounter at ASSOCIATED PHYSICIANS OF HARVARD MEDICAL FACULTY PHYSICIANS AT BETH IS
+2002-02-10 (Dr. Elvin Marks) : Encounter at STANFORD HEALTH CARE
+2001-02-04 (Dr. Elvin Marks) : Encounter at STANFORD HEALTH CARE
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

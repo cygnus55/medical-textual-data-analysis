@@ -1,0 +1,115 @@
+Ira Maggio
+==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 17
+Birth Date:          2005-02-11
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2022-02-10[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  2021-02-20[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-02-10 - 2022-02-28 : Laceration of forearm
+  2021-02-20 - 2021-03-10 : Acute bronchitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2022-02-10[STOPPED] : Wound care
+                         Reason: Laceration of forearm
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  2021-02-20[STOPPED] : Respiratory therapy
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-04-01 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 4.0 {score}
+  2022-04-01 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2021-03-26 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.7 %
+           - MCV [Entitic volume] by Automated count  86.6 fL
+           - MCH [Entitic mass] by Automated count    27.5 pg
+           - MCHC [Mass/volume] by Automated count    33.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.1 fL
+           - Platelets [#/volume] in Blood by Automated count 343.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 517.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-04-01 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 4.0 {score}
+  2022-04-01 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2022-04-01 : Tobacco smoking status                   Ex-smoker (finding) 
+  2022-04-01 : Respiratory rate                         16.0 /min
+  2022-04-01 : Heart rate                               73.0 /min
+  2022-04-01 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2022-04-01 : Body mass index (BMI) [Percentile] Per age and gender 33.5 %
+  2022-04-01 : Body Mass Index                          20.2 kg/m2
+  2022-04-01 : Body Weight                              65.6 kg
+  2022-04-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2022-04-01 : Body Height                              180.3 cm
+  2021-03-26 : Tobacco smoking status                   Smokes tobacco daily (finding) 
+  2021-03-26 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2021-03-26 : Platelet distribution width [Entitic volume] in Blood by Automated count 517.7 fL
+  2021-03-26 : Platelets [#/volume] in Blood by Automated count 343.3 10*3/uL
+  2021-03-26 : Erythrocyte distribution width [Entitic volume] by Automated count 45.1 fL
+  2021-03-26 : MCHC [Mass/volume] by Automated count    33.4 g/dL
+  2021-03-26 : MCH [Entitic mass] by Automated count    27.5 pg
+  2021-03-26 : MCV [Entitic volume] by Automated count  86.6 fL
+  2021-03-26 : Hematocrit [Volume Fraction] of Blood by Automated count 40.7 %
+  2021-03-26 : Hemoglobin [Mass/volume] in Blood        12.5 g/dL
+  2021-03-26 : Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+  2021-03-26 : Leukocytes [#/volume] in Blood by Automated count 4.4 10*3/uL
+  2021-03-26 : Respiratory rate                         15.0 /min
+  2021-03-26 : Heart rate                               83.0 /min
+  2021-03-26 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  112.0 mm[Hg]
+  2021-03-26 : Body mass index (BMI) [Percentile] Per age and gender 29.5 %
+  2021-03-26 : Body Mass Index                          19.3 kg/m2
+  2021-03-26 : Body Weight                              61.6 kg
+  2021-03-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2021-03-26 : Body Height                              178.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-04-01 : Anticipatory guidance (procedure)
+  2022-04-01 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2022-04-01 : Assessment of substance use (procedure)
+  2022-04-01 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2022-04-01 : Depression screening (procedure)
+  2022-04-01 : Assessment of anxiety (procedure)
+  2022-02-10 : Injection of tetanus antitoxin for Laceration of forearm
+  2022-02-10 : Suture open wound for Laceration of forearm
+  2021-03-26 : Anticipatory guidance (procedure)
+  2021-03-26 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2021-03-26 : Assessment of substance use (procedure)
+  2021-02-20 : Sputum examination (procedure) for Acute bronchitis (disorder)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-04-01 : Influenza, seasonal, injectable, preservative free
+  2021-05-21 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-04-30 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-03-26 : meningococcal MCV4P
+  2021-03-26 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-04-01 (Dr. Clare Marquardt) : Encounter at HEALTHY CONCEPT FAMILY PRACTICE, LLC
+2022-02-10 (Dr. Ramiro Llamas) : Encounter at OVERLOOK MASONIC HEALTH CENTER
+2021-05-21 (Dr. Logan Fisher) : Encounter at BAYSTATE MEDICAL CENTER
+2021-04-30 (Dr. Logan Fisher) : Encounter at BAYSTATE MEDICAL CENTER
+2021-03-26 (Dr. Clare Marquardt) : Encounter at HEALTHY CONCEPT FAMILY PRACTICE, LLC
+2021-02-20 (Dr. Logan Fisher) : Encounter at BAYSTATE MEDICAL CENTER : Encounter for Acute bronchitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

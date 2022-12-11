@@ -1,0 +1,99 @@
+Latarsha DuBuque
+================
+Race:                Other
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 16
+Birth Date:          2006-02-27
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2021-02-21[STOPPED] : Natazia 28 Day Pack
+--------------------------------------------------------------------------------
+CONDITIONS:
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-04-11 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 36.6 %
+           - MCV [Entitic volume] by Automated count  80.4 fL
+           - MCH [Entitic mass] by Automated count    30.4 pg
+           - MCHC [Mass/volume] by Automated count    33.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.4 fL
+           - Platelets [#/volume] in Blood by Automated count 378.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 351.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.9 fL
+  2021-04-05 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-04-11 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-04-11 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.9 fL
+  2022-04-11 : Platelet distribution width [Entitic volume] in Blood by Automated count 351.6 fL
+  2022-04-11 : Platelets [#/volume] in Blood by Automated count 378.8 10*3/uL
+  2022-04-11 : Erythrocyte distribution width [Entitic volume] by Automated count 40.4 fL
+  2022-04-11 : MCHC [Mass/volume] by Automated count    33.2 g/dL
+  2022-04-11 : MCH [Entitic mass] by Automated count    30.4 pg
+  2022-04-11 : MCV [Entitic volume] by Automated count  80.4 fL
+  2022-04-11 : Hematocrit [Volume Fraction] of Blood by Automated count 36.6 %
+  2022-04-11 : Hemoglobin [Mass/volume] in Blood        13.1 g/dL
+  2022-04-11 : Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+  2022-04-11 : Leukocytes [#/volume] in Blood by Automated count 10.1 10*3/uL
+  2022-04-11 : Respiratory rate                         12.0 /min
+  2022-04-11 : Heart rate                               97.0 /min
+  2022-04-11 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  107.0 mm[Hg]
+  2022-04-11 : Body mass index (BMI) [Percentile] Per age and gender 43.0 %
+  2022-04-11 : Body Mass Index                          20.0 kg/m2
+  2022-04-11 : Body Weight                              52.2 kg
+  2022-04-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2022-04-11 : Body Height                              161.6 cm
+  2021-04-05 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}
+  2021-04-05 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-04-05 : Respiratory rate                         15.0 /min
+  2021-04-05 : Heart rate                               76.0 /min
+  2021-04-05 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  104.0 mm[Hg]
+  2021-04-05 : Body mass index (BMI) [Percentile] Per age and gender 45.6 %
+  2021-04-05 : Body Mass Index                          19.7 kg/m2
+  2021-04-05 : Body Weight                              50.9 kg
+  2021-04-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2021-04-05 : Body Height                              161.0 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-04-11 : Anticipatory guidance (procedure)
+  2022-04-11 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2022-04-11 : Medication Reconciliation (procedure)
+  2022-04-11 : Assessment of substance use (procedure)
+  2021-04-05 : Anticipatory guidance (procedure)
+  2021-04-05 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2021-04-05 : Assessment of substance use (procedure)
+  2021-04-05 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2021-04-05 : Medication Reconciliation (procedure)
+  2021-04-05 : Depression screening (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-04-11 : meningococcal MCV4P
+  2022-04-11 : Influenza, seasonal, injectable, preservative free
+  2021-06-14 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-05-24 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-04-05 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-04-11 (Dr. Natividad Davis) : Encounter at HILLTOWN COMMUNITY HEALTH CENTERS INC
+2021-06-14 (Dr. Saundra Kuphal) : Encounter at COOLEY DICKINSON HOSPITAL INC
+2021-05-24 (Dr. Saundra Kuphal) : Encounter at COOLEY DICKINSON HOSPITAL INC
+2021-04-05 (Dr. Natividad Davis) : Encounter at HILLTOWN COMMUNITY HEALTH CENTERS INC
+2021-02-21 (Dr. Saundra Kuphal) : Encounter at COOLEY DICKINSON HOSPITAL INC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

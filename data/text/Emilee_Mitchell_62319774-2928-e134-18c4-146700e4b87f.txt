@@ -1,0 +1,241 @@
+Emilee Mitchell
+===============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 19
+Birth Date:          2003-08-30
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-10-29 -            : Social isolation (finding)
+  2022-07-19 - 2022-07-27 : Viral sinusitis (disorder)
+  2022-06-04 -            : Normal pregnancy
+  2021-10-23 -            : Stress (finding)
+  2021-10-23 -            : Unemployed (finding)
+  2021-10-23 -            : Received certificate of high school equivalency (finding)
+  2021-01-30 - 2021-09-04 : Normal pregnancy
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2022-06-04[CURRENT] : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2021-01-30[STOPPED] : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-10-29 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2021-10-23 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+  2021-10-23 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2021-10-23 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 8.0 {score}
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-10-29 : Total score [HARK]                       0.0 {score}
+  2022-10-29 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Less than once a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 21833 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Unemployed (finding) 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             395 Wilderman Alley 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 5.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2022-10-29 : Tobacco smoking status                   Ex-smoker (finding) 
+  2022-10-29 : Respiratory rate                         13.0 /min
+  2022-10-29 : Heart rate                               81.0 /min
+  2022-10-29 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  93.0 mm[Hg]
+  2022-10-29 : Body mass index (BMI) [Percentile] Per age and gender 92.5 %
+  2022-10-29 : Body Mass Index                          29.1 kg/m2
+  2022-10-29 : Body Weight                              75.0 kg
+  2022-10-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2022-10-29 : Body Height                              160.6 cm
+  2021-10-23 : Total score [AUDIT-C]                    1.0 {score}
+  2021-10-23 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2021-10-23 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 8.0 {score}
+  2021-10-23 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Utilities 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 21833 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Unemployed (finding) 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             395 Wilderman Alley 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 5.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2021-10-23 : Tobacco smoking status                   Ex-smoker (finding) 
+  2021-10-23 : Respiratory rate                         13.0 /min
+  2021-10-23 : Heart rate                               63.0 /min
+  2021-10-23 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  100.0 mm[Hg]
+  2021-10-23 : Body mass index (BMI) [Percentile] Per age and gender 90.2 %
+  2021-10-23 : Body Mass Index                          27.4 kg/m2
+  2021-10-23 : Body Weight                              70.5 kg
+  2021-10-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2021-10-23 : Body Height                              160.5 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-11-19 : Auscultation of the fetal heart for Normal pregnancy
+  2022-11-19 : Evaluation of uterine fundal height for Normal pregnancy
+  2022-10-29 : Screening for domestic abuse (procedure)
+  2022-10-29 : Assessment of health and social care needs (procedure)
+  2022-10-22 : Auscultation of the fetal heart for Normal pregnancy
+  2022-10-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2022-10-22 : Urine screening for glucose for Normal pregnancy
+  2022-10-22 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2022-10-22 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2022-09-24 : Auscultation of the fetal heart for Normal pregnancy
+  2022-09-24 : Evaluation of uterine fundal height for Normal pregnancy
+  2022-08-27 : Auscultation of the fetal heart for Normal pregnancy
+  2022-08-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2022-07-30 : Auscultation of the fetal heart for Normal pregnancy
+  2022-07-30 : Evaluation of uterine fundal height for Normal pregnancy
+  2022-07-30 : Alpha-fetoprotein test for Normal pregnancy
+  2022-07-30 : Fetal anatomy study for Normal pregnancy
+  2022-07-02 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2022-07-02 : Auscultation of the fetal heart for Normal pregnancy
+  2022-07-02 : Evaluation of uterine fundal height for Normal pregnancy
+  2022-06-04 : Physical examination of mother for Normal pregnancy
+  2022-06-04 : Urine protein test for Normal pregnancy
+  2022-06-04 : Skin test for tuberculosis for Normal pregnancy
+  2022-06-04 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2022-06-04 : Rubella screening for Normal pregnancy
+  2022-06-04 : Hepatitis C antibody test for Normal pregnancy
+  2022-06-04 : Urine screening test for diabetes for Normal pregnancy
+  2022-06-04 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2022-06-04 : Urine culture for Normal pregnancy
+  2022-06-04 : Syphilis infection test for Normal pregnancy
+  2022-06-04 : Gonorrhea infection test for Normal pregnancy
+  2022-06-04 : Chlamydia antigen test for Normal pregnancy
+  2022-06-04 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2022-06-04 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2022-06-04 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2022-06-04 : Blood typing, RH typing for Normal pregnancy
+  2022-06-04 : Auscultation of the fetal heart for Normal pregnancy
+  2022-06-04 : Evaluation of uterine fundal height for Normal pregnancy
+  2022-06-04 : Ultrasound scan for fetal viability for Normal pregnancy
+  2022-06-04 : Standard pregnancy test for Normal pregnancy
+  2021-10-23 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2021-10-23 : Assessment of substance use (procedure)
+  2021-10-23 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-10-23 : Depression screening (procedure)
+  2021-10-23 : Assessment of anxiety (procedure)
+  2021-10-23 : Assessment of health and social care needs (procedure)
+  2021-10-16 : Depression screening
+  2021-10-16 : Physical examination following birth
+  2021-09-04 : Childbirth for Normal pregnancy
+  2021-09-04 : Epidural anesthesia for Normal pregnancy
+  2021-08-28 : Auscultation of the fetal heart for Normal pregnancy
+  2021-08-28 : Evaluation of uterine fundal height for Normal pregnancy
+  2021-08-14 : Auscultation of the fetal heart for Normal pregnancy
+  2021-08-14 : Evaluation of uterine fundal height for Normal pregnancy
+  2021-08-14 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2021-07-17 : Auscultation of the fetal heart for Normal pregnancy
+  2021-07-17 : Evaluation of uterine fundal height for Normal pregnancy
+  2021-06-19 : Auscultation of the fetal heart for Normal pregnancy
+  2021-06-19 : Evaluation of uterine fundal height for Normal pregnancy
+  2021-06-19 : Urine screening for glucose for Normal pregnancy
+  2021-06-19 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2021-06-19 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2021-05-22 : Auscultation of the fetal heart for Normal pregnancy
+  2021-05-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2021-04-24 : Auscultation of the fetal heart for Normal pregnancy
+  2021-04-24 : Evaluation of uterine fundal height for Normal pregnancy
+  2021-03-27 : Auscultation of the fetal heart for Normal pregnancy
+  2021-03-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2021-03-27 : Alpha-fetoprotein test for Normal pregnancy
+  2021-03-27 : Fetal anatomy study for Normal pregnancy
+  2021-02-27 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2021-02-27 : Auscultation of the fetal heart for Normal pregnancy
+  2021-02-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2021-01-30 : Physical examination of mother for Normal pregnancy
+  2021-01-30 : Urine protein test for Normal pregnancy
+  2021-01-30 : Skin test for tuberculosis for Normal pregnancy
+  2021-01-30 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2021-01-30 : Rubella screening for Normal pregnancy
+  2021-01-30 : Hepatitis C antibody test for Normal pregnancy
+  2021-01-30 : Urine screening test for diabetes for Normal pregnancy
+  2021-01-30 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2021-01-30 : Urine culture for Normal pregnancy
+  2021-01-30 : Syphilis infection test for Normal pregnancy
+  2021-01-30 : Gonorrhea infection test for Normal pregnancy
+  2021-01-30 : Chlamydia antigen test for Normal pregnancy
+  2021-01-30 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2021-01-30 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2021-01-30 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2021-01-30 : Blood typing, RH typing for Normal pregnancy
+  2021-01-30 : Auscultation of the fetal heart for Normal pregnancy
+  2021-01-30 : Evaluation of uterine fundal height for Normal pregnancy
+  2021-01-30 : Ultrasound scan for fetal viability for Normal pregnancy
+  2021-01-30 : Standard pregnancy test for Normal pregnancy
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-10-29 : Influenza, seasonal, injectable, preservative free
+  2021-10-23 : Influenza, seasonal, injectable, preservative free
+  2021-08-07 : SARS-COV-2 (COVID-19) vaccine, vector non-replicating, recombinant spike protein-Ad26, preservative free, 0.5 mL
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-11-19 (Dr. Araceli Willms) : Encounter at MARLBOROUGH HOSPITAL CORP : Encounter for Normal pregnancy
+2022-10-29 (Dr. Tashina Towne) : Encounter at NEW ENGLAND FAMILY HEALTH LLC
+2022-10-22 (Dr. Araceli Willms) : Encounter at MARLBOROUGH HOSPITAL CORP : Encounter for Normal pregnancy
+2022-09-24 (Dr. Araceli Willms) : Encounter at MARLBOROUGH HOSPITAL CORP : Encounter for Normal pregnancy
+2022-08-27 (Dr. Araceli Willms) : Encounter at MARLBOROUGH HOSPITAL CORP : Encounter for Normal pregnancy
+2022-07-30 (Dr. Araceli Willms) : Encounter at MARLBOROUGH HOSPITAL CORP : Encounter for Normal pregnancy
+2022-07-19 (Dr. Araceli Willms) : Encounter at MARLBOROUGH HOSPITAL CORP : Encounter for Viral sinusitis (disorder)
+2022-07-02 (Dr. Araceli Willms) : Encounter at MARLBOROUGH HOSPITAL CORP : Encounter for Normal pregnancy
+2022-06-04 (Dr. Araceli Willms) : Encounter at MARLBOROUGH HOSPITAL CORP : Encounter for Normal pregnancy
+2021-10-23 (Dr. Tashina Towne) : Encounter at NEW ENGLAND FAMILY HEALTH LLC
+2021-10-16 (Dr. Araceli Willms) : Encounter at MARLBOROUGH HOSPITAL CORP
+2021-09-04 (Dr. Tyron Littel) : Encounter at ST PATRICK'S MANOR : Encounter for Normal pregnancy
+2021-08-28 (Dr. Araceli Willms) : Encounter at MARLBOROUGH HOSPITAL CORP : Encounter for Normal pregnancy
+2021-08-14 (Dr. Araceli Willms) : Encounter at MARLBOROUGH HOSPITAL CORP : Encounter for Normal pregnancy
+2021-08-07 (Dr. Araceli Willms) : Encounter at MARLBOROUGH HOSPITAL CORP
+2021-07-17 (Dr. Araceli Willms) : Encounter at MARLBOROUGH HOSPITAL CORP : Encounter for Normal pregnancy
+2021-06-19 (Dr. Araceli Willms) : Encounter at MARLBOROUGH HOSPITAL CORP : Encounter for Normal pregnancy
+2021-05-22 (Dr. Araceli Willms) : Encounter at MARLBOROUGH HOSPITAL CORP : Encounter for Normal pregnancy
+2021-04-24 (Dr. Araceli Willms) : Encounter at MARLBOROUGH HOSPITAL CORP : Encounter for Normal pregnancy
+2021-03-27 (Dr. Araceli Willms) : Encounter at MARLBOROUGH HOSPITAL CORP : Encounter for Normal pregnancy
+2021-02-27 (Dr. Araceli Willms) : Encounter at MARLBOROUGH HOSPITAL CORP : Encounter for Normal pregnancy
+2021-01-30 (Dr. Araceli Willms) : Encounter at MARLBOROUGH HOSPITAL CORP : Encounter for Normal pregnancy
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,1524 @@
+Alec Weber
+==========
+Race:                White
+Ethnicity:           Hispanic
+Gender:              M
+Age:                 43
+Birth Date:          1978-12-29
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2022-06-10[CURRENT] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2022-06-10[CURRENT] : lisinopril 10 MG Oral Tablet for Hypertension
+  2022-06-10[CURRENT] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2022-06-10[CURRENT] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2022-05-06[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2022-05-06[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2022-05-06[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2022-05-06[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2022-03-11[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2022-03-11[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2022-03-11[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2022-03-11[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2021-04-30[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2021-04-30[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2021-04-30[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2021-04-30[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2020-12-25[STOPPED] : Acetaminophen 500 MG Oral Tablet
+  2020-12-25[STOPPED] : 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe
+  2020-12-24[STOPPED] : Acetaminophen 500 MG Oral Tablet
+  2020-12-24[STOPPED] : 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe
+  2020-12-23[STOPPED] : Acetaminophen 500 MG Oral Tablet
+  2020-12-23[STOPPED] : 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe
+  2020-12-22[STOPPED] : Acetaminophen 500 MG Oral Tablet
+  2020-12-22[STOPPED] : 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe
+  2020-12-21[STOPPED] : Acetaminophen 500 MG Oral Tablet
+  2020-12-21[STOPPED] : 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe
+  2020-12-20[STOPPED] : Acetaminophen 500 MG Oral Tablet
+  2020-12-20[STOPPED] : 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe
+  2020-12-19[STOPPED] : Acetaminophen 500 MG Oral Tablet
+  2020-12-19[STOPPED] : 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe
+  2020-12-18[STOPPED] : Acetaminophen 500 MG Oral Tablet
+  2020-12-18[STOPPED] : 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe
+  2020-12-17[STOPPED] : Acetaminophen 500 MG Oral Tablet
+  2020-12-17[STOPPED] : 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe
+  2020-12-16[STOPPED] : Acetaminophen 500 MG Oral Tablet
+  2020-12-16[STOPPED] : 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe
+  2020-04-24[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2020-04-24[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2020-04-24[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2020-04-24[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2020-03-20[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2020-03-20[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2020-03-20[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2020-03-20[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2019-11-22[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2019-11-22[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2019-11-22[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2019-11-22[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2019-04-19[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2019-04-19[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2019-04-19[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2019-04-19[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2018-12-07[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2018-12-07[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2018-12-07[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2018-12-07[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2018-09-21[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2018-09-21[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2018-09-21[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2018-09-21[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2018-04-13[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2018-04-13[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2018-04-13[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2018-04-13[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2017-04-07[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2017-04-07[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2017-04-07[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2017-04-07[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2016-09-02[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2016-09-02[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2016-09-02[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2016-09-02[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2016-04-01[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2016-04-01[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2016-04-01[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2016-04-01[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2015-03-27[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2015-03-27[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2015-03-27[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2015-03-27[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2014-06-02[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2014-04-20[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2014-04-03[CURRENT] : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+  2014-03-21[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2014-03-21[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2014-02-02[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-06-10 -            : Full-time employment (finding)
+  2022-05-06 - 2022-06-10 : Stress (finding)
+  2022-05-06 - 2022-06-10 : Full-time employment (finding)
+  2022-03-11 -            : Unhealthy alcohol drinking behavior (finding)
+  2022-03-11 - 2022-05-06 : Not in labor force (finding)
+  2022-03-11 -            : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  2022-03-11 -            : Chronic kidney disease stage 2 (disorder)
+  2021-04-30 - 2022-03-11 : Not in labor force (finding)
+  2020-12-16 - 2020-12-25 : Sepsis caused by virus (disorder)
+  2020-12-16 - 2020-12-25 : Respiratory distress (finding)
+  2020-12-16 -            : Hypoxemia (disorder)
+  2020-12-16 - 2020-12-25 : Pneumonia (disorder)
+  2020-12-16 - 2020-12-25 : COVID-19
+  2020-12-16 - 2020-12-16 : Suspected COVID-19
+  2020-12-16 - 2020-12-25 : Loss of taste (finding)
+  2020-12-16 - 2020-12-25 : Fever (finding)
+  2020-04-24 - 2021-04-30 : Full-time employment (finding)
+  2020-03-20 - 2022-06-10 : Social isolation (finding)
+  2020-03-20 - 2020-04-24 : Full-time employment (finding)
+  2018-09-21 - 2018-12-07 : Full-time employment (finding)
+  2017-04-07 - 2018-04-13 : Full-time employment (finding)
+  2017-04-07 -            : Diabetic renal disease (disorder)
+  2017-04-07 -            : Chronic kidney disease stage 1 (disorder)
+  2016-04-01 - 2016-09-02 : Full-time employment (finding)
+  2014-03-21 - 2016-04-01 : Full-time employment (finding)
+  2014-03-21 -            : Hypertension
+  2014-02-02 -            : Chronic neck pain (finding)
+  2014-02-02 -            : Chronic low back pain (finding)
+  2013-03-15 - 2014-03-21 : Full-time employment (finding)
+  2006-11-24 - 2007-03-09 : Full-time employment (finding)
+  2004-03-05 - 2006-11-24 : Full-time employment (finding)
+  1998-02-27 - 2000-08-11 : Full-time employment (finding)
+  1998-02-27 -            : Only received primary school education (finding)
+  1997-02-21 - 1998-02-27 : Full-time employment (finding)
+  1997-02-21 -            : Served in armed forces (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2020-12-16[STOPPED] : Infectious disease care plan (record artifact)
+                         Activity: Isolation nursing in negative pressure isolation environment (regime/therapy)
+                         Activity: Airborne precautions (procedure)
+                         Activity: Personal protective equipment (physical object)
+  2014-04-03[CURRENT] : Therapy (regime/therapy)
+                         Activity: Physical therapy procedure (regime/therapy)
+                         Activity: Cognitive and behavioral therapy (regime/therapy)
+  2014-03-21[CURRENT] : Lifestyle education regarding hypertension
+                         Reason: Hypertension
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  2014-02-02[STOPPED] : Therapy (regime/therapy)
+                         Activity: Physical therapy procedure (regime/therapy)
+                         Activity: Cognitive and behavior therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-06-10 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+  2022-06-10 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2022-06-10 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2022-06-10 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 2.4 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 1.3 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 19.7 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                5.0 pH
+           - Protein [Mass/volume] in Urine by Test strip 285.6 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2022-06-10 : Basic Metabolic 2000 Panel
+           - Glucose                                  69.5 mg/dL
+           - Urea Nitrogen                            15.3 mg/dL
+           - Creatinine                               2.0 mg/dL
+           - Calcium                                  9.0 mg/dL
+           - Sodium                                   137.6 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 104.2 mmol/L
+           - Carbon Dioxide                           28.6 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 80.5 mL/min
+  2022-05-06 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-05-06 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2022-05-06 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 2.3 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 0.4 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 7.7 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                5.8 pH
+           - Protein [Mass/volume] in Urine by Test strip 342.9 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2022-05-06 : Basic Metabolic 2000 Panel
+           - Glucose                                  81.9 mg/dL
+           - Urea Nitrogen                            19.1 mg/dL
+           - Creatinine                               1.9 mg/dL
+           - Calcium                                  9.2 mg/dL
+           - Sodium                                   138.6 mmol/L
+           - Potassium                                5.1 mmol/L
+           - Chloride                                 108.4 mmol/L
+           - Carbon Dioxide                           28.5 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 83.5 mL/min
+  2022-05-06 : Lipid Panel
+           - Total Cholesterol                        104.9 mg/dL
+           - Triglycerides                            138.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      25.5 mg/dL
+           - High Density Lipoprotein Cholesterol     51.9 mg/dL
+  2022-03-11 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    11.0 {score}
+  2022-03-11 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-03-11 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 8.0 {score}
+  2022-03-11 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 2.0 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 0.5 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 4.9 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                6.4 pH
+           - Protein [Mass/volume] in Urine by Test strip 183.2 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2022-03-11 : Basic Metabolic 2000 Panel
+           - Glucose                                  86.5 mg/dL
+           - Urea Nitrogen                            11.4 mg/dL
+           - Creatinine                               2.0 mg/dL
+           - Calcium                                  8.8 mg/dL
+           - Sodium                                   136.2 mmol/L
+           - Potassium                                4.7 mmol/L
+           - Chloride                                 108.6 mmol/L
+           - Carbon Dioxide                           21.1 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 70.0 mL/min
+  2021-04-30 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    0.0 {score}
+  2021-04-30 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2021-04-30 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 1.9 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 0.3 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 14.4 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = trace (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                7.0 pH
+           - Protein [Mass/volume] in Urine by Test strip 89.1 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = + (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2021-04-30 : Basic Metabolic 2000 Panel
+           - Glucose                                  64.7 mg/dL
+           - Urea Nitrogen                            14.3 mg/dL
+           - Creatinine                               1.8 mg/dL
+           - Calcium                                  9.7 mg/dL
+           - Sodium                                   136.0 mmol/L
+           - Potassium                                4.9 mmol/L
+           - Chloride                                 108.8 mmol/L
+           - Carbon Dioxide                           26.5 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 112.3 mL/min
+  2020-12-26 : SARS-CoV-2 RNA Pnl Resp NAA+probe
+           - SARS-CoV-2 RNA Pnl Resp NAA+probe        Not detected (qualifier value) 
+  2020-12-25 : SARS-CoV-2 RNA Pnl Resp NAA+probe
+           - SARS-CoV-2 RNA Pnl Resp NAA+probe        Not detected (qualifier value) 
+  2020-12-25 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 77.4 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 10.1 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.6 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 9.4 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 141.5 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 3.9 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 108.7 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 27.1 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 12.3 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 6.5 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.4 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 6.3 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 81.1 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 21.2 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 0.4 U/L
+  2020-12-25 : Auto Differential panel - Blood
+           - Neutrophils/100 leukocytes in Blood by Automated count 43.5 %
+           - Lymphocytes/100 leukocytes in Blood by Automated count 10.5 %
+           - Monocytes/100 leukocytes in Blood by Automated count 5.7 %
+           - Eosinophils/100 leukocytes in Blood by Automated count 3.9 %
+           - Basophils/100 leukocytes in Blood by Automated count 3.9 %
+           - Neutrophils [#/volume] in Blood by Automated count 2.6 10*3/uL
+           - Lymphocytes [#/volume] in Blood by Automated count 1.0 10*3/uL
+           - Monocytes [#/volume] in Blood by Automated count 1.0 10*3/uL
+           - Eosinophils [#/volume] in Blood by Automated count 0.5 10*3/uL
+           - Basophils [#/volume] in Blood by Automated count 0.2 10*3/uL
+  2020-12-25 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        11.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 38.6 %
+           - MCV [Entitic volume] by Automated count  85.1 fL
+           - MCH [Entitic mass] by Automated count    30.8 pg
+           - MCHC [Mass/volume] by Automated count    31.8 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 14.5 %
+           - Platelets [#/volume] in Blood by Automated count 104.6 10*3/uL
+  2020-12-24 : PT panel - Platelet poor plasma by Coagulation assay
+           - Prothrombin time (PT)                    11.0 s
+           - INR in Platelet poor plasma by Coagulation assay 2.8 {INR}
+  2020-12-24 : Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+           - Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 2.9 pg/mL
+  2020-12-24 : Iron panel - Serum or Plasma
+           - Ferritin [Mass/volume] in Serum or Plasma 463.4 ug/L
+  2020-12-24 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 77.0 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 8.0 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.7 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 8.6 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 141.0 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.6 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 101.6 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.7 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 7.9 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 6.2 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.8 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 14.4 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 93.0 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 13.4 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.4 U/L
+  2020-12-24 : Auto Differential panel - Blood
+           - Neutrophils/100 leukocytes in Blood by Automated count 27.7 %
+           - Lymphocytes/100 leukocytes in Blood by Automated count 10.7 %
+           - Monocytes/100 leukocytes in Blood by Automated count 7.3 %
+           - Eosinophils/100 leukocytes in Blood by Automated count 5.2 %
+           - Basophils/100 leukocytes in Blood by Automated count 2.7 %
+           - Neutrophils [#/volume] in Blood by Automated count 2.8 10*3/uL
+           - Lymphocytes [#/volume] in Blood by Automated count 0.9 10*3/uL
+           - Monocytes [#/volume] in Blood by Automated count 1.3 10*3/uL
+           - Eosinophils [#/volume] in Blood by Automated count 0.3 10*3/uL
+           - Basophils [#/volume] in Blood by Automated count 0.2 10*3/uL
+  2020-12-24 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        11.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.1 %
+           - MCV [Entitic volume] by Automated count  83.4 fL
+           - MCH [Entitic mass] by Automated count    27.4 pg
+           - MCHC [Mass/volume] by Automated count    34.3 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 14.3 %
+           - Platelets [#/volume] in Blood by Automated count 118.5 10*3/uL
+  2020-12-23 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 77.0 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 8.0 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.6 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 8.6 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 141.0 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.6 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 101.6 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.7 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 12.5 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 7.4 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.8 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 12.9 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 95.9 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 0.2 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 36.0 U/L
+  2020-12-23 : Auto Differential panel - Blood
+           - Neutrophils/100 leukocytes in Blood by Automated count 31.4 %
+           - Lymphocytes/100 leukocytes in Blood by Automated count 13.8 %
+           - Monocytes/100 leukocytes in Blood by Automated count 10.3 %
+           - Eosinophils/100 leukocytes in Blood by Automated count 4.4 %
+           - Basophils/100 leukocytes in Blood by Automated count 2.2 %
+           - Neutrophils [#/volume] in Blood by Automated count 3.6 10*3/uL
+           - Lymphocytes [#/volume] in Blood by Automated count 0.9 10*3/uL
+           - Monocytes [#/volume] in Blood by Automated count 1.3 10*3/uL
+           - Eosinophils [#/volume] in Blood by Automated count 0.4 10*3/uL
+           - Basophils [#/volume] in Blood by Automated count 0.3 10*3/uL
+  2020-12-23 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.6 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        11.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.2 %
+           - MCV [Entitic volume] by Automated count  89.8 fL
+           - MCH [Entitic mass] by Automated count    31.5 pg
+           - MCHC [Mass/volume] by Automated count    35.1 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 12.4 %
+           - Platelets [#/volume] in Blood by Automated count 133.5 10*3/uL
+  2020-12-22 : PT panel - Platelet poor plasma by Coagulation assay
+           - Prothrombin time (PT)                    10.1 s
+           - INR in Platelet poor plasma by Coagulation assay 2.0 {INR}
+  2020-12-22 : Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+           - Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 2.2 pg/mL
+  2020-12-22 : Iron panel - Serum or Plasma
+           - Ferritin [Mass/volume] in Serum or Plasma 474.9 ug/L
+  2020-12-22 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 77.0 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 8.0 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.7 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 8.6 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 141.0 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.6 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 101.6 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.7 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 8.3 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 6.6 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.0 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 13.7 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 110.5 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 37.1 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 9.8 U/L
+  2020-12-22 : Auto Differential panel - Blood
+           - Neutrophils/100 leukocytes in Blood by Automated count 40.2 %
+           - Lymphocytes/100 leukocytes in Blood by Automated count 23.6 %
+           - Monocytes/100 leukocytes in Blood by Automated count 10.0 %
+           - Eosinophils/100 leukocytes in Blood by Automated count 3.3 %
+           - Basophils/100 leukocytes in Blood by Automated count 2.7 %
+           - Neutrophils [#/volume] in Blood by Automated count 3.7 10*3/uL
+           - Lymphocytes [#/volume] in Blood by Automated count 0.9 10*3/uL
+           - Monocytes [#/volume] in Blood by Automated count 1.3 10*3/uL
+           - Eosinophils [#/volume] in Blood by Automated count 0.4 10*3/uL
+           - Basophils [#/volume] in Blood by Automated count 0.4 10*3/uL
+  2020-12-22 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 43.2 %
+           - MCV [Entitic volume] by Automated count  95.0 fL
+           - MCH [Entitic mass] by Automated count    32.5 pg
+           - MCHC [Mass/volume] by Automated count    33.4 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 13.9 %
+           - Platelets [#/volume] in Blood by Automated count 131.8 10*3/uL
+  2020-12-21 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 77.0 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 8.0 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 3.0 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 8.6 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 141.0 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.6 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 101.6 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.7 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 11.0 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 6.7 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.1 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 10.2 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 116.9 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 15.4 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 1.8 U/L
+  2020-12-21 : Auto Differential panel - Blood
+           - Neutrophils/100 leukocytes in Blood by Automated count 43.8 %
+           - Lymphocytes/100 leukocytes in Blood by Automated count 6.3 %
+           - Monocytes/100 leukocytes in Blood by Automated count 10.1 %
+           - Eosinophils/100 leukocytes in Blood by Automated count 4.5 %
+           - Basophils/100 leukocytes in Blood by Automated count 2.8 %
+           - Neutrophils [#/volume] in Blood by Automated count 3.2 10*3/uL
+           - Lymphocytes [#/volume] in Blood by Automated count 1.1 10*3/uL
+           - Monocytes [#/volume] in Blood by Automated count 0.8 10*3/uL
+           - Eosinophils [#/volume] in Blood by Automated count 0.6 10*3/uL
+           - Basophils [#/volume] in Blood by Automated count 0.3 10*3/uL
+  2020-12-21 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.6 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.7 %
+           - MCV [Entitic volume] by Automated count  94.0 fL
+           - MCH [Entitic mass] by Automated count    32.0 pg
+           - MCHC [Mass/volume] by Automated count    32.5 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 14.0 %
+           - Platelets [#/volume] in Blood by Automated count 118.3 10*3/uL
+  2020-12-20 : PT panel - Platelet poor plasma by Coagulation assay
+           - Prothrombin time (PT)                    10.4 s
+           - INR in Platelet poor plasma by Coagulation assay 1.4 {INR}
+  2020-12-20 : Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+           - Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 3.1 pg/mL
+  2020-12-20 : Iron panel - Serum or Plasma
+           - Ferritin [Mass/volume] in Serum or Plasma 494.7 ug/L
+  2020-12-20 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 77.0 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 8.0 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.8 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 8.6 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 141.0 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.6 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 101.6 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.7 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 8.9 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 5.7 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 5.2 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 6.3 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 53.1 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 24.0 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 5.2 U/L
+  2020-12-20 : Auto Differential panel - Blood
+           - Neutrophils/100 leukocytes in Blood by Automated count 33.7 %
+           - Lymphocytes/100 leukocytes in Blood by Automated count 20.3 %
+           - Monocytes/100 leukocytes in Blood by Automated count 7.5 %
+           - Eosinophils/100 leukocytes in Blood by Automated count 3.8 %
+           - Basophils/100 leukocytes in Blood by Automated count 2.1 %
+           - Neutrophils [#/volume] in Blood by Automated count 2.0 10*3/uL
+           - Lymphocytes [#/volume] in Blood by Automated count 1.1 10*3/uL
+           - Monocytes [#/volume] in Blood by Automated count 0.7 10*3/uL
+           - Eosinophils [#/volume] in Blood by Automated count 0.3 10*3/uL
+           - Basophils [#/volume] in Blood by Automated count 0.3 10*3/uL
+  2020-12-20 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        11.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 42.3 %
+           - MCV [Entitic volume] by Automated count  89.0 fL
+           - MCH [Entitic mass] by Automated count    30.7 pg
+           - MCHC [Mass/volume] by Automated count    32.3 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 14.9 %
+           - Platelets [#/volume] in Blood by Automated count 141.8 10*3/uL
+  2020-12-19 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 77.0 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 8.0 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.6 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 8.6 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 141.0 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.6 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 101.6 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.7 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 7.3 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 5.7 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.7 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 6.7 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 78.7 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 21.9 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 7.7 U/L
+  2020-12-19 : Auto Differential panel - Blood
+           - Neutrophils/100 leukocytes in Blood by Automated count 10.2 %
+           - Lymphocytes/100 leukocytes in Blood by Automated count 9.5 %
+           - Monocytes/100 leukocytes in Blood by Automated count 14.5 %
+           - Eosinophils/100 leukocytes in Blood by Automated count 4.3 %
+           - Basophils/100 leukocytes in Blood by Automated count 2.9 %
+           - Neutrophils [#/volume] in Blood by Automated count 3.9 10*3/uL
+           - Lymphocytes [#/volume] in Blood by Automated count 1.0 10*3/uL
+           - Monocytes [#/volume] in Blood by Automated count 0.7 10*3/uL
+           - Eosinophils [#/volume] in Blood by Automated count 0.3 10*3/uL
+           - Basophils [#/volume] in Blood by Automated count 0.3 10*3/uL
+  2020-12-19 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 3.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        11.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 42.2 %
+           - MCV [Entitic volume] by Automated count  79.9 fL
+           - MCH [Entitic mass] by Automated count    31.8 pg
+           - MCHC [Mass/volume] by Automated count    33.0 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 15.4 %
+           - Platelets [#/volume] in Blood by Automated count 115.4 10*3/uL
+  2020-12-18 : PT panel - Platelet poor plasma by Coagulation assay
+           - Prothrombin time (PT)                    12.0 s
+           - INR in Platelet poor plasma by Coagulation assay 1.7 {INR}
+  2020-12-18 : Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+           - Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 1.7 pg/mL
+  2020-12-18 : Iron panel - Serum or Plasma
+           - Ferritin [Mass/volume] in Serum or Plasma 394.4 ug/L
+  2020-12-18 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 77.0 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 8.0 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.8 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 8.6 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 141.0 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.6 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 101.6 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.7 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 6.2 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 7.9 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 3.8 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 14.4 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 67.7 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 41.7 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 1.0 U/L
+  2020-12-18 : Auto Differential panel - Blood
+           - Neutrophils/100 leukocytes in Blood by Automated count 42.5 %
+           - Lymphocytes/100 leukocytes in Blood by Automated count 6.3 %
+           - Monocytes/100 leukocytes in Blood by Automated count 13.2 %
+           - Eosinophils/100 leukocytes in Blood by Automated count 3.4 %
+           - Basophils/100 leukocytes in Blood by Automated count 2.4 %
+           - Neutrophils [#/volume] in Blood by Automated count 2.7 10*3/uL
+           - Lymphocytes [#/volume] in Blood by Automated count 1.1 10*3/uL
+           - Monocytes [#/volume] in Blood by Automated count 0.9 10*3/uL
+           - Eosinophils [#/volume] in Blood by Automated count 0.4 10*3/uL
+           - Basophils [#/volume] in Blood by Automated count 0.3 10*3/uL
+  2020-12-18 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.0 %
+           - MCV [Entitic volume] by Automated count  87.5 fL
+           - MCH [Entitic mass] by Automated count    32.9 pg
+           - MCHC [Mass/volume] by Automated count    32.4 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 14.6 %
+           - Platelets [#/volume] in Blood by Automated count 122.1 10*3/uL
+  2020-12-17 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 76.9 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 11.9 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.9 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 8.9 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 136.9 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.5 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 101.8 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 27.5 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 10.4 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 6.1 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 3.9 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 8.4 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 82.3 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.7 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 30.4 U/L
+  2020-12-17 : Auto Differential panel - Blood
+           - Neutrophils/100 leukocytes in Blood by Automated count 13.8 %
+           - Lymphocytes/100 leukocytes in Blood by Automated count 6.4 %
+           - Monocytes/100 leukocytes in Blood by Automated count 13.8 %
+           - Eosinophils/100 leukocytes in Blood by Automated count 5.3 %
+           - Basophils/100 leukocytes in Blood by Automated count 2.0 %
+           - Neutrophils [#/volume] in Blood by Automated count 2.5 10*3/uL
+           - Lymphocytes [#/volume] in Blood by Automated count 1.1 10*3/uL
+           - Monocytes [#/volume] in Blood by Automated count 1.3 10*3/uL
+           - Eosinophils [#/volume] in Blood by Automated count 0.4 10*3/uL
+           - Basophils [#/volume] in Blood by Automated count 0.3 10*3/uL
+  2020-12-17 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 3.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        11.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.8 %
+           - MCV [Entitic volume] by Automated count  87.6 fL
+           - MCH [Entitic mass] by Automated count    28.8 pg
+           - MCHC [Mass/volume] by Automated count    32.3 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 15.1 %
+           - Platelets [#/volume] in Blood by Automated count 141.4 10*3/uL
+  2020-12-16 : PT panel - Platelet poor plasma by Coagulation assay
+           - Prothrombin time (PT)                    11.3 s
+           - INR in Platelet poor plasma by Coagulation assay 2.6 {INR}
+  2020-12-16 : Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+           - Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 3.3 pg/mL
+  2020-12-16 : Iron panel - Serum or Plasma
+           - Ferritin [Mass/volume] in Serum or Plasma 391.4 ug/L
+  2020-12-16 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 76.9 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 11.9 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.8 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 8.9 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 136.9 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.5 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 101.8 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 27.5 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 13.3 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 5.7 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.3 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 11.4 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 67.4 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 0.7 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 3.2 U/L
+  2020-12-16 : Auto Differential panel - Blood
+           - Neutrophils/100 leukocytes in Blood by Automated count 20.8 %
+           - Lymphocytes/100 leukocytes in Blood by Automated count 7.4 %
+           - Monocytes/100 leukocytes in Blood by Automated count 13.1 %
+           - Eosinophils/100 leukocytes in Blood by Automated count 4.2 %
+           - Basophils/100 leukocytes in Blood by Automated count 2.2 %
+           - Neutrophils [#/volume] in Blood by Automated count 1.4 10*3/uL
+           - Lymphocytes [#/volume] in Blood by Automated count 1.1 10*3/uL
+           - Monocytes [#/volume] in Blood by Automated count 1.1 10*3/uL
+           - Eosinophils [#/volume] in Blood by Automated count 0.5 10*3/uL
+           - Basophils [#/volume] in Blood by Automated count 0.4 10*3/uL
+  2020-12-16 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.8 %
+           - MCV [Entitic volume] by Automated count  84.1 fL
+           - MCH [Entitic mass] by Automated count    31.4 pg
+           - MCHC [Mass/volume] by Automated count    32.9 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 14.9 %
+           - Platelets [#/volume] in Blood by Automated count 138.8 10*3/uL
+  2020-12-16 : SARS-CoV-2 RNA Pnl Resp NAA+probe
+           - SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+  2020-12-16 : Respiratory pathogens DNA and RNA panel - Respiratory specimen by NAA with probe detection
+           - Influenza virus A RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Influenza virus B RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Respiratory syncytial virus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Parainfluenza virus 1 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Parainfluenza virus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Parainfluenza virus 3 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Rhinovirus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Human metapneumovirus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Adenovirus A+B+C+D+E DNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-06-10 : Total score [DAST-10]                    1.0 {score}
+  2022-06-10 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2022-06-10 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2022-06-10 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 61638 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             736 Crooks Road Apt 74 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 5.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? Yes 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2022-06-10 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2022-06-10 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2022-06-10 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2022-06-10 : Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+  2022-06-10 : Protein [Mass/volume] in Urine by Test strip 285.6 mg/dL
+  2022-06-10 : pH of Urine by Test strip                5.0 pH
+  2022-06-10 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2022-06-10 : Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+  2022-06-10 : Ketones [Mass/volume] in Urine by Test strip 19.7 mg/dL
+  2022-06-10 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2022-06-10 : Bilirubin.total [Mass/volume] in Urine by Test strip 1.3 mg/dL
+  2022-06-10 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2022-06-10 : Glucose [Mass/volume] in Urine by Test strip 2.4 mg/dL
+  2022-06-10 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2022-06-10 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2022-06-10 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2022-06-10 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2022-06-10 : Glomerular filtration rate/1.73 sq M.predicted 80.5 mL/min
+  2022-06-10 : Carbon Dioxide                           28.6 mmol/L
+  2022-06-10 : Chloride                                 104.2 mmol/L
+  2022-06-10 : Potassium                                4.5 mmol/L
+  2022-06-10 : Sodium                                   137.6 mmol/L
+  2022-06-10 : Calcium                                  9.0 mg/dL
+  2022-06-10 : Creatinine                               2.0 mg/dL
+  2022-06-10 : Urea Nitrogen                            15.3 mg/dL
+  2022-06-10 : Glucose                                  69.5 mg/dL
+  2022-06-10 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-06-10 : Respiratory rate                         13.0 /min
+  2022-06-10 : Heart rate                               90.0 /min
+  2022-06-10 : Blood Pressure
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  117.0 mm[Hg]
+  2022-06-10 : Body Mass Index                          27.8 kg/m2
+  2022-06-10 : Body Weight                              89.1 kg
+  2022-06-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2022-06-10 : Body Height                              179.0 cm
+  2022-05-06 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-05-06 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2022-05-06 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Very much 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 61638 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             736 Crooks Road Apt 74 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 5.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? Yes 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2022-05-06 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2022-05-06 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2022-05-06 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2022-05-06 : Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+  2022-05-06 : Protein [Mass/volume] in Urine by Test strip 342.9 mg/dL
+  2022-05-06 : pH of Urine by Test strip                5.8 pH
+  2022-05-06 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2022-05-06 : Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+  2022-05-06 : Ketones [Mass/volume] in Urine by Test strip 7.7 mg/dL
+  2022-05-06 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2022-05-06 : Bilirubin.total [Mass/volume] in Urine by Test strip 0.4 mg/dL
+  2022-05-06 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2022-05-06 : Glucose [Mass/volume] in Urine by Test strip 2.3 mg/dL
+  2022-05-06 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2022-05-06 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2022-05-06 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2022-05-06 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2022-05-06 : Glomerular filtration rate/1.73 sq M.predicted 83.5 mL/min
+  2022-05-06 : Carbon Dioxide                           28.5 mmol/L
+  2022-05-06 : Chloride                                 108.4 mmol/L
+  2022-05-06 : Potassium                                5.1 mmol/L
+  2022-05-06 : Sodium                                   138.6 mmol/L
+  2022-05-06 : Calcium                                  9.2 mg/dL
+  2022-05-06 : Creatinine                               1.9 mg/dL
+  2022-05-06 : Urea Nitrogen                            19.1 mg/dL
+  2022-05-06 : Glucose                                  81.9 mg/dL
+  2022-05-06 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-05-06 : High Density Lipoprotein Cholesterol     51.9 mg/dL
+  2022-05-06 : Low Density Lipoprotein Cholesterol      25.5 mg/dL
+  2022-05-06 : Triglycerides                            138.0 mg/dL
+  2022-05-06 : Total Cholesterol                        104.9 mg/dL
+  2022-05-06 : Respiratory rate                         14.0 /min
+  2022-05-06 : Heart rate                               86.0 /min
+  2022-05-06 : Blood Pressure
+           - Diastolic Blood Pressure                 89.0 mm[Hg]
+           - Systolic Blood Pressure                  123.0 mm[Hg]
+  2022-05-06 : Body Mass Index                          27.8 kg/m2
+  2022-05-06 : Body Weight                              88.9 kg
+  2022-05-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2022-05-06 : Body Height                              179.0 cm
+  2022-03-11 : Total score [AUDIT-C]                    11.0 {score}
+  2022-03-11 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-03-11 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 8.0 {score}
+  2022-03-11 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 61638 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Otherwise unemployed but not seeking work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             736 Crooks Road Apt 74 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 5.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? Yes 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2022-03-11 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2022-03-11 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2022-03-11 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2022-03-11 : Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+  2022-03-11 : Protein [Mass/volume] in Urine by Test strip 183.2 mg/dL
+  2022-03-11 : pH of Urine by Test strip                6.4 pH
+  2022-03-11 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2022-03-11 : Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+  2022-03-11 : Ketones [Mass/volume] in Urine by Test strip 4.9 mg/dL
+  2022-03-11 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2022-03-11 : Bilirubin.total [Mass/volume] in Urine by Test strip 0.5 mg/dL
+  2022-03-11 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2022-03-11 : Glucose [Mass/volume] in Urine by Test strip 2.0 mg/dL
+  2022-03-11 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2022-03-11 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2022-03-11 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2022-03-11 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2022-03-11 : Glomerular filtration rate/1.73 sq M.predicted 70.0 mL/min
+  2022-03-11 : Carbon Dioxide                           21.1 mmol/L
+  2022-03-11 : Chloride                                 108.6 mmol/L
+  2022-03-11 : Potassium                                4.7 mmol/L
+  2022-03-11 : Sodium                                   136.2 mmol/L
+  2022-03-11 : Calcium                                  8.8 mg/dL
+  2022-03-11 : Creatinine                               2.0 mg/dL
+  2022-03-11 : Urea Nitrogen                            11.4 mg/dL
+  2022-03-11 : Glucose                                  86.5 mg/dL
+  2022-03-11 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-03-11 : Respiratory rate                         13.0 /min
+  2022-03-11 : Heart rate                               98.0 /min
+  2022-03-11 : Blood Pressure
+           - Diastolic Blood Pressure                 90.0 mm[Hg]
+           - Systolic Blood Pressure                  124.0 mm[Hg]
+  2022-03-11 : Body Mass Index                          27.6 kg/m2
+  2022-03-11 : Body Weight                              88.6 kg
+  2022-03-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2022-03-11 : Body Height                              179.0 cm
+  2021-04-30 : Total score [DAST-10]                    0.0 {score}
+  2021-04-30 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2021-04-30 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 61638 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Otherwise unemployed but not seeking work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             736 Crooks Road Apt 74 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 5.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? Yes 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-04-30 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2021-04-30 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2021-04-30 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2021-04-30 : Protein [Presence] in Urine by Test strip Urine protein test = + (finding) {nominal}
+  2021-04-30 : Protein [Mass/volume] in Urine by Test strip 89.1 mg/dL
+  2021-04-30 : pH of Urine by Test strip                7.0 pH
+  2021-04-30 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2021-04-30 : Ketones [Presence] in Urine by Test strip Urine ketone test = trace (finding) {nominal}
+  2021-04-30 : Ketones [Mass/volume] in Urine by Test strip 14.4 mg/dL
+  2021-04-30 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2021-04-30 : Bilirubin.total [Mass/volume] in Urine by Test strip 0.3 mg/dL
+  2021-04-30 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2021-04-30 : Glucose [Mass/volume] in Urine by Test strip 1.9 mg/dL
+  2021-04-30 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2021-04-30 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2021-04-30 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2021-04-30 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2021-04-30 : Glomerular filtration rate/1.73 sq M.predicted 112.3 mL/min
+  2021-04-30 : Carbon Dioxide                           26.5 mmol/L
+  2021-04-30 : Chloride                                 108.8 mmol/L
+  2021-04-30 : Potassium                                4.9 mmol/L
+  2021-04-30 : Sodium                                   136.0 mmol/L
+  2021-04-30 : Calcium                                  9.7 mg/dL
+  2021-04-30 : Creatinine                               1.8 mg/dL
+  2021-04-30 : Urea Nitrogen                            14.3 mg/dL
+  2021-04-30 : Glucose                                  64.7 mg/dL
+  2021-04-30 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-04-30 : Respiratory rate                         14.0 /min
+  2021-04-30 : Heart rate                               77.0 /min
+  2021-04-30 : Blood Pressure
+           - Diastolic Blood Pressure                 89.0 mm[Hg]
+           - Systolic Blood Pressure                  114.0 mm[Hg]
+  2021-04-30 : Body Mass Index                          29.6 kg/m2
+  2021-04-30 : Body Weight                              94.7 kg
+  2021-04-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2021-04-30 : Body Height                              179.0 cm
+  2020-12-26 : SARS-CoV-2 RNA Pnl Resp NAA+probe        Not detected (qualifier value) 
+  2020-12-26 : Body temperature                         36.6 Cel
+  2020-12-25 : SARS-CoV-2 RNA Pnl Resp NAA+probe        Not detected (qualifier value) 
+  2020-12-25 : Body temperature                         36.2 Cel
+  2020-12-25 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 0.4 U/L
+  2020-12-25 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 21.2 U/L
+  2020-12-25 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 81.1 U/L
+  2020-12-25 : Bilirubin.total [Mass/volume] in Serum or Plasma 6.3 mg/dL
+  2020-12-25 : Albumin [Mass/volume] in Serum or Plasma 4.4 g/dL
+  2020-12-25 : Protein [Mass/volume] in Serum or Plasma 6.5 g/dL
+  2020-12-25 : Glomerular filtration rate/1.73 sq M.predicted 12.3 mL/min
+  2020-12-25 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 27.1 mmol/L
+  2020-12-25 : Chloride [Moles/volume] in Serum or Plasma 108.7 mmol/L
+  2020-12-25 : Potassium [Moles/volume] in Serum or Plasma 3.9 mmol/L
+  2020-12-25 : Sodium [Moles/volume] in Serum or Plasma 141.5 mmol/L
+  2020-12-25 : Calcium [Mass/volume] in Serum or Plasma 9.4 mg/dL
+  2020-12-25 : Creatinine [Mass/volume] in Serum or Plasma 2.6 mg/dL
+  2020-12-25 : Urea nitrogen [Mass/volume] in Serum or Plasma 10.1 mg/dL
+  2020-12-25 : Glucose [Mass/volume] in Serum or Plasma 77.4 mg/dL
+  2020-12-25 : Basophils [#/volume] in Blood by Automated count 0.2 10*3/uL
+  2020-12-25 : Eosinophils [#/volume] in Blood by Automated count 0.5 10*3/uL
+  2020-12-25 : Monocytes [#/volume] in Blood by Automated count 1.0 10*3/uL
+  2020-12-25 : Lymphocytes [#/volume] in Blood by Automated count 1.0 10*3/uL
+  2020-12-25 : Neutrophils [#/volume] in Blood by Automated count 2.6 10*3/uL
+  2020-12-25 : Basophils/100 leukocytes in Blood by Automated count 3.9 %
+  2020-12-25 : Eosinophils/100 leukocytes in Blood by Automated count 3.9 %
+  2020-12-25 : Monocytes/100 leukocytes in Blood by Automated count 5.7 %
+  2020-12-25 : Lymphocytes/100 leukocytes in Blood by Automated count 10.5 %
+  2020-12-25 : Neutrophils/100 leukocytes in Blood by Automated count 43.5 %
+  2020-12-25 : Platelets [#/volume] in Blood by Automated count 104.6 10*3/uL
+  2020-12-25 : Erythrocyte distribution width [Ratio] by Automated count 14.5 %
+  2020-12-25 : MCHC [Mass/volume] by Automated count    31.8 g/dL
+  2020-12-25 : MCH [Entitic mass] by Automated count    30.8 pg
+  2020-12-25 : MCV [Entitic volume] by Automated count  85.1 fL
+  2020-12-25 : Hematocrit [Volume Fraction] of Blood by Automated count 38.6 %
+  2020-12-25 : Hemoglobin [Mass/volume] in Blood        11.1 g/dL
+  2020-12-25 : Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+  2020-12-25 : Leukocytes [#/volume] in Blood by Automated count 3.3 10*3/uL
+  2020-12-25 : Body Weight                              96.8 kg
+  2020-12-25 : Blood Pressure
+           - Diastolic Blood Pressure                 90.0 mm[Hg]
+           - Systolic Blood Pressure                  122.0 mm[Hg]
+  2020-12-25 : Oxygen saturation in Arterial blood      79.9 %
+  2020-12-25 : Heart rate                               94.7 /min
+  2020-12-25 : Respiratory rate                         16.0 /min
+  2020-12-25 : Body temperature                         39.1 Cel
+  2020-12-24 : Procalcitonin [Mass/volume] in Serum or Plasma 0.2 ng/mL
+  2020-12-24 : INR in Platelet poor plasma by Coagulation assay 2.8 {INR}
+  2020-12-24 : Prothrombin time (PT)                    11.0 s
+  2020-12-24 : C reactive protein [Mass/volume] in Serum or Plasma 9.3 mg/L
+  2020-12-24 : Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 48.2 U/L
+  2020-12-24 : Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction 232.8 U/L
+  2020-12-24 : Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 2.9 pg/mL
+  2020-12-24 : Ferritin [Mass/volume] in Serum or Plasma 463.4 ug/L
+  2020-12-24 : Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma 0.5 ug/mL
+  2020-12-24 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.4 U/L
+  2020-12-24 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 13.4 U/L
+  2020-12-24 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 93.0 U/L
+  2020-12-24 : Bilirubin.total [Mass/volume] in Serum or Plasma 14.4 mg/dL
+  2020-12-24 : Albumin [Mass/volume] in Serum or Plasma 4.8 g/dL
+  2020-12-24 : Protein [Mass/volume] in Serum or Plasma 6.2 g/dL
+  2020-12-24 : Glomerular filtration rate/1.73 sq M.predicted 7.9 mL/min
+  2020-12-24 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.7 mmol/L
+  2020-12-24 : Chloride [Moles/volume] in Serum or Plasma 101.6 mmol/L
+  2020-12-24 : Potassium [Moles/volume] in Serum or Plasma 4.6 mmol/L
+  2020-12-24 : Sodium [Moles/volume] in Serum or Plasma 141.0 mmol/L
+  2020-12-24 : Calcium [Mass/volume] in Serum or Plasma 8.6 mg/dL
+  2020-12-24 : Creatinine [Mass/volume] in Serum or Plasma 2.7 mg/dL
+  2020-12-24 : Urea nitrogen [Mass/volume] in Serum or Plasma 8.0 mg/dL
+  2020-12-24 : Glucose [Mass/volume] in Serum or Plasma 77.0 mg/dL
+  2020-12-24 : Basophils [#/volume] in Blood by Automated count 0.2 10*3/uL
+  2020-12-24 : Eosinophils [#/volume] in Blood by Automated count 0.3 10*3/uL
+  2020-12-24 : Monocytes [#/volume] in Blood by Automated count 1.3 10*3/uL
+  2020-12-24 : Lymphocytes [#/volume] in Blood by Automated count 0.9 10*3/uL
+  2020-12-24 : Neutrophils [#/volume] in Blood by Automated count 2.8 10*3/uL
+  2020-12-24 : Basophils/100 leukocytes in Blood by Automated count 2.7 %
+  2020-12-24 : Eosinophils/100 leukocytes in Blood by Automated count 5.2 %
+  2020-12-24 : Monocytes/100 leukocytes in Blood by Automated count 7.3 %
+  2020-12-24 : Lymphocytes/100 leukocytes in Blood by Automated count 10.7 %
+  2020-12-24 : Neutrophils/100 leukocytes in Blood by Automated count 27.7 %
+  2020-12-24 : Platelets [#/volume] in Blood by Automated count 118.5 10*3/uL
+  2020-12-24 : Erythrocyte distribution width [Ratio] by Automated count 14.3 %
+  2020-12-24 : MCHC [Mass/volume] by Automated count    34.3 g/dL
+  2020-12-24 : MCH [Entitic mass] by Automated count    27.4 pg
+  2020-12-24 : MCV [Entitic volume] by Automated count  83.4 fL
+  2020-12-24 : Hematocrit [Volume Fraction] of Blood by Automated count 44.1 %
+  2020-12-24 : Hemoglobin [Mass/volume] in Blood        11.4 g/dL
+  2020-12-24 : Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+  2020-12-24 : Leukocytes [#/volume] in Blood by Automated count 3.9 10*3/uL
+  2020-12-24 : Body Weight                              96.7 kg
+  2020-12-24 : Blood Pressure
+           - Diastolic Blood Pressure                 91.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2020-12-24 : Oxygen saturation in Arterial blood      75.4 %
+  2020-12-24 : Heart rate                               184.6 /min
+  2020-12-24 : Respiratory rate                         13.7 /min
+  2020-12-24 : Body temperature                         38.1 Cel
+  2020-12-23 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 36.0 U/L
+  2020-12-23 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 0.2 U/L
+  2020-12-23 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 95.9 U/L
+  2020-12-23 : Bilirubin.total [Mass/volume] in Serum or Plasma 12.9 mg/dL
+  2020-12-23 : Albumin [Mass/volume] in Serum or Plasma 4.8 g/dL
+  2020-12-23 : Protein [Mass/volume] in Serum or Plasma 7.4 g/dL
+  2020-12-23 : Glomerular filtration rate/1.73 sq M.predicted 12.5 mL/min
+  2020-12-23 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.7 mmol/L
+  2020-12-23 : Chloride [Moles/volume] in Serum or Plasma 101.6 mmol/L
+  2020-12-23 : Potassium [Moles/volume] in Serum or Plasma 4.6 mmol/L
+  2020-12-23 : Sodium [Moles/volume] in Serum or Plasma 141.0 mmol/L
+  2020-12-23 : Calcium [Mass/volume] in Serum or Plasma 8.6 mg/dL
+  2020-12-23 : Creatinine [Mass/volume] in Serum or Plasma 2.6 mg/dL
+  2020-12-23 : Urea nitrogen [Mass/volume] in Serum or Plasma 8.0 mg/dL
+  2020-12-23 : Glucose [Mass/volume] in Serum or Plasma 77.0 mg/dL
+  2020-12-23 : Basophils [#/volume] in Blood by Automated count 0.3 10*3/uL
+  2020-12-23 : Eosinophils [#/volume] in Blood by Automated count 0.4 10*3/uL
+  2020-12-23 : Monocytes [#/volume] in Blood by Automated count 1.3 10*3/uL
+  2020-12-23 : Lymphocytes [#/volume] in Blood by Automated count 0.9 10*3/uL
+  2020-12-23 : Neutrophils [#/volume] in Blood by Automated count 3.6 10*3/uL
+  2020-12-23 : Basophils/100 leukocytes in Blood by Automated count 2.2 %
+  2020-12-23 : Eosinophils/100 leukocytes in Blood by Automated count 4.4 %
+  2020-12-23 : Monocytes/100 leukocytes in Blood by Automated count 10.3 %
+  2020-12-23 : Lymphocytes/100 leukocytes in Blood by Automated count 13.8 %
+  2020-12-23 : Neutrophils/100 leukocytes in Blood by Automated count 31.4 %
+  2020-12-23 : Platelets [#/volume] in Blood by Automated count 133.5 10*3/uL
+  2020-12-23 : Erythrocyte distribution width [Ratio] by Automated count 12.4 %
+  2020-12-23 : MCHC [Mass/volume] by Automated count    35.1 g/dL
+  2020-12-23 : MCH [Entitic mass] by Automated count    31.5 pg
+  2020-12-23 : MCV [Entitic volume] by Automated count  89.8 fL
+  2020-12-23 : Hematocrit [Volume Fraction] of Blood by Automated count 45.2 %
+  2020-12-23 : Hemoglobin [Mass/volume] in Blood        11.4 g/dL
+  2020-12-23 : Erythrocytes [#/volume] in Blood by Automated count 5.6 10*6/uL
+  2020-12-23 : Leukocytes [#/volume] in Blood by Automated count 3.2 10*3/uL
+  2020-12-23 : Body Weight                              96.7 kg
+  2020-12-23 : Blood Pressure
+           - Diastolic Blood Pressure                 91.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2020-12-23 : Oxygen saturation in Arterial blood      80.6 %
+  2020-12-23 : Heart rate                               114.0 /min
+  2020-12-23 : Respiratory rate                         37.2 /min
+  2020-12-23 : Body temperature                         39.1 Cel
+  2020-12-22 : Procalcitonin [Mass/volume] in Serum or Plasma 0.2 ng/mL
+  2020-12-22 : INR in Platelet poor plasma by Coagulation assay 2.0 {INR}
+  2020-12-22 : Prothrombin time (PT)                    10.1 s
+  2020-12-22 : C reactive protein [Mass/volume] in Serum or Plasma 9.0 mg/L
+  2020-12-22 : Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 22.5 U/L
+  2020-12-22 : Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction 243.3 U/L
+  2020-12-22 : Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 2.2 pg/mL
+  2020-12-22 : Ferritin [Mass/volume] in Serum or Plasma 474.9 ug/L
+  2020-12-22 : Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma 0.6 ug/mL
+  2020-12-22 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 9.8 U/L
+  2020-12-22 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 37.1 U/L
+  2020-12-22 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 110.5 U/L
+  2020-12-22 : Bilirubin.total [Mass/volume] in Serum or Plasma 13.7 mg/dL
+  2020-12-22 : Albumin [Mass/volume] in Serum or Plasma 4.0 g/dL
+  2020-12-22 : Protein [Mass/volume] in Serum or Plasma 6.6 g/dL
+  2020-12-22 : Glomerular filtration rate/1.73 sq M.predicted 8.3 mL/min
+  2020-12-22 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.7 mmol/L
+  2020-12-22 : Chloride [Moles/volume] in Serum or Plasma 101.6 mmol/L
+  2020-12-22 : Potassium [Moles/volume] in Serum or Plasma 4.6 mmol/L
+  2020-12-22 : Sodium [Moles/volume] in Serum or Plasma 141.0 mmol/L
+  2020-12-22 : Calcium [Mass/volume] in Serum or Plasma 8.6 mg/dL
+  2020-12-22 : Creatinine [Mass/volume] in Serum or Plasma 2.7 mg/dL
+  2020-12-22 : Urea nitrogen [Mass/volume] in Serum or Plasma 8.0 mg/dL
+  2020-12-22 : Glucose [Mass/volume] in Serum or Plasma 77.0 mg/dL
+  2020-12-22 : Basophils [#/volume] in Blood by Automated count 0.4 10*3/uL
+  2020-12-22 : Eosinophils [#/volume] in Blood by Automated count 0.4 10*3/uL
+  2020-12-22 : Monocytes [#/volume] in Blood by Automated count 1.3 10*3/uL
+  2020-12-22 : Lymphocytes [#/volume] in Blood by Automated count 0.9 10*3/uL
+  2020-12-22 : Neutrophils [#/volume] in Blood by Automated count 3.7 10*3/uL
+  2020-12-22 : Basophils/100 leukocytes in Blood by Automated count 2.7 %
+  2020-12-22 : Eosinophils/100 leukocytes in Blood by Automated count 3.3 %
+  2020-12-22 : Monocytes/100 leukocytes in Blood by Automated count 10.0 %
+  2020-12-22 : Lymphocytes/100 leukocytes in Blood by Automated count 23.6 %
+  2020-12-22 : Neutrophils/100 leukocytes in Blood by Automated count 40.2 %
+  2020-12-22 : Platelets [#/volume] in Blood by Automated count 131.8 10*3/uL
+  2020-12-22 : Erythrocyte distribution width [Ratio] by Automated count 13.9 %
+  2020-12-22 : MCHC [Mass/volume] by Automated count    33.4 g/dL
+  2020-12-22 : MCH [Entitic mass] by Automated count    32.5 pg
+  2020-12-22 : MCV [Entitic volume] by Automated count  95.0 fL
+  2020-12-22 : Hematocrit [Volume Fraction] of Blood by Automated count 43.2 %
+  2020-12-22 : Hemoglobin [Mass/volume] in Blood        13.6 g/dL
+  2020-12-22 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2020-12-22 : Leukocytes [#/volume] in Blood by Automated count 3.5 10*3/uL
+  2020-12-22 : Body Weight                              96.7 kg
+  2020-12-22 : Blood Pressure
+           - Diastolic Blood Pressure                 92.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  2020-12-22 : Oxygen saturation in Arterial blood      88.2 %
+  2020-12-22 : Heart rate                               149.9 /min
+  2020-12-22 : Respiratory rate                         17.5 /min
+  2020-12-22 : Body temperature                         42.0 Cel
+  2020-12-21 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 1.8 U/L
+  2020-12-21 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 15.4 U/L
+  2020-12-21 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 116.9 U/L
+  2020-12-21 : Bilirubin.total [Mass/volume] in Serum or Plasma 10.2 mg/dL
+  2020-12-21 : Albumin [Mass/volume] in Serum or Plasma 4.1 g/dL
+  2020-12-21 : Protein [Mass/volume] in Serum or Plasma 6.7 g/dL
+  2020-12-21 : Glomerular filtration rate/1.73 sq M.predicted 11.0 mL/min
+  2020-12-21 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.7 mmol/L
+  2020-12-21 : Chloride [Moles/volume] in Serum or Plasma 101.6 mmol/L
+  2020-12-21 : Potassium [Moles/volume] in Serum or Plasma 4.6 mmol/L
+  2020-12-21 : Sodium [Moles/volume] in Serum or Plasma 141.0 mmol/L
+  2020-12-21 : Calcium [Mass/volume] in Serum or Plasma 8.6 mg/dL
+  2020-12-21 : Creatinine [Mass/volume] in Serum or Plasma 3.0 mg/dL
+  2020-12-21 : Urea nitrogen [Mass/volume] in Serum or Plasma 8.0 mg/dL
+  2020-12-21 : Glucose [Mass/volume] in Serum or Plasma 77.0 mg/dL
+  2020-12-21 : Basophils [#/volume] in Blood by Automated count 0.3 10*3/uL
+  2020-12-21 : Eosinophils [#/volume] in Blood by Automated count 0.6 10*3/uL
+  2020-12-21 : Monocytes [#/volume] in Blood by Automated count 0.8 10*3/uL
+  2020-12-21 : Lymphocytes [#/volume] in Blood by Automated count 1.1 10*3/uL
+  2020-12-21 : Neutrophils [#/volume] in Blood by Automated count 3.2 10*3/uL
+  2020-12-21 : Basophils/100 leukocytes in Blood by Automated count 2.8 %
+  2020-12-21 : Eosinophils/100 leukocytes in Blood by Automated count 4.5 %
+  2020-12-21 : Monocytes/100 leukocytes in Blood by Automated count 10.1 %
+  2020-12-21 : Lymphocytes/100 leukocytes in Blood by Automated count 6.3 %
+  2020-12-21 : Neutrophils/100 leukocytes in Blood by Automated count 43.8 %
+  2020-12-21 : Platelets [#/volume] in Blood by Automated count 118.3 10*3/uL
+  2020-12-21 : Erythrocyte distribution width [Ratio] by Automated count 14.0 %
+  2020-12-21 : MCHC [Mass/volume] by Automated count    32.5 g/dL
+  2020-12-21 : MCH [Entitic mass] by Automated count    32.0 pg
+  2020-12-21 : MCV [Entitic volume] by Automated count  94.0 fL
+  2020-12-21 : Hematocrit [Volume Fraction] of Blood by Automated count 37.7 %
+  2020-12-21 : Hemoglobin [Mass/volume] in Blood        13.7 g/dL
+  2020-12-21 : Erythrocytes [#/volume] in Blood by Automated count 5.6 10*6/uL
+  2020-12-21 : Leukocytes [#/volume] in Blood by Automated count 3.2 10*3/uL
+  2020-12-21 : Body Weight                              96.7 kg
+  2020-12-21 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  2020-12-21 : Oxygen saturation in Arterial blood      84.6 %
+  2020-12-21 : Heart rate                               92.0 /min
+  2020-12-21 : Respiratory rate                         27.4 /min
+  2020-12-21 : Body temperature                         39.5 Cel
+  2020-12-20 : Procalcitonin [Mass/volume] in Serum or Plasma 0.2 ng/mL
+  2020-12-20 : INR in Platelet poor plasma by Coagulation assay 1.4 {INR}
+  2020-12-20 : Prothrombin time (PT)                    10.4 s
+  2020-12-20 : C reactive protein [Mass/volume] in Serum or Plasma 11.4 mg/L
+  2020-12-20 : Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 34.5 U/L
+  2020-12-20 : Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction 233.6 U/L
+  2020-12-20 : Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 3.1 pg/mL
+  2020-12-20 : Ferritin [Mass/volume] in Serum or Plasma 494.7 ug/L
+  2020-12-20 : Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma 0.2 ug/mL
+  2020-12-20 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 5.2 U/L
+  2020-12-20 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 24.0 U/L
+  2020-12-20 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 53.1 U/L
+  2020-12-20 : Bilirubin.total [Mass/volume] in Serum or Plasma 6.3 mg/dL
+  2020-12-20 : Albumin [Mass/volume] in Serum or Plasma 5.2 g/dL
+  2020-12-20 : Protein [Mass/volume] in Serum or Plasma 5.7 g/dL
+  2020-12-20 : Glomerular filtration rate/1.73 sq M.predicted 8.9 mL/min
+  2020-12-20 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.7 mmol/L
+  2020-12-20 : Chloride [Moles/volume] in Serum or Plasma 101.6 mmol/L
+  2020-12-20 : Potassium [Moles/volume] in Serum or Plasma 4.6 mmol/L
+  2020-12-20 : Sodium [Moles/volume] in Serum or Plasma 141.0 mmol/L
+  2020-12-20 : Calcium [Mass/volume] in Serum or Plasma 8.6 mg/dL
+  2020-12-20 : Creatinine [Mass/volume] in Serum or Plasma 2.8 mg/dL
+  2020-12-20 : Urea nitrogen [Mass/volume] in Serum or Plasma 8.0 mg/dL
+  2020-12-20 : Glucose [Mass/volume] in Serum or Plasma 77.0 mg/dL
+  2020-12-20 : Basophils [#/volume] in Blood by Automated count 0.3 10*3/uL
+  2020-12-20 : Eosinophils [#/volume] in Blood by Automated count 0.3 10*3/uL
+  2020-12-20 : Monocytes [#/volume] in Blood by Automated count 0.7 10*3/uL
+  2020-12-20 : Lymphocytes [#/volume] in Blood by Automated count 1.1 10*3/uL
+  2020-12-20 : Neutrophils [#/volume] in Blood by Automated count 2.0 10*3/uL
+  2020-12-20 : Basophils/100 leukocytes in Blood by Automated count 2.1 %
+  2020-12-20 : Eosinophils/100 leukocytes in Blood by Automated count 3.8 %
+  2020-12-20 : Monocytes/100 leukocytes in Blood by Automated count 7.5 %
+  2020-12-20 : Lymphocytes/100 leukocytes in Blood by Automated count 20.3 %
+  2020-12-20 : Neutrophils/100 leukocytes in Blood by Automated count 33.7 %
+  2020-12-20 : Platelets [#/volume] in Blood by Automated count 141.8 10*3/uL
+  2020-12-20 : Erythrocyte distribution width [Ratio] by Automated count 14.9 %
+  2020-12-20 : MCHC [Mass/volume] by Automated count    32.3 g/dL
+  2020-12-20 : MCH [Entitic mass] by Automated count    30.7 pg
+  2020-12-20 : MCV [Entitic volume] by Automated count  89.0 fL
+  2020-12-20 : Hematocrit [Volume Fraction] of Blood by Automated count 42.3 %
+  2020-12-20 : Hemoglobin [Mass/volume] in Blood        11.4 g/dL
+  2020-12-20 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2020-12-20 : Leukocytes [#/volume] in Blood by Automated count 3.4 10*3/uL
+  2020-12-20 : Body Weight                              96.7 kg
+  2020-12-20 : Blood Pressure
+           - Diastolic Blood Pressure                 92.0 mm[Hg]
+           - Systolic Blood Pressure                  111.0 mm[Hg]
+  2020-12-20 : Oxygen saturation in Arterial blood      75.6 %
+  2020-12-20 : Heart rate                               61.0 /min
+  2020-12-20 : Respiratory rate                         27.3 /min
+  2020-12-20 : Body temperature                         37.9 Cel
+  2020-12-19 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 7.7 U/L
+  2020-12-19 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 21.9 U/L
+  2020-12-19 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 78.7 U/L
+  2020-12-19 : Bilirubin.total [Mass/volume] in Serum or Plasma 6.7 mg/dL
+  2020-12-19 : Albumin [Mass/volume] in Serum or Plasma 4.7 g/dL
+  2020-12-19 : Protein [Mass/volume] in Serum or Plasma 5.7 g/dL
+  2020-12-19 : Glomerular filtration rate/1.73 sq M.predicted 7.3 mL/min
+  2020-12-19 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.7 mmol/L
+  2020-12-19 : Chloride [Moles/volume] in Serum or Plasma 101.6 mmol/L
+  2020-12-19 : Potassium [Moles/volume] in Serum or Plasma 4.6 mmol/L
+  2020-12-19 : Sodium [Moles/volume] in Serum or Plasma 141.0 mmol/L
+  2020-12-19 : Calcium [Mass/volume] in Serum or Plasma 8.6 mg/dL
+  2020-12-19 : Creatinine [Mass/volume] in Serum or Plasma 2.6 mg/dL
+  2020-12-19 : Urea nitrogen [Mass/volume] in Serum or Plasma 8.0 mg/dL
+  2020-12-19 : Glucose [Mass/volume] in Serum or Plasma 77.0 mg/dL
+  2020-12-19 : Basophils [#/volume] in Blood by Automated count 0.3 10*3/uL
+  2020-12-19 : Eosinophils [#/volume] in Blood by Automated count 0.3 10*3/uL
+  2020-12-19 : Monocytes [#/volume] in Blood by Automated count 0.7 10*3/uL
+  2020-12-19 : Lymphocytes [#/volume] in Blood by Automated count 1.0 10*3/uL
+  2020-12-19 : Neutrophils [#/volume] in Blood by Automated count 3.9 10*3/uL
+  2020-12-19 : Basophils/100 leukocytes in Blood by Automated count 2.9 %
+  2020-12-19 : Eosinophils/100 leukocytes in Blood by Automated count 4.3 %
+  2020-12-19 : Monocytes/100 leukocytes in Blood by Automated count 14.5 %
+  2020-12-19 : Lymphocytes/100 leukocytes in Blood by Automated count 9.5 %
+  2020-12-19 : Neutrophils/100 leukocytes in Blood by Automated count 10.2 %
+  2020-12-19 : Platelets [#/volume] in Blood by Automated count 115.4 10*3/uL
+  2020-12-19 : Erythrocyte distribution width [Ratio] by Automated count 15.4 %
+  2020-12-19 : MCHC [Mass/volume] by Automated count    33.0 g/dL
+  2020-12-19 : MCH [Entitic mass] by Automated count    31.8 pg
+  2020-12-19 : MCV [Entitic volume] by Automated count  79.9 fL
+  2020-12-19 : Hematocrit [Volume Fraction] of Blood by Automated count 42.2 %
+  2020-12-19 : Hemoglobin [Mass/volume] in Blood        11.3 g/dL
+  2020-12-19 : Erythrocytes [#/volume] in Blood by Automated count 3.8 10*6/uL
+  2020-12-19 : Leukocytes [#/volume] in Blood by Automated count 3.7 10*3/uL
+  2020-12-19 : Body Weight                              96.7 kg
+  2020-12-19 : Blood Pressure
+           - Diastolic Blood Pressure                 92.0 mm[Hg]
+           - Systolic Blood Pressure                  122.0 mm[Hg]
+  2020-12-19 : Oxygen saturation in Arterial blood      75.3 %
+  2020-12-19 : Heart rate                               90.3 /min
+  2020-12-19 : Respiratory rate                         21.9 /min
+  2020-12-19 : Body temperature                         40.7 Cel
+  2020-12-18 : Procalcitonin [Mass/volume] in Serum or Plasma 0.1 ng/mL
+  2020-12-18 : INR in Platelet poor plasma by Coagulation assay 1.7 {INR}
+  2020-12-18 : Prothrombin time (PT)                    12.0 s
+  2020-12-18 : C reactive protein [Mass/volume] in Serum or Plasma 8.4 mg/L
+  2020-12-18 : Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 15.7 U/L
+  2020-12-18 : Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction 209.4 U/L
+  2020-12-18 : Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 1.7 pg/mL
+  2020-12-18 : Ferritin [Mass/volume] in Serum or Plasma 394.4 ug/L
+  2020-12-18 : Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma 0.4 ug/mL
+  2020-12-18 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 1.0 U/L
+  2020-12-18 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 41.7 U/L
+  2020-12-18 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 67.7 U/L
+  2020-12-18 : Bilirubin.total [Mass/volume] in Serum or Plasma 14.4 mg/dL
+  2020-12-18 : Albumin [Mass/volume] in Serum or Plasma 3.8 g/dL
+  2020-12-18 : Protein [Mass/volume] in Serum or Plasma 7.9 g/dL
+  2020-12-18 : Glomerular filtration rate/1.73 sq M.predicted 6.2 mL/min
+  2020-12-18 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.7 mmol/L
+  2020-12-18 : Chloride [Moles/volume] in Serum or Plasma 101.6 mmol/L
+  2020-12-18 : Potassium [Moles/volume] in Serum or Plasma 4.6 mmol/L
+  2020-12-18 : Sodium [Moles/volume] in Serum or Plasma 141.0 mmol/L
+  2020-12-18 : Calcium [Mass/volume] in Serum or Plasma 8.6 mg/dL
+  2020-12-18 : Creatinine [Mass/volume] in Serum or Plasma 2.8 mg/dL
+  2020-12-18 : Urea nitrogen [Mass/volume] in Serum or Plasma 8.0 mg/dL
+  2020-12-18 : Glucose [Mass/volume] in Serum or Plasma 77.0 mg/dL
+  2020-12-18 : Basophils [#/volume] in Blood by Automated count 0.3 10*3/uL
+  2020-12-18 : Eosinophils [#/volume] in Blood by Automated count 0.4 10*3/uL
+  2020-12-18 : Monocytes [#/volume] in Blood by Automated count 0.9 10*3/uL
+  2020-12-18 : Lymphocytes [#/volume] in Blood by Automated count 1.1 10*3/uL
+  2020-12-18 : Neutrophils [#/volume] in Blood by Automated count 2.7 10*3/uL
+  2020-12-18 : Basophils/100 leukocytes in Blood by Automated count 2.4 %
+  2020-12-18 : Eosinophils/100 leukocytes in Blood by Automated count 3.4 %
+  2020-12-18 : Monocytes/100 leukocytes in Blood by Automated count 13.2 %
+  2020-12-18 : Lymphocytes/100 leukocytes in Blood by Automated count 6.3 %
+  2020-12-18 : Neutrophils/100 leukocytes in Blood by Automated count 42.5 %
+  2020-12-18 : Platelets [#/volume] in Blood by Automated count 122.1 10*3/uL
+  2020-12-18 : Erythrocyte distribution width [Ratio] by Automated count 14.6 %
+  2020-12-18 : MCHC [Mass/volume] by Automated count    32.4 g/dL
+  2020-12-18 : MCH [Entitic mass] by Automated count    32.9 pg
+  2020-12-18 : MCV [Entitic volume] by Automated count  87.5 fL
+  2020-12-18 : Hematocrit [Volume Fraction] of Blood by Automated count 39.0 %
+  2020-12-18 : Hemoglobin [Mass/volume] in Blood        13.1 g/dL
+  2020-12-18 : Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+  2020-12-18 : Leukocytes [#/volume] in Blood by Automated count 3.9 10*3/uL
+  2020-12-18 : Body Weight                              96.7 kg
+  2020-12-18 : Blood Pressure
+           - Diastolic Blood Pressure                 90.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2020-12-18 : Oxygen saturation in Arterial blood      80.1 %
+  2020-12-18 : Heart rate                               66.3 /min
+  2020-12-18 : Respiratory rate                         23.9 /min
+  2020-12-18 : Body temperature                         39.6 Cel
+  2020-12-17 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 30.4 U/L
+  2020-12-17 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.7 U/L
+  2020-12-17 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 82.3 U/L
+  2020-12-17 : Bilirubin.total [Mass/volume] in Serum or Plasma 8.4 mg/dL
+  2020-12-17 : Albumin [Mass/volume] in Serum or Plasma 3.9 g/dL
+  2020-12-17 : Protein [Mass/volume] in Serum or Plasma 6.1 g/dL
+  2020-12-17 : Glomerular filtration rate/1.73 sq M.predicted 10.4 mL/min
+  2020-12-17 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 27.5 mmol/L
+  2020-12-17 : Chloride [Moles/volume] in Serum or Plasma 101.8 mmol/L
+  2020-12-17 : Potassium [Moles/volume] in Serum or Plasma 4.5 mmol/L
+  2020-12-17 : Sodium [Moles/volume] in Serum or Plasma 136.9 mmol/L
+  2020-12-17 : Calcium [Mass/volume] in Serum or Plasma 8.9 mg/dL
+  2020-12-17 : Creatinine [Mass/volume] in Serum or Plasma 2.9 mg/dL
+  2020-12-17 : Urea nitrogen [Mass/volume] in Serum or Plasma 11.9 mg/dL
+  2020-12-17 : Glucose [Mass/volume] in Serum or Plasma 76.9 mg/dL
+  2020-12-17 : Basophils [#/volume] in Blood by Automated count 0.3 10*3/uL
+  2020-12-17 : Eosinophils [#/volume] in Blood by Automated count 0.4 10*3/uL
+  2020-12-17 : Monocytes [#/volume] in Blood by Automated count 1.3 10*3/uL
+  2020-12-17 : Lymphocytes [#/volume] in Blood by Automated count 1.1 10*3/uL
+  2020-12-17 : Neutrophils [#/volume] in Blood by Automated count 2.5 10*3/uL
+  2020-12-17 : Basophils/100 leukocytes in Blood by Automated count 2.0 %
+  2020-12-17 : Eosinophils/100 leukocytes in Blood by Automated count 5.3 %
+  2020-12-17 : Monocytes/100 leukocytes in Blood by Automated count 13.8 %
+  2020-12-17 : Lymphocytes/100 leukocytes in Blood by Automated count 6.4 %
+  2020-12-17 : Neutrophils/100 leukocytes in Blood by Automated count 13.8 %
+  2020-12-17 : Platelets [#/volume] in Blood by Automated count 141.4 10*3/uL
+  2020-12-17 : Erythrocyte distribution width [Ratio] by Automated count 15.1 %
+  2020-12-17 : MCHC [Mass/volume] by Automated count    32.3 g/dL
+  2020-12-17 : MCH [Entitic mass] by Automated count    28.8 pg
+  2020-12-17 : MCV [Entitic volume] by Automated count  87.6 fL
+  2020-12-17 : Hematocrit [Volume Fraction] of Blood by Automated count 44.8 %
+  2020-12-17 : Hemoglobin [Mass/volume] in Blood        11.2 g/dL
+  2020-12-17 : Erythrocytes [#/volume] in Blood by Automated count 3.8 10*6/uL
+  2020-12-17 : Leukocytes [#/volume] in Blood by Automated count 3.8 10*3/uL
+  2020-12-17 : Body Weight                              96.7 kg
+  2020-12-17 : Blood Pressure
+           - Diastolic Blood Pressure                 91.0 mm[Hg]
+           - Systolic Blood Pressure                  119.0 mm[Hg]
+  2020-12-17 : Oxygen saturation in Arterial blood      88.4 %
+  2020-12-17 : Heart rate                               67.2 /min
+  2020-12-17 : Respiratory rate                         36.5 /min
+  2020-12-17 : Body temperature                         42.1 Cel
+  2020-12-16 : Procalcitonin [Mass/volume] in Serum or Plasma 0.2 ng/mL
+  2020-12-16 : INR in Platelet poor plasma by Coagulation assay 2.6 {INR}
+  2020-12-16 : Prothrombin time (PT)                    11.3 s
+  2020-12-16 : C reactive protein [Mass/volume] in Serum or Plasma 8.4 mg/L
+  2020-12-16 : Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 44.5 U/L
+  2020-12-16 : Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction 229.9 U/L
+  2020-12-16 : Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 3.3 pg/mL
+  2020-12-16 : Ferritin [Mass/volume] in Serum or Plasma 391.4 ug/L
+  2020-12-16 : Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma 0.3 ug/mL
+  2020-12-16 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 3.2 U/L
+  2020-12-16 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 0.7 U/L
+  2020-12-16 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 67.4 U/L
+  2020-12-16 : Bilirubin.total [Mass/volume] in Serum or Plasma 11.4 mg/dL
+  2020-12-16 : Albumin [Mass/volume] in Serum or Plasma 4.3 g/dL
+  2020-12-16 : Protein [Mass/volume] in Serum or Plasma 5.7 g/dL
+  2020-12-16 : Glomerular filtration rate/1.73 sq M.predicted 13.3 mL/min
+  2020-12-16 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 27.5 mmol/L
+  2020-12-16 : Chloride [Moles/volume] in Serum or Plasma 101.8 mmol/L
+  2020-12-16 : Potassium [Moles/volume] in Serum or Plasma 4.5 mmol/L
+  2020-12-16 : Sodium [Moles/volume] in Serum or Plasma 136.9 mmol/L
+  2020-12-16 : Calcium [Mass/volume] in Serum or Plasma 8.9 mg/dL
+  2020-12-16 : Creatinine [Mass/volume] in Serum or Plasma 2.8 mg/dL
+  2020-12-16 : Urea nitrogen [Mass/volume] in Serum or Plasma 11.9 mg/dL
+  2020-12-16 : Glucose [Mass/volume] in Serum or Plasma 76.9 mg/dL
+  2020-12-16 : Basophils [#/volume] in Blood by Automated count 0.4 10*3/uL
+  2020-12-16 : Eosinophils [#/volume] in Blood by Automated count 0.5 10*3/uL
+  2020-12-16 : Monocytes [#/volume] in Blood by Automated count 1.1 10*3/uL
+  2020-12-16 : Lymphocytes [#/volume] in Blood by Automated count 1.1 10*3/uL
+  2020-12-16 : Neutrophils [#/volume] in Blood by Automated count 1.4 10*3/uL
+  2020-12-16 : Basophils/100 leukocytes in Blood by Automated count 2.2 %
+  2020-12-16 : Eosinophils/100 leukocytes in Blood by Automated count 4.2 %
+  2020-12-16 : Monocytes/100 leukocytes in Blood by Automated count 13.1 %
+  2020-12-16 : Lymphocytes/100 leukocytes in Blood by Automated count 7.4 %
+  2020-12-16 : Neutrophils/100 leukocytes in Blood by Automated count 20.8 %
+  2020-12-16 : Platelets [#/volume] in Blood by Automated count 138.8 10*3/uL
+  2020-12-16 : Erythrocyte distribution width [Ratio] by Automated count 14.9 %
+  2020-12-16 : MCHC [Mass/volume] by Automated count    32.9 g/dL
+  2020-12-16 : MCH [Entitic mass] by Automated count    31.4 pg
+  2020-12-16 : MCV [Entitic volume] by Automated count  84.1 fL
+  2020-12-16 : Hematocrit [Volume Fraction] of Blood by Automated count 37.8 %
+  2020-12-16 : Hemoglobin [Mass/volume] in Blood        12.3 g/dL
+  2020-12-16 : Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+  2020-12-16 : Leukocytes [#/volume] in Blood by Automated count 3.1 10*3/uL
+  2020-12-16 : Body Weight                              96.7 kg
+  2020-12-16 : Blood Pressure
+           - Diastolic Blood Pressure                 89.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2020-12-16 : Oxygen saturation in Arterial blood      84.0 %
+  2020-12-16 : Heart rate                               66.8 /min
+  2020-12-16 : Respiratory rate                         37.9 /min
+  2020-12-16 : Body temperature                         39.9 Cel
+  2020-12-16 : SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+  2020-12-16 : Adenovirus A+B+C+D+E DNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-12-16 : Human metapneumovirus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-12-16 : Rhinovirus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-12-16 : Parainfluenza virus 3 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-12-16 : Parainfluenza virus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-12-16 : Parainfluenza virus 1 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-12-16 : Respiratory syncytial virus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-12-16 : Influenza virus B RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-12-16 : Influenza virus A RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-06-10 : Screening for drug abuse (procedure)
+  2022-06-10 : Assessment of substance use (procedure)
+  2022-06-10 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2022-06-10 : Depression screening (procedure)
+  2022-06-10 : Assessment of anxiety (procedure)
+  2022-06-10 : Medication Reconciliation (procedure)
+  2022-06-10 : Assessment of health and social care needs (procedure)
+  2022-05-06 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2022-05-06 : Depression screening (procedure)
+  2022-05-06 : Assessment of anxiety (procedure)
+  2022-05-06 : Medication Reconciliation (procedure)
+  2022-05-06 : Assessment of health and social care needs (procedure)
+  2022-03-11 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2022-03-11 : Assessment of substance use (procedure)
+  2022-03-11 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2022-03-11 : Depression screening (procedure)
+  2022-03-11 : Assessment of anxiety (procedure)
+  2022-03-11 : Medication Reconciliation (procedure)
+  2022-03-11 : Assessment of health and social care needs (procedure)
+  2021-04-30 : Screening for drug abuse (procedure)
+  2021-04-30 : Assessment of substance use (procedure)
+  2021-04-30 : Assessment of anxiety (procedure)
+  2021-04-30 : Assessment of health and social care needs (procedure)
+  2020-12-25 : Placing subject in prone position (procedure) for Hypoxemia (disorder)
+  2020-12-25 : Oxygen administration by mask (procedure) for Hypoxemia (disorder)
+  2020-12-24 : Placing subject in prone position (procedure) for Hypoxemia (disorder)
+  2020-12-24 : Oxygen administration by mask (procedure) for Hypoxemia (disorder)
+  2020-12-23 : Placing subject in prone position (procedure) for Hypoxemia (disorder)
+  2020-12-23 : Oxygen administration by mask (procedure) for Hypoxemia (disorder)
+  2020-12-22 : Placing subject in prone position (procedure) for Hypoxemia (disorder)
+  2020-12-22 : Oxygen administration by mask (procedure) for Hypoxemia (disorder)
+  2020-12-21 : Placing subject in prone position (procedure) for Hypoxemia (disorder)
+  2020-12-21 : Oxygen administration by mask (procedure) for Hypoxemia (disorder)
+  2020-12-20 : Placing subject in prone position (procedure) for Hypoxemia (disorder)
+  2020-12-20 : Oxygen administration by mask (procedure) for Hypoxemia (disorder)
+  2020-12-19 : Placing subject in prone position (procedure) for Hypoxemia (disorder)
+  2020-12-19 : Oxygen administration by mask (procedure) for Hypoxemia (disorder)
+  2020-12-18 : Placing subject in prone position (procedure) for Hypoxemia (disorder)
+  2020-12-18 : Oxygen administration by mask (procedure) for Hypoxemia (disorder)
+  2020-12-17 : Placing subject in prone position (procedure) for Hypoxemia (disorder)
+  2020-12-17 : Oxygen administration by mask (procedure) for Hypoxemia (disorder)
+  2020-12-16 : Placing subject in prone position (procedure) for Hypoxemia (disorder)
+  2020-12-16 : Oxygen administration by mask (procedure) for Hypoxemia (disorder)
+  2020-12-16 : Plain chest X-ray (procedure)
+  2020-12-16 : Face mask (physical object) for Suspected COVID-19
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-03-11 : Influenza, seasonal, injectable, preservative free
+  2021-04-30 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-06-10 (Dr. Ellyn Windler) : Encounter at Framingham Outpatient Clinic
+2022-05-06 (Dr. Ellyn Windler) : Encounter at Framingham Outpatient Clinic
+2022-03-11 (Dr. Ellyn Windler) : Encounter at Framingham Outpatient Clinic
+2021-04-30 (Dr. Ellyn Windler) : Encounter at Framingham Outpatient Clinic
+2020-12-16 (Dr. Ellyn Windler) : Encounter at Framingham Outpatient Clinic : Encounter for COVID-19
+2020-12-16 (Dr. Ellyn Windler) : Encounter at Framingham Outpatient Clinic
+2020-04-24 (Dr. Ellyn Windler) : Encounter at Framingham Outpatient Clinic
+2020-03-20 (Dr. Ellyn Windler) : Encounter at Framingham Outpatient Clinic
+2019-11-22 (Dr. Ellyn Windler) : Encounter at Framingham Outpatient Clinic
+2019-04-19 (Dr. Ellyn Windler) : Encounter at Framingham Outpatient Clinic
+2018-12-07 (Dr. Ellyn Windler) : Encounter at Framingham Outpatient Clinic
+2018-09-18 (Dr. Ellyn Windler) : Encounter at Framingham Outpatient Clinic : Encounter for Viral sinusitis (disorder)
+2018-04-13 (Dr. Ellyn Windler) : Encounter at Framingham Outpatient Clinic
+2017-04-07 (Dr. Ellyn Windler) : Encounter at Framingham Outpatient Clinic
+2016-08-27 (Dr. Ellyn Windler) : Encounter at Framingham Outpatient Clinic : Encounter for Viral sinusitis (disorder)
+2016-04-01 (Dr. Ellyn Windler) : Encounter at Framingham Outpatient Clinic
+2015-03-27 (Dr. Ellyn Windler) : Encounter at Framingham Outpatient Clinic
+2014-06-02 (Dr. Ellyn Windler) : Encounter at Framingham Outpatient Clinic
+2014-04-20 (Dr. Ellyn Windler) : Encounter at Framingham Outpatient Clinic : Encounter for Hypertension
+2014-04-03 (Dr. Ellyn Windler) : Encounter at Framingham Outpatient Clinic
+2014-03-21 (Dr. Ellyn Windler) : Encounter at Framingham Outpatient Clinic
+2014-02-02 (Dr. Ellyn Windler) : Encounter at Framingham Outpatient Clinic
+2013-03-15 (Dr. Ellyn Windler) : Encounter at Framingham Outpatient Clinic
+2006-11-17 (Dr. Ellyn Windler) : Encounter at Framingham Outpatient Clinic : Encounter for Acute viral pharyngitis (disorder)
+2004-03-05 (Dr. Ellyn Windler) : Encounter at Framingham Outpatient Clinic
+1998-02-27 (Dr. Ivonne Turcotte) : Encounter at ZION HEALTH & WELLNESS LLC
+1997-02-21 (Dr. Ivonne Turcotte) : Encounter at ZION HEALTH & WELLNESS LLC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

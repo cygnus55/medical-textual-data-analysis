@@ -1,0 +1,54 @@
+Shirlene Tama Thompson
+======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 30
+Birth Date:          1992-06-17
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2020-08-26 -            : Not in labor force (finding)
+  2017-08-23 -            : Unhealthy alcohol drinking behavior (finding)
+  2017-08-23 - 2020-08-26 : Not in labor force (finding)
+  2011-05-14 -            : History of appendectomy
+  2011-05-14 -            : Appendicitis
+  2011-05-14 -            : Rupture of appendix
+  2010-08-11 -            : Received higher education (finding)
+  2010-08-11 -            : Housing unsatisfactory (finding)
+  2009-08-05 -            : Risk activity involvement (finding)
+  2005-07-13 - 2006-07-19 : Risk activity involvement (finding)
+  1998-04-14 -            : History of single seizure (situation)
+  1998-04-14 -            : Seizure disorder
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+--------------------------------------------------------------------------------
+PROCEDURES:
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-07-28 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+  2021-06-30 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-07-28 (Dr. Federico Kuhic) : Encounter at UNIVERSITY OF MA MED CTR-ESRD
+2021-06-30 (Dr. Federico Kuhic) : Encounter at UNIVERSITY OF MA MED CTR-ESRD
+2020-08-26 (Dr. Valentine Leannon) : Encounter at SUNRISE HEALTHCARE LLC
+2017-08-23 (Dr. Valentine Leannon) : Encounter at SUNRISE HEALTHCARE LLC
+2011-05-14 (Dr. Eugene Rohan) : Encounter at UMASS MEMORIAL MEDICAL CENTER INC : Encounter for Appendicitis
+2011-05-14 (Dr. Lindsay Ward) : Encounter at NURSE ON CALL : Encounter for Appendicitis
+2010-08-11 (Dr. Valentine Leannon) : Encounter at SUNRISE HEALTHCARE LLC
+2009-08-05 (Dr. Valentine Leannon) : Encounter at SUNRISE HEALTHCARE LLC
+2005-07-13 (Dr. Valentine Leannon) : Encounter at SUNRISE HEALTHCARE LLC
+1998-04-14 (Dr. Lindsay Ward) : Encounter at NURSE ON CALL : Encounter for Seizure disorder
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

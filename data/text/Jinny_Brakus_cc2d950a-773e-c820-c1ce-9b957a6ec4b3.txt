@@ -1,0 +1,133 @@
+Jinny Brakus
+============
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 43
+Birth Date:          1979-04-22
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2021-12-31[CURRENT] : Naproxen sodium 220 MG Oral Tablet for Localized, primary osteoarthritis of the hand
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2021-12-31 -            : Localized, primary osteoarthritis of the hand
+  2021-05-02 -            : Full-time employment (finding)
+  2019-04-28 - 2021-05-02 : Full-time employment (finding)
+  2013-07-28 - 2021-05-02 : Social isolation (finding)
+  2013-07-28 - 2016-07-31 : Full-time employment (finding)
+  2010-07-25 -            : Limited social contact (finding)
+  2007-07-22 - 2010-07-25 : Full-time employment (finding)
+  2005-12-18 - 2007-07-22 : Limited social contact (finding)
+  2005-12-18 - 2007-07-22 : Full-time employment (finding)
+  2004-07-18 - 2005-12-18 : Full-time employment (finding)
+  2002-09-01 - 2004-07-18 : Full-time employment (finding)
+  2001-08-26 - 2004-07-18 : Limited social contact (finding)
+  2001-08-26 - 2002-09-01 : Full-time employment (finding)
+  2001-08-07 -            : Chronic sinusitis (disorder)
+  2001-07-15 -            : Body mass index 30+ - obesity (finding)
+  1997-07-06 - 2001-07-15 : Limited social contact (finding)
+  1997-07-06 - 1998-07-12 : Full-time employment (finding)
+  1997-07-06 -            : Received higher education (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2021-12-31[CURRENT] : Musculoskeletal care
+                         Reason: Localized, primary osteoarthritis of the hand
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-05-02 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2021-05-02 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2021-05-02 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2021-05-02 : Lipid Panel
+           - Total Cholesterol                        157.6 mg/dL
+           - Triglycerides                            134.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      99.5 mg/dL
+           - High Density Lipoprotein Cholesterol     31.3 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-12-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2021-05-02 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2021-05-02 : Total score [HARK]                       0.0 {score}
+  2021-05-02 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2021-05-02 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 119134 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             646 Schaefer Center Unit 25 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 8.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Asian 
+           - Are you Hispanic or Latino?              No 
+  2021-05-02 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-05-02 : High Density Lipoprotein Cholesterol     31.3 mg/dL
+  2021-05-02 : Low Density Lipoprotein Cholesterol      99.5 mg/dL
+  2021-05-02 : Triglycerides                            134.4 mg/dL
+  2021-05-02 : Total Cholesterol                        157.6 mg/dL
+  2021-05-02 : Respiratory rate                         14.0 /min
+  2021-05-02 : Heart rate                               88.0 /min
+  2021-05-02 : Blood Pressure
+           - Diastolic Blood Pressure                 69.0 mm[Hg]
+           - Systolic Blood Pressure                  105.0 mm[Hg]
+  2021-05-02 : Body Mass Index                          33.3 kg/m2
+  2021-05-02 : Body Weight                              97.3 kg
+  2021-05-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2021-05-02 : Body Height                              170.9 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-03-27 : Insertion of subcutaneous contraceptive
+  2022-03-27 : Removal of subcutaneous contraceptive
+  2021-05-02 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-05-02 : Depression screening (procedure)
+  2021-05-02 : Screening for domestic abuse (procedure)
+  2021-05-02 : Assessment of anxiety (procedure)
+  2021-05-02 : Medication Reconciliation (procedure)
+  2021-05-02 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-06-13 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+  2021-05-16 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+  2021-05-02 : Hep A, adult
+  2021-05-02 : Td (adult) preservative free
+  2021-05-02 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-03-27 (Dr. Joanna Abbott) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+2021-12-31 (Dr. Joanna Abbott) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON : Encounter for Localized, primary osteoarthritis of the hand
+2021-06-13 (Dr. Joanna Abbott) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+2021-05-16 (Dr. Joanna Abbott) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+2021-05-02 (Dr. Tyler Howe) : Encounter at PODIATRY HEALTHCARE P.C.
+2019-04-28 (Dr. Tyler Howe) : Encounter at PODIATRY HEALTHCARE P.C.
+2013-07-28 (Dr. Tyler Howe) : Encounter at PODIATRY HEALTHCARE P.C.
+2010-07-25 (Dr. Tyler Howe) : Encounter at PODIATRY HEALTHCARE P.C.
+2007-07-22 (Dr. Tyler Howe) : Encounter at PODIATRY HEALTHCARE P.C.
+2005-12-25 (Dr. Joanna Abbott) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON : Encounter for Normal pregnancy
+2004-07-18 (Dr. Tyler Howe) : Encounter at PODIATRY HEALTHCARE P.C.
+2002-08-27 (Dr. Joanna Abbott) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON : Encounter for Acute bronchitis (disorder)
+2001-08-26 (Dr. Joanna Abbott) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+2001-08-07 (Dr. Joanna Abbott) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON : Encounter for Acute bacterial sinusitis (disorder)
+2001-07-15 (Dr. Tyler Howe) : Encounter at PODIATRY HEALTHCARE P.C.
+1997-07-06 (Dr. Tyler Howe) : Encounter at PODIATRY HEALTHCARE P.C.
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

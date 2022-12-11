@@ -1,0 +1,184 @@
+Shaquita Jeffie Maggio
+======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 51
+Birth Date:          1971-01-08
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2022-05-23[STOPPED] : Phenazopyridine hydrochloride 100 MG Oral Tablet for Escherichia coli urinary tract infection
+  2022-05-23[STOPPED] : Nitrofurantoin 5 MG/ML Oral Suspension for Escherichia coli urinary tract infection
+  2020-12-23[STOPPED] : Camila 28 Day Pack
+  2019-12-29[STOPPED] : Camila 28 Day Pack
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-05-23 - 2022-05-30 : Escherichia coli urinary tract infection
+  2022-01-14 -            : Full-time employment (finding)
+  2021-01-08 -            : Stress (finding)
+  2021-01-08 - 2022-01-14 : Not in labor force (finding)
+  2019-02-01 - 2021-01-08 : Victim of intimate partner abuse (finding)
+  2019-02-01 - 2021-01-08 : Full-time employment (finding)
+  2017-01-27 - 2019-02-01 : Full-time employment (finding)
+  2016-12-23 -            : Miscarriage in first trimester
+  2015-01-23 - 2017-01-27 : Full-time employment (finding)
+  2013-01-18 - 2013-02-15 : Full-time employment (finding)
+  2011-01-14 - 2013-01-18 : Stress (finding)
+  2011-01-14 - 2013-01-18 : Full-time employment (finding)
+  2005-03-25 - 2008-03-28 : Stress (finding)
+  2005-03-25 - 2008-03-28 : Full-time employment (finding)
+  2005-03-25 -            : Body mass index 30+ - obesity (finding)
+  2002-03-22 - 2005-03-25 : Full-time employment (finding)
+  1999-05-07 - 2002-03-22 : Full-time employment (finding)
+  1999-03-19 - 2002-03-22 : Stress (finding)
+  1999-03-19 - 1999-05-07 : Full-time employment (finding)
+  1993-03-12 -            : Limited social contact (finding)
+  1990-03-09 - 1993-03-12 : Full-time employment (finding)
+  1989-03-03 - 1996-03-15 : Stress (finding)
+  1989-03-03 - 2022-01-14 : Social isolation (finding)
+  1989-03-03 - 1990-03-09 : Full-time employment (finding)
+  1989-03-03 -            : Only received primary school education (finding)
+  1987-02-20 -            : Risk activity involvement (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2022-05-23[STOPPED] : Urology care plan (record artifact)
+                         Reason: Escherichia coli urinary tract infection
+                         Activity: Discussion about hygiene
+                         Activity: Urine screening
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-01-14 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2021-01-08 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    0.0 {score}
+  2021-01-08 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2021-01-08 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2021-01-08 : Lipid Panel
+           - Total Cholesterol                        283.3 mg/dL
+           - Triglycerides                            109.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      200.9 mg/dL
+           - High Density Lipoprotein Cholesterol     60.6 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-01-14 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2022-01-14 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 51835 /a
+           - What is your main insurance?             None/uninsured 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             906 Veum Meadow Suite 47 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 7.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2022-01-14 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-01-14 : Respiratory rate                         15.0 /min
+  2022-01-14 : Heart rate                               87.0 /min
+  2022-01-14 : Blood Pressure
+           - Diastolic Blood Pressure                 64.0 mm[Hg]
+           - Systolic Blood Pressure                  106.0 mm[Hg]
+  2022-01-14 : Body Mass Index                          30.3 kg/m2
+  2022-01-14 : Body Weight                              84.6 kg
+  2022-01-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2022-01-14 : Body Height                              167.1 cm
+  2021-01-08 : Total score [AUDIT-C]                    0.0 {score}
+  2021-01-08 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2021-01-08 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2021-01-08 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 51835 /a
+           - What is your main insurance?             None/uninsured 
+           - What is your current work situation?     Otherwise unemployed but not seeking work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             906 Veum Meadow Suite 47 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 7.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-01-08 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-01-08 : High Density Lipoprotein Cholesterol     60.6 mg/dL
+  2021-01-08 : Low Density Lipoprotein Cholesterol      200.9 mg/dL
+  2021-01-08 : Triglycerides                            109.2 mg/dL
+  2021-01-08 : Total Cholesterol                        283.3 mg/dL
+  2021-01-08 : Respiratory rate                         16.0 /min
+  2021-01-08 : Heart rate                               80.0 /min
+  2021-01-08 : Blood Pressure
+           - Diastolic Blood Pressure                 60.0 mm[Hg]
+           - Systolic Blood Pressure                  104.0 mm[Hg]
+  2021-01-08 : Body Mass Index                          30.3 kg/m2
+  2021-01-08 : Body Weight                              84.6 kg
+  2021-01-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2021-01-08 : Body Height                              167.1 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-01-14 : Assessment of anxiety (procedure)
+  2022-01-14 : Medication Reconciliation (procedure)
+  2022-01-14 : Assessment of health and social care needs (procedure)
+  2021-01-08 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2021-01-08 : Assessment of substance use (procedure)
+  2021-01-08 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-01-08 : Depression screening (procedure)
+  2021-01-08 : Assessment of anxiety (procedure)
+  2021-01-08 : Assessment of health and social care needs (procedure)
+  2021-01-08 : Colonoscopy
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-01-14 : Td (adult) preservative free
+  2022-01-14 : Influenza, seasonal, injectable, preservative free
+  2022-01-14 : zoster
+  2021-01-08 : Influenza, seasonal, injectable, preservative free
+  2021-01-08 : zoster
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-05-23 (Dr. Paz Gerlach) : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC : Encounter for Escherichia coli urinary tract infection
+2022-01-14 (Dr. Reggie Kassulke) : Encounter at NASH HEALTH CARE PRACTICES LLC
+2021-01-08 (Dr. Paz Gerlach) : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+2021-01-08 (Dr. Reggie Kassulke) : Encounter at NASH HEALTH CARE PRACTICES LLC
+2020-12-23 (Dr. Paz Gerlach) : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+2019-12-29 (Dr. Paz Gerlach) : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+2019-02-01 (Dr. Reggie Kassulke) : Encounter at NASH HEALTH CARE PRACTICES LLC
+2017-01-27 (Dr. Reggie Kassulke) : Encounter at NASH HEALTH CARE PRACTICES LLC
+2016-12-23 (Dr. Paz Gerlach) : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC : Encounter for Normal pregnancy
+2015-01-23 (Dr. Reggie Kassulke) : Encounter at NASH HEALTH CARE PRACTICES LLC
+2013-01-18 (Dr. Reggie Kassulke) : Encounter at NASH HEALTH CARE PRACTICES LLC
+2011-01-14 (Dr. Reggie Kassulke) : Encounter at NASH HEALTH CARE PRACTICES LLC
+2005-03-25 (Dr. Reggie Kassulke) : Encounter at NASH HEALTH CARE PRACTICES LLC
+2002-03-22 (Dr. Reggie Kassulke) : Encounter at NASH HEALTH CARE PRACTICES LLC
+1999-05-05 (Dr. Paz Gerlach) : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC : Encounter for Viral sinusitis (disorder)
+1999-03-19 (Dr. Reggie Kassulke) : Encounter at NASH HEALTH CARE PRACTICES LLC
+1993-03-12 (Dr. Reggie Kassulke) : Encounter at NASH HEALTH CARE PRACTICES LLC
+1990-03-12 (Dr. Paz Gerlach) : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC : Encounter for Acute viral pharyngitis (disorder)
+1989-03-03 (Dr. Reggie Kassulke) : Encounter at NASH HEALTH CARE PRACTICES LLC
+1987-02-20 (Dr. Reggie Kassulke) : Encounter at NASH HEALTH CARE PRACTICES LLC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

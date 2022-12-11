@@ -1,0 +1,116 @@
+Avery Auer
+==========
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 18
+Birth Date:          2004-12-09
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2022-11-08[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2021-12-05[STOPPED] : levofloxacin 500 MG Oral Tablet for Acute myeloid leukemia, disease (disorder)
+  2021-11-23[STOPPED] : Jolivette 28 Day Pack
+  2020-11-28[STOPPED] : Yaz 28 Day Pack
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-11-08 - 2022-11-22 : Acute bronchitis (disorder)
+  2021-12-05 - 2021-12-05 : Neutropenia (disorder)
+  2021-12-05 - 2021-12-05 : Acute myeloid leukemia, disease (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2022-11-08[CURRENT] : Respiratory therapy
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-03-24 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 14.0 {score}
+  2021-03-18 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2021-03-18 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2021-03-18 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.1 %
+           - MCV [Entitic volume] by Automated count  85.5 fL
+           - MCH [Entitic mass] by Automated count    31.9 pg
+           - MCHC [Mass/volume] by Automated count    33.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.5 fL
+           - Platelets [#/volume] in Blood by Automated count 184.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 403.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-03-24 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 14.0 {score}
+  2022-03-24 : Tobacco smoking status                   Smokes tobacco daily (finding) 
+  2022-03-24 : Respiratory rate                         13.0 /min
+  2022-03-24 : Heart rate                               76.0 /min
+  2022-03-24 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2022-03-24 : Body mass index (BMI) [Percentile] Per age and gender 54.6 %
+  2022-03-24 : Body Mass Index                          21.4 kg/m2
+  2022-03-24 : Body Weight                              61.5 kg
+  2022-03-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2022-03-24 : Body Height                              169.7 cm
+  2021-12-05 : Body Temperature                         98.6 [degF]
+  2021-12-05 : Neutrophils [#/volume] in Blood by Automated count 403.3 10*3/uL
+  2021-03-18 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2021-03-18 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2021-03-18 : Tobacco smoking status                   Smokes tobacco daily (finding) 
+  2021-03-18 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+  2021-03-18 : Platelet distribution width [Entitic volume] in Blood by Automated count 403.1 fL
+  2021-03-18 : Platelets [#/volume] in Blood by Automated count 184.0 10*3/uL
+  2021-03-18 : Erythrocyte distribution width [Entitic volume] by Automated count 42.5 fL
+  2021-03-18 : MCHC [Mass/volume] by Automated count    33.9 g/dL
+  2021-03-18 : MCH [Entitic mass] by Automated count    31.9 pg
+  2021-03-18 : MCV [Entitic volume] by Automated count  85.5 fL
+  2021-03-18 : Hematocrit [Volume Fraction] of Blood by Automated count 46.1 %
+  2021-03-18 : Hemoglobin [Mass/volume] in Blood        12.7 g/dL
+  2021-03-18 : Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+  2021-03-18 : Leukocytes [#/volume] in Blood by Automated count 10.1 10*3/uL
+  2021-03-18 : Respiratory rate                         16.0 /min
+  2021-03-18 : Heart rate                               94.0 /min
+  2021-03-18 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  114.0 mm[Hg]
+  2021-03-18 : Body mass index (BMI) [Percentile] Per age and gender 57.0 %
+  2021-03-18 : Body Mass Index                          21.1 kg/m2
+  2021-03-18 : Body Weight                              60.7 kg
+  2021-03-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2021-03-18 : Body Height                              169.4 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-11-08 : Plain chest X-ray (procedure) for Acute bronchitis (disorder)
+  2022-03-24 : Anticipatory guidance (procedure)
+  2022-03-24 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2022-03-24 : Assessment of substance use (procedure)
+  2022-03-24 : Medication Reconciliation (procedure)
+  2022-03-24 : Assessment of anxiety (procedure)
+  2021-12-05 : Transfer to stepdown for Acute myeloid leukemia, disease (disorder)
+  2021-12-05 : Chemotherapy (procedure) for Acute myeloid leukemia, disease (disorder)
+  2021-03-18 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2021-03-18 : Depression screening (procedure)
+  2021-03-18 : Assessment of anxiety (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-03-24 : Influenza, seasonal, injectable, preservative free
+  2021-03-18 : meningococcal MCV4P
+  2021-03-18 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-11-08 (Dr. Alysha Koch) : Encounter at TEWKSBURY HOSPITAL : Encounter for Acute bronchitis (disorder)
+2022-03-24 (Dr. Gerard Pouros) : Encounter at CLARITY HEALTH & WELLNESS LLC
+2021-12-05 (Dr. Alysha Koch) : Encounter at TEWKSBURY HOSPITAL : Encounter for Acute myeloid leukemia, disease (disorder)
+2021-11-23 (Dr. Alysha Koch) : Encounter at TEWKSBURY HOSPITAL
+2021-03-18 (Dr. Gerard Pouros) : Encounter at CLARITY HEALTH & WELLNESS LLC
+2020-11-28 (Dr. Alysha Koch) : Encounter at TEWKSBURY HOSPITAL
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,41 @@
+Walker Paucek
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 24
+Birth Date:          1998-02-27
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2020-05-01 -            : Social isolation (finding)
+  2020-05-01 -            : Full-time employment (finding)
+  2016-04-22 -            : Stress (finding)
+  2016-04-22 - 2017-04-28 : Full-time employment (finding)
+  2016-04-22 -            : Received certificate of high school equivalency (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+--------------------------------------------------------------------------------
+PROCEDURES:
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-04-30 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-04-09 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-04-30 (Dr. Jeromy Okuneva) : Encounter at BRIGHAM & WOMENS HOSPITAL INC
+2021-04-09 (Dr. Jeromy Okuneva) : Encounter at BRIGHAM & WOMENS HOSPITAL INC
+2020-05-01 (Dr. Verda Bahringer) : Encounter at HORIZONS HEALTH & WELLNESS LLC
+2016-04-22 (Dr. Verda Bahringer) : Encounter at HORIZONS HEALTH & WELLNESS LLC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,95 @@
+Cruz Cronin
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1976-09-29
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+  1983-09-28 -            : Bacteremia (finding)
+  1983-09-28 -            : Febrile neutropenia (disorder)
+  1983-09-28 -            : Acute myeloid leukemia, disease (disorder)
+  1982-02-10 - 1982-03-09 : Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  1983-10-12 : U.S. standard certificate of death - 2003 revision
+           - Cause of Death [US Standard Certificate of Death] Acute myeloid leukemia, disease (disorder) 
+  1982-09-15 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.6 %
+           - MCV [Entitic volume] by Automated count  87.7 fL
+           - MCH [Entitic mass] by Automated count    29.0 pg
+           - MCHC [Mass/volume] by Automated count    34.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.6 fL
+           - Platelets [#/volume] in Blood by Automated count 406.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 172.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.4 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  1983-10-12 : Cause of Death [US Standard Certificate of Death] Acute myeloid leukemia, disease (disorder) 
+  1983-09-28 : Body Temperature                         102.9 [degF]
+  1983-09-28 : Neutrophils [#/volume] in Blood by Automated count 296.2 10*3/uL
+  1983-09-21 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  1983-09-21 : Respiratory rate                         13.0 /min
+  1983-09-21 : Heart rate                               85.0 /min
+  1983-09-21 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  1983-09-21 : Body mass index (BMI) [Percentile] Per age and gender 67.0 %
+  1983-09-21 : Body Mass Index                          16.2 kg/m2
+  1983-09-21 : Body Weight                              25.5 kg
+  1983-09-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  1983-09-21 : Body Height                              125.5 cm
+  1982-09-15 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  1982-09-15 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.4 fL
+  1982-09-15 : Platelet distribution width [Entitic volume] in Blood by Automated count 172.8 fL
+  1982-09-15 : Platelets [#/volume] in Blood by Automated count 406.5 10*3/uL
+  1982-09-15 : Erythrocyte distribution width [Entitic volume] by Automated count 44.6 fL
+  1982-09-15 : MCHC [Mass/volume] by Automated count    34.1 g/dL
+  1982-09-15 : MCH [Entitic mass] by Automated count    29.0 pg
+  1982-09-15 : MCV [Entitic volume] by Automated count  87.7 fL
+  1982-09-15 : Hematocrit [Volume Fraction] of Blood by Automated count 45.6 %
+  1982-09-15 : Hemoglobin [Mass/volume] in Blood        13.1 g/dL
+  1982-09-15 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  1982-09-15 : Leukocytes [#/volume] in Blood by Automated count 9.0 10*3/uL
+  1982-09-15 : Respiratory rate                         14.0 /min
+  1982-09-15 : Heart rate                               87.0 /min
+  1982-09-15 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  139.0 mm[Hg]
+  1982-09-15 : Body mass index (BMI) [Percentile] Per age and gender 68.9 %
+  1982-09-15 : Body Mass Index                          16.1 kg/m2
+  1982-09-15 : Body Weight                              22.7 kg
+  1982-09-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  1982-09-15 : Body Height                              118.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  1983-09-28 : Death in hospital (event) for Acute myeloid leukemia, disease (disorder)
+  1983-09-28 : Chemotherapy (procedure) for Acute myeloid leukemia, disease (disorder)
+  1983-09-21 : Medication Reconciliation (procedure)
+  1982-09-15 : Medication Reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  1983-09-21 : Influenza, seasonal, injectable, preservative free
+  1982-09-15 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+1983-10-12 (Dr. Lincoln Gibson) : Encounter at PATHWAYS HEALTHCARE LLC : Encounter for Acute myeloid leukemia, disease (disorder)
+1983-09-28 (Dr. Trinidad King) : Encounter at STEWARD NORWOOD HOSPITAL INC : Encounter for Acute myeloid leukemia, disease (disorder)
+1983-09-21 (Dr. Lincoln Gibson) : Encounter at PATHWAYS HEALTHCARE LLC
+1982-09-15 (Dr. Lincoln Gibson) : Encounter at PATHWAYS HEALTHCARE LLC
+1982-02-10 (Dr. Guillermo Fay) : Encounter at NORWOOD HOSPITAL : Encounter for Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,68 @@
+Sherman McLaughlin
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          2005-09-14
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2013-04-02[STOPPED] : Ibuprofen 100 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2014-09-12 -            : Bacteremia (finding)
+  2014-09-12 -            : Febrile neutropenia (disorder)
+  2013-06-09 - 2013-07-01 : Viral sinusitis (disorder)
+  2013-04-02 - 2013-05-18 : Fracture of clavicle
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2013-04-02[STOPPED] : Fracture care
+                         Reason: Fracture of clavicle
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+--------------------------------------------------------------------------------
+REPORTS:
+  2014-09-24 : U.S. standard certificate of death - 2003 revision
+           - Cause of Death [US Standard Certificate of Death] Acute myeloid leukemia, disease (disorder) 
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2014-09-24 : Cause of Death [US Standard Certificate of Death] Acute myeloid leukemia, disease (disorder) 
+  2014-09-12 : Body Temperature                         100.8 [degF]
+  2014-09-12 : Neutrophils [#/volume] in Blood by Automated count 491.1 10*3/uL
+  2013-09-11 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2013-09-11 : Respiratory rate                         15.0 /min
+  2013-09-11 : Heart rate                               83.0 /min
+  2013-09-11 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  119.0 mm[Hg]
+  2013-09-11 : Body mass index (BMI) [Percentile] Per age and gender 50.7 %
+  2013-09-11 : Body Mass Index                          15.8 kg/m2
+  2013-09-11 : Body Weight                              28.4 kg
+  2013-09-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2013-09-11 : Body Height                              134.2 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2014-09-12 : Death in hospital (event) for Acute myeloid leukemia, disease (disorder)
+  2014-09-12 : Chemotherapy (procedure) for Acute myeloid leukemia, disease (disorder)
+  2013-09-11 : Medication Reconciliation (procedure)
+  2013-04-02 : Admission to orthopedic department for Fracture of clavicle
+  2013-04-02 : Clavicle X-ray
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2013-09-11 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2014-09-24 (Dr. Larisa Kris) : Encounter at HARBORLIGHT FAMILY MEDICINE, PC : Encounter for Acute myeloid leukemia, disease (disorder)
+2014-09-12 (Dr. Joanna Abbott) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON : Encounter for Acute myeloid leukemia, disease (disorder)
+2013-09-11 (Dr. Larisa Kris) : Encounter at HARBORLIGHT FAMILY MEDICINE, PC
+2013-06-09 (Dr. Joanna Abbott) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON : Encounter for Viral sinusitis (disorder)
+2013-05-18 (Dr. Joanna Abbott) : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON : Encounter for Fracture of clavicle
+2013-04-02 (Dr. Kathie Fisher) : Encounter at HUNT NURSING & REHAB CENTER
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2013-04-02 : Digital Radiography, Clavicle
+--------------------------------------------------------------------------------

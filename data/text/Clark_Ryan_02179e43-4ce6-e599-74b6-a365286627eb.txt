@@ -1,0 +1,84 @@
+Clark Ryan
+==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 15
+Birth Date:          2007-03-02
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2021-10-19 - 2021-11-13 : Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-04-08 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2022-04-08 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2021-04-02 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 4.0 {score}
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-04-08 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2022-04-08 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2022-04-08 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-04-08 : Respiratory rate                         14.0 /min
+  2022-04-08 : Heart rate                               79.0 /min
+  2022-04-08 : Blood Pressure
+           - Diastolic Blood Pressure                 96.0 mm[Hg]
+           - Systolic Blood Pressure                  119.0 mm[Hg]
+  2022-04-08 : Body mass index (BMI) [Percentile] Per age and gender 7.3 %
+  2022-04-08 : Body Mass Index                          16.9 kg/m2
+  2022-04-08 : Body Weight                              50.4 kg
+  2022-04-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2022-04-08 : Body Height                              172.7 cm
+  2021-04-02 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 4.0 {score}
+  2021-04-02 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-04-02 : Respiratory rate                         15.0 /min
+  2021-04-02 : Heart rate                               76.0 /min
+  2021-04-02 : Blood Pressure
+           - Diastolic Blood Pressure                 91.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2021-04-02 : Body mass index (BMI) [Percentile] Per age and gender 7.5 %
+  2021-04-02 : Body Mass Index                          16.3 kg/m2
+  2021-04-02 : Body Weight                              45.6 kg
+  2021-04-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2021-04-02 : Body Height                              167.0 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-04-08 : Anticipatory guidance (procedure)
+  2022-04-08 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2022-04-08 : Assessment of substance use (procedure)
+  2022-04-08 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2022-04-08 : Depression screening (procedure)
+  2022-04-08 : Medication Reconciliation (procedure)
+  2022-04-08 : Assessment of anxiety (procedure)
+  2021-04-02 : Anticipatory guidance (procedure)
+  2021-04-02 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2021-04-02 : Assessment of substance use (procedure)
+  2021-04-02 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2021-04-02 : Medication Reconciliation (procedure)
+  2021-04-02 : Depression screening (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-04-08 : Influenza, seasonal, injectable, preservative free
+  2021-12-03 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+  2021-11-05 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+  2021-04-02 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-04-08 (Dr. Jospeh Wunsch) : Encounter at SOUTH SHORE CENTER FOR WELLNESS LTD
+2021-12-03 (Dr. Houston Funk) : Encounter at BROCKTON HOSPITAL, INC.
+2021-11-05 (Dr. Houston Funk) : Encounter at BROCKTON HOSPITAL, INC.
+2021-10-19 (Dr. Houston Funk) : Encounter at BROCKTON HOSPITAL, INC. : Encounter for Viral sinusitis (disorder)
+2021-04-02 (Dr. Jospeh Wunsch) : Encounter at SOUTH SHORE CENTER FOR WELLNESS LTD
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

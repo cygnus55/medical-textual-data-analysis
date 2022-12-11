@@ -1,0 +1,255 @@
+Karisa Kuhn
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 46
+Birth Date:          1976-05-08
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2022-09-17[CURRENT] : lisinopril 10 MG Oral Tablet for Hypertension
+  2022-08-14[CURRENT] : Naproxen 500 MG Oral Tablet for Primary fibromyalgia syndrome
+  2021-09-11[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2021-09-02[STOPPED] : Yaz 28 Day Pack
+  2020-09-05[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2020-09-02[STOPPED] : Liletta 52 MG Intrauterine System
+  2020-09-05[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2019-08-31[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2018-08-25[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2017-08-19[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2016-08-13[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2015-08-08[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2014-08-02[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2013-07-27[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2013-07-27[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-08-14 -            : Primary fibromyalgia syndrome
+  2021-09-11 -            : Stress (finding)
+  2016-08-13 - 2020-09-05 : Stress (finding)
+  2016-08-13 -            : Metabolic syndrome X (disorder)
+  2015-08-08 - 2022-09-17 : Limited social contact (finding)
+  2013-07-27 -            : Hypertension
+  2010-07-24 - 2015-08-08 : Stress (finding)
+  2004-08-21 - 2007-07-21 : Stress (finding)
+  2004-08-21 -            : Anemia (disorder)
+  2004-07-17 -            : Prediabetes
+  1998-07-11 -            : Body mass index 30+ - obesity (finding)
+  1994-07-02 - 2004-07-17 : Stress (finding)
+  1994-07-02 -            : Unemployed (finding)
+  1994-07-02 -            : Received certificate of high school equivalency (finding)
+  1992-06-20 -            : Risk activity involvement (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2022-08-14[CURRENT] : Musculoskeletal care
+                         Activity: Joint mobility exercises
+                         Activity: Stress management
+  2013-07-27[CURRENT] : Lifestyle education regarding hypertension
+                         Reason: Hypertension
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  2004-07-17[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2022-09-17 : PHQ-9 quick depression assessment panel [Reported.PHQ]
+           - Patient Health Questionnaire 9 item (PHQ-9) total score [Reported] 3.0 {score}
+  2022-09-17 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 5.0 {score}
+  2022-09-17 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2022-09-17 : Lipid Panel
+           - Total Cholesterol                        150.3 mg/dL
+           - Triglycerides                            110.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      74.8 mg/dL
+           - High Density Lipoprotein Cholesterol     53.4 mg/dL
+  2022-09-17 : Basic Metabolic Panel
+           - Glucose                                  69.9 mg/dL
+           - Urea Nitrogen                            16.9 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  10.1 mg/dL
+           - Sodium                                   136.6 mmol/L
+           - Potassium                                4.8 mmol/L
+           - Chloride                                 110.2 mmol/L
+           - Carbon Dioxide                           25.1 mmol/L
+  2021-09-11 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+  2021-09-11 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-09-11 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2021-09-11 : Basic Metabolic Panel
+           - Glucose                                  98.6 mg/dL
+           - Urea Nitrogen                            19.6 mg/dL
+           - Creatinine                               1.2 mg/dL
+           - Calcium                                  9.1 mg/dL
+           - Sodium                                   142.1 mmol/L
+           - Potassium                                4.9 mmol/L
+           - Chloride                                 106.9 mmol/L
+           - Carbon Dioxide                           24.8 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-09-17 : Patient Health Questionnaire 9 item (PHQ-9) total score [Reported] 3.0 {score}
+  2022-09-17 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 5.0 {score}
+  2022-09-17 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2022-09-17 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Quite a bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Medicine or Any Health Care 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 10935 /a
+           - What is your main insurance?             Medicaid 
+           - What is your current work situation?     Unemployed (finding) 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             962 Marquardt Trafficway Unit 58 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 5.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2022-09-17 : Hemoglobin A1c/Hemoglobin.total in Blood 6.4 %
+  2022-09-17 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-09-17 : High Density Lipoprotein Cholesterol     53.4 mg/dL
+  2022-09-17 : Low Density Lipoprotein Cholesterol      74.8 mg/dL
+  2022-09-17 : Triglycerides                            110.5 mg/dL
+  2022-09-17 : Total Cholesterol                        150.3 mg/dL
+  2022-09-17 : Carbon Dioxide                           25.1 mmol/L
+  2022-09-17 : Chloride                                 110.2 mmol/L
+  2022-09-17 : Potassium                                4.8 mmol/L
+  2022-09-17 : Sodium                                   136.6 mmol/L
+  2022-09-17 : Calcium                                  10.1 mg/dL
+  2022-09-17 : Creatinine                               0.9 mg/dL
+  2022-09-17 : Urea Nitrogen                            16.9 mg/dL
+  2022-09-17 : Glucose                                  69.9 mg/dL
+  2022-09-17 : Respiratory rate                         15.0 /min
+  2022-09-17 : Heart rate                               61.0 /min
+  2022-09-17 : Blood Pressure
+           - Diastolic Blood Pressure                 67.0 mm[Hg]
+           - Systolic Blood Pressure                  109.0 mm[Hg]
+  2022-09-17 : Body Mass Index                          29.5 kg/m2
+  2022-09-17 : Body Weight                              85.1 kg
+  2022-09-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2022-09-17 : Body Height                              169.8 cm
+  2022-08-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.0 {score}
+  2021-09-11 : Total score [DAST-10]                    1.0 {score}
+  2021-09-11 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-09-11 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2021-09-11 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Very much 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Utilities 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 10935 /a
+           - What is your main insurance?             Medicaid 
+           - What is your current work situation?     Unemployed (finding) 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             962 Marquardt Trafficway Unit 58 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 5.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-09-11 : Hemoglobin A1c/Hemoglobin.total in Blood 6.4 %
+  2021-09-11 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-09-11 : Carbon Dioxide                           24.8 mmol/L
+  2021-09-11 : Chloride                                 106.9 mmol/L
+  2021-09-11 : Potassium                                4.9 mmol/L
+  2021-09-11 : Sodium                                   142.1 mmol/L
+  2021-09-11 : Calcium                                  9.1 mg/dL
+  2021-09-11 : Creatinine                               1.2 mg/dL
+  2021-09-11 : Urea Nitrogen                            19.6 mg/dL
+  2021-09-11 : Glucose                                  98.6 mg/dL
+  2021-09-11 : Respiratory rate                         13.0 /min
+  2021-09-11 : Heart rate                               76.0 /min
+  2021-09-11 : Blood Pressure
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  107.0 mm[Hg]
+  2021-09-11 : Body Mass Index                          29.5 kg/m2
+  2021-09-11 : Body Weight                              85.1 kg
+  2021-09-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2021-09-11 : Body Height                              169.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-09-17 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2022-09-17 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2022-09-17 : Depression screening (procedure)
+  2022-09-17 : Assessment of anxiety (procedure)
+  2022-09-17 : Assessment of health and social care needs (procedure)
+  2022-09-17 : Intramuscular injection
+  2022-06-18 : Intramuscular injection
+  2022-03-19 : Intramuscular injection
+  2021-12-18 : Intramuscular injection
+  2021-09-11 : Screening for drug abuse (procedure)
+  2021-09-11 : Assessment of substance use (procedure)
+  2021-09-11 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-09-11 : Depression screening (procedure)
+  2021-09-11 : Assessment of anxiety (procedure)
+  2021-09-18 : Intramuscular injection
+  2021-09-11 : Medication Reconciliation (procedure)
+  2021-09-11 : Assessment of health and social care needs (procedure)
+  2021-06-19 : Intramuscular injection
+  2021-03-20 : Intramuscular injection
+  2020-12-19 : Intramuscular injection
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2022-09-17 : Influenza, seasonal, injectable, preservative free
+  2021-09-11 : Influenza, seasonal, injectable, preservative free
+  2021-08-28 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-08-07 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-09-17 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+2022-09-17 (Dr. Bettina Marquardt) : Encounter at JEWISH FAMILY & CHILDREN'S SERVICE
+2022-08-14 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC : Encounter for Primary fibromyalgia syndrome
+2022-06-18 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+2022-03-19 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+2021-12-18 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+2021-09-18 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+2021-09-11 (Dr. Bettina Marquardt) : Encounter at JEWISH FAMILY & CHILDREN'S SERVICE
+2021-09-02 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+2021-08-28 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+2021-08-07 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+2021-06-19 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+2021-03-20 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+2020-12-19 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+2020-09-02 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+2020-09-05 (Dr. Bettina Marquardt) : Encounter at JEWISH FAMILY & CHILDREN'S SERVICE
+2019-08-31 (Dr. Bettina Marquardt) : Encounter at JEWISH FAMILY & CHILDREN'S SERVICE
+2018-08-25 (Dr. Bettina Marquardt) : Encounter at JEWISH FAMILY & CHILDREN'S SERVICE
+2017-08-19 (Dr. Bettina Marquardt) : Encounter at JEWISH FAMILY & CHILDREN'S SERVICE
+2016-08-13 (Dr. Bettina Marquardt) : Encounter at JEWISH FAMILY & CHILDREN'S SERVICE
+2015-08-08 (Dr. Bettina Marquardt) : Encounter at JEWISH FAMILY & CHILDREN'S SERVICE
+2014-08-02 (Dr. Bettina Marquardt) : Encounter at JEWISH FAMILY & CHILDREN'S SERVICE
+2013-07-27 (Dr. Bettina Marquardt) : Encounter at JEWISH FAMILY & CHILDREN'S SERVICE
+2010-07-24 (Dr. Bettina Marquardt) : Encounter at JEWISH FAMILY & CHILDREN'S SERVICE
+2004-08-21 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC : Encounter for Anemia (disorder)
+2004-08-21 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+2004-07-17 (Dr. Bettina Marquardt) : Encounter at JEWISH FAMILY & CHILDREN'S SERVICE
+1998-07-11 (Dr. Rhett Padberg) : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC : Encounter for Normal pregnancy
+1994-07-02 (Dr. Bettina Marquardt) : Encounter at JEWISH FAMILY & CHILDREN'S SERVICE
+1992-06-20 (Dr. Bettina Marquardt) : Encounter at JEWISH FAMILY & CHILDREN'S SERVICE
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

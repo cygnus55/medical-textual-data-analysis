@@ -1,0 +1,93 @@
+Newton Hessel
+=============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 20
+Birth Date:          2002-08-31
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2019-02-07[CURRENT] : Meperidine Hydrochloride 50 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2021-10-30 -            : Reports of violence in the environment (finding)
+  2021-10-30 -            : Part-time employment (finding)
+  2020-10-24 -            : Stress (finding)
+  2020-10-24 - 2021-10-30 : Full-time employment (finding)
+  2020-10-24 -            : Received higher education (finding)
+  2008-04-01 -            : Chronic sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-10-30 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+  2021-10-30 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2021-10-30 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-10-30 : Total score [AUDIT-C]                    1.0 {score}
+  2021-10-30 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2021-10-30 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2021-10-30 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? No 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 179511 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             361 Koepp Manor 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 2.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2021-10-30 : Tobacco smoking status                   Ex-smoker (finding) 
+  2021-10-30 : Respiratory rate                         13.0 /min
+  2021-10-30 : Heart rate                               89.0 /min
+  2021-10-30 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  105.0 mm[Hg]
+  2021-10-30 : Body mass index (BMI) [Percentile] Per age and gender 36.6 %
+  2021-10-30 : Body Mass Index                          21.6 kg/m2
+  2021-10-30 : Body Weight                              70.6 kg
+  2021-10-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2021-10-30 : Body Height                              180.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2021-10-30 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2021-10-30 : Assessment of substance use (procedure)
+  2021-10-30 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-10-30 : Depression screening (procedure)
+  2021-10-30 : Assessment of anxiety (procedure)
+  2021-10-30 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-10-30 : Influenza, seasonal, injectable, preservative free
+  2021-04-10 : SARS-COV-2 (COVID-19) vaccine, vector non-replicating, recombinant spike protein-Ad26, preservative free, 0.5 mL
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-10-30 (Dr. Devona Stamm) : Encounter at BOSTON PAIN CLINIC & PRIMARY CARE PC
+2021-04-10 (Dr. Rolande Gerlach) : Encounter at NEW ENGLAND BAPTIST HOSPITAL
+2020-10-24 (Dr. Devona Stamm) : Encounter at BOSTON PAIN CLINIC & PRIMARY CARE PC
+2019-02-07 (Dr. Jerry Baumbach) : Encounter at GERMAN CENTER FOR EXTENDED CARE
+2008-04-01 (Dr. Rolande Gerlach) : Encounter at NEW ENGLAND BAPTIST HOSPITAL : Encounter for Acute bacterial sinusitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2019-02-07 : Digital Radiography, Arm
+--------------------------------------------------------------------------------

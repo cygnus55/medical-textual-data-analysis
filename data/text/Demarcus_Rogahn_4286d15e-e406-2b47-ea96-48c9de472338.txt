@@ -1,0 +1,166 @@
+Demarcus Rogahn
+===============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1975-02-05
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1978-11-08 -            : cefdinir
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  1981-03-19[STOPPED] : Acetaminophen 160 MG Chewable Tablet
+  1978-10-22[CURRENT] : Astemizole 10 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  1982-02-03 -            : Bacteremia (finding)
+  1982-02-03 -            : Febrile neutropenia (disorder)
+  1982-02-03 -            : Acute myeloid leukemia, disease (disorder)
+  1981-03-19 - 1981-06-22 : Injury of medial collateral ligament of knee
+  1980-02-18 - 1980-03-08 : Viral sinusitis (disorder)
+  1978-10-22 -            : Perennial allergic rhinitis with seasonal variation
+--------------------------------------------------------------------------------
+CARE PLANS:
+  1981-03-19[STOPPED] : Physiotherapy care plan (record artifact)
+                         Reason: Injury of medial collateral ligament of knee
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  1978-11-08[CURRENT] : Self-care interventions (procedure)
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  1982-02-17 : U.S. standard certificate of death - 2003 revision
+           - Cause of Death [US Standard Certificate of Death] Acute myeloid leukemia, disease (disorder) 
+  1980-02-20 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.9 %
+           - MCV [Entitic volume] by Automated count  84.4 fL
+           - MCH [Entitic mass] by Automated count    30.1 pg
+           - MCHC [Mass/volume] by Automated count    33.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.2 fL
+           - Platelets [#/volume] in Blood by Automated count 343.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 220.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.2 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  1982-02-17 : Cause of Death [US Standard Certificate of Death] Acute myeloid leukemia, disease (disorder) 
+  1982-02-03 : Body Temperature                         102.3 [degF]
+  1982-02-03 : Neutrophils [#/volume] in Blood by Automated count 434.0 10*3/uL
+  1982-01-27 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  1982-01-27 : Respiratory rate                         15.0 /min
+  1982-01-27 : Heart rate                               82.0 /min
+  1982-01-27 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  148.0 mm[Hg]
+  1982-01-27 : Body mass index (BMI) [Percentile] Per age and gender 88.1 %
+  1982-01-27 : Body Mass Index                          17.7 kg/m2
+  1982-01-27 : Body Weight                              31.9 kg
+  1982-01-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  1982-01-27 : Body Height                              134.2 cm
+  1981-01-21 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  1981-01-21 : Respiratory rate                         13.0 /min
+  1981-01-21 : Heart rate                               78.0 /min
+  1981-01-21 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  140.0 mm[Hg]
+  1981-01-21 : Body mass index (BMI) [Percentile] Per age and gender 93.7 %
+  1981-01-21 : Body Mass Index                          18.1 kg/m2
+  1981-01-21 : Body Weight                              29.0 kg
+  1981-01-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  1981-01-21 : Body Height                              126.7 cm
+  1980-02-20 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  1980-02-20 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.2 fL
+  1980-02-20 : Platelet distribution width [Entitic volume] in Blood by Automated count 220.1 fL
+  1980-02-20 : Platelets [#/volume] in Blood by Automated count 343.2 10*3/uL
+  1980-02-20 : Erythrocyte distribution width [Entitic volume] by Automated count 43.2 fL
+  1980-02-20 : MCHC [Mass/volume] by Automated count    33.9 g/dL
+  1980-02-20 : MCH [Entitic mass] by Automated count    30.1 pg
+  1980-02-20 : MCV [Entitic volume] by Automated count  84.4 fL
+  1980-02-20 : Hematocrit [Volume Fraction] of Blood by Automated count 46.9 %
+  1980-02-20 : Hemoglobin [Mass/volume] in Blood        14.2 g/dL
+  1980-02-20 : Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+  1980-02-20 : Leukocytes [#/volume] in Blood by Automated count 4.6 10*3/uL
+  1980-02-20 : Respiratory rate                         14.0 /min
+  1980-02-20 : Heart rate                               67.0 /min
+  1980-02-20 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  139.0 mm[Hg]
+  1980-02-20 : Body mass index (BMI) [Percentile] Per age and gender 99.1 %
+  1980-02-20 : Body Mass Index                          19.6 kg/m2
+  1980-02-20 : Body Weight                              28.2 kg
+  1980-02-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  1980-02-20 : Body Height                              119.9 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  1982-02-03 : Death in hospital (event) for Acute myeloid leukemia, disease (disorder)
+  1982-02-03 : Admit to intensive care unit (ICU) for Febrile neutropenia (disorder)
+  1982-02-03 : Chemotherapy (procedure) for Acute myeloid leukemia, disease (disorder)
+  1982-01-27 : Medication Reconciliation (procedure)
+  1981-04-18 : Discharge from skilled nursing facility (procedure)
+  1981-04-18 : Pre-discharge assessment (procedure)
+  1981-04-17 : Nursing care/supplementary surveillance (regime/therapy)
+  1981-04-16 : Nursing care/supplementary surveillance (regime/therapy)
+  1981-04-15 : Nursing care/supplementary surveillance (regime/therapy)
+  1981-04-14 : Professional / ancillary services care (regime/therapy)
+  1981-04-14 : Nursing care/supplementary surveillance (regime/therapy)
+  1981-04-13 : Professional / ancillary services care (regime/therapy)
+  1981-04-13 : Occupational therapy (regime/therapy)
+  1981-04-13 : Nursing care/supplementary surveillance (regime/therapy)
+  1981-04-12 : Professional / ancillary services care (regime/therapy)
+  1981-04-12 : Nursing care/supplementary surveillance (regime/therapy)
+  1981-04-11 : Professional / ancillary services care (regime/therapy)
+  1981-04-11 : Nursing care/supplementary surveillance (regime/therapy)
+  1981-04-10 : Professional / ancillary services care (regime/therapy)
+  1981-04-10 : Physical therapy procedure (regime/therapy)
+  1981-04-10 : Nursing care/supplementary surveillance (regime/therapy)
+  1981-04-09 : Professional / ancillary services care (regime/therapy)
+  1981-04-09 : Nursing care/supplementary surveillance (regime/therapy)
+  1981-04-08 : Nursing care/supplementary surveillance (regime/therapy)
+  1981-04-07 : Professional / ancillary services care (regime/therapy)
+  1981-04-07 : Nursing care/supplementary surveillance (regime/therapy)
+  1981-04-06 : Professional / ancillary services care (regime/therapy)
+  1981-04-06 : Nursing care/supplementary surveillance (regime/therapy)
+  1981-04-05 : Professional / ancillary services care (regime/therapy)
+  1981-04-05 : Nursing care/supplementary surveillance (regime/therapy)
+  1981-04-04 : Nursing care/supplementary surveillance (regime/therapy)
+  1981-04-03 : Professional / ancillary services care (regime/therapy)
+  1981-04-03 : Nursing care/supplementary surveillance (regime/therapy)
+  1981-04-02 : Nursing care/supplementary surveillance (regime/therapy)
+  1981-04-01 : Nursing care/supplementary surveillance (regime/therapy)
+  1981-03-31 : Nursing care/supplementary surveillance (regime/therapy)
+  1981-03-30 : Speech and language therapy regime (regime/therapy
+  1981-03-30 : Nursing care/supplementary surveillance (regime/therapy)
+  1981-03-29 : Nursing care/supplementary surveillance (regime/therapy)
+  1981-03-28 : Nursing care/supplementary surveillance (regime/therapy)
+  1981-03-27 : Nursing care/supplementary surveillance (regime/therapy)
+  1981-03-26 : Nursing care/supplementary surveillance (regime/therapy)
+  1981-03-26 : Development of individualized plan of care (procedure)
+  1981-03-26 : Initial patient assessment (procedure)
+  1981-03-26 : History AND physical examination (procedure)
+  1981-03-26 : Surgical manipulation of joint of knee for Injury of medial collateral ligament of knee
+  1981-03-19 : Knee X-ray
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  1982-01-27 : Influenza, seasonal, injectable, preservative free
+  1981-01-21 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+1982-02-17 (Dr. Buford Dach) : Encounter at CHARLES RIVER COMMUNITY HEALTH, INC : Encounter for Acute myeloid leukemia, disease (disorder)
+1982-02-03 (Dr. Synthia Keebler) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Acute myeloid leukemia, disease (disorder)
+1982-01-27 (Dr. Buford Dach) : Encounter at CHARLES RIVER COMMUNITY HEALTH, INC
+1981-03-26 (Dr. Deloris Ward) : Encounter at SPAULDING NURSING AND THERAPY CENTER BRIGHTON, INC.
+1981-03-26 (Dr. Synthia Keebler) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Injury of medial collateral ligament of knee
+1981-03-19 (Dr. Jamal Stroman) : Encounter at ART OF CARE INC
+1981-01-21 (Dr. Buford Dach) : Encounter at CHARLES RIVER COMMUNITY HEALTH, INC
+1980-02-18 (Dr. Synthia Keebler) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Viral sinusitis (disorder)
+1980-02-20 (Dr. Synthia Keebler) : Encounter at MOUNT AUBURN HOSPITAL
+1978-11-08 (Dr. Synthia Keebler) : Encounter at MOUNT AUBURN HOSPITAL
+1978-10-22 (Dr. Synthia Keebler) : Encounter at MOUNT AUBURN HOSPITAL : Encounter for Perennial allergic rhinitis with seasonal variation
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  1981-03-19 : Digital Radiography, Knee
+--------------------------------------------------------------------------------

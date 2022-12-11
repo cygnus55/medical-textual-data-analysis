@@ -1,0 +1,121 @@
+Dominic Crist
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1995-03-29
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2021-02-10[CURRENT] : Alteplase 100 MG Injection
+  2021-02-10[CURRENT] : Clopidogrel 75 MG Oral Tablet
+  2020-01-01[STOPPED] : Ibuprofen 200 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2021-02-10 - 2021-02-11 : Stroke
+  2020-06-03 -            : Full-time employment (finding)
+  2020-01-01 - 2020-04-17 : Fracture of forearm
+  2017-05-31 - 2020-06-03 : Full-time employment (finding)
+  2015-04-08 -            : Stress (finding)
+  2015-04-08 - 2017-05-31 : Full-time employment (finding)
+  2014-05-29 - 2015-04-08 : Full-time employment (finding)
+  2013-05-23 -            : Received certificate of high school equivalency (finding)
+  2012-05-16 -            : Risk activity involvement (finding)
+  2007-04-18 - 2008-04-24 : Risk activity involvement (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2020-01-01[STOPPED] : Fracture care
+                         Reason: Fracture of forearm
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-03-03 : U.S. standard certificate of death - 2003 revision
+           - Cause of Death [US Standard Certificate of Death] Stroke 
+  2020-06-04 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    2.0 {score}
+  2020-06-04 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2020-06-04 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-03-03 : Cause of Death [US Standard Certificate of Death] Stroke 
+  2020-06-04 : Total score [AUDIT-C]                    2.0 {score}
+  2020-06-04 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2020-06-04 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2020-06-03 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 904472 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             253 Medhurst Ranch Suite 0 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 2.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2020-06-03 : Tobacco smoking status                   Ex-smoker (finding) 
+  2020-06-03 : Respiratory rate                         15.0 /min
+  2020-06-03 : Heart rate                               62.0 /min
+  2020-06-03 : Blood Pressure
+           - Diastolic Blood Pressure                 67.0 mm[Hg]
+           - Systolic Blood Pressure                  93.0 mm[Hg]
+  2020-06-03 : Body Mass Index                          20.6 kg/m2
+  2020-06-03 : Body Weight                              69.2 kg
+  2020-06-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2020-06-03 : Body Height                              183.1 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2021-02-24 : Hospice care (regime/therapy)
+  2021-02-24 : Development of individualized plan of care (procedure)
+  2021-02-24 : Initial patient assessment (procedure)
+  2021-02-24 : Notifications (procedure)
+  2021-02-24 : Certification procedure (procedure)
+  2021-02-10 : Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance
+  2021-02-10 : Echocardiography (procedure)
+  2020-06-04 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2020-06-04 : Assessment of substance use (procedure)
+  2020-06-04 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2020-06-04 : Depression screening (procedure)
+  2020-06-03 : Assessment of anxiety (procedure)
+  2020-06-03 : Medication Reconciliation (procedure)
+  2020-06-03 : Assessment of health and social care needs (procedure)
+  2020-01-01 : Bone immobilization for Fracture of forearm
+  2020-01-01 : Upper arm X-ray
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2020-06-03 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-03-03 (Dr. Ethyl Rau) : Encounter at WALPOLE MEDICAL CENTER, PC : Encounter for Stroke
+2021-02-24 (Dr. Weldon Lockman) : Encounter at SEASONS HOSPICE & PALLIATIVE CARE OF MASS LLC
+2021-02-10 (Dr. Gabriel Reilly) : Encounter at Fitchburg Outpatient Clinic
+2020-06-03 (Dr. Ethyl Rau) : Encounter at WALPOLE MEDICAL CENTER, PC
+2020-04-17 (Dr. Trinidad King) : Encounter at STEWARD NORWOOD HOSPITAL INC : Encounter for Fracture of forearm
+2020-01-01 (Dr. Darlene Collier) : Encounter at SERENITY HILL NURSING CENTER
+2017-05-31 (Dr. Ethyl Rau) : Encounter at WALPOLE MEDICAL CENTER, PC
+2015-04-08 (Dr. Guillermo Fay) : Encounter at NORWOOD HOSPITAL
+2014-05-28 (Dr. Ethyl Rau) : Encounter at WALPOLE MEDICAL CENTER, PC
+2013-05-22 (Dr. Ethyl Rau) : Encounter at WALPOLE MEDICAL CENTER, PC
+2012-05-16 (Dr. Ethyl Rau) : Encounter at WALPOLE MEDICAL CENTER, PC
+2007-04-18 (Dr. Ethyl Rau) : Encounter at WALPOLE MEDICAL CENTER, PC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2020-01-01 : Digital Radiography, Arm
+--------------------------------------------------------------------------------

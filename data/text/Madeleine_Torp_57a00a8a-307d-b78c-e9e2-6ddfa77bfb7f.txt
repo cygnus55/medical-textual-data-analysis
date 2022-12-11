@@ -1,0 +1,103 @@
+Madeleine Torp
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 21
+Birth Date:          2001-10-16
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2022-09-09[CURRENT] : Etonogestrel 68 MG Drug Implant
+  2022-03-17[STOPPED] : Penicillin V Potassium 500 MG Oral Tablet for Streptococcal sore throat (disorder)
+  2021-09-14[STOPPED] : Seasonique 91 Day Pack
+  2020-09-19[STOPPED] : Trinessa 28 Day Pack
+  2015-10-16[STOPPED] : Etonogestrel 68 MG Drug Implant
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2022-03-17 - 2022-03-29 : Streptococcal sore throat (disorder)
+  2020-12-15 -            : Full-time employment (finding)
+  2019-12-10 - 2020-12-15 : Stress (finding)
+  2019-12-10 - 2020-12-15 : Limited social contact (finding)
+  2019-12-10 - 2020-12-15 : Full-time employment (finding)
+  2019-12-10 -            : Received certificate of high school equivalency (finding)
+  2018-12-04 -            : Risk activity involvement (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2020-12-15 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+  2020-12-15 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-03-17 : Body temperature                         39.0 Cel
+  2020-12-15 : Total score [DAST-10]                    1.0 {score}
+  2020-12-15 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2020-12-15 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 163951 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             905 Gleason Orchard 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 4.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2020-12-15 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-12-15 : Respiratory rate                         15.0 /min
+  2020-12-15 : Heart rate                               90.0 /min
+  2020-12-15 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  2020-12-15 : Body mass index (BMI) [Percentile] Per age and gender 67.9 %
+  2020-12-15 : Body Mass Index                          23.3 kg/m2
+  2020-12-15 : Body Weight                              64.6 kg
+  2020-12-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2020-12-15 : Body Height                              166.7 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-09-09 : Insertion of subcutaneous contraceptive
+  2022-03-17 : Throat culture (procedure) for Streptococcal sore throat (disorder)
+  2020-12-15 : Screening for drug abuse (procedure)
+  2020-12-15 : Assessment of substance use (procedure)
+  2020-12-15 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2020-12-15 : Depression screening (procedure)
+  2020-12-15 : Medication Reconciliation (procedure)
+  2020-12-15 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-06-29 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-06-08 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2020-12-15 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-09-09 (Dr. Haywood Strosin) : Encounter at ASSOCIATED PHYSICIANS OF HARVARD MEDICAL FACULTY PHYSICIANS AT BETH IS
+2022-03-17 (Dr. Cristi Leannon) : Encounter at CHILDREN'S HOSPITAL CORPORATION : Encounter for Streptococcal sore throat (disorder)
+2021-09-14 (Dr. Haywood Strosin) : Encounter at ASSOCIATED PHYSICIANS OF HARVARD MEDICAL FACULTY PHYSICIANS AT BETH IS
+2021-06-29 (Dr. Haywood Strosin) : Encounter at ASSOCIATED PHYSICIANS OF HARVARD MEDICAL FACULTY PHYSICIANS AT BETH IS
+2021-06-08 (Dr. Haywood Strosin) : Encounter at ASSOCIATED PHYSICIANS OF HARVARD MEDICAL FACULTY PHYSICIANS AT BETH IS
+2020-12-15 (Dr. Dierdre Leuschke) : Encounter at WESTON PRIMARY CARE, PC
+2020-09-19 (Dr. Haywood Strosin) : Encounter at ASSOCIATED PHYSICIANS OF HARVARD MEDICAL FACULTY PHYSICIANS AT BETH IS
+2019-12-10 (Dr. Dierdre Leuschke) : Encounter at WESTON PRIMARY CARE, PC
+2018-12-04 (Dr. Dierdre Leuschke) : Encounter at WESTON PRIMARY CARE, PC
+2015-10-16 (Dr. Haywood Strosin) : Encounter at ASSOCIATED PHYSICIANS OF HARVARD MEDICAL FACULTY PHYSICIANS AT BETH IS
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

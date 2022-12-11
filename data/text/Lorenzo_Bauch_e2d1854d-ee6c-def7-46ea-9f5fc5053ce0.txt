@@ -1,0 +1,92 @@
+Lorenzo Bauch
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 24
+Birth Date:          1998-08-21
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2022-11-29[CURRENT] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2022-10-02[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2022-07-27[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2022-04-07[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2022-03-01[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2021-12-24[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2021-09-06[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2021-03-26[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2021-01-13[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2019-07-20[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2018-06-27[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2017-12-08[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2016-10-22[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2015-07-14[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2014-09-13[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2013-10-22[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2013-05-15[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2013-01-05[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-10-20 -            : Stress (finding)
+  2017-10-20 -            : Social isolation (finding)
+  2016-10-14 -            : Unemployed (finding)
+  2016-10-14 -            : Only received primary school education (finding)
+  2013-03-11 -            : Impacted molars
+  2013-01-05 -            : Chronic intractable migraine without aura
+  2012-10-23 -            : Chronic pain
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2022-11-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2022-10-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+  2022-07-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2022-04-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2022-03-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2021-12-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.0 {score}
+  2021-09-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2021-03-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.0 {score}
+  2021-01-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-10-02 : Extraction of wisdom tooth
+  2022-07-27 : Extraction of wisdom tooth
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-07-23 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-07-02 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-11-29 (Dr. Lorette Hauck) : Encounter at WHITTIER REHABILTATION HOSPITAL : Encounter for Chronic intractable migraine without aura
+2022-10-02 (Dr. Lorette Hauck) : Encounter at WHITTIER REHABILTATION HOSPITAL : Encounter for Impacted molars
+2022-07-27 (Dr. Lorette Hauck) : Encounter at WHITTIER REHABILTATION HOSPITAL : Encounter for Impacted molars
+2022-04-07 (Dr. Lorette Hauck) : Encounter at WHITTIER REHABILTATION HOSPITAL : Encounter for Chronic intractable migraine without aura
+2022-03-01 (Dr. Lorette Hauck) : Encounter at WHITTIER REHABILTATION HOSPITAL : Encounter for Chronic intractable migraine without aura
+2021-12-24 (Dr. Lorette Hauck) : Encounter at WHITTIER REHABILTATION HOSPITAL : Encounter for Chronic intractable migraine without aura
+2021-09-06 (Dr. Lorette Hauck) : Encounter at WHITTIER REHABILTATION HOSPITAL : Encounter for Chronic intractable migraine without aura
+2021-07-23 (Dr. Lorette Hauck) : Encounter at WHITTIER REHABILTATION HOSPITAL
+2021-07-02 (Dr. Lorette Hauck) : Encounter at WHITTIER REHABILTATION HOSPITAL
+2021-03-26 (Dr. Lorette Hauck) : Encounter at WHITTIER REHABILTATION HOSPITAL : Encounter for Chronic pain
+2021-01-13 (Dr. Lorette Hauck) : Encounter at WHITTIER REHABILTATION HOSPITAL : Encounter for Chronic intractable migraine without aura
+2019-07-20 (Dr. Lorette Hauck) : Encounter at WHITTIER REHABILTATION HOSPITAL : Encounter for Chronic intractable migraine without aura
+2018-06-27 (Dr. Lorette Hauck) : Encounter at WHITTIER REHABILTATION HOSPITAL : Encounter for Chronic intractable migraine without aura
+2017-12-08 (Dr. Lorette Hauck) : Encounter at WHITTIER REHABILTATION HOSPITAL : Encounter for Chronic intractable migraine without aura
+2017-10-20 (Dr. Alan Keeling) : Encounter at PRIMARY CARE NORTH PC
+2016-10-22 (Dr. Lorette Hauck) : Encounter at WHITTIER REHABILTATION HOSPITAL : Encounter for Chronic intractable migraine without aura
+2016-10-14 (Dr. Alan Keeling) : Encounter at PRIMARY CARE NORTH PC
+2015-07-14 (Dr. Lorette Hauck) : Encounter at WHITTIER REHABILTATION HOSPITAL : Encounter for Chronic intractable migraine without aura
+2014-09-13 (Dr. Lorette Hauck) : Encounter at WHITTIER REHABILTATION HOSPITAL : Encounter for Chronic intractable migraine without aura
+2013-10-22 (Dr. Lorette Hauck) : Encounter at WHITTIER REHABILTATION HOSPITAL : Encounter for Chronic intractable migraine without aura
+2013-05-15 (Dr. Lorette Hauck) : Encounter at WHITTIER REHABILTATION HOSPITAL : Encounter for Chronic intractable migraine without aura
+2013-03-11 (Dr. Lorette Hauck) : Encounter at WHITTIER REHABILTATION HOSPITAL : Encounter for Impacted molars
+2013-01-05 (Dr. Lorette Hauck) : Encounter at WHITTIER REHABILTATION HOSPITAL : Encounter for Chronic intractable migraine without aura
+2012-10-23 (Dr. Lorette Hauck) : Encounter at WHITTIER REHABILTATION HOSPITAL : Encounter for Chronic pain
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------
