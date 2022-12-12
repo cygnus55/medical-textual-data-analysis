@@ -23,4 +23,4 @@ Run the following command in order to install the dependencies:
 pip install -r requirements.txt
 ```
 
-After the dependencies are installed in the system, ...
+After the dependencies are installed in the system, run `app.py` script. After successfully sunning the script, goto `http://127.0.0.1:8050` to access medical data visualization.
