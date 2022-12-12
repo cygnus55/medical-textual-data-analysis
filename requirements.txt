@@ -1,5 +1,6 @@
 pymongo==4.3.3
 python-dotenv==0.21.0
+pandas==1.5.2
 matplotlib==3.6.2
 plotly==5.11.0
 dash==2.7.0
