@@ -4,7 +4,7 @@ The project extracts important information from the medical data and covers visu
 
 # Team Members
 
-The following are the list of our team members, all of us belonging to Computer Engineering (4th year).
+The following is the list of our team members, all of us belonging to Computer Engineering (4th year).
 
 - Shrawak Bhattarai (11)
 - Ramraj Chimouriya (14)
